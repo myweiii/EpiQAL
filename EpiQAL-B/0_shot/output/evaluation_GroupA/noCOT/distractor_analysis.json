@@ -1,0 +1,427 @@
+{
+    "distractor_distribution": {
+        "Causal/logical error": 982,
+        "Variable confusion": 689,
+        "Assumption violation": 138,
+        "Methodological mismatch": 57,
+        "unknown": 1
+    },
+    "overall_deception_rate": {
+        "Assumption violation": {
+            "misselected": 307,
+            "exposed": 1932,
+            "rate": 0.15890269151138717
+        },
+        "Causal/logical error": {
+            "misselected": 2433,
+            "exposed": 13748,
+            "rate": 0.1769711958102997
+        },
+        "Methodological mismatch": {
+            "misselected": 136,
+            "exposed": 798,
+            "rate": 0.17042606516290726
+        },
+        "Variable confusion": {
+            "misselected": 1853,
+            "exposed": 9646,
+            "rate": 0.19210035247771096
+        }
+    },
+    "per_model_deception_rate": {
+        "GLM-4.5-Air": {
+            "Assumption violation": {
+                "misselected": 12,
+                "total_in_category": 138,
+                "rate": 0.08695652173913043
+            },
+            "Causal/logical error": {
+                "misselected": 111,
+                "total_in_category": 982,
+                "rate": 0.11303462321792261
+            },
+            "Methodological mismatch": {
+                "misselected": 4,
+                "total_in_category": 57,
+                "rate": 0.07017543859649122
+            },
+            "Variable confusion": {
+                "misselected": 101,
+                "total_in_category": 689,
+                "rate": 0.14658925979680695
+            },
+            "overall": {
+                "misselected": 228,
+                "total_distractors": 1866,
+                "rate": 0.12218649517684887
+            }
+        },
+        "Llama-3.1-8B-Instruct": {
+            "Assumption violation": {
+                "misselected": 35,
+                "total_in_category": 138,
+                "rate": 0.2536231884057971
+            },
+            "Causal/logical error": {
+                "misselected": 329,
+                "total_in_category": 982,
+                "rate": 0.335030549898167
+            },
+            "Methodological mismatch": {
+                "misselected": 18,
+                "total_in_category": 57,
+                "rate": 0.3157894736842105
+            },
+            "Variable confusion": {
+                "misselected": 215,
+                "total_in_category": 689,
+                "rate": 0.31204644412191584
+            },
+            "overall": {
+                "misselected": 598,
+                "total_distractors": 1866,
+                "rate": 0.3204715969989282
+            }
+        },
+        "Llama-3.2-3B-Instruct": {
+            "Assumption violation": {
+                "misselected": 42,
+                "total_in_category": 138,
+                "rate": 0.30434782608695654
+            },
+            "Causal/logical error": {
+                "misselected": 313,
+                "total_in_category": 982,
+                "rate": 0.31873727087576376
+            },
+            "Methodological mismatch": {
+                "misselected": 17,
+                "total_in_category": 57,
+                "rate": 0.2982456140350877
+            },
+            "Variable confusion": {
+                "misselected": 206,
+                "total_in_category": 689,
+                "rate": 0.29898403483309144
+            },
+            "overall": {
+                "misselected": 578,
+                "total_distractors": 1866,
+                "rate": 0.3097534833869239
+            }
+        },
+        "Llama-3.3-70B-Instruct": {
+            "Assumption violation": {
+                "misselected": 18,
+                "total_in_category": 138,
+                "rate": 0.13043478260869565
+            },
+            "Causal/logical error": {
+                "misselected": 131,
+                "total_in_category": 982,
+                "rate": 0.1334012219959267
+            },
+            "Methodological mismatch": {
+                "misselected": 7,
+                "total_in_category": 57,
+                "rate": 0.12280701754385964
+            },
+            "Variable confusion": {
+                "misselected": 107,
+                "total_in_category": 689,
+                "rate": 0.15529753265602322
+            },
+            "overall": {
+                "misselected": 265,
+                "total_distractors": 1866,
+                "rate": 0.1420150053590568
+            }
+        },
+        "Mistral-7B-Instruct-v0.3": {
+            "Assumption violation": {
+                "misselected": 5,
+                "total_in_category": 138,
+                "rate": 0.036231884057971016
+            },
+            "Causal/logical error": {
+                "misselected": 63,
+                "total_in_category": 982,
+                "rate": 0.06415478615071284
+            },
+            "Methodological mismatch": {
+                "misselected": 3,
+                "total_in_category": 57,
+                "rate": 0.05263157894736842
+            },
+            "Variable confusion": {
+                "misselected": 39,
+                "total_in_category": 689,
+                "rate": 0.05660377358490566
+            },
+            "overall": {
+                "misselected": 110,
+                "total_distractors": 1866,
+                "rate": 0.05894962486602358
+            }
+        },
+        "Mistral-Large-Instruct-2411": {
+            "Assumption violation": {
+                "misselected": 17,
+                "total_in_category": 138,
+                "rate": 0.12318840579710146
+            },
+            "Causal/logical error": {
+                "misselected": 109,
+                "total_in_category": 982,
+                "rate": 0.1109979633401222
+            },
+            "Methodological mismatch": {
+                "misselected": 5,
+                "total_in_category": 57,
+                "rate": 0.08771929824561403
+            },
+            "Variable confusion": {
+                "misselected": 93,
+                "total_in_category": 689,
+                "rate": 0.13497822931785197
+            },
+            "overall": {
+                "misselected": 224,
+                "total_distractors": 1866,
+                "rate": 0.12004287245444802
+            }
+        },
+        "Phi-4-mini-instruct": {
+            "Assumption violation": {
+                "misselected": 26,
+                "total_in_category": 138,
+                "rate": 0.18840579710144928
+            },
+            "Causal/logical error": {
+                "misselected": 252,
+                "total_in_category": 982,
+                "rate": 0.25661914460285135
+            },
+            "Methodological mismatch": {
+                "misselected": 19,
+                "total_in_category": 57,
+                "rate": 0.3333333333333333
+            },
+            "Variable confusion": {
+                "misselected": 208,
+                "total_in_category": 689,
+                "rate": 0.3018867924528302
+            },
+            "overall": {
+                "misselected": 505,
+                "total_distractors": 1866,
+                "rate": 0.27063236870310825
+            }
+        },
+        "Qwen3-30B-A3B-Instruct-2507": {
+            "Assumption violation": {
+                "misselected": 23,
+                "total_in_category": 138,
+                "rate": 0.16666666666666666
+            },
+            "Causal/logical error": {
+                "misselected": 153,
+                "total_in_category": 982,
+                "rate": 0.15580448065173116
+            },
+            "Methodological mismatch": {
+                "misselected": 9,
+                "total_in_category": 57,
+                "rate": 0.15789473684210525
+            },
+            "Variable confusion": {
+                "misselected": 137,
+                "total_in_category": 689,
+                "rate": 0.1988388969521045
+            },
+            "overall": {
+                "misselected": 322,
+                "total_distractors": 1866,
+                "rate": 0.17256162915326903
+            }
+        },
+        "Qwen3-32B": {
+            "Assumption violation": {
+                "misselected": 17,
+                "total_in_category": 138,
+                "rate": 0.12318840579710146
+            },
+            "Causal/logical error": {
+                "misselected": 92,
+                "total_in_category": 982,
+                "rate": 0.09368635437881874
+            },
+            "Methodological mismatch": {
+                "misselected": 5,
+                "total_in_category": 57,
+                "rate": 0.08771929824561403
+            },
+            "Variable confusion": {
+                "misselected": 77,
+                "total_in_category": 689,
+                "rate": 0.11175616835994194
+            },
+            "overall": {
+                "misselected": 191,
+                "total_distractors": 1866,
+                "rate": 0.10235798499464094
+            }
+        },
+        "Qwen3-8B": {
+            "Assumption violation": {
+                "misselected": 26,
+                "total_in_category": 138,
+                "rate": 0.18840579710144928
+            },
+            "Causal/logical error": {
+                "misselected": 219,
+                "total_in_category": 982,
+                "rate": 0.2230142566191446
+            },
+            "Methodological mismatch": {
+                "misselected": 12,
+                "total_in_category": 57,
+                "rate": 0.21052631578947367
+            },
+            "Variable confusion": {
+                "misselected": 160,
+                "total_in_category": 689,
+                "rate": 0.23222060957910015
+            },
+            "overall": {
+                "misselected": 417,
+                "total_distractors": 1866,
+                "rate": 0.22347266881028938
+            }
+        },
+        "deepseek-reasoner": {
+            "Assumption violation": {
+                "misselected": 7,
+                "total_in_category": 138,
+                "rate": 0.050724637681159424
+            },
+            "Causal/logical error": {
+                "misselected": 55,
+                "total_in_category": 982,
+                "rate": 0.0560081466395112
+            },
+            "Methodological mismatch": {
+                "misselected": 2,
+                "total_in_category": 57,
+                "rate": 0.03508771929824561
+            },
+            "Variable confusion": {
+                "misselected": 49,
+                "total_in_category": 689,
+                "rate": 0.07111756168359942
+            },
+            "overall": {
+                "misselected": 113,
+                "total_distractors": 1866,
+                "rate": 0.060557341907824226
+            }
+        },
+        "gpt-4.1-nano": {
+            "Assumption violation": {
+                "misselected": 17,
+                "total_in_category": 138,
+                "rate": 0.12318840579710146
+            },
+            "Causal/logical error": {
+                "misselected": 100,
+                "total_in_category": 982,
+                "rate": 0.10183299389002037
+            },
+            "Methodological mismatch": {
+                "misselected": 6,
+                "total_in_category": 57,
+                "rate": 0.10526315789473684
+            },
+            "Variable confusion": {
+                "misselected": 77,
+                "total_in_category": 689,
+                "rate": 0.11175616835994194
+            },
+            "overall": {
+                "misselected": 200,
+                "total_distractors": 1866,
+                "rate": 0.10718113612004287
+            }
+        },
+        "gpt-4o-mini": {
+            "Assumption violation": {
+                "misselected": 37,
+                "total_in_category": 138,
+                "rate": 0.26811594202898553
+            },
+            "Causal/logical error": {
+                "misselected": 337,
+                "total_in_category": 982,
+                "rate": 0.34317718940936864
+            },
+            "Methodological mismatch": {
+                "misselected": 19,
+                "total_in_category": 57,
+                "rate": 0.3333333333333333
+            },
+            "Variable confusion": {
+                "misselected": 243,
+                "total_in_category": 689,
+                "rate": 0.35268505079825835
+            },
+            "overall": {
+                "misselected": 642,
+                "total_distractors": 1866,
+                "rate": 0.3440514469453376
+            }
+        },
+        "gpt-5-mini": {
+            "Assumption violation": {
+                "misselected": 25,
+                "total_in_category": 138,
+                "rate": 0.18115942028985507
+            },
+            "Causal/logical error": {
+                "misselected": 169,
+                "total_in_category": 982,
+                "rate": 0.17209775967413443
+            },
+            "Methodological mismatch": {
+                "misselected": 10,
+                "total_in_category": 57,
+                "rate": 0.17543859649122806
+            },
+            "Variable confusion": {
+                "misselected": 141,
+                "total_in_category": 689,
+                "rate": 0.204644412191582
+            },
+            "overall": {
+                "misselected": 345,
+                "total_distractors": 1866,
+                "rate": 0.18488745980707397
+            }
+        }
+    },
+    "per_model_total_errors": {
+        "gpt-4o-mini": 642,
+        "Llama-3.1-8B-Instruct": 598,
+        "Llama-3.2-3B-Instruct": 578,
+        "Phi-4-mini-instruct": 505,
+        "Qwen3-8B": 417,
+        "gpt-5-mini": 345,
+        "Qwen3-30B-A3B-Instruct-2507": 322,
+        "Llama-3.3-70B-Instruct": 265,
+        "GLM-4.5-Air": 228,
+        "Mistral-Large-Instruct-2411": 224,
+        "gpt-4.1-nano": 200,
+        "Qwen3-32B": 191,
+        "deepseek-reasoner": 113,
+        "Mistral-7B-Instruct-v0.3": 110
+    }
+}

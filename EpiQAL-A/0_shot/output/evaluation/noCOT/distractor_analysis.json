@@ -1,0 +1,91 @@
+{
+    "distractor_distribution": {
+        "Wrong entity/role": 403,
+        "Semantic near-miss": 242,
+        "Wrong context": 203,
+        "Wrong metric": 112,
+        "unknown": 2
+    },
+    "overall_deception_rate": {
+        "Semantic near-miss": {
+            "misselected": 80,
+            "exposed": 484,
+            "rate": 0.1652892561983471
+        },
+        "Wrong context": {
+            "misselected": 31,
+            "exposed": 406,
+            "rate": 0.07635467980295567
+        },
+        "Wrong entity/role": {
+            "misselected": 62,
+            "exposed": 806,
+            "rate": 0.07692307692307693
+        },
+        "Wrong metric": {
+            "misselected": 23,
+            "exposed": 224,
+            "rate": 0.10267857142857142
+        }
+    },
+    "per_model_deception_rate": {
+        "gpt-4.1-nano": {
+            "Semantic near-miss": {
+                "misselected": 28,
+                "total_in_category": 242,
+                "rate": 0.11570247933884298
+            },
+            "Wrong context": {
+                "misselected": 10,
+                "total_in_category": 203,
+                "rate": 0.04926108374384237
+            },
+            "Wrong entity/role": {
+                "misselected": 24,
+                "total_in_category": 403,
+                "rate": 0.05955334987593052
+            },
+            "Wrong metric": {
+                "misselected": 8,
+                "total_in_category": 112,
+                "rate": 0.07142857142857142
+            },
+            "overall": {
+                "misselected": 75,
+                "total_distractors": 960,
+                "rate": 0.078125
+            }
+        },
+        "gpt-4o-mini": {
+            "Semantic near-miss": {
+                "misselected": 52,
+                "total_in_category": 242,
+                "rate": 0.21487603305785125
+            },
+            "Wrong context": {
+                "misselected": 21,
+                "total_in_category": 203,
+                "rate": 0.10344827586206896
+            },
+            "Wrong entity/role": {
+                "misselected": 38,
+                "total_in_category": 403,
+                "rate": 0.09429280397022333
+            },
+            "Wrong metric": {
+                "misselected": 15,
+                "total_in_category": 112,
+                "rate": 0.13392857142857142
+            },
+            "overall": {
+                "misselected": 128,
+                "total_distractors": 960,
+                "rate": 0.13333333333333333
+            }
+        }
+    },
+    "per_model_total_errors": {
+        "gpt-4o-mini": 128,
+        "gpt-4.1-nano": 75
+    }
+}

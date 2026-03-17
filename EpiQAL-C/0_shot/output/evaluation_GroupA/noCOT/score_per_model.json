@@ -1,0 +1,48 @@
+{
+    "Score": {
+        "f1": 0.7329784272790535,
+        "exact_match": 0.49728601252609606
+    },
+    "Model": {
+        "Qwen/Qwen3-8B": {
+            "f1": 0.7524704244954767,
+            "exact_match": 0.48434237995824636
+        },
+        "Qwen/Qwen3-30B-A3B-Instruct-2507": {
+            "f1": 0.8073068893528184,
+            "exact_match": 0.5845511482254697
+        },
+        "Qwen/Qwen3-32B": {
+            "f1": 0.783437717466945,
+            "exact_match": 0.5469728601252609
+        },
+        "meta-llama/Llama-3.1-8B-Instruct": {
+            "f1": 0.5921363952679193,
+            "exact_match": 0.18997912317327767
+        },
+        "meta-llama/Llama-3.2-3B-Instruct": {
+            "f1": 0.37529575504523316,
+            "exact_match": 0.08768267223382047
+        },
+        "meta-llama/Llama-3.3-70B-Instruct": {
+            "f1": 0.8053583855254001,
+            "exact_match": 0.5803757828810021
+        },
+        "microsoft/Phi-4-mini-instruct": {
+            "f1": 0.7547668754349338,
+            "exact_match": 0.42588726513569936
+        },
+        "mistralai/Mistral-7B-Instruct-v0.3": {
+            "f1": 0.821642310368824,
+            "exact_match": 0.8079331941544885
+        },
+        "mistralai/Mistral-Large-Instruct-2411": {
+            "f1": 0.855741127348643,
+            "exact_match": 0.6847599164926931
+        },
+        "zai-org/GLM-4.5-Air": {
+            "f1": 0.7816283924843423,
+            "exact_match": 0.5803757828810021
+        }
+    }
+}

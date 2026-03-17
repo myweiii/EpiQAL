@@ -1,0 +1,427 @@
+{
+    "distractor_distribution": {
+        "Speculation/limitation": 1109,
+        "External dependency": 379,
+        "Causal reversal": 291,
+        "Background only": 8,
+        "unknown": 1
+    },
+    "overall_deception_rate": {
+        "Background only": {
+            "misselected": 41,
+            "exposed": 112,
+            "rate": 0.36607142857142855
+        },
+        "Causal reversal": {
+            "misselected": 516,
+            "exposed": 4074,
+            "rate": 0.12665684830633284
+        },
+        "External dependency": {
+            "misselected": 727,
+            "exposed": 5306,
+            "rate": 0.1370147003392386
+        },
+        "Speculation/limitation": {
+            "misselected": 3261,
+            "exposed": 15526,
+            "rate": 0.21003478036841428
+        }
+    },
+    "per_model_deception_rate": {
+        "GLM-4.5-Air": {
+            "Background only": {
+                "misselected": 3,
+                "total_in_category": 8,
+                "rate": 0.375
+            },
+            "Causal reversal": {
+                "misselected": 19,
+                "total_in_category": 291,
+                "rate": 0.06529209621993128
+            },
+            "External dependency": {
+                "misselected": 27,
+                "total_in_category": 379,
+                "rate": 0.0712401055408971
+            },
+            "Speculation/limitation": {
+                "misselected": 175,
+                "total_in_category": 1109,
+                "rate": 0.15779981965734896
+            },
+            "overall": {
+                "misselected": 224,
+                "total_distractors": 1787,
+                "rate": 0.12534974818130945
+            }
+        },
+        "Llama-3.1-8B-Instruct": {
+            "Background only": {
+                "misselected": 3,
+                "total_in_category": 8,
+                "rate": 0.375
+            },
+            "Causal reversal": {
+                "misselected": 108,
+                "total_in_category": 291,
+                "rate": 0.3711340206185567
+            },
+            "External dependency": {
+                "misselected": 137,
+                "total_in_category": 379,
+                "rate": 0.36147757255936674
+            },
+            "Speculation/limitation": {
+                "misselected": 481,
+                "total_in_category": 1109,
+                "rate": 0.4337240757439134
+            },
+            "overall": {
+                "misselected": 730,
+                "total_distractors": 1787,
+                "rate": 0.408505875769446
+            }
+        },
+        "Llama-3.2-3B-Instruct": {
+            "Background only": {
+                "misselected": 5,
+                "total_in_category": 8,
+                "rate": 0.625
+            },
+            "Causal reversal": {
+                "misselected": 84,
+                "total_in_category": 291,
+                "rate": 0.28865979381443296
+            },
+            "External dependency": {
+                "misselected": 91,
+                "total_in_category": 379,
+                "rate": 0.24010554089709762
+            },
+            "Speculation/limitation": {
+                "misselected": 335,
+                "total_in_category": 1109,
+                "rate": 0.30207394048692515
+            },
+            "overall": {
+                "misselected": 516,
+                "total_distractors": 1787,
+                "rate": 0.28875209848908784
+            }
+        },
+        "Llama-3.3-70B-Instruct": {
+            "Background only": {
+                "misselected": 3,
+                "total_in_category": 8,
+                "rate": 0.375
+            },
+            "Causal reversal": {
+                "misselected": 21,
+                "total_in_category": 291,
+                "rate": 0.07216494845360824
+            },
+            "External dependency": {
+                "misselected": 41,
+                "total_in_category": 379,
+                "rate": 0.10817941952506596
+            },
+            "Speculation/limitation": {
+                "misselected": 221,
+                "total_in_category": 1109,
+                "rate": 0.1992786293958521
+            },
+            "overall": {
+                "misselected": 287,
+                "total_distractors": 1787,
+                "rate": 0.16060436485730273
+            }
+        },
+        "Mistral-7B-Instruct-v0.3": {
+            "Background only": {
+                "misselected": 1,
+                "total_in_category": 8,
+                "rate": 0.125
+            },
+            "Causal reversal": {
+                "misselected": 15,
+                "total_in_category": 291,
+                "rate": 0.05154639175257732
+            },
+            "External dependency": {
+                "misselected": 21,
+                "total_in_category": 379,
+                "rate": 0.055408970976253295
+            },
+            "Speculation/limitation": {
+                "misselected": 60,
+                "total_in_category": 1109,
+                "rate": 0.05410279531109107
+            },
+            "overall": {
+                "misselected": 98,
+                "total_distractors": 1787,
+                "rate": 0.05484051482932289
+            }
+        },
+        "Mistral-Large-Instruct-2411": {
+            "Background only": {
+                "misselected": 3,
+                "total_in_category": 8,
+                "rate": 0.375
+            },
+            "Causal reversal": {
+                "misselected": 13,
+                "total_in_category": 291,
+                "rate": 0.044673539518900345
+            },
+            "External dependency": {
+                "misselected": 14,
+                "total_in_category": 379,
+                "rate": 0.036939313984168866
+            },
+            "Speculation/limitation": {
+                "misselected": 136,
+                "total_in_category": 1109,
+                "rate": 0.12263300270513977
+            },
+            "overall": {
+                "misselected": 166,
+                "total_distractors": 1787,
+                "rate": 0.09289311695579183
+            }
+        },
+        "Phi-4-mini-instruct": {
+            "Background only": {
+                "misselected": 3,
+                "total_in_category": 8,
+                "rate": 0.375
+            },
+            "Causal reversal": {
+                "misselected": 45,
+                "total_in_category": 291,
+                "rate": 0.15463917525773196
+            },
+            "External dependency": {
+                "misselected": 57,
+                "total_in_category": 379,
+                "rate": 0.1503957783641161
+            },
+            "Speculation/limitation": {
+                "misselected": 227,
+                "total_in_category": 1109,
+                "rate": 0.20468890892696123
+            },
+            "overall": {
+                "misselected": 332,
+                "total_distractors": 1787,
+                "rate": 0.18578623391158366
+            }
+        },
+        "Qwen3-30B-A3B-Instruct-2507": {
+            "Background only": {
+                "misselected": 3,
+                "total_in_category": 8,
+                "rate": 0.375
+            },
+            "Causal reversal": {
+                "misselected": 13,
+                "total_in_category": 291,
+                "rate": 0.044673539518900345
+            },
+            "External dependency": {
+                "misselected": 41,
+                "total_in_category": 379,
+                "rate": 0.10817941952506596
+            },
+            "Speculation/limitation": {
+                "misselected": 218,
+                "total_in_category": 1109,
+                "rate": 0.19657348963029755
+            },
+            "overall": {
+                "misselected": 275,
+                "total_distractors": 1787,
+                "rate": 0.15388919977616117
+            }
+        },
+        "Qwen3-32B": {
+            "Background only": {
+                "misselected": 3,
+                "total_in_category": 8,
+                "rate": 0.375
+            },
+            "Causal reversal": {
+                "misselected": 22,
+                "total_in_category": 291,
+                "rate": 0.07560137457044673
+            },
+            "External dependency": {
+                "misselected": 54,
+                "total_in_category": 379,
+                "rate": 0.1424802110817942
+            },
+            "Speculation/limitation": {
+                "misselected": 255,
+                "total_in_category": 1109,
+                "rate": 0.22993688007213706
+            },
+            "overall": {
+                "misselected": 334,
+                "total_distractors": 1787,
+                "rate": 0.18690542809177393
+            }
+        },
+        "Qwen3-8B": {
+            "Background only": {
+                "misselected": 2,
+                "total_in_category": 8,
+                "rate": 0.25
+            },
+            "Causal reversal": {
+                "misselected": 73,
+                "total_in_category": 291,
+                "rate": 0.2508591065292096
+            },
+            "External dependency": {
+                "misselected": 62,
+                "total_in_category": 379,
+                "rate": 0.16358839050131926
+            },
+            "Speculation/limitation": {
+                "misselected": 324,
+                "total_in_category": 1109,
+                "rate": 0.2921550946798918
+            },
+            "overall": {
+                "misselected": 462,
+                "total_distractors": 1787,
+                "rate": 0.25853385562395076
+            }
+        },
+        "deepseek-reasoner": {
+            "Background only": {
+                "misselected": 1,
+                "total_in_category": 8,
+                "rate": 0.125
+            },
+            "Causal reversal": {
+                "misselected": 2,
+                "total_in_category": 291,
+                "rate": 0.006872852233676976
+            },
+            "External dependency": {
+                "misselected": 14,
+                "total_in_category": 379,
+                "rate": 0.036939313984168866
+            },
+            "Speculation/limitation": {
+                "misselected": 85,
+                "total_in_category": 1109,
+                "rate": 0.07664562669071236
+            },
+            "overall": {
+                "misselected": 102,
+                "total_distractors": 1787,
+                "rate": 0.05707890318970341
+            }
+        },
+        "gpt-4.1-nano": {
+            "Background only": {
+                "misselected": 2,
+                "total_in_category": 8,
+                "rate": 0.25
+            },
+            "Causal reversal": {
+                "misselected": 25,
+                "total_in_category": 291,
+                "rate": 0.0859106529209622
+            },
+            "External dependency": {
+                "misselected": 48,
+                "total_in_category": 379,
+                "rate": 0.1266490765171504
+            },
+            "Speculation/limitation": {
+                "misselected": 173,
+                "total_in_category": 1109,
+                "rate": 0.15599639314697927
+            },
+            "overall": {
+                "misselected": 250,
+                "total_distractors": 1787,
+                "rate": 0.13989927252378287
+            }
+        },
+        "gpt-4o-mini": {
+            "Background only": {
+                "misselected": 4,
+                "total_in_category": 8,
+                "rate": 0.5
+            },
+            "Causal reversal": {
+                "misselected": 68,
+                "total_in_category": 291,
+                "rate": 0.23367697594501718
+            },
+            "External dependency": {
+                "misselected": 93,
+                "total_in_category": 379,
+                "rate": 0.24538258575197888
+            },
+            "Speculation/limitation": {
+                "misselected": 403,
+                "total_in_category": 1109,
+                "rate": 0.36339044183949504
+            },
+            "overall": {
+                "misselected": 571,
+                "total_distractors": 1787,
+                "rate": 0.3195299384443201
+            }
+        },
+        "gpt-5-mini": {
+            "Background only": {
+                "misselected": 5,
+                "total_in_category": 8,
+                "rate": 0.625
+            },
+            "Causal reversal": {
+                "misselected": 8,
+                "total_in_category": 291,
+                "rate": 0.027491408934707903
+            },
+            "External dependency": {
+                "misselected": 27,
+                "total_in_category": 379,
+                "rate": 0.0712401055408971
+            },
+            "Speculation/limitation": {
+                "misselected": 168,
+                "total_in_category": 1109,
+                "rate": 0.151487826871055
+            },
+            "overall": {
+                "misselected": 208,
+                "total_distractors": 1787,
+                "rate": 0.11639619473978735
+            }
+        }
+    },
+    "per_model_total_errors": {
+        "Llama-3.1-8B-Instruct": 730,
+        "gpt-4o-mini": 571,
+        "Llama-3.2-3B-Instruct": 516,
+        "Qwen3-8B": 462,
+        "Qwen3-32B": 334,
+        "Phi-4-mini-instruct": 332,
+        "Llama-3.3-70B-Instruct": 287,
+        "Qwen3-30B-A3B-Instruct-2507": 275,
+        "gpt-4.1-nano": 250,
+        "GLM-4.5-Air": 224,
+        "gpt-5-mini": 208,
+        "Mistral-Large-Instruct-2411": 166,
+        "deepseek-reasoner": 102,
+        "Mistral-7B-Instruct-v0.3": 98
+    }
+}

@@ -1,0 +1,4100 @@
+{
+    "0": {
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "1": {
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ]
+    },
+    "2": {
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ]
+    },
+    "3": {
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ]
+    },
+    "4": {
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ]
+    },
+    "5": {
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ]
+    },
+    "6": {
+        "gpt-5-mini": [
+            "1",
+            "2",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ]
+    },
+    "7": {
+        "gpt-5-mini": [
+            "0",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ]
+    },
+    "8": {
+        "gpt-5-mini": [
+            "0",
+            "2",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ]
+    },
+    "9": {
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ]
+    },
+    "10": {
+        "gpt-5-mini": [
+            "0",
+            "1",
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ]
+    },
+    "11": {
+        "gpt-5-mini": [
+            "2",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ]
+    },
+    "12": {
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ]
+    },
+    "13": {
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "14": {
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "15": {
+        "gpt-5-mini": [
+            "2",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ]
+    },
+    "16": {
+        "gpt-5-mini": [],
+        "deepseek-reasoner": [
+            "0"
+        ]
+    },
+    "17": {
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ]
+    },
+    "18": {
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ]
+    },
+    "19": {
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "20": {
+        "gpt-5-mini": [
+            "3",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ]
+    },
+    "21": {
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": []
+    },
+    "22": {
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ]
+    },
+    "23": {
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ]
+    },
+    "24": {
+        "gpt-5-mini": [
+            "2",
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "25": {
+        "gpt-5-mini": [
+            "2",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ]
+    },
+    "26": {
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ]
+    },
+    "27": {
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "28": {
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "29": {
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ]
+    },
+    "30": {
+        "gpt-5-mini": [
+            "2",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ]
+    },
+    "31": {
+        "gpt-5-mini": [
+            "2",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ]
+    },
+    "32": {
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ]
+    },
+    "33": {
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ]
+    },
+    "34": {
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ]
+    },
+    "35": {
+        "gpt-5-mini": [
+            "0",
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ]
+    },
+    "36": {
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ]
+    },
+    "37": {
+        "gpt-5-mini": [
+            "3",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "38": {
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ]
+    },
+    "39": {
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ]
+    },
+    "40": {
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ]
+    },
+    "41": {
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ]
+    },
+    "42": {
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ]
+    },
+    "43": {
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ]
+    },
+    "44": {
+        "gpt-5-mini": [
+            "0",
+            "1",
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "0",
+            "2"
+        ]
+    },
+    "45": {
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "46": {
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ]
+    },
+    "47": {
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            2
+        ]
+    },
+    "48": {
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ]
+    },
+    "49": {
+        "gpt-5-mini": [
+            "0",
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "0",
+            "2"
+        ]
+    },
+    "50": {
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ]
+    },
+    "51": {
+        "gpt-5-mini": [
+            "0",
+            "2",
+            "3",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "52": {
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ]
+    },
+    "53": {
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "54": {
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ]
+    },
+    "55": {
+        "gpt-5-mini": [
+            "1",
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ]
+    },
+    "56": {
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "57": {
+        "gpt-5-mini": [
+            "0",
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ]
+    },
+    "58": {
+        "gpt-5-mini": [
+            "1",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ]
+    },
+    "59": {
+        "gpt-5-mini": [
+            "1",
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ]
+    },
+    "60": {
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "61": {
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ]
+    },
+    "62": {
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "63": {
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ]
+    },
+    "64": {
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ]
+    },
+    "65": {
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ]
+    },
+    "66": {
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ]
+    },
+    "67": {
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ]
+    },
+    "68": {
+        "gpt-5-mini": [
+            "0",
+            "1",
+            "2",
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ]
+    },
+    "69": {
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ]
+    },
+    "70": {
+        "gpt-5-mini": [
+            "1",
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ]
+    },
+    "72": {
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "73": {
+        "gpt-5-mini": [
+            "2",
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "2",
+            "3"
+        ]
+    },
+    "74": {
+        "gpt-5-mini": [
+            "0",
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "75": {
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ]
+    },
+    "76": {
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ]
+    },
+    "77": {
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ]
+    },
+    "78": {
+        "gpt-5-mini": [
+            "0",
+            "2",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ]
+    },
+    "79": {
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "80": {
+        "gpt-5-mini": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "0",
+            "3"
+        ]
+    },
+    "81": {
+        "gpt-5-mini": [
+            "0",
+            "1",
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "0",
+            "2"
+        ]
+    },
+    "82": {
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ]
+    },
+    "83": {
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ]
+    },
+    "84": {
+        "gpt-5-mini": [
+            "1",
+            "3",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ]
+    },
+    "85": {
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ]
+    },
+    "86": {
+        "gpt-5-mini": [
+            "0",
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "0",
+            "1"
+        ]
+    },
+    "87": {
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "88": {
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ]
+    },
+    "89": {
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ]
+    },
+    "90": {
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ]
+    },
+    "91": {
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ]
+    },
+    "92": {
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "93": {
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ]
+    },
+    "94": {
+        "gpt-5-mini": [
+            "3",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ]
+    },
+    "95": {
+        "gpt-5-mini": [
+            "0",
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ]
+    },
+    "96": {
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ]
+    },
+    "97": {
+        "gpt-5-mini": [
+            "0",
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ]
+    },
+    "98": {
+        "gpt-5-mini": [
+            "1",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "1",
+            "4"
+        ]
+    },
+    "99": {
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "100": {
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "101": {
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ]
+    },
+    "102": {
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ]
+    },
+    "103": {
+        "gpt-5-mini": [
+            "0",
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ]
+    },
+    "104": {
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ]
+    },
+    "105": {
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "106": {
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ]
+    },
+    "107": {
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ]
+    },
+    "108": {
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ]
+    },
+    "109": {
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ]
+    },
+    "110": {
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ]
+    },
+    "111": {
+        "gpt-5-mini": [
+            "2",
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "112": {
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ]
+    },
+    "113": {
+        "gpt-5-mini": [
+            "2",
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ]
+    },
+    "115": {
+        "gpt-5-mini": [
+            "0",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ]
+    },
+    "116": {
+        "gpt-5-mini": [
+            "1",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ]
+    },
+    "117": {
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "118": {
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ]
+    },
+    "120": {
+        "gpt-5-mini": [
+            "2",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ]
+    },
+    "121": {
+        "gpt-5-mini": [
+            "0",
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ]
+    },
+    "122": {
+        "gpt-5-mini": [
+            "0",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ]
+    },
+    "123": {
+        "gpt-5-mini": [
+            "2",
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "124": {
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "125": {
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ]
+    },
+    "126": {
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "127": {
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ]
+    },
+    "128": {
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "129": {
+        "gpt-5-mini": [
+            "1",
+            "2",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ]
+    },
+    "130": {
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ]
+    },
+    "131": {
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ]
+    },
+    "132": {
+        "gpt-5-mini": [
+            "1",
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ]
+    },
+    "134": {
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": []
+    },
+    "135": {
+        "gpt-5-mini": [
+            "0",
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ]
+    },
+    "136": {
+        "gpt-5-mini": [
+            "1",
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ]
+    },
+    "137": {
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ]
+    },
+    "138": {
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ]
+    },
+    "139": {
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ]
+    },
+    "140": {
+        "gpt-5-mini": [
+            "2",
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "141": {
+        "gpt-5-mini": [
+            "0",
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ]
+    },
+    "142": {
+        "gpt-5-mini": [
+            "0",
+            "1",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ]
+    },
+    "143": {
+        "gpt-5-mini": [
+            "0",
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ]
+    },
+    "144": {
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ]
+    },
+    "145": {
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ]
+    },
+    "147": {
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ]
+    },
+    "148": {
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ]
+    },
+    "149": {
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ]
+    },
+    "150": {
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ]
+    },
+    "151": {
+        "gpt-5-mini": [
+            "0",
+            "1",
+            "2",
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "2",
+            "3"
+        ]
+    },
+    "152": {
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ]
+    },
+    "153": {
+        "gpt-5-mini": [
+            "0",
+            "1",
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "0",
+            "2"
+        ]
+    },
+    "154": {
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "155": {
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ]
+    },
+    "156": {
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ]
+    },
+    "157": {
+        "gpt-5-mini": [
+            "1",
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ]
+    },
+    "158": {
+        "gpt-5-mini": [
+            "1",
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "159": {
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ]
+    },
+    "160": {
+        "gpt-5-mini": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "161": {
+        "gpt-5-mini": [
+            "0",
+            "1",
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "162": {
+        "gpt-5-mini": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "3",
+            "4"
+        ]
+    },
+    "164": {
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "165": {
+        "gpt-5-mini": [
+            "3",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ]
+    },
+    "166": {
+        "gpt-5-mini": [
+            "2",
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "167": {
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "168": {
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "169": {
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "170": {
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ]
+    },
+    "171": {
+        "gpt-5-mini": [
+            "0",
+            "1",
+            "3",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "1",
+            "3",
+            "4"
+        ]
+    },
+    "172": {
+        "gpt-5-mini": [
+            "0",
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ]
+    },
+    "173": {
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ]
+    },
+    "174": {
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ]
+    },
+    "175": {
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ]
+    },
+    "176": {
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "177": {
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ]
+    },
+    "178": {
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ]
+    },
+    "179": {
+        "gpt-5-mini": [
+            "0",
+            "1",
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "0",
+            "3"
+        ]
+    },
+    "180": {
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ]
+    },
+    "181": {
+        "gpt-5-mini": [
+            "0",
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ]
+    },
+    "182": {
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ]
+    },
+    "183": {
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "184": {
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ]
+    },
+    "185": {
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ]
+    },
+    "186": {
+        "gpt-5-mini": [
+            "0",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ]
+    },
+    "187": {
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ]
+    },
+    "188": {
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ]
+    },
+    "189": {
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "0",
+            "2",
+            "3"
+        ]
+    },
+    "190": {
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ]
+    },
+    "192": {
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "193": {
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ]
+    },
+    "194": {
+        "gpt-5-mini": [
+            "0",
+            "2",
+            "3",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "195": {
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ]
+    },
+    "196": {
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "197": {
+        "gpt-5-mini": [
+            "0",
+            "1",
+            "2",
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ]
+    },
+    "198": {
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ]
+    },
+    "199": {
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "200": {
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ]
+    },
+    "201": {
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ]
+    },
+    "202": {
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ]
+    },
+    "203": {
+        "gpt-5-mini": [
+            "1",
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "1",
+            "2"
+        ]
+    },
+    "204": {
+        "gpt-5-mini": [
+            "0",
+            "1",
+            "3",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ]
+    },
+    "205": {
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "206": {
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ]
+    },
+    "207": {
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ]
+    },
+    "208": {
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "1",
+            "2"
+        ]
+    },
+    "209": {
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ]
+    },
+    "210": {
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ]
+    },
+    "211": {
+        "gpt-5-mini": [
+            "0",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ]
+    },
+    "212": {
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ]
+    },
+    "213": {
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ]
+    },
+    "214": {
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ]
+    },
+    "215": {
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ]
+    },
+    "216": {
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ]
+    },
+    "217": {
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ]
+    },
+    "218": {
+        "gpt-5-mini": [
+            "1",
+            "3",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "1",
+            "3",
+            "4"
+        ]
+    },
+    "219": {
+        "gpt-5-mini": [
+            "3",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "220": {
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ]
+    },
+    "221": {
+        "gpt-5-mini": [
+            "1",
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ]
+    },
+    "222": {
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ]
+    },
+    "223": {
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ]
+    },
+    "224": {
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ]
+    },
+    "225": {
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ]
+    },
+    "226": {
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ]
+    },
+    "227": {
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "228": {
+        "gpt-5-mini": [
+            "2",
+            "3",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "2",
+            "4"
+        ]
+    },
+    "229": {
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ]
+    },
+    "230": {
+        "gpt-5-mini": [
+            "1",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "1",
+            "4"
+        ]
+    },
+    "231": {
+        "gpt-5-mini": [
+            "2",
+            "3",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ]
+    },
+    "232": {
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ]
+    },
+    "233": {
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ]
+    },
+    "234": {
+        "gpt-5-mini": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "235": {
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "236": {
+        "gpt-5-mini": [
+            "0",
+            "1",
+            "2",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "0",
+            "1"
+        ]
+    },
+    "237": {
+        "gpt-5-mini": [],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "238": {
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ]
+    },
+    "239": {
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ]
+    },
+    "240": {
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "241": {
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "242": {
+        "gpt-5-mini": [
+            "2",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "243": {
+        "gpt-5-mini": [],
+        "deepseek-reasoner": [
+            "0"
+        ]
+    },
+    "244": {
+        "gpt-5-mini": [
+            "1",
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ]
+    },
+    "245": {
+        "gpt-5-mini": [
+            "0",
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ]
+    },
+    "246": {
+        "gpt-5-mini": [
+            "0",
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ]
+    },
+    "247": {
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ]
+    },
+    "248": {
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ]
+    },
+    "249": {
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "251": {
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ]
+    },
+    "252": {
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ]
+    },
+    "253": {
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ]
+    },
+    "254": {
+        "gpt-5-mini": [
+            "0",
+            "2",
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ]
+    },
+    "255": {
+        "gpt-5-mini": [
+            "2",
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ]
+    },
+    "256": {
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ]
+    },
+    "257": {
+        "gpt-5-mini": [
+            "1",
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ]
+    },
+    "258": {
+        "gpt-5-mini": [
+            "0",
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ]
+    },
+    "259": {
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ]
+    },
+    "260": {
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ]
+    },
+    "261": {
+        "gpt-5-mini": [
+            "1",
+            "2",
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ]
+    },
+    "262": {
+        "gpt-5-mini": [
+            "1",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ]
+    },
+    "263": {
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ]
+    },
+    "264": {
+        "gpt-5-mini": [
+            "1",
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ]
+    },
+    "265": {
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ]
+    },
+    "266": {
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "267": {
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "268": {
+        "gpt-5-mini": [
+            "1",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ]
+    },
+    "269": {
+        "gpt-5-mini": [
+            "0",
+            "1",
+            "2",
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ]
+    },
+    "270": {
+        "gpt-5-mini": [
+            "3",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "271": {
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ]
+    },
+    "272": {
+        "gpt-5-mini": [
+            "0",
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ]
+    },
+    "274": {
+        "gpt-5-mini": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "0",
+            "2"
+        ]
+    },
+    "275": {
+        "gpt-5-mini": [
+            "3",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ]
+    },
+    "276": {
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ]
+    },
+    "277": {
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ]
+    },
+    "278": {
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ]
+    },
+    "279": {
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ]
+    },
+    "280": {
+        "gpt-5-mini": [
+            "0",
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "0",
+            "1",
+            "2"
+        ]
+    },
+    "281": {
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "282": {
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "283": {
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ]
+    },
+    "284": {
+        "gpt-5-mini": [
+            "1",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ]
+    },
+    "285": {
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ]
+    },
+    "286": {
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ]
+    },
+    "287": {
+        "gpt-5-mini": [
+            "0",
+            "2",
+            "3",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ]
+    },
+    "288": {
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ]
+    },
+    "289": {
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ]
+    },
+    "290": {
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ]
+    },
+    "291": {
+        "gpt-5-mini": [
+            "3",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ]
+    },
+    "292": {
+        "gpt-5-mini": [
+            "0",
+            "1"
+        ],
+        "deepseek-reasoner": [
+            0
+        ]
+    },
+    "293": {
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            4
+        ]
+    },
+    "294": {
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ]
+    },
+    "296": {
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            2
+        ]
+    },
+    "297": {
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "298": {
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ]
+    },
+    "299": {
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ]
+    },
+    "300": {
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ]
+    },
+    "301": {
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ]
+    },
+    "302": {
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ]
+    },
+    "304": {
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ]
+    },
+    "306": {
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ]
+    },
+    "307": {
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ]
+    },
+    "308": {
+        "gpt-5-mini": [
+            "0",
+            "1",
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ]
+    },
+    "309": {
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "310": {
+        "gpt-5-mini": [
+            "1",
+            "2",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ]
+    },
+    "311": {
+        "gpt-5-mini": [
+            "0",
+            "1",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ]
+    },
+    "312": {
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "313": {
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ]
+    },
+    "314": {
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ]
+    },
+    "315": {
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ]
+    },
+    "316": {
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ]
+    },
+    "317": {
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ]
+    },
+    "318": {
+        "gpt-5-mini": [
+            "0",
+            "3",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ]
+    },
+    "319": {
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "320": {
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "321": {
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ]
+    },
+    "322": {
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ]
+    },
+    "323": {
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "324": {
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "325": {
+        "gpt-5-mini": [
+            "0",
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "326": {
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "327": {
+        "gpt-5-mini": [
+            "0",
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "0",
+            "3"
+        ]
+    },
+    "328": {
+        "gpt-5-mini": [
+            "2",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ]
+    },
+    "329": {
+        "gpt-5-mini": [],
+        "deepseek-reasoner": [
+            3
+        ]
+    },
+    "330": {
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ]
+    },
+    "331": {
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ]
+    },
+    "332": {
+        "gpt-5-mini": [
+            "2",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ]
+    },
+    "333": {
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ]
+    },
+    "334": {
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ]
+    },
+    "335": {
+        "gpt-5-mini": [
+            "0",
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ]
+    },
+    "336": {
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ]
+    },
+    "337": {
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ]
+    },
+    "338": {
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ]
+    },
+    "339": {
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ]
+    },
+    "340": {
+        "gpt-5-mini": [
+            "0",
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "341": {
+        "gpt-5-mini": [
+            "0",
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ]
+    },
+    "342": {
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ]
+    },
+    "343": {
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ]
+    },
+    "344": {
+        "gpt-5-mini": [
+            "2",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "2",
+            "4"
+        ]
+    },
+    "345": {
+        "gpt-5-mini": [
+            "1",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ]
+    },
+    "346": {
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ]
+    },
+    "347": {
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ]
+    },
+    "348": {
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ]
+    },
+    "349": {
+        "gpt-5-mini": [
+            "0",
+            "1",
+            "3",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "0",
+            "1",
+            "3",
+            "4"
+        ]
+    },
+    "350": {
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "351": {
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ]
+    },
+    "352": {
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ]
+    },
+    "353": {
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ]
+    },
+    "354": {
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ]
+    },
+    "355": {
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ]
+    },
+    "356": {
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ]
+    },
+    "357": {
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ]
+    },
+    "358": {
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ]
+    },
+    "359": {
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ]
+    },
+    "360": {
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ]
+    },
+    "361": {
+        "gpt-5-mini": [
+            "0",
+            "1",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ]
+    },
+    "362": {
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ]
+    },
+    "363": {
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "364": {
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ]
+    },
+    "365": {
+        "gpt-5-mini": [
+            "2",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ]
+    },
+    "366": {
+        "gpt-5-mini": [
+            "3",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "367": {
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ]
+    },
+    "368": {
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "369": {
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ]
+    },
+    "370": {
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ]
+    },
+    "371": {
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ]
+    },
+    "372": {
+        "gpt-5-mini": [
+            "0",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ]
+    },
+    "373": {
+        "gpt-5-mini": [
+            "2",
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ]
+    },
+    "374": {
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "375": {
+        "gpt-5-mini": [
+            "1",
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ]
+    },
+    "376": {
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ]
+    },
+    "377": {
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ]
+    },
+    "378": {
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ]
+    },
+    "379": {
+        "gpt-5-mini": [
+            "1",
+            "2",
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "2",
+            "3"
+        ]
+    },
+    "380": {
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "382": {
+        "gpt-5-mini": [
+            "2",
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ]
+    },
+    "383": {
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ]
+    },
+    "384": {
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "385": {
+        "gpt-5-mini": [
+            "0",
+            "1",
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ]
+    },
+    "386": {
+        "gpt-5-mini": [
+            "1",
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ]
+    },
+    "387": {
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ]
+    },
+    "388": {
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "389": {
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ]
+    },
+    "391": {
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ]
+    },
+    "392": {
+        "gpt-5-mini": [
+            "0",
+            "3",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "0",
+            "3",
+            "4"
+        ]
+    },
+    "393": {
+        "gpt-5-mini": [
+            "0",
+            "1",
+            "2",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ]
+    },
+    "394": {
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ]
+    },
+    "395": {
+        "gpt-5-mini": [
+            "3",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "396": {
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "397": {
+        "gpt-5-mini": [
+            "3",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "3",
+            "4"
+        ]
+    },
+    "398": {
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ]
+    },
+    "399": {
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "400": {
+        "gpt-5-mini": [
+            "3",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ]
+    },
+    "401": {
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ]
+    },
+    "402": {
+        "gpt-5-mini": [
+            "2",
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "403": {
+        "gpt-5-mini": [
+            "1",
+            "2",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ]
+    },
+    "404": {
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ]
+    },
+    "405": {
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ]
+    },
+    "406": {
+        "gpt-5-mini": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ]
+    },
+    "407": {
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ]
+    },
+    "408": {
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ]
+    },
+    "409": {
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ]
+    },
+    "410": {
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            2
+        ]
+    },
+    "411": {
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ]
+    },
+    "412": {
+        "gpt-5-mini": [
+            "0",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ]
+    },
+    "413": {
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ]
+    },
+    "416": {
+        "gpt-5-mini": [
+            "1",
+            "3",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "1",
+            "3"
+        ]
+    },
+    "417": {
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "418": {
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ]
+    },
+    "419": {
+        "gpt-5-mini": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "2",
+            "3",
+            "4"
+        ]
+    },
+    "420": {
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ]
+    },
+    "421": {
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "423": {
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ]
+    },
+    "424": {
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "425": {
+        "gpt-5-mini": [
+            "0",
+            "2",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "2",
+            "4"
+        ]
+    },
+    "426": {
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ]
+    },
+    "427": {
+        "gpt-5-mini": [
+            "0",
+            "1",
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ]
+    },
+    "428": {
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "429": {
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "430": {
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ]
+    },
+    "431": {
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            1,
+            2
+        ]
+    },
+    "432": {
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ]
+    },
+    "433": {
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ]
+    },
+    "435": {
+        "gpt-5-mini": [
+            "1",
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "436": {
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ]
+    },
+    "437": {
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ]
+    },
+    "438": {
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ]
+    },
+    "439": {
+        "gpt-5-mini": [
+            "0",
+            "1",
+            "2",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ]
+    },
+    "440": {
+        "gpt-5-mini": [
+            "0",
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ]
+    },
+    "441": {
+        "gpt-5-mini": [
+            "0",
+            "2",
+            "3",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "442": {
+        "gpt-5-mini": [
+            "2",
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "443": {
+        "gpt-5-mini": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ]
+    },
+    "444": {
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ]
+    },
+    "445": {
+        "gpt-5-mini": [
+            "0",
+            "1",
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ]
+    },
+    "446": {
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ]
+    },
+    "447": {
+        "gpt-5-mini": [
+            "2",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ]
+    },
+    "448": {
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "450": {
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "451": {
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ]
+    },
+    "452": {
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ]
+    },
+    "453": {
+        "gpt-5-mini": [
+            "2",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ]
+    },
+    "454": {
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "455": {
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ]
+    },
+    "456": {
+        "gpt-5-mini": [
+            "1",
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ]
+    },
+    "457": {
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ]
+    },
+    "458": {
+        "gpt-5-mini": [
+            "0",
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ]
+    },
+    "459": {
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ]
+    },
+    "460": {
+        "gpt-5-mini": [
+            "1",
+            "2",
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ]
+    },
+    "461": {
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ]
+    },
+    "462": {
+        "gpt-5-mini": [
+            "1",
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ]
+    },
+    "463": {
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ]
+    },
+    "464": {
+        "gpt-5-mini": [
+            "0",
+            "1",
+            "2",
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ]
+    },
+    "465": {
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ]
+    },
+    "466": {
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ]
+    },
+    "467": {
+        "gpt-5-mini": [
+            "3",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ]
+    },
+    "468": {
+        "gpt-5-mini": [
+            "3",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "3",
+            "4"
+        ]
+    },
+    "469": {
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ]
+    },
+    "470": {
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ]
+    },
+    "471": {
+        "gpt-5-mini": [
+            "2",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ]
+    },
+    "472": {
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "473": {
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "474": {
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            1
+        ]
+    },
+    "475": {
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ]
+    },
+    "476": {
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ]
+    },
+    "477": {
+        "gpt-5-mini": [
+            "1",
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "478": {
+        "gpt-5-mini": [
+            "0",
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ]
+    },
+    "479": {
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ]
+    },
+    "480": {
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ]
+    },
+    "481": {
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "482": {
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ]
+    },
+    "483": {
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "484": {
+        "gpt-5-mini": [
+            "0",
+            "1",
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ]
+    },
+    "485": {
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ]
+    },
+    "487": {
+        "gpt-5-mini": [
+            "0",
+            "3",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "488": {
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ]
+    },
+    "489": {
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ]
+    },
+    "490": {
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ]
+    },
+    "491": {
+        "gpt-5-mini": [
+            "0",
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ]
+    },
+    "492": {
+        "gpt-5-mini": [
+            "3",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ]
+    },
+    "493": {
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ]
+    },
+    "494": {
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ]
+    },
+    "496": {
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ]
+    },
+    "498": {
+        "gpt-5-mini": [
+            "0",
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ]
+    },
+    "499": {
+        "gpt-5-mini": [
+            "0",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "0",
+            "3"
+        ]
+    }
+}

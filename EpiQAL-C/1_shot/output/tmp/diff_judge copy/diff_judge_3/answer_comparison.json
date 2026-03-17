@@ -1,0 +1,8617 @@
+{
+    "0": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "Option"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1"
+        ]
+    },
+    "1": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "4"
+        ],
+        "Qwen/Qwen3-32B": [
+            "4",
+            "2"
+        ]
+    },
+    "2": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "1",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1",
+            "4"
+        ]
+    },
+    "3": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "3",
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3",
+            "0"
+        ]
+    },
+    "4": {
+        "ref_ans": [
+            "4"
+        ],
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "4",
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "4",
+            "0"
+        ]
+    },
+    "5": {
+        "ref_ans": [
+            "4"
+        ],
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "3"
+        ],
+        "Qwen/Qwen3-32B": [
+            "4"
+        ]
+    },
+    "6": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "3",
+            "4"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1",
+            "2"
+        ]
+    },
+    "7": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1"
+        ]
+    },
+    "9": {
+        "ref_ans": [
+            "3"
+        ],
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "3"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3"
+        ]
+    },
+    "10": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1"
+        ]
+    },
+    "11": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1"
+        ]
+    },
+    "12": {
+        "ref_ans": [
+            "4"
+        ],
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "4"
+        ],
+        "Qwen/Qwen3-32B": [
+            "4"
+        ]
+    },
+    "13": {
+        "ref_ans": [
+            "4"
+        ],
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "4"
+        ],
+        "Qwen/Qwen3-32B": [
+            "4"
+        ]
+    },
+    "14": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "3",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "2"
+        ]
+    },
+    "15": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1"
+        ]
+    },
+    "16": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "17": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0",
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0",
+            "2"
+        ]
+    },
+    "18": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "1",
+            "3",
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "2"
+        ]
+    },
+    "19": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "4",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1"
+        ]
+    },
+    "20": {
+        "ref_ans": [
+            "3"
+        ],
+        "gpt-5-mini": [
+            "3",
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "3",
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "3",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3",
+            "2"
+        ]
+    },
+    "21": {
+        "ref_ans": [
+            "4"
+        ],
+        "gpt-5-mini": [
+            "4",
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "4",
+            "0",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "4"
+        ]
+    },
+    "22": {
+        "ref_ans": [
+            "4"
+        ],
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "4"
+        ],
+        "Qwen/Qwen3-32B": [
+            "4"
+        ]
+    },
+    "23": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "24": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [],
+        "deepseek-reasoner": [
+            "1"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "Option: The C9 phage clone demonstrated high diagnostic performance with 87.5% sensitivity, 80% specificity, and 82.5% diagnostic efficiency, and exhibited low cross-reactivity with sera from patients with other parasitic infections, making it a promising candidate for large-scale screening programs."
+        ],
+        "Qwen/Qwen3-32B": [
+            "1"
+        ]
+    },
+    "25": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "2"
+        ]
+    },
+    "27": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "4",
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "2"
+        ]
+    },
+    "28": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3"
+        ]
+    },
+    "29": {
+        "ref_ans": [
+            "3"
+        ],
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "3"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3"
+        ]
+    },
+    "30": {
+        "ref_ans": [
+            "3"
+        ],
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "Despite considerable progress made in the control of helminthiases in Zanzibar, the 'worm-problem' and anemia in Zanzibar remains a formidable challenge and cannot be overcome by preventive chemotherapy alone.",
+            "The significant differences in seroprevalence between Bandamaji and Dole indicate that the GPELF program was more effective in Dole than in Bandamaji.",
+            "The age-related decline in S. haematobium infection prevalence suggests that the current control strategies have successfully interrupted transmission in older age groups."
+        ],
+        "Qwen/Qwen3-32B": [
+            "3"
+        ]
+    },
+    "31": {
+        "ref_ans": [
+            "4"
+        ],
+        "gpt-5-mini": [
+            "4",
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "4",
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "4"
+        ]
+    },
+    "32": {
+        "ref_ans": [
+            "3"
+        ],
+        "gpt-5-mini": [
+            "3",
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3"
+        ]
+    },
+    "33": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1",
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1"
+        ]
+    },
+    "34": {
+        "ref_ans": [
+            "4"
+        ],
+        "gpt-5-mini": [
+            "3",
+            "4",
+            "0",
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "3",
+            "4",
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "3",
+            "4",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3",
+            "4"
+        ]
+    },
+    "35": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "36": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "0",
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "0",
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0",
+            "2"
+        ]
+    },
+    "37": {
+        "ref_ans": [
+            "3"
+        ],
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "3"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3"
+        ]
+    },
+    "38": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "1",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "1",
+            "4"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "4"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1",
+            "4"
+        ]
+    },
+    "39": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "4",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "4",
+            "2"
+        ]
+    },
+    "40": {
+        "ref_ans": [
+            "3"
+        ],
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "3"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3"
+        ]
+    },
+    "41": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1"
+        ]
+    },
+    "42": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "43": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "44": {
+        "ref_ans": [
+            "4"
+        ],
+        "gpt-5-mini": [
+            "4",
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "4",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "4",
+            "2"
+        ]
+    },
+    "45": {
+        "ref_ans": [
+            "3"
+        ],
+        "gpt-5-mini": [
+            "3",
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "3",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3",
+            "2"
+        ]
+    },
+    "46": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "2"
+        ]
+    },
+    "47": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [],
+        "microsoft/Phi-4-mini-instruct": [
+            "3",
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "48": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0",
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "4",
+            "0",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0",
+            "2"
+        ]
+    },
+    "49": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "51": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "Option: The aptamer-based ELA assay can predict drug treatment failure in both acute and chronic phase murine models of Chagas disease, providing a non-invasive method for assessing drug efficacy without requiring euthanasia or complex tissue sampling."
+        ],
+        "Qwen/Qwen3-32B": [
+            "1",
+            "0"
+        ]
+    },
+    "52": {
+        "ref_ans": [
+            "4"
+        ],
+        "gpt-5-mini": [
+            "1",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "1",
+            "4"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "4"
+        ],
+        "Qwen/Qwen3-32B": [
+            "4"
+        ]
+    },
+    "53": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "3",
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "54": {
+        "ref_ans": [
+            "3"
+        ],
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "2"
+        ]
+    },
+    "55": {
+        "ref_ans": [
+            "3"
+        ],
+        "gpt-5-mini": [],
+        "deepseek-reasoner": [
+            "3"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "3"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3"
+        ]
+    },
+    "56": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "1",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1"
+        ]
+    },
+    "57": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "3",
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "3",
+            "0",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3",
+            "2"
+        ]
+    },
+    "58": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "2"
+        ]
+    },
+    "59": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [],
+        "deepseek-reasoner": [
+            "1"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1"
+        ]
+    },
+    "60": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "0",
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0",
+            "2"
+        ]
+    },
+    "61": {
+        "ref_ans": [
+            "3"
+        ],
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "3"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3"
+        ]
+    },
+    "63": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "1",
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1"
+        ]
+    },
+    "65": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "66": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "67": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "4",
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "4",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "4",
+            "2"
+        ]
+    },
+    "68": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "4"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1",
+            "4"
+        ]
+    },
+    "69": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "1",
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1",
+            "0"
+        ]
+    },
+    "70": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [],
+        "deepseek-reasoner": [],
+        "Qwen/Qwen3-32B": [
+            "3"
+        ]
+    },
+    "71": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "72": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "73": {
+        "ref_ans": [
+            "4"
+        ],
+        "gpt-5-mini": [
+            "4",
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "4",
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "4",
+            "0",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "4",
+            "2"
+        ]
+    },
+    "74": {
+        "ref_ans": [
+            "3"
+        ],
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "3",
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3"
+        ]
+    },
+    "76": {
+        "ref_ans": [
+            "4"
+        ],
+        "gpt-5-mini": [
+            "1",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "1",
+            "3",
+            "4"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "3",
+            "4",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3",
+            "4",
+            "2"
+        ]
+    },
+    "77": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "78": {
+        "ref_ans": [
+            "4"
+        ],
+        "gpt-5-mini": [
+            "4",
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "4",
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "4",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "4",
+            "2"
+        ]
+    },
+    "79": {
+        "ref_ans": [
+            "3"
+        ],
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "3"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3"
+        ]
+    },
+    "80": {
+        "ref_ans": [
+            "4"
+        ],
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "4"
+        ],
+        "Qwen/Qwen3-32B": [
+            "4"
+        ]
+    },
+    "81": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "2"
+        ]
+    },
+    "82": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "3",
+            "0",
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "3",
+            "0",
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "3",
+            "1",
+            "Option: The presence of TcTASV-C in extracellular vesicles from multiple T. cruzi strains suggests that this secretion pattern is a conserved virulence strategy across all parasite lineages.",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3",
+            "2"
+        ]
+    },
+    "83": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "1",
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "1",
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1"
+        ]
+    },
+    "84": {
+        "ref_ans": [
+            "3"
+        ],
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "Option: The higher seroconversion rates in Central America compared to Bolivia may be due to more effective vector control measures implemented in the earlier programs, which reduced the time between infection and treatment initiation.",
+            "Option: The differences in seroconversion rates between regions may be explained by variations in the age distribution of treated patients, with younger children in Central America having higher cure rates and older children in Bolivia being less responsive to treatment."
+        ],
+        "Qwen/Qwen3-32B": [
+            "4"
+        ]
+    },
+    "85": {
+        "ref_ans": [
+            "4"
+        ],
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "4"
+        ],
+        "Qwen/Qwen3-32B": [
+            "4"
+        ]
+    },
+    "86": {
+        "ref_ans": [
+            "3"
+        ],
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "3"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3"
+        ]
+    },
+    "87": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "1",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "4"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1",
+            "4"
+        ]
+    },
+    "88": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "2"
+        ]
+    },
+    "89": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "2"
+        ]
+    },
+    "90": {
+        "ref_ans": [
+            "4"
+        ],
+        "gpt-5-mini": [
+            "1",
+            "3",
+            "4",
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ],
+        "Qwen/Qwen3-32B": [
+            "4",
+            "0",
+            "2"
+        ]
+    },
+    "92": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "1",
+            "3",
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "1",
+            "3"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "3",
+            "0",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1",
+            "3",
+            "2"
+        ]
+    },
+    "93": {
+        "ref_ans": [
+            "3"
+        ],
+        "gpt-5-mini": [],
+        "deepseek-reasoner": [
+            "3"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "3"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3"
+        ]
+    },
+    "94": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [],
+        "deepseek-reasoner": [],
+        "microsoft/Phi-4-mini-instruct": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "95": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1"
+        ]
+    },
+    "96": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "97": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "Option: S. mansoni infection in HIV-uninfected Ugandan men was associated with an increase in highly HIV-susceptible T cell subsets in the blood, but not the foreskin.",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "98": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [],
+        "microsoft/Phi-4-mini-instruct": [
+            "3",
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "99": {
+        "ref_ans": [
+            "4"
+        ],
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "3",
+            "4"
+        ],
+        "Qwen/Qwen3-32B": [
+            "4"
+        ]
+    },
+    "100": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1",
+            "4"
+        ]
+    },
+    "101": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "0",
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1",
+            "0"
+        ]
+    },
+    "102": {
+        "ref_ans": [
+            "3"
+        ],
+        "gpt-5-mini": [],
+        "deepseek-reasoner": [
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "3",
+            "0",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "2"
+        ]
+    },
+    "103": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [],
+        "deepseek-reasoner": [],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "104": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "105": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [],
+        "deepseek-reasoner": [],
+        "microsoft/Phi-4-mini-instruct": [
+            "1"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1"
+        ]
+    },
+    "106": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "1",
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "3",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1",
+            "3",
+            "0",
+            "2"
+        ]
+    },
+    "108": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0",
+            "2"
+        ]
+    },
+    "109": {
+        "ref_ans": [
+            "4"
+        ],
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4",
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "4"
+        ],
+        "Qwen/Qwen3-32B": [
+            "4"
+        ]
+    },
+    "110": {
+        "ref_ans": [
+            "3"
+        ],
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "3",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3"
+        ]
+    },
+    "112": {
+        "ref_ans": [
+            "4"
+        ],
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "4"
+        ],
+        "Qwen/Qwen3-32B": [
+            "4"
+        ]
+    },
+    "113": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0",
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "2"
+        ]
+    },
+    "114": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "3",
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "115": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "Option: Emerging evidence of combination regimens for VL and PKDL may lead to increased demand for miltefosine and liposomal amphotericin B, requiring updated treatment guidelines and future procurement planning."
+        ],
+        "Qwen/Qwen3-32B": [
+            "1"
+        ]
+    },
+    "116": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "2"
+        ]
+    },
+    "117": {
+        "ref_ans": [
+            "3"
+        ],
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "3"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3"
+        ]
+    },
+    "118": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "1",
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1",
+            "0"
+        ]
+    },
+    "119": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1"
+        ]
+    },
+    "120": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "121": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0",
+            "2"
+        ]
+    },
+    "122": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "2"
+        ]
+    },
+    "123": {
+        "ref_ans": [
+            "4"
+        ],
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "4",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "4",
+            "2"
+        ]
+    },
+    "124": {
+        "ref_ans": [
+            "3"
+        ],
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "3"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3"
+        ]
+    },
+    "125": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "1",
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "1",
+            "3"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1",
+            "3"
+        ]
+    },
+    "126": {
+        "ref_ans": [
+            "3"
+        ],
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3"
+        ]
+    },
+    "127": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "2"
+        ]
+    },
+    "129": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "Option: The high case fatality rate in this study, despite the availability of anti-tetanus serum and other supportive treatments, is likely due to delayed presentation, the presence of severe complications such as autonomic dysfunction, and the lack of advanced life support facilities in the study setting."
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "130": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3",
+            "0"
+        ]
+    },
+    "131": {
+        "ref_ans": [
+            "3"
+        ],
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "3",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3"
+        ]
+    },
+    "132": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "1",
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1",
+            "0"
+        ]
+    },
+    "133": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0",
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "0",
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "4",
+            "0",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0",
+            "2"
+        ]
+    },
+    "134": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "3",
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "135": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "3",
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "136": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1"
+        ],
+        "Qwen/Qwen3-32B": [
+            "2"
+        ]
+    },
+    "137": {
+        "ref_ans": [
+            "4"
+        ],
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "4"
+        ],
+        "Qwen/Qwen3-32B": [
+            "4"
+        ]
+    },
+    "138": {
+        "ref_ans": [
+            "4"
+        ],
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "3",
+            "4"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3",
+            "4"
+        ]
+    },
+    "139": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "2"
+        ]
+    },
+    "140": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "2"
+        ]
+    },
+    "141": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "4",
+            "0",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "2"
+        ]
+    },
+    "143": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "4",
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "144": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "4",
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "4",
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "4",
+            "0"
+        ]
+    },
+    "145": {
+        "ref_ans": [
+            "3"
+        ],
+        "gpt-5-mini": [
+            "1",
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "3",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3",
+            "0",
+            "2"
+        ]
+    },
+    "146": {
+        "ref_ans": [
+            "4"
+        ],
+        "gpt-5-mini": [],
+        "deepseek-reasoner": [],
+        "microsoft/Phi-4-mini-instruct": [
+            "3"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3"
+        ]
+    },
+    "147": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1",
+            "0"
+        ]
+    },
+    "148": {
+        "ref_ans": [
+            "4"
+        ],
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "4",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "4"
+        ]
+    },
+    "149": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [],
+        "microsoft/Phi-4-mini-instruct": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "2"
+        ]
+    },
+    "150": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "4",
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "151": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "2"
+        ]
+    },
+    "152": {
+        "ref_ans": [
+            "4"
+        ],
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "4"
+        ],
+        "Qwen/Qwen3-32B": [
+            "4"
+        ]
+    },
+    "153": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "3",
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "4"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3"
+        ]
+    },
+    "154": {
+        "ref_ans": [
+            "4"
+        ],
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "4"
+        ],
+        "Qwen/Qwen3-32B": [
+            "4"
+        ]
+    },
+    "155": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "2"
+        ]
+    },
+    "156": {
+        "ref_ans": [
+            "3"
+        ],
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3"
+        ]
+    },
+    "157": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "0",
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "0",
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0",
+            "2"
+        ]
+    },
+    "158": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "3",
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "159": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "4",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1",
+            "0"
+        ]
+    },
+    "160": {
+        "ref_ans": [
+            "4"
+        ],
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "4",
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "4"
+        ]
+    },
+    "161": {
+        "ref_ans": [
+            "3"
+        ],
+        "gpt-5-mini": [
+            "1",
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "1",
+            "3"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "3",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1",
+            "3"
+        ]
+    },
+    "162": {
+        "ref_ans": [
+            "3"
+        ],
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "3",
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3"
+        ]
+    },
+    "163": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "164": {
+        "ref_ans": [
+            "4"
+        ],
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "4",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "4"
+        ]
+    },
+    "165": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "1",
+            "0",
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1",
+            "0",
+            "2"
+        ]
+    },
+    "166": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "1",
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "1",
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "Index: 1",
+            "Option: The stability of high-risk hotspots across different data cleaning methods and threshold settings suggests that sub-county level prioritization is robust and reliable for long-term cholera control planning."
+        ],
+        "Qwen/Qwen3-32B": [
+            "1",
+            "0"
+        ]
+    },
+    "167": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [],
+        "deepseek-reasoner": [],
+        "microsoft/Phi-4-mini-instruct": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1",
+            "0"
+        ]
+    },
+    "168": {
+        "ref_ans": [
+            "3"
+        ],
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "3",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3"
+        ]
+    },
+    "169": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [],
+        "deepseek-reasoner": [
+            "1"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "3"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1"
+        ]
+    },
+    "170": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "3"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1"
+        ]
+    },
+    "171": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1"
+        ]
+    },
+    "172": {
+        "ref_ans": [
+            "4"
+        ],
+        "gpt-5-mini": [
+            "1",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "1",
+            "4"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "3",
+            "4",
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1",
+            "4",
+            "2"
+        ]
+    },
+    "173": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [],
+        "deepseek-reasoner": [],
+        "microsoft/Phi-4-mini-instruct": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "174": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "4",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1"
+        ]
+    },
+    "175": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "4",
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "4",
+            "0"
+        ]
+    },
+    "176": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "4",
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "4",
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "4",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "4",
+            "2"
+        ]
+    },
+    "177": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "178": {
+        "ref_ans": [
+            "3"
+        ],
+        "gpt-5-mini": [
+            "3",
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "3",
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "3",
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3",
+            "0"
+        ]
+    },
+    "179": {
+        "ref_ans": [
+            "3"
+        ],
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "3"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3"
+        ]
+    },
+    "180": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "3",
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "181": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "3",
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "2"
+        ]
+    },
+    "182": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1",
+            "2"
+        ]
+    },
+    "183": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "1",
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "1",
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1",
+            "0"
+        ]
+    },
+    "184": {
+        "ref_ans": [
+            "4"
+        ],
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ],
+        "Qwen/Qwen3-32B": [
+            "4"
+        ]
+    },
+    "185": {
+        "ref_ans": [
+            "4"
+        ],
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ],
+        "Qwen/Qwen3-32B": [
+            "4"
+        ]
+    },
+    "186": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [],
+        "deepseek-reasoner": [],
+        "microsoft/Phi-4-mini-instruct": [
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "2"
+        ]
+    },
+    "187": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "2"
+        ]
+    },
+    "188": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "189": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [],
+        "deepseek-reasoner": [],
+        "microsoft/Phi-4-mini-instruct": [
+            "1"
+        ],
+        "Qwen/Qwen3-32B": [
+            "2"
+        ]
+    },
+    "190": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "191": {
+        "ref_ans": [
+            "3"
+        ],
+        "gpt-5-mini": [
+            "3",
+            "4",
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "3",
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "3",
+            "4",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3",
+            "4",
+            "2"
+        ]
+    },
+    "192": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "2"
+        ]
+    },
+    "193": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1"
+        ]
+    },
+    "194": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3",
+            "0"
+        ]
+    },
+    "195": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "196": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1"
+        ]
+    },
+    "197": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "3",
+            "0",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3",
+            "0"
+        ]
+    },
+    "198": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "3",
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "Option: The scMP-12 vaccine candidate is superior to MP-12 in safety due to its lack of neurovirulence, despite being less immunogenic."
+        ],
+        "Qwen/Qwen3-32B": [
+            "2"
+        ]
+    },
+    "199": {
+        "ref_ans": [
+            "3"
+        ],
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "3"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3"
+        ]
+    },
+    "200": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "0",
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "0",
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "0",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1",
+            "0",
+            "2"
+        ]
+    },
+    "201": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "3",
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "3",
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "2"
+        ]
+    },
+    "202": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "2"
+        ]
+    },
+    "203": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "1",
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "1",
+            "4"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1",
+            "0"
+        ]
+    },
+    "204": {
+        "ref_ans": [
+            "4"
+        ],
+        "gpt-5-mini": [
+            "4",
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "4",
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "4",
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "4"
+        ]
+    },
+    "205": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "1",
+            "4"
+        ],
+        "deepseek-reasoner": [],
+        "microsoft/Phi-4-mini-instruct": [
+            "4",
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "4"
+        ]
+    },
+    "206": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "4",
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "Option: The presence of sewage systems in households was associated with higher positivity to EITB in a village in northern Peru, suggesting that improved sanitation infrastructure may inadvertently increase the risk of T. solium transmission in some settings."
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "207": {
+        "ref_ans": [
+            "3"
+        ],
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "3"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3"
+        ]
+    },
+    "208": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1"
+        ]
+    },
+    "210": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "4"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1",
+            "0"
+        ]
+    },
+    "211": {
+        "ref_ans": [
+            "4"
+        ],
+        "gpt-5-mini": [
+            "1",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "4",
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1",
+            "4"
+        ]
+    },
+    "212": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "3",
+            "4"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1"
+        ]
+    },
+    "213": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0",
+            "2"
+        ]
+    },
+    "214": {
+        "ref_ans": [
+            "3"
+        ],
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3"
+        ]
+    },
+    "215": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "216": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "2"
+        ]
+    },
+    "217": {
+        "ref_ans": [
+            "4"
+        ],
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "4",
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "4"
+        ]
+    },
+    "218": {
+        "ref_ans": [
+            "4"
+        ],
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "3",
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "4"
+        ]
+    },
+    "219": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "4",
+            "0"
+        ]
+    },
+    "221": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "0",
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "0",
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0",
+            "2"
+        ]
+    },
+    "222": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [],
+        "deepseek-reasoner": [
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "3"
+        ],
+        "Qwen/Qwen3-32B": []
+    },
+    "223": {
+        "ref_ans": [
+            "3"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "3",
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "3",
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3",
+            "0"
+        ]
+    },
+    "224": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1",
+            "3"
+        ]
+    },
+    "225": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "4",
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "Option"
+        ],
+        "Qwen/Qwen3-32B": [
+            "4",
+            "0"
+        ]
+    },
+    "226": {
+        "ref_ans": [
+            "3"
+        ],
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3"
+        ]
+    },
+    "227": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "228": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "3",
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "3",
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "3"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3",
+            "0"
+        ]
+    },
+    "229": {
+        "ref_ans": [
+            "3"
+        ],
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "4",
+            "0",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1",
+            "4"
+        ]
+    },
+    "230": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [],
+        "deepseek-reasoner": [
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "2"
+        ]
+    },
+    "231": {
+        "ref_ans": [
+            "4"
+        ],
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "Option"
+        ],
+        "Qwen/Qwen3-32B": [
+            "4"
+        ]
+    },
+    "232": {
+        "ref_ans": [
+            "4"
+        ],
+        "gpt-5-mini": [
+            "3",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "3",
+            "4"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "3",
+            "4"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3",
+            "4"
+        ]
+    },
+    "233": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "0",
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "3",
+            "0",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3",
+            "2"
+        ]
+    },
+    "234": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "3",
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "3",
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3",
+            "0"
+        ]
+    },
+    "235": {
+        "ref_ans": [
+            "4"
+        ],
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "4",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "4"
+        ]
+    },
+    "236": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1",
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "0",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1",
+            "0",
+            "2"
+        ]
+    },
+    "237": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [],
+        "deepseek-reasoner": [],
+        "microsoft/Phi-4-mini-instruct": [
+            "Option: The spatial clustering of high household density and lower SES in coastal Kenya is primarily driven by proximity to main roads and aquatic habitats favorable for Anopheles mosquitoes and snails.",
+            "The challenge of polyparasitism is increasingly recognized through i) our increasing appreciation of the health and social burden of chronic/recurrent infections, ii) more sensitive diagnostics, which indicate that concurrent polyparasitism is much more prevalent than previously thought, and iii) new inexpensive approaches to treatment and transmission control that are increasingly more accessible."
+        ],
+        "Qwen/Qwen3-32B": [
+            "1"
+        ]
+    },
+    "238": {
+        "ref_ans": [
+            "3"
+        ],
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "3"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3"
+        ]
+    },
+    "239": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "4",
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "240": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "1",
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "3",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1"
+        ]
+    },
+    "241": {
+        "ref_ans": [
+            "3"
+        ],
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3"
+        ]
+    },
+    "242": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "2"
+        ]
+    },
+    "243": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "0",
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "3",
+            "4"
+        ],
+        "Qwen/Qwen3-32B": [
+            "4",
+            "2"
+        ]
+    },
+    "244": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "245": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "0",
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1",
+            "0",
+            "2"
+        ]
+    },
+    "247": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "4"
+        ],
+        "Qwen/Qwen3-32B": [
+            "4"
+        ]
+    },
+    "248": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "4"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1"
+        ]
+    },
+    "249": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "250": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "3",
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "3",
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "2"
+        ]
+    },
+    "251": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "3",
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "0",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1",
+            "3",
+            "0"
+        ]
+    },
+    "252": {
+        "ref_ans": [
+            "3"
+        ],
+        "gpt-5-mini": [
+            "1",
+            "3",
+            "4",
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "3"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3"
+        ]
+    },
+    "253": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "2"
+        ]
+    },
+    "254": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "1",
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "Option: The frequent and prolonged interactions between humans and bats in buildings, combined with common attempts to remove bats, create repeated opportunities for pathogen exposure through both direct and indirect contact, as well as through domestic animals that may act as intermediate hosts.",
+            "The high frequency of indirect contact with bat excreta and the common practice of disposing of dead bats by throwing them over property lines suggest that bat-borne pathogens are likely to spread widely within communities through environmental contamination."
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "255": {
+        "ref_ans": [
+            "4"
+        ],
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "4",
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "4",
+            "0",
+            "2"
+        ]
+    },
+    "256": {
+        "ref_ans": [
+            "3"
+        ],
+        "gpt-5-mini": [
+            "3",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "3"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3",
+            "4"
+        ]
+    },
+    "257": {
+        "ref_ans": [
+            "4"
+        ],
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "3",
+            "4"
+        ],
+        "Qwen/Qwen3-32B": [
+            "4"
+        ]
+    },
+    "258": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "1",
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "1",
+            "3",
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1",
+            "3"
+        ]
+    },
+    "259": {
+        "ref_ans": [
+            "4"
+        ],
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "4"
+        ],
+        "Qwen/Qwen3-32B": [
+            "4"
+        ]
+    },
+    "260": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1"
+        ]
+    },
+    "261": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "0",
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "0",
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0",
+            "2"
+        ]
+    },
+    "262": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "4",
+            "0",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "263": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1"
+        ]
+    },
+    "264": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "2"
+        ]
+    },
+    "265": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1"
+        ]
+    },
+    "266": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1"
+        ]
+    },
+    "267": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "3",
+            "4",
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "3",
+            "4",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "4",
+            "2"
+        ]
+    },
+    "268": {
+        "ref_ans": [
+            "4"
+        ],
+        "gpt-5-mini": [
+            "3",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "3",
+            "4"
+        ],
+        "Qwen/Qwen3-32B": [
+            "4"
+        ]
+    },
+    "269": {
+        "ref_ans": [
+            "3"
+        ],
+        "gpt-5-mini": [
+            "1",
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "1",
+            "3"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1",
+            "3"
+        ]
+    },
+    "270": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "4",
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "4",
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "271": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "1",
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "1",
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1",
+            "2"
+        ]
+    },
+    "272": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "273": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0",
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "0",
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "2"
+        ]
+    },
+    "274": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "1",
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1",
+            "2"
+        ]
+    },
+    "275": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "2"
+        ]
+    },
+    "276": {
+        "ref_ans": [
+            "3"
+        ],
+        "gpt-5-mini": [
+            "3",
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "3",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3"
+        ]
+    },
+    "277": {
+        "ref_ans": [
+            "4"
+        ],
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "4"
+        ],
+        "Qwen/Qwen3-32B": [
+            "4"
+        ]
+    },
+    "278": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "3",
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "3",
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3",
+            "2"
+        ]
+    },
+    "279": {
+        "ref_ans": [
+            "4"
+        ],
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4",
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "4"
+        ],
+        "Qwen/Qwen3-32B": [
+            "4",
+            "0"
+        ]
+    },
+    "280": {
+        "ref_ans": [
+            "3"
+        ],
+        "gpt-5-mini": [
+            "3",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "3",
+            "4",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3"
+        ]
+    },
+    "281": {
+        "ref_ans": [
+            "4"
+        ],
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "3",
+            "4"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1"
+        ]
+    },
+    "282": {
+        "ref_ans": [
+            "4"
+        ],
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "Option"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1",
+            "4",
+            "0"
+        ]
+    },
+    "283": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "Option: The guinea pig model of Lujo virus infection exhibits severe, rapidly progressive, and uniformly lethal disease characterized by high viral loads, disseminated organ damage, and hallmarks consistent with disseminated intravascular coagulation, despite a lack of significant early pro-inflammatory cytokine upregulation."
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "284": {
+        "ref_ans": [
+            "3"
+        ],
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "3"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3"
+        ]
+    },
+    "285": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "3"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3"
+        ]
+    },
+    "286": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "287": {
+        "ref_ans": [
+            "4"
+        ],
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "4"
+        ],
+        "Qwen/Qwen3-32B": [
+            "4"
+        ]
+    },
+    "288": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0",
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "289": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            ", "
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "290": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3"
+        ]
+    },
+    "291": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "1",
+            "3",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "1",
+            "3",
+            "4"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "3",
+            "4",
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1",
+            "3",
+            "4",
+            "0"
+        ]
+    },
+    "292": {
+        "ref_ans": [
+            "4"
+        ],
+        "gpt-5-mini": [
+            "4",
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "4",
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "4",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "4",
+            "2"
+        ]
+    },
+    "293": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3"
+        ]
+    },
+    "294": {
+        "ref_ans": [
+            "3"
+        ],
+        "gpt-5-mini": [],
+        "deepseek-reasoner": [
+            "3"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "3",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3",
+            "2"
+        ]
+    },
+    "295": {
+        "ref_ans": [
+            "4"
+        ],
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "4",
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "4"
+        ]
+    },
+    "296": {
+        "ref_ans": [
+            "4"
+        ],
+        "gpt-5-mini": [
+            "4",
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ],
+        "Qwen/Qwen3-32B": [
+            "4"
+        ]
+    },
+    "297": {
+        "ref_ans": [
+            "4"
+        ],
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "Option"
+        ],
+        "Qwen/Qwen3-32B": [
+            "4"
+        ]
+    },
+    "298": {
+        "ref_ans": [
+            "3"
+        ],
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [],
+        "microsoft/Phi-4-mini-instruct": [
+            "3",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3"
+        ]
+    },
+    "299": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0",
+            "2"
+        ]
+    },
+    "300": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "1",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "1",
+            "4"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "4"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1",
+            "4"
+        ]
+    },
+    "301": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "Option: ",
+            ", "
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "302": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "4",
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "303": {
+        "ref_ans": [
+            "4"
+        ],
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "4",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "4"
+        ]
+    },
+    "305": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1"
+        ]
+    },
+    "306": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "307": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "1",
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "1",
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "3",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0",
+            "2"
+        ]
+    },
+    "308": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1"
+        ]
+    },
+    "309": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "1",
+            "3",
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "0",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1",
+            "0"
+        ]
+    },
+    "310": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "3",
+            "4",
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "3",
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "3",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3",
+            "2"
+        ]
+    },
+    "311": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1"
+        ]
+    },
+    "312": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "313": {
+        "ref_ans": [
+            "4"
+        ],
+        "gpt-5-mini": [],
+        "deepseek-reasoner": [],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "4"
+        ],
+        "Qwen/Qwen3-32B": []
+    },
+    "314": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "4",
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "4",
+            "0"
+        ]
+    },
+    "315": {
+        "ref_ans": [
+            "4"
+        ],
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "3"
+        ],
+        "Qwen/Qwen3-32B": [
+            "4"
+        ]
+    },
+    "316": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "318": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            ", "
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "319": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "4"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1"
+        ]
+    },
+    "320": {
+        "ref_ans": [
+            "3"
+        ],
+        "gpt-5-mini": [
+            "3",
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "3",
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3",
+            "0"
+        ]
+    },
+    "321": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "322": {
+        "ref_ans": [
+            "3"
+        ],
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "3"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3"
+        ]
+    },
+    "323": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0",
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "324": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "1",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "1",
+            "4"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1"
+        ]
+    },
+    "325": {
+        "ref_ans": [
+            "4"
+        ],
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "4"
+        ],
+        "Qwen/Qwen3-32B": [
+            "4"
+        ]
+    },
+    "326": {
+        "ref_ans": [
+            "3"
+        ],
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "3"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3"
+        ]
+    },
+    "327": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [],
+        "deepseek-reasoner": [],
+        "microsoft/Phi-4-mini-instruct": [
+            "4",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "4"
+        ]
+    },
+    "328": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "2"
+        ]
+    },
+    "329": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "0",
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "2"
+        ]
+    },
+    "330": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [],
+        "deepseek-reasoner": [],
+        "microsoft/Phi-4-mini-instruct": [
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "2"
+        ]
+    },
+    "331": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "2"
+        ]
+    },
+    "332": {
+        "ref_ans": [
+            "3"
+        ],
+        "gpt-5-mini": [],
+        "deepseek-reasoner": [],
+        "microsoft/Phi-4-mini-instruct": [
+            "3"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3"
+        ]
+    },
+    "333": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "334": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "2"
+        ]
+    },
+    "335": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "4"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1",
+            "4"
+        ]
+    },
+    "336": {
+        "ref_ans": [
+            "4"
+        ],
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [],
+        "microsoft/Phi-4-mini-instruct": [
+            "4",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "4"
+        ]
+    },
+    "337": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "2"
+        ]
+    },
+    "338": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "1",
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "Option: The diagnostic development pipeline for visceral leishmaniasis serodiagnostic tests is characterized by a high proportion of early-phase evaluations, with most candidates not advancing to large-scale prospective studies despite showing high diagnostic accuracy in initial assessments.",
+            "Option: The diagnostic accuracy of rK28-based immunochromatographic tests in East Africa is consistently high across multiple studies, suggesting that this antigen is a reliable candidate for widespread deployment in the region."
+        ],
+        "Qwen/Qwen3-32B": [
+            "2"
+        ]
+    },
+    "339": {
+        "ref_ans": [
+            "3"
+        ],
+        "gpt-5-mini": [
+            "1",
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "1",
+            "3"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "3",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1",
+            "3"
+        ]
+    },
+    "340": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "3",
+            "4",
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "4",
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "3",
+            "4",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3",
+            "4",
+            "2"
+        ]
+    },
+    "341": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "1",
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "342": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "2"
+        ]
+    },
+    "343": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1"
+        ]
+    },
+    "344": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "2"
+        ]
+    },
+    "345": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "1",
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "1",
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1",
+            "2"
+        ]
+    },
+    "346": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "3",
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "3",
+            "4",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3",
+            "2"
+        ]
+    },
+    "347": {
+        "ref_ans": [
+            "3"
+        ],
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "3"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3"
+        ]
+    },
+    "348": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1",
+            "3"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1"
+        ]
+    },
+    "349": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1",
+            "0"
+        ]
+    },
+    "350": {
+        "ref_ans": [
+            "3"
+        ],
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "3"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3"
+        ]
+    },
+    "351": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "352": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1"
+        ]
+    },
+    "353": {
+        "ref_ans": [
+            "3"
+        ],
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "3"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3"
+        ]
+    },
+    "354": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1"
+        ]
+    },
+    "355": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "0",
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "0",
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0",
+            "2"
+        ]
+    },
+    "356": {
+        "ref_ans": [
+            "3"
+        ],
+        "gpt-5-mini": [],
+        "deepseek-reasoner": [
+            "3"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "3"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3"
+        ]
+    },
+    "357": {
+        "ref_ans": [
+            "4"
+        ],
+        "gpt-5-mini": [
+            "3",
+            "4",
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "3",
+            "2",
+            "4",
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "4",
+            "2"
+        ]
+    },
+    "359": {
+        "ref_ans": [
+            "3"
+        ],
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3"
+        ]
+    },
+    "360": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1",
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1"
+        ]
+    },
+    "361": {
+        "ref_ans": [
+            "3"
+        ],
+        "gpt-5-mini": [
+            "1",
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "1",
+            "3",
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "3",
+            "4"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3",
+            "0"
+        ]
+    },
+    "362": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [],
+        "microsoft/Phi-4-mini-instruct": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3",
+            "0"
+        ]
+    },
+    "363": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "364": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1"
+        ]
+    },
+    "365": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [],
+        "deepseek-reasoner": [
+            "1"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1"
+        ]
+    },
+    "366": {
+        "ref_ans": [
+            "4"
+        ],
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "4"
+        ],
+        "Qwen/Qwen3-32B": [
+            "4"
+        ]
+    },
+    "367": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1"
+        ]
+    },
+    "368": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "1",
+            "3",
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "1",
+            "3"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "3",
+            "4",
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "4",
+            "2"
+        ]
+    },
+    "369": {
+        "ref_ans": [
+            "4"
+        ],
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "4",
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "4"
+        ]
+    },
+    "370": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "4",
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "4",
+            "2"
+        ]
+    },
+    "371": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "3",
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "4",
+            "0"
+        ]
+    },
+    "372": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "2"
+        ]
+    },
+    "374": {
+        "ref_ans": [
+            "4"
+        ],
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "4",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "4"
+        ]
+    },
+    "375": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0",
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "The observed differences in sensitivity across study sites may be due to seasonal fluctuations in Cryptosporidiosis incidence, which could affect the performance of the RDT in different months."
+        ],
+        "Qwen/Qwen3-32B": [
+            "0",
+            "2"
+        ]
+    },
+    "376": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "Option"
+        ],
+        "Qwen/Qwen3-32B": []
+    },
+    "377": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "378": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "2"
+        ]
+    },
+    "379": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "4",
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "4",
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "4",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "4",
+            "2"
+        ]
+    },
+    "380": {
+        "ref_ans": [
+            "4"
+        ],
+        "gpt-5-mini": [
+            "1",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "1",
+            "4"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "4",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1",
+            "4"
+        ]
+    },
+    "381": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "3",
+            "4",
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "382": {
+        "ref_ans": [
+            "3"
+        ],
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "3"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3"
+        ]
+    },
+    "383": {
+        "ref_ans": [
+            "3"
+        ],
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "3",
+            "4"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3"
+        ]
+    },
+    "384": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1"
+        ],
+        "Qwen/Qwen3-32B": []
+    },
+    "385": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "3",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "4",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "4"
+        ]
+    },
+    "386": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1",
+            "3"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1",
+            "3",
+            "0"
+        ]
+    },
+    "387": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "1",
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "Option 4",
+            "Option 2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1",
+            "2"
+        ]
+    },
+    "388": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0",
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0",
+            "2"
+        ]
+    },
+    "389": {
+        "ref_ans": [
+            "3"
+        ],
+        "gpt-5-mini": [
+            "3",
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "3",
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1",
+            "3",
+            "0"
+        ]
+    },
+    "390": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "1",
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1",
+            "2"
+        ]
+    },
+    "391": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0",
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "0",
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0",
+            "2"
+        ]
+    },
+    "392": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [],
+        "deepseek-reasoner": [],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "2"
+        ]
+    },
+    "393": {
+        "ref_ans": [
+            "3"
+        ],
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "Option"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3"
+        ]
+    },
+    "394": {
+        "ref_ans": [
+            "3"
+        ],
+        "gpt-5-mini": [
+            "3",
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "3",
+            "4",
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "3",
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3",
+            "4",
+            "0"
+        ]
+    },
+    "395": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "1",
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1",
+            "0"
+        ]
+    },
+    "396": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1"
+        ]
+    },
+    "397": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "1",
+            "0",
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "0",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1",
+            "2"
+        ]
+    },
+    "398": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "3",
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "399": {
+        "ref_ans": [
+            "3"
+        ],
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "3"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3"
+        ]
+    },
+    "400": {
+        "ref_ans": [
+            "4"
+        ],
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [],
+        "microsoft/Phi-4-mini-instruct": [
+            "4",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "4"
+        ]
+    },
+    "401": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "402": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "403": {
+        "ref_ans": [
+            "4"
+        ],
+        "gpt-5-mini": [
+            "3",
+            "4",
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "4",
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "Index 4"
+        ],
+        "Qwen/Qwen3-32B": [
+            "4"
+        ]
+    },
+    "404": {
+        "ref_ans": [
+            "3"
+        ],
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "3"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3"
+        ]
+    },
+    "405": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1",
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "4",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1",
+            "4"
+        ]
+    },
+    "406": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "1",
+            "3",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "1",
+            "3",
+            "4"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "3"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1",
+            "3"
+        ]
+    },
+    "407": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "4",
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "4",
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "408": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1",
+            "2"
+        ]
+    },
+    "409": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [],
+        "deepseek-reasoner": [],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "3"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1"
+        ]
+    },
+    "410": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "411": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "412": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1"
+        ]
+    },
+    "413": {
+        "ref_ans": [
+            "4"
+        ],
+        "gpt-5-mini": [
+            "3",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "3",
+            "4"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "4"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3",
+            "4"
+        ]
+    },
+    "414": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "1",
+            "3",
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "3",
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "2"
+        ]
+    },
+    "415": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1"
+        ]
+    },
+    "416": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "2"
+        ]
+    },
+    "417": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "2"
+        ]
+    },
+    "418": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [],
+        "deepseek-reasoner": [],
+        "microsoft/Phi-4-mini-instruct": [
+            "3"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "419": {
+        "ref_ans": [
+            "4"
+        ],
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "3",
+            "4"
+        ],
+        "Qwen/Qwen3-32B": [
+            "4"
+        ]
+    },
+    "421": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1"
+        ]
+    },
+    "422": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "423": {
+        "ref_ans": [
+            "4"
+        ],
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "4"
+        ],
+        "Qwen/Qwen3-32B": [
+            "4"
+        ]
+    },
+    "424": {
+        "ref_ans": [
+            "3"
+        ],
+        "gpt-5-mini": [
+            "1",
+            "3",
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "3",
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1",
+            "3"
+        ]
+    },
+    "425": {
+        "ref_ans": [
+            "3"
+        ],
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ],
+        "microsoft/Phi-4-mini-instruct": [],
+        "Qwen/Qwen3-32B": [
+            "3"
+        ]
+    },
+    "426": {
+        "ref_ans": [
+            "3"
+        ],
+        "gpt-5-mini": [
+            "3",
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "3",
+            "0",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3",
+            "0",
+            "2"
+        ]
+    },
+    "427": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1"
+        ]
+    },
+    "428": {
+        "ref_ans": [
+            "3"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3"
+        ]
+    },
+    "429": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            ", "
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "430": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1"
+        ]
+    },
+    "431": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "3",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "2"
+        ]
+    },
+    "432": {
+        "ref_ans": [
+            "3"
+        ],
+        "gpt-5-mini": [
+            "1",
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "3"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3"
+        ]
+    },
+    "433": {
+        "ref_ans": [
+            "4"
+        ],
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ],
+        "Qwen/Qwen3-32B": [
+            "4"
+        ]
+    },
+    "434": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0",
+            "2"
+        ]
+    },
+    "435": {
+        "ref_ans": [
+            "4"
+        ],
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "4"
+        ],
+        "Qwen/Qwen3-32B": [
+            "4"
+        ]
+    },
+    "436": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "1",
+            "0",
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1",
+            "2"
+        ]
+    },
+    "437": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "2"
+        ]
+    },
+    "438": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "3"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1"
+        ]
+    },
+    "440": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "Option: The higher total provider costs for P. vivax malaria are due to the greater number of outpatient consultations required for its treatment compared to P. falciparum."
+        ],
+        "Qwen/Qwen3-32B": [
+            "1"
+        ]
+    },
+    "441": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [],
+        "deepseek-reasoner": [],
+        "microsoft/Phi-4-mini-instruct": [
+            "1"
+        ],
+        "Qwen/Qwen3-32B": []
+    },
+    "442": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "1",
+            "0",
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "3",
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1",
+            "0",
+            "2"
+        ]
+    },
+    "443": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "444": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0",
+            "2"
+        ]
+    },
+    "445": {
+        "ref_ans": [
+            "3"
+        ],
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "3"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3"
+        ]
+    },
+    "446": {
+        "ref_ans": [
+            "3"
+        ],
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "3",
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3"
+        ]
+    },
+    "447": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1"
+        ]
+    },
+    "448": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [],
+        "deepseek-reasoner": [],
+        "microsoft/Phi-4-mini-instruct": [
+            "1"
+        ],
+        "Qwen/Qwen3-32B": []
+    },
+    "449": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "2"
+        ]
+    },
+    "450": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "4",
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1",
+            "4"
+        ]
+    },
+    "451": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1"
+        ],
+        "Qwen/Qwen3-32B": [
+            "2"
+        ]
+    },
+    "452": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "4",
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1",
+            "4",
+            "0"
+        ]
+    },
+    "453": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "4",
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "454": {
+        "ref_ans": [
+            "4"
+        ],
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "3",
+            "4",
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "4"
+        ]
+    },
+    "455": {
+        "ref_ans": [
+            "4"
+        ],
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "4"
+        ],
+        "Qwen/Qwen3-32B": [
+            "4"
+        ]
+    },
+    "456": {
+        "ref_ans": [
+            "4"
+        ],
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "3",
+            "4",
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3",
+            "4"
+        ]
+    },
+    "457": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "1",
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "Option: The observed reduction in ZIKV diversity in both the fetal bodies and fetal brains at the late stages of ZIKV infection could arise by the reduction in ZIKV diversity first occurring in the fetal periphery prior to neuroinvasion, or by the selection of certain ZIKV variants during entry into the brain.",
+            "Option: The immunocompromised nature of the AIR mouse model may influence the dynamics of vertical transmission, and the observed ZIKV population patterns may not reflect the selection pressures in immunocompetent humans."
+        ],
+        "Qwen/Qwen3-32B": [
+            "1"
+        ]
+    },
+    "458": {
+        "ref_ans": [
+            "4"
+        ],
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "4"
+        ],
+        "Qwen/Qwen3-32B": [
+            "4"
+        ]
+    },
+    "459": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1"
+        ]
+    },
+    "460": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "3",
+            "4",
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "4"
+        ],
+        "Qwen/Qwen3-32B": [
+            "4",
+            "0"
+        ]
+    },
+    "461": {
+        "ref_ans": [
+            "3"
+        ],
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "3"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3"
+        ]
+    },
+    "462": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [],
+        "microsoft/Phi-4-mini-instruct": [
+            "4",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "2"
+        ]
+    },
+    "463": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "2"
+        ]
+    },
+    "464": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "2"
+        ]
+    },
+    "465": {
+        "ref_ans": [
+            "3"
+        ],
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3"
+        ]
+    },
+    "466": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "2"
+        ]
+    },
+    "467": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "468": {
+        "ref_ans": [
+            "4"
+        ],
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4",
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "3",
+            "4",
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "4"
+        ]
+    },
+    "469": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "2"
+        ]
+    },
+    "470": {
+        "ref_ans": [
+            "4"
+        ],
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "Option: The historical presence of microfilaremia and vector infection in the nine municipalities indicates that mass drug administration should be reinstated in these areas to prevent further spread of lymphatic filariasis.",
+            "Option: Even in areas with low endemicity that have stopped mass drug administration, ongoing surveillance is necessary to prevent the risk of disease recrudescence due to migration and the presence of vector breeding sites."
+        ],
+        "Qwen/Qwen3-32B": [
+            "3",
+            "4"
+        ]
+    },
+    "471": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "3",
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "472": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "1",
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "1",
+            "3"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "3"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1",
+            "3"
+        ]
+    },
+    "473": {
+        "ref_ans": [
+            "3"
+        ],
+        "gpt-5-mini": [
+            "3",
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "3",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3",
+            "2"
+        ]
+    },
+    "474": {
+        "ref_ans": [
+            "3"
+        ],
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "3"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3"
+        ]
+    },
+    "475": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1",
+            "3"
+        ]
+    },
+    "476": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1"
+        ]
+    },
+    "477": {
+        "ref_ans": [
+            "3"
+        ],
+        "gpt-5-mini": [
+            "1",
+            "3",
+            "4",
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "1",
+            "3",
+            "4"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "Option"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1",
+            "3",
+            "4",
+            "0"
+        ]
+    },
+    "478": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "Option: The incidence rate of scabies in LTCHs in South Korea has increased, and this rate was significantly higher in hospitals without an infection control department than in hospitals with such a department."
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "479": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "480": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "0",
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1",
+            "2"
+        ]
+    },
+    "481": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "482": {
+        "ref_ans": [
+            "4"
+        ],
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "3"
+        ],
+        "Qwen/Qwen3-32B": [
+            "4"
+        ]
+    },
+    "483": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "4",
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "484": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "2"
+        ]
+    },
+    "485": {
+        "ref_ans": [
+            "3"
+        ],
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "3",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3",
+            "2"
+        ]
+    },
+    "486": {
+        "ref_ans": [
+            "3"
+        ],
+        "gpt-5-mini": [],
+        "deepseek-reasoner": [
+            "3"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "3"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3"
+        ]
+    },
+    "487": {
+        "ref_ans": [
+            "4"
+        ],
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "4"
+        ],
+        "Qwen/Qwen3-32B": [
+            "4"
+        ]
+    },
+    "488": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "2"
+        ]
+    },
+    "489": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": []
+    },
+    "490": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "491": {
+        "ref_ans": [
+            "4"
+        ],
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "3"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3"
+        ]
+    },
+    "492": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "4"
+        ],
+        "Qwen/Qwen3-32B": [
+            "2"
+        ]
+    },
+    "493": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "2"
+        ]
+    },
+    "495": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-5-mini": [],
+        "deepseek-reasoner": [],
+        "microsoft/Phi-4-mini-instruct": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "496": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "0",
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "0",
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "0",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3",
+            "0",
+            "2"
+        ]
+    },
+    "497": {
+        "ref_ans": [
+            "4"
+        ],
+        "gpt-5-mini": [
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "4"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "4"
+        ],
+        "Qwen/Qwen3-32B": [
+            "4"
+        ]
+    },
+    "498": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "1",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1",
+            "0"
+        ]
+    },
+    "499": {
+        "ref_ans": [
+            "4"
+        ],
+        "gpt-5-mini": [
+            "1",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "1",
+            "4"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "4"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1",
+            "4"
+        ]
+    }
+}

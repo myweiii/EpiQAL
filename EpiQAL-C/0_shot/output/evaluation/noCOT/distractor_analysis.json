@@ -1,0 +1,91 @@
+{
+    "distractor_distribution": {
+        "Speculation/limitation": 1109,
+        "External dependency": 379,
+        "Causal reversal": 291,
+        "Background only": 8,
+        "unknown": 1
+    },
+    "overall_deception_rate": {
+        "Background only": {
+            "misselected": 8,
+            "exposed": 16,
+            "rate": 0.5
+        },
+        "Causal reversal": {
+            "misselected": 8,
+            "exposed": 582,
+            "rate": 0.013745704467353952
+        },
+        "External dependency": {
+            "misselected": 45,
+            "exposed": 758,
+            "rate": 0.059366754617414245
+        },
+        "Speculation/limitation": {
+            "misselected": 251,
+            "exposed": 2218,
+            "rate": 0.11316501352569883
+        }
+    },
+    "per_model_deception_rate": {
+        "deepseek-reasoner": {
+            "Background only": {
+                "misselected": 1,
+                "total_in_category": 8,
+                "rate": 0.125
+            },
+            "Causal reversal": {
+                "misselected": 2,
+                "total_in_category": 291,
+                "rate": 0.006872852233676976
+            },
+            "External dependency": {
+                "misselected": 16,
+                "total_in_category": 379,
+                "rate": 0.04221635883905013
+            },
+            "Speculation/limitation": {
+                "misselected": 84,
+                "total_in_category": 1109,
+                "rate": 0.0757439134355275
+            },
+            "overall": {
+                "misselected": 103,
+                "total_distractors": 1787,
+                "rate": 0.05763850027979855
+            }
+        },
+        "gpt-5-mini": {
+            "Background only": {
+                "misselected": 7,
+                "total_in_category": 8,
+                "rate": 0.875
+            },
+            "Causal reversal": {
+                "misselected": 6,
+                "total_in_category": 291,
+                "rate": 0.020618556701030927
+            },
+            "External dependency": {
+                "misselected": 29,
+                "total_in_category": 379,
+                "rate": 0.07651715039577836
+            },
+            "Speculation/limitation": {
+                "misselected": 167,
+                "total_in_category": 1109,
+                "rate": 0.15058611361587015
+            },
+            "overall": {
+                "misselected": 209,
+                "total_distractors": 1787,
+                "rate": 0.11695579182988249
+            }
+        }
+    },
+    "per_model_total_errors": {
+        "gpt-5-mini": 209,
+        "deepseek-reasoner": 103
+    }
+}

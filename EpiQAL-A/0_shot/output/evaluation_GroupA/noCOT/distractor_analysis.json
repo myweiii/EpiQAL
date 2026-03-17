@@ -1,0 +1,427 @@
+{
+    "distractor_distribution": {
+        "Wrong entity/role": 403,
+        "Semantic near-miss": 242,
+        "Wrong context": 203,
+        "Wrong metric": 112,
+        "unknown": 2
+    },
+    "overall_deception_rate": {
+        "Semantic near-miss": {
+            "misselected": 571,
+            "exposed": 3388,
+            "rate": 0.16853600944510036
+        },
+        "Wrong context": {
+            "misselected": 232,
+            "exposed": 2842,
+            "rate": 0.08163265306122448
+        },
+        "Wrong entity/role": {
+            "misselected": 445,
+            "exposed": 5642,
+            "rate": 0.07887274016306274
+        },
+        "Wrong metric": {
+            "misselected": 144,
+            "exposed": 1568,
+            "rate": 0.09183673469387756
+        }
+    },
+    "per_model_deception_rate": {
+        "GLM-4.5-Air": {
+            "Semantic near-miss": {
+                "misselected": 31,
+                "total_in_category": 242,
+                "rate": 0.128099173553719
+            },
+            "Wrong context": {
+                "misselected": 7,
+                "total_in_category": 203,
+                "rate": 0.034482758620689655
+            },
+            "Wrong entity/role": {
+                "misselected": 19,
+                "total_in_category": 403,
+                "rate": 0.04714640198511166
+            },
+            "Wrong metric": {
+                "misselected": 7,
+                "total_in_category": 112,
+                "rate": 0.0625
+            },
+            "overall": {
+                "misselected": 65,
+                "total_distractors": 960,
+                "rate": 0.06770833333333333
+            }
+        },
+        "Llama-3.1-8B-Instruct": {
+            "Semantic near-miss": {
+                "misselected": 45,
+                "total_in_category": 242,
+                "rate": 0.1859504132231405
+            },
+            "Wrong context": {
+                "misselected": 19,
+                "total_in_category": 203,
+                "rate": 0.09359605911330049
+            },
+            "Wrong entity/role": {
+                "misselected": 35,
+                "total_in_category": 403,
+                "rate": 0.08684863523573201
+            },
+            "Wrong metric": {
+                "misselected": 12,
+                "total_in_category": 112,
+                "rate": 0.10714285714285714
+            },
+            "overall": {
+                "misselected": 112,
+                "total_distractors": 960,
+                "rate": 0.11666666666666667
+            }
+        },
+        "Llama-3.2-3B-Instruct": {
+            "Semantic near-miss": {
+                "misselected": 53,
+                "total_in_category": 242,
+                "rate": 0.2190082644628099
+            },
+            "Wrong context": {
+                "misselected": 48,
+                "total_in_category": 203,
+                "rate": 0.23645320197044334
+            },
+            "Wrong entity/role": {
+                "misselected": 80,
+                "total_in_category": 403,
+                "rate": 0.19851116625310175
+            },
+            "Wrong metric": {
+                "misselected": 25,
+                "total_in_category": 112,
+                "rate": 0.22321428571428573
+            },
+            "overall": {
+                "misselected": 208,
+                "total_distractors": 960,
+                "rate": 0.21666666666666667
+            }
+        },
+        "Llama-3.3-70B-Instruct": {
+            "Semantic near-miss": {
+                "misselected": 36,
+                "total_in_category": 242,
+                "rate": 0.1487603305785124
+            },
+            "Wrong context": {
+                "misselected": 19,
+                "total_in_category": 203,
+                "rate": 0.09359605911330049
+            },
+            "Wrong entity/role": {
+                "misselected": 36,
+                "total_in_category": 403,
+                "rate": 0.08933002481389578
+            },
+            "Wrong metric": {
+                "misselected": 11,
+                "total_in_category": 112,
+                "rate": 0.09821428571428571
+            },
+            "overall": {
+                "misselected": 104,
+                "total_distractors": 960,
+                "rate": 0.10833333333333334
+            }
+        },
+        "Mistral-7B-Instruct-v0.3": {
+            "Semantic near-miss": {
+                "misselected": 22,
+                "total_in_category": 242,
+                "rate": 0.09090909090909091
+            },
+            "Wrong context": {
+                "misselected": 18,
+                "total_in_category": 203,
+                "rate": 0.08866995073891626
+            },
+            "Wrong entity/role": {
+                "misselected": 33,
+                "total_in_category": 403,
+                "rate": 0.08188585607940446
+            },
+            "Wrong metric": {
+                "misselected": 8,
+                "total_in_category": 112,
+                "rate": 0.07142857142857142
+            },
+            "overall": {
+                "misselected": 81,
+                "total_distractors": 960,
+                "rate": 0.084375
+            }
+        },
+        "Mistral-Large-Instruct-2411": {
+            "Semantic near-miss": {
+                "misselected": 33,
+                "total_in_category": 242,
+                "rate": 0.13636363636363635
+            },
+            "Wrong context": {
+                "misselected": 6,
+                "total_in_category": 203,
+                "rate": 0.029556650246305417
+            },
+            "Wrong entity/role": {
+                "misselected": 16,
+                "total_in_category": 403,
+                "rate": 0.03970223325062035
+            },
+            "Wrong metric": {
+                "misselected": 4,
+                "total_in_category": 112,
+                "rate": 0.03571428571428571
+            },
+            "overall": {
+                "misselected": 59,
+                "total_distractors": 960,
+                "rate": 0.06145833333333333
+            }
+        },
+        "Phi-4-mini-instruct": {
+            "Semantic near-miss": {
+                "misselected": 75,
+                "total_in_category": 242,
+                "rate": 0.30991735537190085
+            },
+            "Wrong context": {
+                "misselected": 46,
+                "total_in_category": 203,
+                "rate": 0.22660098522167488
+            },
+            "Wrong entity/role": {
+                "misselected": 76,
+                "total_in_category": 403,
+                "rate": 0.18858560794044665
+            },
+            "Wrong metric": {
+                "misselected": 25,
+                "total_in_category": 112,
+                "rate": 0.22321428571428573
+            },
+            "overall": {
+                "misselected": 228,
+                "total_distractors": 960,
+                "rate": 0.2375
+            }
+        },
+        "Qwen3-30B-A3B-Instruct-2507": {
+            "Semantic near-miss": {
+                "misselected": 36,
+                "total_in_category": 242,
+                "rate": 0.1487603305785124
+            },
+            "Wrong context": {
+                "misselected": 5,
+                "total_in_category": 203,
+                "rate": 0.024630541871921183
+            },
+            "Wrong entity/role": {
+                "misselected": 19,
+                "total_in_category": 403,
+                "rate": 0.04714640198511166
+            },
+            "Wrong metric": {
+                "misselected": 6,
+                "total_in_category": 112,
+                "rate": 0.05357142857142857
+            },
+            "overall": {
+                "misselected": 66,
+                "total_distractors": 960,
+                "rate": 0.06875
+            }
+        },
+        "Qwen3-32B": {
+            "Semantic near-miss": {
+                "misselected": 36,
+                "total_in_category": 242,
+                "rate": 0.1487603305785124
+            },
+            "Wrong context": {
+                "misselected": 6,
+                "total_in_category": 203,
+                "rate": 0.029556650246305417
+            },
+            "Wrong entity/role": {
+                "misselected": 23,
+                "total_in_category": 403,
+                "rate": 0.05707196029776675
+            },
+            "Wrong metric": {
+                "misselected": 6,
+                "total_in_category": 112,
+                "rate": 0.05357142857142857
+            },
+            "overall": {
+                "misselected": 72,
+                "total_distractors": 960,
+                "rate": 0.075
+            }
+        },
+        "Qwen3-8B": {
+            "Semantic near-miss": {
+                "misselected": 46,
+                "total_in_category": 242,
+                "rate": 0.19008264462809918
+            },
+            "Wrong context": {
+                "misselected": 16,
+                "total_in_category": 203,
+                "rate": 0.07881773399014778
+            },
+            "Wrong entity/role": {
+                "misselected": 37,
+                "total_in_category": 403,
+                "rate": 0.09181141439205956
+            },
+            "Wrong metric": {
+                "misselected": 11,
+                "total_in_category": 112,
+                "rate": 0.09821428571428571
+            },
+            "overall": {
+                "misselected": 111,
+                "total_distractors": 960,
+                "rate": 0.115625
+            }
+        },
+        "deepseek-reasoner": {
+            "Semantic near-miss": {
+                "misselected": 33,
+                "total_in_category": 242,
+                "rate": 0.13636363636363635
+            },
+            "Wrong context": {
+                "misselected": 3,
+                "total_in_category": 203,
+                "rate": 0.014778325123152709
+            },
+            "Wrong entity/role": {
+                "misselected": 6,
+                "total_in_category": 403,
+                "rate": 0.01488833746898263
+            },
+            "Wrong metric": {
+                "misselected": 3,
+                "total_in_category": 112,
+                "rate": 0.026785714285714284
+            },
+            "overall": {
+                "misselected": 45,
+                "total_distractors": 960,
+                "rate": 0.046875
+            }
+        },
+        "gpt-4.1-nano": {
+            "Semantic near-miss": {
+                "misselected": 29,
+                "total_in_category": 242,
+                "rate": 0.11983471074380166
+            },
+            "Wrong context": {
+                "misselected": 11,
+                "total_in_category": 203,
+                "rate": 0.054187192118226604
+            },
+            "Wrong entity/role": {
+                "misselected": 21,
+                "total_in_category": 403,
+                "rate": 0.052109181141439205
+            },
+            "Wrong metric": {
+                "misselected": 7,
+                "total_in_category": 112,
+                "rate": 0.0625
+            },
+            "overall": {
+                "misselected": 75,
+                "total_distractors": 960,
+                "rate": 0.078125
+            }
+        },
+        "gpt-4o-mini": {
+            "Semantic near-miss": {
+                "misselected": 54,
+                "total_in_category": 242,
+                "rate": 0.2231404958677686
+            },
+            "Wrong context": {
+                "misselected": 22,
+                "total_in_category": 203,
+                "rate": 0.10837438423645321
+            },
+            "Wrong entity/role": {
+                "misselected": 34,
+                "total_in_category": 403,
+                "rate": 0.08436724565756824
+            },
+            "Wrong metric": {
+                "misselected": 13,
+                "total_in_category": 112,
+                "rate": 0.11607142857142858
+            },
+            "overall": {
+                "misselected": 125,
+                "total_distractors": 960,
+                "rate": 0.13020833333333334
+            }
+        },
+        "gpt-5-mini": {
+            "Semantic near-miss": {
+                "misselected": 42,
+                "total_in_category": 242,
+                "rate": 0.17355371900826447
+            },
+            "Wrong context": {
+                "misselected": 6,
+                "total_in_category": 203,
+                "rate": 0.029556650246305417
+            },
+            "Wrong entity/role": {
+                "misselected": 10,
+                "total_in_category": 403,
+                "rate": 0.02481389578163772
+            },
+            "Wrong metric": {
+                "misselected": 6,
+                "total_in_category": 112,
+                "rate": 0.05357142857142857
+            },
+            "overall": {
+                "misselected": 65,
+                "total_distractors": 960,
+                "rate": 0.06770833333333333
+            }
+        }
+    },
+    "per_model_total_errors": {
+        "Phi-4-mini-instruct": 228,
+        "Llama-3.2-3B-Instruct": 208,
+        "gpt-4o-mini": 125,
+        "Llama-3.1-8B-Instruct": 112,
+        "Qwen3-8B": 111,
+        "Llama-3.3-70B-Instruct": 104,
+        "Mistral-7B-Instruct-v0.3": 81,
+        "gpt-4.1-nano": 75,
+        "Qwen3-32B": 72,
+        "Qwen3-30B-A3B-Instruct-2507": 66,
+        "GLM-4.5-Air": 65,
+        "gpt-5-mini": 65,
+        "Mistral-Large-Instruct-2411": 59,
+        "deepseek-reasoner": 45
+    }
+}

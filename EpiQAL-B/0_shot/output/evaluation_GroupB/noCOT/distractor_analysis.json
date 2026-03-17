@@ -1,0 +1,91 @@
+{
+    "distractor_distribution": {
+        "Causal/logical error": 982,
+        "Variable confusion": 689,
+        "Assumption violation": 138,
+        "Methodological mismatch": 57,
+        "unknown": 1
+    },
+    "overall_deception_rate": {
+        "Assumption violation": {
+            "misselected": 56,
+            "exposed": 276,
+            "rate": 0.2028985507246377
+        },
+        "Causal/logical error": {
+            "misselected": 440,
+            "exposed": 1964,
+            "rate": 0.2240325865580448
+        },
+        "Methodological mismatch": {
+            "misselected": 24,
+            "exposed": 114,
+            "rate": 0.21052631578947367
+        },
+        "Variable confusion": {
+            "misselected": 326,
+            "exposed": 1378,
+            "rate": 0.2365747460087083
+        }
+    },
+    "per_model_deception_rate": {
+        "gpt-4.1-nano": {
+            "Assumption violation": {
+                "misselected": 15,
+                "total_in_category": 138,
+                "rate": 0.10869565217391304
+            },
+            "Causal/logical error": {
+                "misselected": 100,
+                "total_in_category": 982,
+                "rate": 0.10183299389002037
+            },
+            "Methodological mismatch": {
+                "misselected": 6,
+                "total_in_category": 57,
+                "rate": 0.10526315789473684
+            },
+            "Variable confusion": {
+                "misselected": 80,
+                "total_in_category": 689,
+                "rate": 0.11611030478955008
+            },
+            "overall": {
+                "misselected": 201,
+                "total_distractors": 1866,
+                "rate": 0.10771704180064309
+            }
+        },
+        "gpt-4o-mini": {
+            "Assumption violation": {
+                "misselected": 41,
+                "total_in_category": 138,
+                "rate": 0.2971014492753623
+            },
+            "Causal/logical error": {
+                "misselected": 340,
+                "total_in_category": 982,
+                "rate": 0.34623217922606925
+            },
+            "Methodological mismatch": {
+                "misselected": 18,
+                "total_in_category": 57,
+                "rate": 0.3157894736842105
+            },
+            "Variable confusion": {
+                "misselected": 246,
+                "total_in_category": 689,
+                "rate": 0.3570391872278665
+            },
+            "overall": {
+                "misselected": 647,
+                "total_distractors": 1866,
+                "rate": 0.3467309753483387
+            }
+        }
+    },
+    "per_model_total_errors": {
+        "gpt-4o-mini": 647,
+        "gpt-4.1-nano": 201
+    }
+}

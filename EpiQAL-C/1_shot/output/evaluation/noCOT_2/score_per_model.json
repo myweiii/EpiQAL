@@ -1,0 +1,36 @@
+{
+    "Score": {
+        "f1": 0.6453047619047619,
+        "exact_match": 0.44057142857142867
+    },
+    "Model": {
+        "Qwen/Qwen3-8B": {
+            "f1": 0.6691333333333334,
+            "exact_match": 0.47
+        },
+        "Qwen/Qwen3-30B-A3B-Instruct-2507": {
+            "f1": 0.7078,
+            "exact_match": 0.522
+        },
+        "meta-llama/Llama-3.1-8B-Instruct": {
+            "f1": 0.5956666666666668,
+            "exact_match": 0.238
+        },
+        "meta-llama/Llama-3.2-3B-Instruct": {
+            "f1": 0.28046666666666664,
+            "exact_match": 0.094
+        },
+        "microsoft/Phi-4-mini-instruct": {
+            "f1": 0.7335999999999999,
+            "exact_match": 0.426
+        },
+        "mistralai/Mistral-7B-Instruct-v0.3": {
+            "f1": 0.8141333333333334,
+            "exact_match": 0.78
+        },
+        "zai-org/GLM-4.5-Air": {
+            "f1": 0.7163333333333333,
+            "exact_match": 0.554
+        }
+    }
+}

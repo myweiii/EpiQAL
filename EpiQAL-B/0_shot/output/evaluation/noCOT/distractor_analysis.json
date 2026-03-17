@@ -1,0 +1,91 @@
+{
+    "distractor_distribution": {
+        "Causal/logical error": 982,
+        "Variable confusion": 689,
+        "Assumption violation": 138,
+        "Methodological mismatch": 57,
+        "unknown": 1
+    },
+    "overall_deception_rate": {
+        "Assumption violation": {
+            "misselected": 28,
+            "exposed": 276,
+            "rate": 0.10144927536231885
+        },
+        "Causal/logical error": {
+            "misselected": 214,
+            "exposed": 1964,
+            "rate": 0.10896130346232179
+        },
+        "Methodological mismatch": {
+            "misselected": 9,
+            "exposed": 114,
+            "rate": 0.07894736842105263
+        },
+        "Variable confusion": {
+            "misselected": 187,
+            "exposed": 1378,
+            "rate": 0.13570391872278664
+        }
+    },
+    "per_model_deception_rate": {
+        "deepseek-reasoner": {
+            "Assumption violation": {
+                "misselected": 6,
+                "total_in_category": 138,
+                "rate": 0.043478260869565216
+            },
+            "Causal/logical error": {
+                "misselected": 49,
+                "total_in_category": 982,
+                "rate": 0.04989816700610998
+            },
+            "Methodological mismatch": {
+                "misselected": 2,
+                "total_in_category": 57,
+                "rate": 0.03508771929824561
+            },
+            "Variable confusion": {
+                "misselected": 44,
+                "total_in_category": 689,
+                "rate": 0.06386066763425254
+            },
+            "overall": {
+                "misselected": 101,
+                "total_distractors": 1866,
+                "rate": 0.05412647374062165
+            }
+        },
+        "gpt-5-mini": {
+            "Assumption violation": {
+                "misselected": 22,
+                "total_in_category": 138,
+                "rate": 0.15942028985507245
+            },
+            "Causal/logical error": {
+                "misselected": 165,
+                "total_in_category": 982,
+                "rate": 0.1680244399185336
+            },
+            "Methodological mismatch": {
+                "misselected": 7,
+                "total_in_category": 57,
+                "rate": 0.12280701754385964
+            },
+            "Variable confusion": {
+                "misselected": 143,
+                "total_in_category": 689,
+                "rate": 0.20754716981132076
+            },
+            "overall": {
+                "misselected": 337,
+                "total_distractors": 1866,
+                "rate": 0.18060021436227225
+            }
+        }
+    },
+    "per_model_total_errors": {
+        "gpt-5-mini": 337,
+        "deepseek-reasoner": 101
+    }
+}

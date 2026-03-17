@@ -1,0 +1,258 @@
+{
+    "0": {
+        "deepseek-chat_1": [
+            {
+                "Category": "Distractor",
+                "Option": "Acanthamoeba castellanii and Acanthamoeba spp.",
+                "Coherence": "Yes",
+                "Rationale": "All checks pass. Step 2: The evidence is an exact verbatim quote from the passage. Step 3: The option contains 'Acanthamoeba castellanii' which is explicitly stated, and 'Acanthamoeba spp.' is a general term used throughout the passage. Step 4: The option addresses the question about which two species were used. Step 5: The option is incorrect because 'Acanthamoeba spp.' is not a specific second species; the correct second species is 'Acanthamoeba polyphaga'. This is a substantive factual error. Step 6: The rationale correctly identifies the error as using a generic term instead of the specific species."
+            },
+            {
+                "Category": "Distractor",
+                "Option": "Acanthamoeba polyphaga and Acanthamoeba castellanii",
+                "Coherence": "No",
+                "Rationale": "Step 5 check fails. The option lists the two correct species, 'Acanthamoeba polyphaga' and 'Acanthamoeba castellanii'. The question asks 'Which two Acanthamoeba species were used...?' It does not specify an order. The order of listing is a surface-level difference, not a substantive factual error. Therefore, this option could correctly answer the question. The rationale incorrectly claims the order makes it a distractor, but order is not a substantive factual difference for this question type. Since the option is factually correct, it cannot be a valid distractor."
+            }
+        ],
+        "deepseek-chat_2": [
+            {
+                "Category": "Distractor",
+                "Option": "Acanthamoeba castellanii and Acanthamoeba spp.",
+                "Coherence": "Yes",
+                "Rationale": "All checks pass. Step 2: The evidence is an exact verbatim quote from the passage. Step 3: 'Acanthamoeba castellanii' and the term 'Acanthamoeba spp.' appear in the passage. Step 4: The option addresses the question about which two species were used. Step 5: The option is incorrect because 'Acanthamoeba spp.' is a generic term for the genus, not the name of the second specific species used in the study (which is Acanthamoeba polyphaga). This is a substantive factual error. Step 6: The rationale correctly identifies this as a plausible but incorrect answer due to the lack of specificity."
+            },
+            {
+                "Category": "Distractor",
+                "Option": "Acanthamoeba polyphaga and Acanthamoeba castellanii",
+                "Coherence": "No",
+                "Rationale": "Check in Step 5 fails. Step 2: The evidence is an exact verbatim quote. Step 3: Both species names appear in the passage. Step 4: The option addresses the question. Step 5: This option could correctly answer the question. The question asks 'Which two Acanthamoeba species were used...?' It does not specify an order. Listing the two correct species in any order constitutes a correct answer. There is no substantive factual error. Therefore, this option is not a valid distractor; it is a correct answer. Step 6: The rationale claims the option is incorrect due to reversed order, but order is not a substantive factual requirement for this question. The rationale is not logically sound for labeling this as a distractor."
+            }
+        ],
+        "deepseek-chat_3": [
+            {
+                "Category": "Distractor",
+                "Option": "Acanthamoeba castellanii and Acanthamoeba spp.",
+                "Coherence": "Yes",
+                "Rationale": "All checks pass. Step 2: The evidence is an exact verbatim quote from the passage. Step 3: Both 'Acanthamoeba castellanii' and 'Acanthamoeba spp.' appear in the passage. Step 4: The option addresses the question about which two species were used. Step 5: The option is incorrect because 'Acanthamoeba spp.' is a generic term for the genus, not the name of the second specific species used in the study (which is Acanthamoeba polyphaga). This is a substantive factual error. Step 6: The rationale correctly identifies the error as a lack of specificity."
+            },
+            {
+                "Category": "Distractor",
+                "Option": "Acanthamoeba polyphaga and Acanthamoeba castellanii",
+                "Coherence": "No",
+                "Rationale": "Check failed in Step 5. Step 2: The evidence is an exact verbatim quote. Step 3: Both species names are explicitly stated in the passage. Step 4: The option directly answers the question. Step 5: This option could correctly answer the question. The question asks 'Which two Acanthamoeba species were used...?' It does not specify an order. Listing the two correct species in any order constitutes a correct answer. There is no substantive factual error. Therefore, this option is not a valid distractor. Step 6: The rationale incorrectly claims the option is 'incorrect in presentation' due to reversed order, but order is not a substantive factual requirement for this question."
+            }
+        ]
+    },
+    "1": {
+        "deepseek-chat_1": [
+            {
+                "Category": "Distractor",
+                "Option": "Cure rate (CR)",
+                "Coherence": "No",
+                "Rationale": "Step 5 check failed. The option 'Cure rate (CR)' could be accepted as a correct answer to the question. The passage states: 'The WHO-recommended primary outcome measure for anthelmintic drug efficacy is the egg reduction rate (ERR) [8].' While this establishes ERR as the primary measure, the question asks for 'the primary outcome measure recommended by the World Health Organization.' The passage explicitly states ERR is the primary measure, making CR a secondary or alternative measure. Therefore, CR is factually incorrect as the primary measure. However, the rationale provided states 'CR is a correct but incorrect answer to this specific question,' which is a self-contradiction (a correct answer cannot be incorrect). This indicates a failure in Step 6 (rationale logic). More critically, the rationale's phrasing suggests the evaluator believes CR could be considered correct, which contradicts the requirement for a distractor to be unambiguously wrong. Since the option is factually wrong (ERR is primary, not CR), the distractor label is coherent, but the provided rationale undermines this by implying it's 'correct.' Given the instruction to mark Coherence as 'No' if any check fails, and Step 6 fails due to the contradictory rationale, the final judgment is No."
+            },
+            {
+                "Category": "Distractor",
+                "Option": "Log-transformed EPG",
+                "Coherence": "Yes",
+                "Rationale": "All checks pass. Step 2: The evidence 'EPG were log-transformed before modeling.' is an exact verbatim quote. Step 3: 'Log-transformed EPG' is explicitly mentioned in the passage as a data transformation step. Step 4: The option is relevant as it pertains to efficacy assessment methodology. Step 5: The option is incorrect. The primary WHO-recommended outcome measure is the Egg Reduction Rate (ERR), not the log-transformation of EPG counts, which is a statistical preprocessing step. Step 6: The rationale correctly identifies this as a technical detail distinct from the primary outcome measure and explains why it is a plausible but incorrect answer."
+            },
+            {
+                "Category": "Distractor",
+                "Option": "Number of stool samples taken",
+                "Coherence": "Yes",
+                "Rationale": "All checks pass. Step 2: The evidence 'the number of stool samples taken and the number of parasitologic tests conducted on a single sample...' is an exact verbatim quote. Step 3: The 'number of stool samples taken' is explicitly discussed in the passage as a methodological factor. Step 4: The option is relevant as it relates to the assessment of drug efficacy. Step 5: The option is incorrect. It describes a procedural variable that influences assessment, not the primary outcome measure itself, which is the ERR. Step 6: The rationale correctly explains that this is a procedural detail, not the recommended primary outcome, making it a valid distractor."
+            }
+        ],
+        "deepseek-chat_2": [
+            {
+                "Category": "Distractor",
+                "Option": "Cure rate (CR)",
+                "Coherence": "Yes",
+                "Rationale": "All checks pass. Step 2: The evidence quotes are exact verbatim from the passage. Step 3: The option 'Cure rate (CR)' is explicitly mentioned in the passage. Step 4: The option addresses the question as it is a measure of drug efficacy. Step 5: The option is incorrect because the passage clearly states that the WHO-recommended primary outcome measure is the egg reduction rate (ERR), not the cure rate. The passage says: 'The WHO-recommended primary outcome measure for anthelmintic drug efficacy is the egg reduction rate (ERR) [8].' CR is mentioned as another measure, but not as the primary one. Step 6: The rationale correctly identifies this as a plausible but incorrect answer."
+            },
+            {
+                "Category": "Distractor",
+                "Option": "Log-transformed EPG",
+                "Coherence": "Yes",
+                "Rationale": "All checks pass. Step 2: The evidence quotes are exact verbatim from the passage. Step 3: The concept of 'log-transformed EPG' is explicitly mentioned in the passage. Step 4: The option addresses the question as it relates to assessing drug efficacy. Step 5: The option is incorrect. 'Log-transformed EPG' is a data transformation technique used in statistical modeling, not the primary outcome measure recommended by WHO. The primary measure is ERR. Step 6: The rationale correctly explains why this is a plausible but incorrect answer."
+            },
+            {
+                "Category": "Distractor",
+                "Option": "Number of stool samples taken",
+                "Coherence": "Yes",
+                "Rationale": "All checks pass. Step 2: The evidence quotes are exact verbatim from the passage. Step 3: The 'number of stool samples taken' is explicitly mentioned in the passage. Step 4: The option addresses the question as it is a factor in assessing drug efficacy. Step 5: The option is incorrect. The 'number of stool samples taken' is a methodological detail that influences the assessment, but it is not the primary outcome measure. The WHO-recommended primary measure is ERR. Step 6: The rationale correctly explains why this is a plausible but incorrect answer."
+            }
+        ],
+        "deepseek-chat_3": [
+            {
+                "Category": "Distractor",
+                "Option": "Cure rate (CR)",
+                "Coherence": "No",
+                "Rationale": "Step 5 failed. The passage states: 'Drug efficacy was expressed as ERR and cure rate (CR).' and 'The WHO-recommended primary outcome measure for anthelmintic drug efficacy is the egg reduction rate (ERR) [8].' The question asks for the 'primary outcome measure recommended by the World Health Organization.' While ERR is explicitly named as the primary measure, the passage presents CR as another valid, co-existing measure of drug efficacy. The option 'Cure rate (CR)' is a correct measure for assessing drug efficacy according to the passage, and the question does not specify that only one measure exists. Therefore, this option could be accepted as a correct answer, making the Distractor label incoherent. The rationale acknowledges CR is a 'valid metric' but incorrectly claims it's 'correct but incorrect,' which is a contradiction."
+            },
+            {
+                "Category": "Distractor",
+                "Option": "Log-transformed EPG",
+                "Coherence": "Yes",
+                "Rationale": "All checks pass. Step 2: The evidence 'EPG were log-transformed before modeling.' is an exact verbatim quote. Step 3: The option is based on information explicitly stated. Step 4: It addresses the question as it relates to assessing drug efficacy. Step 5: The option is incorrect. The passage states the WHO-recommended primary outcome measure is the 'egg reduction rate (ERR).' 'Log-transformed EPG' is a data transformation step used in statistical modeling, not the primary outcome measure itself. Step 6: The rationale correctly identifies this as a technical detail distinct from the primary outcome measure."
+            },
+            {
+                "Category": "Distractor",
+                "Option": "Number of stool samples taken",
+                "Coherence": "Yes",
+                "Rationale": "All checks pass. Step 2: The evidence 'the number of stool samples taken and the number of parasitologic tests conducted on a single sample...' is an exact verbatim quote. Step 3: The option is based on information explicitly stated. Step 4: It addresses the question as it relates to factors in efficacy assessment. Step 5: The option is incorrect. The passage identifies this as one of many complicating factors and methodological variabilities, not the primary outcome measure. The WHO-recommended primary outcome measure is explicitly stated as ERR. Step 6: The rationale correctly explains this is a procedural detail, not the primary measure."
+            }
+        ]
+    },
+    "2": {
+        "deepseek-chat_1": [
+            {
+                "Category": "Distractor",
+                "Option": "42.3\u201352.3%",
+                "Coherence": "Yes",
+                "Rationale": "All checks pass. Step 2: The evidence is an exact verbatim quote from the passage. Step 3: The range '42.3\u201352.3%' is explicitly stated in the passage. Step 4: The option addresses the question as it provides a percentage related to AH increase. Step 5: The option is incorrect because it represents the 95% confidence interval, not the point estimate (47.2%) which is the 'estimated percentage increase' asked for in the question. Step 6: The rationale correctly identifies this as a confidence interval and explains why it's a plausible but incorrect answer."
+            },
+            {
+                "Category": "Distractor",
+                "Option": "2.6%",
+                "Coherence": "Yes",
+                "Rationale": "All checks pass. Step 2: The evidence is an exact verbatim quote from the passage. Step 3: '2.6%' is explicitly stated in the passage. Step 4: The option addresses the question as it provides a percentage increase related to a humidity measure. Step 5: The option is incorrect because it refers to 'annual mean AH' (moisture condition), not the monthly AH increase specified in the question. This is a substantive factual difference in the variable being measured. Step 6: The rationale correctly distinguishes between monthly AH and annual mean AH."
+            },
+            {
+                "Category": "Distractor",
+                "Option": "64.5%",
+                "Coherence": "Yes",
+                "Rationale": "All checks pass. Step 2: The evidence is an exact verbatim quote from the passage. Step 3: '64.5%' is explicitly stated in the passage. Step 4: The option addresses the question as it provides a percentage increase from the same predictive model. Step 5: The option is incorrect because it refers to the MEI (multivariate El Ni\u00f1o\u2013Southern Oscillation index), not absolute humidity (AH) as specified in the question. This is a substantive factual error in the variable. Step 6: The rationale correctly identifies this as referring to MEI rather than AH."
+            }
+        ],
+        "deepseek-chat_2": [
+            {
+                "Category": "Distractor",
+                "Option": "42.3\u201352.3%",
+                "Coherence": "Yes",
+                "Rationale": "All checks pass. Step 2: The evidence is an exact verbatim quote from the passage. Step 3: The option content (the confidence interval range) is explicitly stated in the passage. Step 4: The option addresses the question as it provides a percentage related to AH increase. Step 5: The option is incorrect because it represents the 95% confidence interval around the point estimate, not the estimated percentage increase itself. The question asks for the 'estimated percentage increase,' which refers to the point estimate (47.2%). Step 6: The rationale correctly explains why this is a plausible but incorrect answer, noting the confusion between point estimate and confidence interval."
+            },
+            {
+                "Category": "Distractor",
+                "Option": "2.6%",
+                "Coherence": "Yes",
+                "Rationale": "All checks pass. Step 2: The evidence is an exact verbatim quote from the passage. Step 3: The option content (2.6%) is explicitly stated in the passage. Step 4: The option addresses the question as it provides a percentage increase associated with a humidity-related variable. Step 5: The option is incorrect because it refers to 'annual mean AH' (moisture condition), not the monthly AH increase specified in the question. The question asks about 'a 1 g/m\u00b3 increase in absolute humidity (AH)' which corresponds to the monthly variable with 47.2% increase. Step 6: The rationale correctly identifies the factual error of confusing different humidity measures."
+            },
+            {
+                "Category": "Distractor",
+                "Option": "64.5%",
+                "Coherence": "Yes",
+                "Rationale": "All checks pass. Step 2: The evidence is an exact verbatim quote from the passage. Step 3: The option content (64.5%) is explicitly stated in the passage. Step 4: The option addresses the question as it provides a percentage increase from the same predictive model. Step 5: The option is incorrect because it refers to the MEI (multivariate El Ni\u00f1o\u2013Southern Oscillation index), not absolute humidity. The question specifically asks about AH increase. Step 6: The rationale correctly explains that this value belongs to a different variable, making it a valid distractor."
+            }
+        ],
+        "deepseek-chat_3": [
+            {
+                "Category": "Distractor",
+                "Option": "42.3\u201352.3%",
+                "Coherence": "Yes",
+                "Rationale": "All checks pass. Step 2: The evidence is an exact verbatim quote from the passage. Step 3: The option content appears in the passage. Step 4: The option addresses the question as it provides a percentage range related to AH increase. Step 5: The option is incorrect because it represents the 95% confidence interval around the point estimate (47.2%), not the estimated percentage increase itself. The question asks for the 'estimated percentage increase,' which refers to the point estimate. Step 6: The rationale correctly explains why this is a plausible but incorrect answer, noting the confusion between point estimate and confidence interval."
+            },
+            {
+                "Category": "Distractor",
+                "Option": "2.6%",
+                "Coherence": "Yes",
+                "Rationale": "All checks pass. Step 2: The evidence is an exact verbatim quote from the passage. Step 3: The option content appears in the passage. Step 4: The option addresses the question as it provides a percentage increase related to a humidity measure. Step 5: The option is incorrect because it refers to 'annual mean AH' (moisture condition), not the monthly AH increase specified in the question. The question asks about 'a 1 g/m\u00b3 increase in absolute humidity (AH)' which corresponds to the monthly value of 47.2%, not the annual mean of 2.6%. Step 6: The rationale correctly explains the distinction between monthly AH and annual mean AH."
+            },
+            {
+                "Category": "Distractor",
+                "Option": "64.5%",
+                "Coherence": "Yes",
+                "Rationale": "All checks pass. Step 2: The evidence is an exact verbatim quote from the passage. Step 3: The option content appears in the passage. Step 4: The option addresses the question as it provides a percentage increase related to a climate variable. Step 5: The option is incorrect because it refers to the MEI (multivariate El Ni\u00f1o\u2013Southern Oscillation index), not absolute humidity (AH). The question specifically asks about AH. Step 6: The rationale correctly explains that this value is for a different variable, making it a valid distractor."
+            }
+        ]
+    },
+    "3": {
+        "deepseek-chat_1": [
+            {
+                "Category": "Distractor",
+                "Option": "Lutzomyia ayacuchensis and Lutzomyia peruensis",
+                "Coherence": "Yes",
+                "Rationale": "All checks pass. Step 2: The evidence is an exact verbatim quote from the passage. Step 3: Both species are explicitly mentioned in the passage. Step 4: The option addresses the question about sand fly species infected with L. (V.) peruviana. Step 5: The option is incorrect because these species are identified as vectors in other regions (western valleys of the Central Andes and Northern/Central Andes), not in the study area of the Eastern Andes of northern Peru where the current research was conducted. The passage states the study area is where 'the vector species responsible for the transmission of L. (V.) peruviana has not been identified' and that 'the distribution of both Lu. ayacuchensis and Lu. peruensis has not been reported in these areas.' Step 6: The rationale correctly explains the geographic confusion that makes this a plausible distractor."
+            },
+            {
+                "Category": "Distractor",
+                "Option": "Pintomyia verrucarum and Lutzomyia castanea",
+                "Coherence": "Yes",
+                "Rationale": "All checks pass. Step 2: The evidence is an exact verbatim quote from the passage. Step 3: Both species are explicitly mentioned as captured in the study area. Step 4: The option addresses the question about sand fly species infected with L. (V.) peruviana. Step 5: The option is incorrect because while Pi. verrucarum was found infected, Lu. castanea was not. The passage states natural infection was detected in Pi. verrucarum and Pi. maranonensis, but makes no mention of infection in Lu. castanea. Step 6: The rationale correctly explains that this distractor relies on confusing presence with infection status."
+            }
+        ],
+        "deepseek-chat_2": [
+            {
+                "Category": "Distractor",
+                "Option": "Lutzomyia ayacuchensis and Lutzomyia peruensis",
+                "Coherence": "Yes",
+                "Rationale": "All checks pass. Step 2: The evidence is an exact verbatim quote from the passage. Step 3: The option content (species names) is explicitly stated in the passage. Step 4: The option addresses the question about sand fly species found infected in the study. Step 5: The option is incorrect. The passage states these species are vectors of L. (V.) peruviana in other regions (western valleys of the Central Andes and Northern/Central Andes), but the study area is the Eastern Andes of northern Peru. The passage explicitly says their distribution has not been reported in the study area and that the vector species in the study area were Pi. verrucarum and Pi. maranonensis. Step 6: The rationale correctly identifies the geographic error that makes this a plausible distractor."
+            },
+            {
+                "Category": "Distractor",
+                "Option": "Pintomyia verrucarum and Lutzomyia castanea",
+                "Coherence": "Yes",
+                "Rationale": "All checks pass. Step 2: The evidence is an exact verbatim quote from the passage. Step 3: Both species names are explicitly mentioned as captured in the study area. Step 4: The option addresses the question about species found infected. Step 5: The option is incorrect. While Pi. verrucarum was found infected, Lu. castanea was captured but was not reported as naturally infected with Leishmania in this study. The passage only reports natural infection in Pi. verrucarum and Pi. maranonensis. Step 6: The rationale correctly explains that this is a plausible distractor based on confusing presence with infection status."
+            }
+        ],
+        "deepseek-chat_3": [
+            {
+                "Category": "Distractor",
+                "Option": "Lutzomyia ayacuchensis and Lutzomyia peruensis",
+                "Coherence": "Yes",
+                "Rationale": "All checks pass. Step 2: The evidence is an exact verbatim quote from the passage. Step 3: Both species are explicitly mentioned in the passage. Step 4: The option addresses the question about sand fly species infected with L. (V.) peruviana. Step 5: The option is incorrect. The passage states these species are vectors of L. (V.) peruviana in other regions (western valleys of the Central Andes and Northern/Central Andes), but the study area is in the Eastern Andes of northern Peru. The passage explicitly says the distribution of these species 'has not been reported in these areas' and that the current study identified different species (Pi. verrucarum and Pi. maranonensis) as naturally infected. Step 6: The rationale correctly explains the geographic confusion that makes this a plausible distractor."
+            },
+            {
+                "Category": "Distractor",
+                "Option": "Pintomyia verrucarum and Lutzomyia castanea",
+                "Coherence": "Yes",
+                "Rationale": "All checks pass. Step 2: The evidence is an exact verbatim quote from the passage. Step 3: Both species are explicitly mentioned as being captured in the study area. Step 4: The option addresses the question about sand fly species infected with L. (V.) peruviana. Step 5: The option is incorrect. While Pi. verrucarum was indeed found to be naturally infected, Lu. castanea was not. The passage states natural infection was detected 'in Pi. verrucarum and Pi. maranonensis' and specifically lists Lu. castanea only as a captured species, with no mention of infection. Step 6: The rationale correctly identifies the error (confusing presence with infection status)."
+            }
+        ]
+    },
+    "4": {
+        "deepseek-chat_1": [
+            {
+                "Category": "Distractor",
+                "Option": "Foxhounds",
+                "Coherence": "Yes",
+                "Rationale": "All checks pass. Step 2: Both evidence quotes are exact verbatim from the passage. Step 3: 'Foxhounds' are explicitly mentioned in the passage. Step 4: The option addresses the question about reservoir hosts. Step 5: The option is incorrect because the question asks for the primary domestic reservoir host in South America, and the passage states 'dogs are the primary domestic reservoir host for ZVL [in South America]' - not a specific breed like Foxhounds. Foxhounds are discussed in the context of the United States. Step 6: The rationale correctly identifies the geographic mismatch as the factual error."
+            },
+            {
+                "Category": "Distractor",
+                "Option": "Sand flies",
+                "Coherence": "Yes",
+                "Rationale": "All checks pass. Step 2: Both evidence quotes are exact verbatim from the passage. Step 3: 'Sand flies' are explicitly mentioned in the passage. Step 4: The option addresses the question about reservoir hosts. Step 5: The option is incorrect because the question asks for the primary domestic reservoir host, and the passage clearly distinguishes sand flies as vectors ('the sand fly is the primary vector'), not reservoir hosts. The passage states dogs are the primary domestic reservoir host. Step 6: The rationale correctly identifies the confusion between vector and reservoir as the factual error."
+            }
+        ],
+        "deepseek-chat_2": [
+            {
+                "Category": "Distractor",
+                "Option": "Foxhounds",
+                "Coherence": "Yes",
+                "Rationale": "All checks pass. Step 2: Both evidence quotes are exact verbatim from the passage. Step 3: 'Foxhounds' are explicitly mentioned in the passage. Step 4: The option addresses the question as it provides a potential host species. Step 5: The option is incorrect because the question asks for the primary domestic reservoir host in South America, and the passage states 'In South America, dogs are the primary domestic reservoir host for ZVL [1].' Foxhounds are a specific breed discussed in the U.S. context, not the general primary reservoir in South America. Step 6: The rationale correctly explains the geographic and contextual error."
+            },
+            {
+                "Category": "Distractor",
+                "Option": "Sand flies",
+                "Coherence": "Yes",
+                "Rationale": "All checks pass. Step 2: Both evidence quotes are exact verbatim from the passage. Step 3: 'Sand flies' are explicitly mentioned in the passage. Step 4: The option addresses the question as it provides a biological entity involved in the disease. Step 5: The option is incorrect because the question asks for the primary domestic reservoir host, and the passage clearly distinguishes between reservoir hosts (dogs) and vectors (sand flies). Sand flies are described as the 'primary vector,' not the reservoir. Step 6: The rationale correctly explains the confusion between 'vector' and 'reservoir host.'"
+            }
+        ],
+        "deepseek-chat_3": [
+            {
+                "Category": "Distractor",
+                "Option": "Foxhounds",
+                "Coherence": "Yes",
+                "Rationale": "All checks pass. Step 2: Both evidence quotes are exact verbatim from the passage. Step 3: 'Foxhounds' are explicitly mentioned in the passage. Step 4: The option addresses the question about a reservoir host. Step 5: The option is incorrect because the question asks for the primary domestic reservoir host in South America, and the passage states 'dogs are the primary domestic reservoir host for ZVL [1]' in South America. Foxhounds are a specific breed discussed in the U.S. context, not the general primary reservoir in South America. Step 6: The rationale correctly identifies the geographic mismatch as the factual error."
+            },
+            {
+                "Category": "Distractor",
+                "Option": "Sand flies",
+                "Coherence": "Yes",
+                "Rationale": "All checks pass. Step 2: Both evidence quotes are exact verbatim from the passage. Step 3: 'Sand flies' are explicitly mentioned in the passage. Step 4: The option addresses the question about a host/vector, which is relevant. Step 5: The option is incorrect because the question asks for the primary domestic *reservoir host*, while the passage identifies sand flies as the primary *vector*. These are distinct epidemiological roles. Step 6: The rationale correctly explains the confusion between vector and reservoir as the factual error."
+            }
+        ]
+    }
+}

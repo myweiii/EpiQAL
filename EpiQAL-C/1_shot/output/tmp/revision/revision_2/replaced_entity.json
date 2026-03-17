@@ -1,0 +1,1918 @@
+{
+    "0": [
+        "rabies virus",
+        "Lyssavirus"
+    ],
+    "1": [
+        "Schistosoma mansoni",
+        "Schistosoma"
+    ],
+    "2": [
+        "AVI-7288",
+        "phosphorodiamidate morpholino oligomer"
+    ],
+    "3": [
+        "computational predictions for drug-target interactions",
+        "deep learning models"
+    ],
+    "4": [
+        "COVID-19",
+        "SARS-CoV-2"
+    ],
+    "5": [
+        "murine typhus",
+        "Rickettsia typhi"
+    ],
+    "6": [
+        "praziquantel",
+        "helminth infections"
+    ],
+    "7": [
+        "T. rangeli",
+        "non-pathogenic hemoflagellate protozoan parasite"
+    ],
+    "9": [
+        "West Nile virus",
+        "mosquito-borne flavivirus"
+    ],
+    "10": [
+        "neurocysticercosis",
+        "Taenia solium"
+    ],
+    "11": [
+        "microRNAs",
+        "endogenous ~22-nucleotide non-coding RNAs"
+    ],
+    "12": [
+        "drug exposure",
+        "pharmacokinetics"
+    ],
+    "13": [
+        "Leishmania parasites",
+        "obligate intracellular protozoan parasites of myeloid cells transmitted by sandflies"
+    ],
+    "14": [
+        "N. fowleri",
+        "primary amebic meningoencephalitis"
+    ],
+    "15": [
+        "A. aegypti",
+        "urban-adapted mosquito vector of arboviruses with short flight range and hardy eggs, characterized by silver lyre-shaped scales on the scutum"
+    ],
+    "16": [
+        "EV71-HFMD",
+        "Enterovirus A71"
+    ],
+    "17": [
+        "ArboTyping method",
+        "DENV"
+    ],
+    "18": [
+        "mass dog vaccination campaigns",
+        "rabies vaccination coverage"
+    ],
+    "19": [
+        "apigenin",
+        "4,5,7-trihydroxyflavone"
+    ],
+    "20": [
+        "onchocerciasis",
+        "Onchocerca volvulus"
+    ],
+    "21": [
+        "hco-miR-5352",
+        "parasite-derived microRNA cluster"
+    ],
+    "22": [
+        "negative binomial logit hurdle model",
+        "hurdle model with logit link for binary component and negative binomial distribution for truncated count component"
+    ],
+    "23": [
+        "T. cruzi",
+        "Chagas disease"
+    ],
+    "24": [
+        "phage clones",
+        "bacteriophages"
+    ],
+    "25": [
+        "benzylpenicillin-induced neutropenia",
+        "neurosyphilis"
+    ],
+    "27": [
+        "cholera",
+        "cholera"
+    ],
+    "28": [
+        "human-tick encounters",
+        "tickborne disease"
+    ],
+    "29": [
+        "Giardia infection",
+        "Giardia lamblia"
+    ],
+    "30": [
+        "parasitic worm infections",
+        "helminth infections transmitted via soil-contaminated feces"
+    ],
+    "31": [
+        "canine leishmaniasis",
+        "Leishmania infantum"
+    ],
+    "32": [
+        "rTsCatL2",
+        "Toxoplasma gondii cathepsin L"
+    ],
+    "33": [
+        "cutaneous leishmaniasis",
+        "Leishmania species"
+    ],
+    "34": [
+        "Schizont Maturation Test",
+        "ex vivo assay"
+    ],
+    "35": [
+        "pyrethroid-resistant Aedes aegypti",
+        "cytochrome P450-mediated detoxification"
+    ],
+    "36": [
+        "Schistosoma mansoni",
+        "Schistosoma"
+    ],
+    "37": [
+        "scorpion populations",
+        "venom-induced envenomation"
+    ],
+    "38": [
+        "cystic echinococcosis",
+        "cystic echinococcosis"
+    ],
+    "39": [
+        "B. pseudomallei",
+        "melioidosis"
+    ],
+    "40": [
+        "tick-borne rickettsioses",
+        "spotted fever group of Rickettsia"
+    ],
+    "41": [
+        "HTLV-1",
+        "retrovirus"
+    ],
+    "42": [
+        "primaquine",
+        "8-aminoquinoline antimalarial"
+    ],
+    "43": [
+        "chronic visceral leishmaniasis",
+        "Leishmania donovani complex"
+    ],
+    "44": [
+        "microfilariae",
+        "filarial nematodes"
+    ],
+    "45": [
+        "chromoblastomycosis",
+        "dematiaceous fungi"
+    ],
+    "46": [
+        "Ebola virus",
+        "orthobolavirus"
+    ],
+    "47": [
+        "Wolbachia",
+        "\u03b1-Proteobacteria"
+    ],
+    "48": [
+        "trypanosome",
+        "Trypanosoma brucei"
+    ],
+    "49": [
+        "CIN-102",
+        "Galleria mellonella"
+    ],
+    "51": [
+        "aptamer-based assay",
+        "single-stranded nucleic acid probes that fold into target-specific 3D structures"
+    ],
+    "52": [
+        "trachoma",
+        "Chlamydia trachomatis"
+    ],
+    "53": [
+        "TPTest",
+        "enteric fever"
+    ],
+    "54": [
+        "arecoline purgation",
+        "echinococcosis"
+    ],
+    "55": [
+        "neuroschistosomiasis",
+        "Schistosoma"
+    ],
+    "56": [
+        "Taenia solium cysticerci",
+        "cysticercosis"
+    ],
+    "57": [
+        "Rift Valley fever",
+        "Phlebovirus"
+    ],
+    "58": [
+        "Triatoma infestans",
+        "Trypanosoma cruzi"
+    ],
+    "59": [
+        "dengue",
+        "dengue virus"
+    ],
+    "60": [
+        "soil-transmitted helminth species",
+        "Ascaris lumbricoides, Trichuris trichiura, Necator americanus, and Ancylostoma"
+    ],
+    "61": [
+        "West African ZIKV strain ZIKV-15555",
+        "West African Zika virus isolate from Guinea (2018)"
+    ],
+    "63": [
+        "Wolbachia-infected male mosquitoes",
+        "Wolbachia"
+    ],
+    "65": [
+        "clinical leprosy",
+        "Mycobacterium leprae"
+    ],
+    "66": [
+        "deworming program",
+        "mass preventive chemotherapy intervention"
+    ],
+    "67": [
+        "toxoplasmosis",
+        "Toxoplasma gondii"
+    ],
+    "68": [
+        "Lassa virus",
+        "arenavirus"
+    ],
+    "69": [
+        "in vitro screening platform",
+        "cell-based assay system"
+    ],
+    "70": [
+        "cysticercosis",
+        "Taenia solium"
+    ],
+    "71": [
+        "ivermectin",
+        "onchocerciasis"
+    ],
+    "72": [
+        "cutaneous leishmaniasis",
+        "Leishmania species"
+    ],
+    "73": [
+        "hantavirus infection",
+        "zoonotic viral infection transmitted from rodents to humans, causing severe pulmonary or renal syndromes with variable clinical severity"
+    ],
+    "74": [
+        "trachoma",
+        "Chlamydia trachomatis"
+    ],
+    "76": [
+        "malaria",
+        "parasitic disease transmitted by infected mosquitoes"
+    ],
+    "77": [
+        "tsetse control tools",
+        "tsetse fly"
+    ],
+    "78": [
+        "trachoma",
+        "conjunctival Chlamydia trachomatis infection"
+    ],
+    "79": [
+        "Buruli ulcer",
+        "Mycobacterium ulcerans"
+    ],
+    "80": [
+        "decision analytic model",
+        "systematic, quantitative method that uses mathematical relationships to project consequences of health interventions under uncertainty"
+    ],
+    "81": [
+        "fluorescence polarization assay",
+        "fluorescence-based method that measures changes in molecular rotation"
+    ],
+    "82": [
+        "TcTASV-C",
+        "trypomastigotes"
+    ],
+    "83": [
+        "sand fly bites",
+        "Leishmania"
+    ],
+    "84": [
+        "Chagas disease",
+        "Trypanosoma cruzi"
+    ],
+    "85": [
+        "sand fly",
+        "Leishmania"
+    ],
+    "86": [
+        "melioidosis",
+        "Burkholderia pseudomallei"
+    ],
+    "87": [
+        "Aedes aegypti",
+        "Aedes aegypti"
+    ],
+    "88": [
+        "paracoccidioidomycosis",
+        "Paracoccidioides"
+    ],
+    "89": [
+        "ZCL",
+        "zoonotic cutaneous leishmaniasis"
+    ],
+    "90": [
+        "Plasmodium vivax",
+        "Plasmodium vivax"
+    ],
+    "92": [
+        "ARF/RHD",
+        "postinfectious autoimmune condition triggered by group A streptococcal pharyngitis"
+    ],
+    "93": [
+        "Y. pestis",
+        "pneumonic plague"
+    ],
+    "94": [
+        "B. bassiana-based traps",
+        "entomopathogenic fungus"
+    ],
+    "95": [
+        "Leptospira",
+        "Leptospira"
+    ],
+    "96": [
+        "dengue illness outcomes",
+        "dengue virus"
+    ],
+    "97": [
+        "S. mansoni",
+        "schistosomiasis"
+    ],
+    "98": [
+        "Haemophilus ducreyi",
+        "chancroid"
+    ],
+    "99": [
+        "hap2 gene",
+        "B. bovis"
+    ],
+    "100": [
+        "visceral leishmaniasis",
+        "Leishmania donovani complex"
+    ],
+    "101": [
+        "SjTR1 real-time PCR assay",
+        "real-time PCR assay targeting a highly abundant mitochondrial gene in Schistosoma japonicum"
+    ],
+    "102": [
+        "Wolbachia",
+        "Brugia malayi"
+    ],
+    "103": [
+        "AN5568",
+        "Human African Trypanosomiasis"
+    ],
+    "104": [
+        "viral circulation patterns",
+        "respiratory virus emergence and spread"
+    ],
+    "105": [
+        "eumycetoma-causing fungi",
+        "filamentous fungi"
+    ],
+    "106": [
+        "Trypanosoma brucei",
+        "T. b. gambiense group 1"
+    ],
+    "108": [
+        "visceral leishmaniasis",
+        "Leishmania donovani complex"
+    ],
+    "109": [
+        "Leishmania",
+        "Leishmania"
+    ],
+    "110": [
+        "UV-4",
+        "iminosugar small-molecule oral drug candidate"
+    ],
+    "112": [
+        "AHFV Zaki-1",
+        "tick-borne flavivirus"
+    ],
+    "113": [
+        "M. ulcerans",
+        "necrotizing skin and soft tissue infections"
+    ],
+    "114": [
+        "praziquantel",
+        "oral isoquinoline anthelmintic"
+    ],
+    "115": [
+        "leishmaniasis",
+        "Leishmania parasites"
+    ],
+    "116": [
+        "IL-4R\u03b1 signaling",
+        "interleukin-4 receptor alpha chain-mediated pathway"
+    ],
+    "117": [
+        "PCR-RFLP assay",
+        "PCR amplification with restriction enzyme digestion"
+    ],
+    "118": [
+        "sand fly species",
+        "phlebotomine sand fly"
+    ],
+    "119": [
+        "A. aegypti",
+        "malathion"
+    ],
+    "120": [
+        "Leptospira",
+        "Leptospira"
+    ],
+    "121": [
+        "oral cholera vaccine",
+        "inactivated whole-cell vaccine with recombinant B-subunit"
+    ],
+    "122": [
+        "prostaglandins",
+        "lipid mediators"
+    ],
+    "123": [
+        "KSAC+GLA-SE",
+        "Leishmania major"
+    ],
+    "124": [
+        "rabies",
+        "Lyssavirus"
+    ],
+    "125": [
+        "CxFV Izabal",
+        "West Nile virus"
+    ],
+    "126": [
+        "Leptospira",
+        "Leptospira"
+    ],
+    "127": [
+        "Burkholderia pseudomallei",
+        "melioidosis"
+    ],
+    "129": [
+        "neonatal tetanus",
+        "generalized tetanus"
+    ],
+    "130": [
+        "AT-RvD1",
+        "specialized pro-resolving mediator derived from omega-3 docosahexaenoic acid"
+    ],
+    "131": [
+        "congenital Zika syndrome",
+        "Zika virus"
+    ],
+    "132": [
+        "mCherry",
+        "CHIKV 37997-mCherry virions"
+    ],
+    "133": [
+        "recombinant ZEDIII protein",
+        "soluble recombinant Zika virus envelope domain III protein"
+    ],
+    "134": [
+        "Loa loa infection",
+        "Loa loa"
+    ],
+    "135": [
+        "OSP:rTTHc conjugate vaccine",
+        "cholera conjugate vaccine composed of O-specific polysaccharide from V. cholerae O1 Inaba linked via squaric acid chemistry to a recombinant tetanus toxin fragment"
+    ],
+    "136": [
+        "B. pseudomallei",
+        "melioidosis"
+    ],
+    "137": [
+        "P. vivax",
+        "Duffy antigen"
+    ],
+    "138": [
+        "soil-transmitted helminth",
+        "intestinal parasitic worm control programs"
+    ],
+    "139": [
+        "B. malayi cathepsin-like cysteine protease genes",
+        "filarial cysteine protease genes"
+    ],
+    "140": [
+        "HAM/TSP",
+        "HTLV-1"
+    ],
+    "141": [
+        "pneumothorax",
+        "pulmonary paragonimiasis"
+    ],
+    "143": [
+        "non-typhoidal Salmonella",
+        "foodborne pathogen"
+    ],
+    "144": [
+        "mass drug administration",
+        "preventive chemotherapy"
+    ],
+    "145": [
+        "S. japonicum",
+        "Schistosoma"
+    ],
+    "146": [
+        "TbREL1",
+        "substrate recognition"
+    ],
+    "147": [
+        "Salmonella",
+        "intracellular gram-negative bacilli"
+    ],
+    "148": [
+        "Chlamydia trachomatis",
+        "ompA types"
+    ],
+    "149": [
+        "Shuni virus",
+        "Culex pipiens pipiens"
+    ],
+    "150": [
+        "IL-32\u03b3",
+        "Leishmania species"
+    ],
+    "151": [
+        "Trypanosoma cruzi",
+        "Chagas disease"
+    ],
+    "152": [
+        "Ae. albopictus",
+        "invasive mosquito species"
+    ],
+    "153": [
+        "PCR detection rates",
+        "viral RNA N1 target"
+    ],
+    "154": [
+        "noma",
+        "non-communicable, necrotizing orofacial gangrene"
+    ],
+    "155": [
+        "antivenom",
+        "purified antibodies"
+    ],
+    "156": [
+        "S. Typhimurium ST313",
+        "nontyphoidal Salmonella"
+    ],
+    "157": [
+        "ocular toxoplasmosis",
+        "Toxoplasma gondii"
+    ],
+    "158": [
+        "T. cruzi",
+        "Chagas disease"
+    ],
+    "159": [
+        "visceral leishmaniasis",
+        "Leishmania donovani complex"
+    ],
+    "160": [
+        "Leishmania infantum",
+        "visceral leishmaniasis-causing protozoan parasite"
+    ],
+    "161": [
+        "integrated NTD survey",
+        "population-based surveillance"
+    ],
+    "162": [
+        "HFRS",
+        "Hantavirus"
+    ],
+    "163": [
+        "visceral leishmaniasis-endemic region",
+        "Leishmania"
+    ],
+    "164": [
+        "prospective case-control study",
+        "case-control study"
+    ],
+    "165": [
+        "Lassa fever",
+        "Lassa virus"
+    ],
+    "166": [
+        "sub-county administrative units",
+        "county units"
+    ],
+    "167": [
+        "Tegumentary Leishmaniasis",
+        "Leishmania parasites"
+    ],
+    "168": [
+        "HTLV-1-specific CD8+ T cells",
+        "chronic retroviral infection"
+    ],
+    "169": [
+        "ZIKV",
+        "Ae. albopictus"
+    ],
+    "170": [
+        "rheumatic heart disease",
+        "rheumatic fever"
+    ],
+    "171": [
+        "Nipah virus",
+        "Pteropus"
+    ],
+    "172": [
+        "R. felis",
+        "cat fleas"
+    ],
+    "173": [
+        "dengue fever",
+        "mosquito-borne flavivirus infection"
+    ],
+    "174": [
+        "S. Typhi",
+        "Salmonella enterica serotype Typhi"
+    ],
+    "175": [
+        "ergot alkaloids",
+        "schistosomiasis"
+    ],
+    "176": [
+        "analytical approach",
+        "comparison groups"
+    ],
+    "177": [
+        "lymphatic filariasis",
+        "neglected tropical disease caused by filarial parasites transmitted by mosquitoes, leading to chronic lymphatic damage and progressive limb swelling"
+    ],
+    "178": [
+        "longitudinal surveillance data",
+        "parasite elimination programs"
+    ],
+    "179": [
+        "bacterial zoonoses",
+        "zoonotic diseases"
+    ],
+    "180": [
+        "connexin 43",
+        "GJA1"
+    ],
+    "181": [
+        "praziquantel",
+        "Schistosoma mansoni"
+    ],
+    "182": [
+        "cutaneous leishmaniasis",
+        "Leishmania protozoa"
+    ],
+    "183": [
+        "Backpack PCR",
+        "filariasis"
+    ],
+    "184": [
+        "L. donovani",
+        "visceral leishmaniasis"
+    ],
+    "185": [
+        "mass drug administration",
+        "population-wide preventive chemotherapy strategy"
+    ],
+    "186": [
+        "H. hypnale venom",
+        "hump-nosed pit viper"
+    ],
+    "187": [
+        "Leishmania infantum",
+        "visceral leishmaniasis"
+    ],
+    "188": [
+        "STH infections",
+        "soil-transmitted helminths"
+    ],
+    "189": [
+        "CCHFV",
+        "Orthonairovirus"
+    ],
+    "190": [
+        "nasopharyngeal microbiota",
+        "dynamic microbial community in the upper airways"
+    ],
+    "191": [
+        "flavivirus",
+        "serological response patterns"
+    ],
+    "192": [
+        "fresh human excreta",
+        "high-moisture organic waste containing 75% water and 84\u201393% organic solids with potential pathogen and nutrient content"
+    ],
+    "193": [
+        "amphotericin B",
+        "polyene macrolide antibiotic"
+    ],
+    "194": [
+        "virus",
+        "epidemiologic triad"
+    ],
+    "195": [
+        "onchocerciasis mapping surveys",
+        "Onchocerca volvulus"
+    ],
+    "196": [
+        "dengue",
+        "flavivirus"
+    ],
+    "197": [
+        "Nipah virus",
+        "Nipah virus"
+    ],
+    "198": [
+        "Rift Valley fever virus",
+        "zoonotic, mosquito-borne pathogen with pandemic potential that primarily infects ruminants but can cause lethal human infections"
+    ],
+    "199": [
+        "Shigella",
+        "gram-negative intracellular pathogen"
+    ],
+    "200": [
+        "mosquito species",
+        "piercing-sucking mouthparts"
+    ],
+    "201": [
+        "lymphatic filariasis",
+        "filariasis"
+    ],
+    "202": [
+        "Ascaris infection",
+        "Ascaris lumbricoides"
+    ],
+    "203": [
+        "Bothrops envenomation",
+        "hemostatic disturbances"
+    ],
+    "204": [
+        "Loa loa",
+        "filarial nematode"
+    ],
+    "205": [
+        "Aedes albopictus",
+        "dengue"
+    ],
+    "206": [
+        "T. solium",
+        "neurocysticercosis"
+    ],
+    "207": [
+        "Q fever",
+        "Coxiella burnetii"
+    ],
+    "208": [
+        "Trichuris muris",
+        "whipworm infection"
+    ],
+    "210": [
+        "tsetse fly populations",
+        "Glossina species"
+    ],
+    "211": [
+        "EV-A71",
+        "hand, foot, and mouth disease"
+    ],
+    "212": [
+        "cholera",
+        "toxigenic Vibrio cholerae O1 or O139"
+    ],
+    "213": [
+        "Trypanosoma cruzi",
+        "Chagas disease"
+    ],
+    "214": [
+        "Japanese Encephalitis",
+        "mosquito-borne viral encephalitis"
+    ],
+    "215": [
+        "VK247 variant of Plasmodium vivax",
+        "Plasmodium vivax"
+    ],
+    "216": [
+        "13% DEET-based repellent",
+        "dengue"
+    ],
+    "217": [
+        "Bm33 antibody testing",
+        "lymphatic filariasis"
+    ],
+    "218": [
+        "leprosy",
+        "chronic granulomatous infection caused by Mycobacterium leprae or Mycobacterium lepromatosis"
+    ],
+    "219": [
+        "malaria control strategies",
+        "insecticide-treated nets"
+    ],
+    "221": [
+        "Trypanosoma brucei",
+        "bloodstream form eukaryotic kinetoplastid parasite"
+    ],
+    "222": [
+        "Schistosoma coinfection",
+        "Schistosoma"
+    ],
+    "223": [
+        "T. solium",
+        "cysticercosis"
+    ],
+    "224": [
+        "W. bancrofti",
+        "lymphatic filariasis"
+    ],
+    "225": [
+        "dengue infection",
+        "dengue virus"
+    ],
+    "226": [
+        "T. penetrans",
+        "parasitic sand flea"
+    ],
+    "227": [
+        "tsetse fly",
+        "African trypanosomes"
+    ],
+    "228": [
+        "schistosomiasis",
+        "Schistosoma"
+    ],
+    "229": [
+        "leptospirosis seropositivity",
+        "Leptospira"
+    ],
+    "230": [
+        "mobile health surveillance system",
+        "digital public health surveillance platform"
+    ],
+    "231": [
+        "leprosy",
+        "chronic granulomatous infection caused by Mycobacterium leprae or Mycobacterium lepromatosis"
+    ],
+    "232": [
+        "rabies reporting",
+        "rabies"
+    ],
+    "233": [
+        "chromoblastomycosis",
+        "CD4+ T cell dynamics"
+    ],
+    "234": [
+        "Enterocytozoon bieneusi",
+        "Microsporidia"
+    ],
+    "235": [
+        "lymphatic filariasis",
+        "Wuchereria bancrofti"
+    ],
+    "236": [
+        "mobile health intervention",
+        "telehealth services"
+    ],
+    "237": [
+        "parasitic infections",
+        "organisms that derive sustenance from a host"
+    ],
+    "238": [
+        "oral miltefosine",
+        "chronic, treatment-refractory cutaneous leishmaniasis"
+    ],
+    "239": [
+        "V. cholerae",
+        "cholera toxin"
+    ],
+    "240": [
+        "M. corti tetrathyridia excretory-secretory products",
+        "tetrathyridia"
+    ],
+    "241": [
+        "human-infective trypanosomes",
+        "Trypanosoma brucei"
+    ],
+    "242": [
+        "Trypanosoma evansi",
+        "salivarian trypanosomes"
+    ],
+    "243": [
+        "Ca. Anaplasma camelii",
+        "tick-borne rickettsial pathogen"
+    ],
+    "244": [
+        "frequent movement and shifting settlement patterns",
+        "pathogen transmission dynamics"
+    ],
+    "245": [
+        "Aedes aegypti",
+        "Aedes aegypti"
+    ],
+    "247": [
+        "leprosy reactions",
+        "Mycobacterium leprae"
+    ],
+    "248": [
+        "anti-DENV IgY",
+        "avian-derived immunoglobulin Y"
+    ],
+    "249": [
+        "deworming strategy",
+        "soil-transmitted helminth infections"
+    ],
+    "250": [
+        "visceral leishmaniasis",
+        "Leishmania donovani complex"
+    ],
+    "251": [
+        "R. conorii conorii",
+        "Mediterranean spotted fever"
+    ],
+    "252": [
+        "CHIKV VLP vaccine",
+        "vaccine based on virus-like particles"
+    ],
+    "253": [
+        "H. ducreyi",
+        "chancroid"
+    ],
+    "254": [
+        "human-bat interactions",
+        "pathogen spillover"
+    ],
+    "255": [
+        "protozoal contamination",
+        "fecal-oral transmission"
+    ],
+    "256": [
+        "Noma",
+        "orofacial gangrene"
+    ],
+    "257": [
+        "gp43 gene",
+        "Paracoccidioides brasiliensis"
+    ],
+    "258": [
+        "dengue virus",
+        "mosquito-borne flavivirus"
+    ],
+    "259": [
+        "Plasmodium vivax",
+        "malaria parasite"
+    ],
+    "260": [
+        "neglected tropical diseases",
+        "poverty-promoting infectious diseases"
+    ],
+    "261": [
+        "Biospeckle pattern measurement",
+        "dynamic laser speckle technique"
+    ],
+    "262": [
+        "socioeconomic conditions",
+        "health disparities"
+    ],
+    "263": [
+        "dengue",
+        "dengue virus"
+    ],
+    "264": [
+        "small trematode eggs",
+        "foodborne trematode species"
+    ],
+    "265": [
+        "actinomycetoma",
+        "aerobic filamentous actinomycetes"
+    ],
+    "266": [
+        "Leishmania parasites",
+        "vector-borne hemoflagellate protozoa"
+    ],
+    "267": [
+        "scrub typhus",
+        "Orientia tsutsugamushi"
+    ],
+    "268": [
+        "Rhodnius prolixus",
+        "Trypanosoma cruzi"
+    ],
+    "269": [
+        "tick-borne pathogens",
+        "ticks"
+    ],
+    "270": [
+        "salivarian trypanosomes",
+        "Trypanozoon"
+    ],
+    "271": [
+        "arbovirus infections",
+        "arthropod vectors"
+    ],
+    "272": [
+        "Esp\u00edrito Santo",
+        "SARS-CoV-2 reinfections"
+    ],
+    "273": [
+        "Leishmania donovani",
+        "visceral leishmaniasis"
+    ],
+    "274": [
+        "chronic Chagas disease",
+        "Trypanosoma cruzi"
+    ],
+    "275": [
+        "BMAP-28 isoforms",
+        "Leishmania amastigotes"
+    ],
+    "276": [
+        "schistosome species",
+        "schistosomiasis"
+    ],
+    "277": [
+        "moxidectin",
+        "macrocyclic lactone endectocide"
+    ],
+    "278": [
+        "Buruli ulcer",
+        "Mycobacterium ulcerans"
+    ],
+    "279": [
+        "Leishmania species",
+        "Leishmania"
+    ],
+    "280": [
+        "LmaPA2G4",
+        "Leishmania parasites"
+    ],
+    "281": [
+        "malaria",
+        "Plasmodium parasites"
+    ],
+    "282": [
+        "treatment regimens",
+        "structured therapeutic plans"
+    ],
+    "283": [
+        "Lujo virus",
+        "novel bisegmented negative-sense RNA arenavirus"
+    ],
+    "284": [
+        "ALD1 knockout strain of Leishmania mexicana",
+        "Leishmania mexicana"
+    ],
+    "285": [
+        "viral RNA detection in mosquito excreta",
+        "arbovirus RNA"
+    ],
+    "286": [
+        "TSSA",
+        "tGPI-mucins"
+    ],
+    "287": [
+        "faecal concentration techniques",
+        "faecal samples"
+    ],
+    "288": [
+        "sph2 gene",
+        "Leptospira interrogans"
+    ],
+    "289": [
+        "viral hemorrhagic fevers",
+        "severe, often life-threatening systemic illnesses"
+    ],
+    "290": [
+        "hookworm",
+        "Necator americanus"
+    ],
+    "291": [
+        "localized cutaneous leishmaniasis",
+        "Leishmania species"
+    ],
+    "292": [
+        "Ebola response system",
+        "acute hemorrhagic fever caused by orthoebolaviruses"
+    ],
+    "293": [
+        "Zika virus",
+        "Flavivirus"
+    ],
+    "294": [
+        "maternal helminth infection during pregnancy",
+        "parasitic infection"
+    ],
+    "295": [
+        "Bunyamwera virus",
+        "Orthobunyavirus"
+    ],
+    "296": [
+        "tprK gene",
+        "Treponema pallidum"
+    ],
+    "297": [
+        "leprosy",
+        "Mycobacterium leprae"
+    ],
+    "298": [
+        "monoclonal antibodies",
+        "Ebola virus infection"
+    ],
+    "299": [
+        "visceral leishmaniasis",
+        "Leishmania donovani complex"
+    ],
+    "300": [
+        "community survey",
+        "population-based data collection"
+    ],
+    "301": [
+        "acute neurological disease",
+        "sudden-onset neurological dysfunction"
+    ],
+    "302": [
+        "severe dengue",
+        "dengue infection"
+    ],
+    "303": [
+        "cutaneous leishmaniasis",
+        "Leishmania protozoa"
+    ],
+    "305": [
+        "IL18 gene variants",
+        "single nucleotide polymorphisms in the IL-18 gene"
+    ],
+    "306": [
+        "Wuchereria bancrofti",
+        "lymphatic filariasis"
+    ],
+    "307": [
+        "Leptospira",
+        "Leptospira"
+    ],
+    "308": [
+        "insecticide-treated curtains",
+        "vector control intervention using insecticide-impregnated fabric"
+    ],
+    "309": [
+        "paromomycin",
+        "aminoglycoside antibiotic"
+    ],
+    "310": [
+        "Chagas disease",
+        "Trypanosoma cruzi"
+    ],
+    "311": [
+        "dengue",
+        "dengue virus"
+    ],
+    "312": [
+        "soil-transmitted helminthiasis",
+        "roundworms"
+    ],
+    "313": [
+        "liver fluke infection",
+        "Fasciola and Clonorchis"
+    ],
+    "314": [
+        "Plasmodium vivax",
+        "Duffy antigen"
+    ],
+    "315": [
+        "S100A8/A9",
+        "L. sigmodontis"
+    ],
+    "316": [
+        "CCHFV",
+        "Orthonairovirus"
+    ],
+    "318": [
+        "fungal infection",
+        "opportunistic disease"
+    ],
+    "319": [
+        "trachoma",
+        "Chlamydia trachomatis"
+    ],
+    "320": [
+        "environmental surveillance",
+        "wastewater"
+    ],
+    "321": [
+        "visceral leishmaniasis",
+        "Leishmania donovani complex"
+    ],
+    "322": [
+        "FNAV",
+        "O. hannah venom"
+    ],
+    "323": [
+        "trachoma",
+        "Chlamydia trachomatis"
+    ],
+    "324": [
+        "LEC bilayer co-culture system",
+        "96-arrayed microfluidic device"
+    ],
+    "325": [
+        "vectorial capacity",
+        "vector-borne disease transmission efficiency"
+    ],
+    "326": [
+        "pyriproxyfen",
+        "juvenile hormone analog insect growth regulator"
+    ],
+    "327": [
+        "HRM-Cyt b technique",
+        "high-resolution melting of cytochrome b PCR products"
+    ],
+    "328": [
+        "ivermectin",
+        "Loa loa infection"
+    ],
+    "329": [
+        "Loopamp Leishmania Detection Kit",
+        "isothermal nucleic acid amplification assay targeting 18S rRNA and kDNA minicircles"
+    ],
+    "330": [
+        "Rose Bengal Test",
+        "rapid slide agglutination assay using stained Brucella abortus antigen at acidic pH"
+    ],
+    "331": [
+        "S. mansoni redox cascade",
+        "Schistosoma mansoni"
+    ],
+    "332": [
+        "chronic hookworm infection",
+        "Ancylostoma duodenale, Necator americanus, or Ancylostoma ceylanicum"
+    ],
+    "333": [
+        "schistosomiasis",
+        "Schistosoma"
+    ],
+    "334": [
+        "hyaluronidase",
+        "hyaluronic acid"
+    ],
+    "335": [
+        "Taenia spp.",
+        "cyclophyllidean cestodes"
+    ],
+    "336": [
+        "COVID-19 vaccine",
+        "SARS-CoV-2"
+    ],
+    "337": [
+        "dengue",
+        "Aedes mosquitoes"
+    ],
+    "338": [
+        "visceral leishmaniasis",
+        "Leishmania donovani complex"
+    ],
+    "339": [
+        "chikungunya",
+        "mosquito-borne alphavirus causing acute febrile polyarthralgia with prolonged joint pain lasting months to years"
+    ],
+    "340": [
+        "dengue",
+        "mosquito-borne viral disease caused by four closely related serotypes transmitted by Aedes mosquitoes"
+    ],
+    "341": [
+        "anti-filarial antibodies",
+        "lymphatic filariasis"
+    ],
+    "342": [
+        "Trichuris parasites",
+        "Trichuris"
+    ],
+    "343": [
+        "talaromycosis",
+        "Talaromyces marneffei"
+    ],
+    "344": [
+        "Clone 13 vaccine",
+        "Rift Valley fever virus"
+    ],
+    "345": [
+        "chronic Chagas disease",
+        "Trypanosoma cruzi"
+    ],
+    "346": [
+        "disseminated histoplasmosis",
+        "Histoplasma capsulatum"
+    ],
+    "347": [
+        "malaria vectors",
+        "Anopheles mosquitoes"
+    ],
+    "348": [
+        "rVSV-ZEBOV-GP",
+        "live-replicating recombinant vesicular stomatitis virus vector with the Zaire Ebola virus glycoprotein gene replacing its own glycoprotein gene"
+    ],
+    "349": [
+        "Leishmania mexicana",
+        "dendritic cell responses"
+    ],
+    "350": [
+        "benzimidazole resistance",
+        "beta-tubulin amino acid substitutions"
+    ],
+    "351": [
+        "Schistosoma haematobium",
+        "praziquantel"
+    ],
+    "352": [
+        "HFMD",
+        "enteroviruses"
+    ],
+    "353": [
+        "Aedes aegypti",
+        "Aedes aegypti"
+    ],
+    "354": [
+        "Gal/GalNAc lectin complex",
+        "Entamoeba histolytica"
+    ],
+    "355": [
+        "Leptospira interrogans",
+        "leptospirosis"
+    ],
+    "356": [
+        "scabies",
+        "Sarcoptes scabiei var. hominis"
+    ],
+    "357": [
+        "B. melitensis",
+        "Brucella"
+    ],
+    "359": [
+        "Hansen's disease",
+        "Mycobacterium leprae"
+    ],
+    "360": [
+        "anthrax",
+        "Bacillus anthracis"
+    ],
+    "361": [
+        "Schistosoma mansoni",
+        "Schistosoma"
+    ],
+    "362": [
+        "canine visceral leishmaniasis",
+        "Leishmania infantum"
+    ],
+    "363": [
+        "dengue transmission",
+        "Aedes mosquitoes"
+    ],
+    "364": [
+        "Leptospira",
+        "leptospirosis"
+    ],
+    "365": [
+        "dengue prevention",
+        "dengue virus"
+    ],
+    "366": [
+        "schistosome infection",
+        "Schistosoma"
+    ],
+    "367": [
+        "CHIKV 6K51-59 epitope",
+        "Chikungunya virus"
+    ],
+    "368": [
+        "dengue",
+        "mosquito-borne flavivirus"
+    ],
+    "369": [
+        "RVFV",
+        "zoonotic mosquito-borne ss-RNA virus"
+    ],
+    "370": [
+        "plague",
+        "Yersinia pestis"
+    ],
+    "371": [
+        "Aedes aegypti",
+        "dengue"
+    ],
+    "372": [
+        "Wolbachia infection",
+        "Aedes aegypti"
+    ],
+    "374": [
+        "Hsp70",
+        "schistosome cercariae"
+    ],
+    "375": [
+        "CerTest Crypto RDT",
+        "Cryptosporidium"
+    ],
+    "376": [
+        "PUNV",
+        "phlebovirus"
+    ],
+    "377": [
+        "Chikungunya virus",
+        "arthropod-borne alphavirus"
+    ],
+    "378": [
+        "O. viverrini",
+        "B. siamensis goniomphalos"
+    ],
+    "379": [
+        "Strongyloides stercoralis",
+        "human pathogenic intestinal nematode"
+    ],
+    "380": [
+        "ddPCR",
+        "digital PCR method using water-oil emulsion droplets"
+    ],
+    "381": [
+        "Premolis semirufa caterpillar bristles",
+        "Brazilian moth"
+    ],
+    "382": [
+        "Mycobacterium tuberculosis complex",
+        "tuberculosis"
+    ],
+    "383": [
+        "O. tsutsugamushi",
+        "scrub typhus"
+    ],
+    "384": [
+        "FTLSV",
+        "bunyavirus"
+    ],
+    "385": [
+        "agricultural waste use",
+        "organic byproducts from crop and animal farming"
+    ],
+    "386": [
+        "Wol GreA",
+        "C-terminal domain"
+    ],
+    "387": [
+        "Chagas disease",
+        "Trypanosoma cruzi"
+    ],
+    "388": [
+        "L. donovani",
+        "visceral leishmaniasis"
+    ],
+    "389": [
+        "Leptospira",
+        "leptospirosis"
+    ],
+    "390": [
+        "Chagas disease",
+        "Trypanosoma cruzi"
+    ],
+    "391": [
+        "dengue",
+        "Aedes mosquitoes"
+    ],
+    "392": [
+        "sandfly bites",
+        "Phlebotomine sand flies"
+    ],
+    "393": [
+        "IL-6",
+        "pleiotropic cytokine"
+    ],
+    "394": [
+        "COVID-19",
+        "pathogen"
+    ],
+    "395": [
+        "rabies vaccination campaign",
+        "zoonotic viral disease"
+    ],
+    "396": [
+        "dengue",
+        "Aedes mosquitoes"
+    ],
+    "397": [
+        "Ov-tsp-1",
+        "O. viverrini"
+    ],
+    "398": [
+        "FZT",
+        "fat embolism syndrome"
+    ],
+    "399": [
+        "ZIKV",
+        "Flaviviridae"
+    ],
+    "400": [
+        "0.5 IU/ml virus neutralizing antibody titer",
+        "rabies virus"
+    ],
+    "401": [
+        "Neoehrlichia mikurensis",
+        "Anaplasmataceae"
+    ],
+    "402": [
+        "Schistosoma haematobium",
+        "S. bovis"
+    ],
+    "403": [
+        "trachoma",
+        "Chlamydia trachomatis"
+    ],
+    "404": [
+        "O. moubata",
+        "African swine fever virus"
+    ],
+    "405": [
+        "rabies",
+        "Lyssavirus species"
+    ],
+    "406": [
+        "brucellosis",
+        "Brucella species"
+    ],
+    "407": [
+        "mass drug administration campaign",
+        "population-wide drug distribution strategy"
+    ],
+    "408": [
+        "S. haematobium",
+        "urogenital schistosomiasis"
+    ],
+    "409": [
+        "Leishmania parasite",
+        "leishmaniasis"
+    ],
+    "410": [
+        "dengue virus",
+        "Aedes species"
+    ],
+    "411": [
+        "visceral leishmaniasis",
+        "Leishmania donovani complex"
+    ],
+    "412": [
+        "Rift Valley fever",
+        "zoonotic, mosquito-borne viral disease"
+    ],
+    "413": [
+        "arbovirus outbreaks",
+        "Flaviviridae"
+    ],
+    "414": [
+        "antivenoms",
+        "purified antibodies derived from immunized animals"
+    ],
+    "415": [
+        "parasitic infection",
+        "eosinophilia"
+    ],
+    "416": [
+        "World NTD Day",
+        "NTD control efforts"
+    ],
+    "417": [
+        "community-based lymphedema management program",
+        "chronic lymphedema"
+    ],
+    "418": [
+        "scrub typhus",
+        "Orientia tsutsugamushi"
+    ],
+    "419": [
+        "nodding syndrome",
+        "onchocerciasis"
+    ],
+    "421": [
+        "longitudinal data",
+        "community-wide deworming initiative"
+    ],
+    "422": [
+        "viperin",
+        "DENV-2"
+    ],
+    "423": [
+        "canine rabies",
+        "zoonotic encephalomyelitis caused by a neurotropic Lyssavirus"
+    ],
+    "424": [
+        "national average prevalence",
+        "proportion of individuals in a population with a specific disease or attribute at a specified point in time"
+    ],
+    "425": [
+        "GeneXpert vanA/vanB",
+        "vanA"
+    ],
+    "426": [
+        "CYD-TDV vaccine",
+        "tetravalent, live-attenuated, chimeric dengue vaccine constructed using recombinant DNA technology with a yellow fever 17D backbone"
+    ],
+    "427": [
+        "screening strategy",
+        "systematic identification of preclinical disease"
+    ],
+    "428": [
+        "triangular test",
+        "statistical sequential analysis"
+    ],
+    "429": [
+        "liposomal amphotericin B",
+        "tegumentary leishmaniasis"
+    ],
+    "430": [
+        "brucellosis",
+        "Brucella species"
+    ],
+    "431": [
+        "leptospirosis",
+        "Leptospira"
+    ],
+    "432": [
+        "TSM-associated IRIS",
+        "hyperinflammatory syndrome triggered by immune reconstitution after antiretroviral therapy initiation in HIV patients"
+    ],
+    "433": [
+        "Angiostrongylus cantonensis",
+        "metastrongyloid nematode"
+    ],
+    "434": [
+        "O. tsutsugamushi Gilliam strain",
+        "scrub typhus"
+    ],
+    "435": [
+        "intestinal parasitic infections",
+        "neglected tropical diseases caused by intestinal helminths and protozoan parasites"
+    ],
+    "436": [
+        "HAT",
+        "Trypanosoma brucei gambiense or rhodesiense"
+    ],
+    "437": [
+        "CCHFV IgG antibody",
+        "Crimean-Congo hemorrhagic fever virus"
+    ],
+    "438": [
+        "trachoma",
+        "Chlamydia trachomatis"
+    ],
+    "440": [
+        "Plasmodium species",
+        "P. falciparum"
+    ],
+    "441": [
+        "NF2839",
+        "quinolone-based histone deacetylase inhibitor"
+    ],
+    "442": [
+        "diagnostic and treatment gaps",
+        "resource-limited settings"
+    ],
+    "443": [
+        "West Nile virus",
+        "mosquito-borne flavivirus"
+    ],
+    "444": [
+        "Rickettsia felis",
+        "flea-borne rickettsial pathogen"
+    ],
+    "445": [
+        "schistosome infection",
+        "Schistosoma"
+    ],
+    "446": [
+        "L. guyanensis",
+        "New World subgenus Viannia species complex"
+    ],
+    "447": [
+        "visceral leishmaniasis",
+        "Leishmania donovani complex"
+    ],
+    "448": [
+        "POWV-SEV DNA vaccine",
+        "Powassan virus"
+    ],
+    "449": [
+        "acute viral infections",
+        "short-duration viral illnesses"
+    ],
+    "450": [
+        "PvCelTOS",
+        "Plasmodium vivax"
+    ],
+    "451": [
+        "Russell\u2019s viper envenoming",
+        "viper envenomation"
+    ],
+    "452": [
+        "tetanus",
+        "Clostridium tetani"
+    ],
+    "453": [
+        "Wolbachia-based control strategies",
+        "cytoplasmic incompatibility"
+    ],
+    "454": [
+        "pathogen exposure",
+        "household proximity to water sources"
+    ],
+    "455": [
+        "SFTS",
+        "phlebovirus"
+    ],
+    "456": [
+        "risk assessment tool",
+        "systematic method"
+    ],
+    "457": [
+        "Zika virus",
+        "flavivirus"
+    ],
+    "458": [
+        "Plasmodium knowlesi malaria",
+        "zoonotic malaria"
+    ],
+    "459": [
+        "Leishmania major",
+        "cutaneous leishmaniasis"
+    ],
+    "460": [
+        "cholera",
+        "Vibrio cholerae toxin-producing strains"
+    ],
+    "461": [
+        "SFTSV",
+        "spotted doves"
+    ],
+    "462": [
+        "Tiny Targets intervention",
+        "insecticide-treated baits"
+    ],
+    "463": [
+        "TIPS",
+        "transjugular intrahepatic portosystemic shunt"
+    ],
+    "464": [
+        "Ebola outbreak",
+        "Ebola outbreak"
+    ],
+    "465": [
+        "Zika virus",
+        "Flavivirus"
+    ],
+    "466": [
+        "hookworm infection",
+        "soil-transmitted nematode infection"
+    ],
+    "467": [
+        "SINE compounds",
+        "VEEV infection"
+    ],
+    "468": [
+        "LdPxn1 vaccine",
+        "Leishmania donovani peroxidoxin-1"
+    ],
+    "469": [
+        "sylvatic triatomine",
+        "Trypanosoma cruzi"
+    ],
+    "470": [
+        "lymphatic filariasis",
+        "mass drug administration"
+    ],
+    "471": [
+        "schistosomiasis",
+        "Schistosoma"
+    ],
+    "472": [
+        "recurrent leprosy cases",
+        "chronic bacterial infection with Mycobacterium leprae or Mycobacterium lepromatosis"
+    ],
+    "473": [
+        "CareStart G6PD rapid test",
+        "qualitative point-of-care rapid diagnostic test for glucose-6-phosphate dehydrogenase deficiency"
+    ],
+    "474": [
+        "leprosy",
+        "Mycobacterium leprae or Mycobacterium lepromatosis"
+    ],
+    "475": [
+        "dengue control strategies",
+        "vector control measures targeting mosquito transmission"
+    ],
+    "476": [
+        "mass drug administration program",
+        "population-wide preventive chemotherapy strategy"
+    ],
+    "477": [
+        "acute Q fever",
+        "Coxiella burnetii"
+    ],
+    "478": [
+        "scabies",
+        "Sarcoptes scabiei var. hominis"
+    ],
+    "479": [
+        "hepatitis E virus",
+        "non-enveloped RNA virus"
+    ],
+    "480": [
+        "oral cholera vaccines",
+        "bivalent whole-cell killed vaccines"
+    ],
+    "481": [
+        "SFTS",
+        "phlebovirus"
+    ],
+    "482": [
+        "Bartonella",
+        "mites"
+    ],
+    "483": [
+        "dengue",
+        "Dengue virus"
+    ],
+    "484": [
+        "Guinea worm surveillance",
+        "Dracunculus medinensis"
+    ],
+    "485": [
+        "rAAV1-CHIKV-SP vaccine",
+        "single-dose intramuscular recombinant adeno-associated virus vector encoding chikungunya virus structural proteins"
+    ],
+    "486": [
+        "leprosy",
+        "Mycobacterium leprae"
+    ],
+    "487": [
+        "rabies",
+        "rabies"
+    ],
+    "488": [
+        "Strongyloides stercoralis",
+        "soil-transmitted parasitic roundworm"
+    ],
+    "489": [
+        "chronic Chagas disease",
+        "Trypanosoma cruzi"
+    ],
+    "490": [
+        "Na+/Ca2+ exchange current",
+        "chronic Chagas disease"
+    ],
+    "491": [
+        "EgAgB gene family",
+        "Echinococcus granulosus"
+    ],
+    "492": [
+        "M. fahalii",
+        "itraconazole"
+    ],
+    "493": [
+        "anaemia burden",
+        "prevalence"
+    ],
+    "495": [
+        "vector control efforts",
+        "mosquitoes"
+    ],
+    "496": [
+        "Ae. albopictus",
+        "chikungunya"
+    ],
+    "497": [
+        "advanced schistosomiasis japonica",
+        "Schistosoma japonicum"
+    ],
+    "498": [
+        "schistosomiasis",
+        "Schistosoma"
+    ],
+    "499": [
+        "hybrid immunoassay",
+        "mass spectrometry-based detection"
+    ]
+}

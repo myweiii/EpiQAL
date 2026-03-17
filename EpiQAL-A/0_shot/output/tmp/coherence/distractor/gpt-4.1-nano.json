@@ -1,0 +1,258 @@
+{
+    "0": {
+        "gpt-4.1-nano_1": [
+            {
+                "Category": "Distractor",
+                "Option": "Acanthamoeba castellanii and Acanthamoeba spp.",
+                "Coherence": "No",
+                "Rationale": "The evidence confirms that the study used 'Acanthamoeba castellanii' and 'Acanthamoeba polyphaga'. The option includes 'Acanthamoeba spp.', which is a general term and not specific. The question asks specifically for the two species used, so this option is inaccurate because it replaces the specific second species with a generic term. Therefore, this distractor fails the check because it does not precisely reflect the passage's explicit details."
+            },
+            {
+                "Category": "Distractor",
+                "Option": "Acanthamoeba polyphaga and Acanthamoeba castellanii",
+                "Coherence": "Yes",
+                "Rationale": "The evidence explicitly states that the study used 'Acanthamoeba castellanii' and 'Acanthamoeba polyphaga', matching this option. Both species are correctly named, and the order does not matter since the question asks for the two species used. The evidence is verbatim, and the option addresses the question directly and accurately. The rationale confirms that this is a correct pairing based on the passage, so it is a valid distractor\u2014factually correct but not the designated answer."
+            }
+        ],
+        "gpt-4.1-nano_2": [
+            {
+                "Category": "Distractor",
+                "Option": "Acanthamoeba castellanii and Acanthamoeba spp.",
+                "Coherence": "No",
+                "Rationale": "The evidence clearly states that the two Acanthamoeba species used in the study are 'Acanthamoeba castellanii' and 'Acanthamoeba polyphaga'. The option includes 'Acanthamoeba spp.', which is a generic term and not a specific species, making the option inaccurate for the question asking for specific species. Since the option's content is not entirely supported by the passage as specific species, and the question seeks specific names, the coherence is 'No'."
+            },
+            {
+                "Category": "Distractor",
+                "Option": "Acanthamoeba polyphaga and Acanthamoeba castellanii",
+                "Coherence": "Yes",
+                "Rationale": "The evidence explicitly states that the two Acanthamoeba species used are 'Acanthamoeba castellanii' and 'Acanthamoeba polyphaga'. The order of the names does not affect correctness because the question asks for the two species used; order is not specified. Both species are correctly named and are the species used in the study, and the evidence is verbatim from the passage. The option is a correct pairing of the species mentioned, and thus, it is a valid answer to the question. The rationale correctly supports this."
+            }
+        ],
+        "gpt-4.1-nano_3": [
+            {
+                "Category": "Distractor",
+                "Option": "Acanthamoeba castellanii and Acanthamoeba spp.",
+                "Coherence": "No",
+                "Rationale": "Step 2: The evidence confirms that the study used 'Acanthamoeba castellanii' and 'Acanthamoeba polyphaga,' but the option mentions 'Acanthamoeba spp.' which is a general term, not a specific species. Step 3: The option is based on information explicitly in the passage. Step 4: The option addresses the question about specific species used. Step 5: The option is incorrect because 'Acanthamoeba spp.' is a general term, not a specific species, which contradicts the question asking for two specific species. Step 6: The rationale correctly explains that pairing a specific species with a general term is misleading, and the answer is not precise. Final judgment: Coherence should be 'No' because it inaccurately represents the specific species used, given the wording of the question."
+            },
+            {
+                "Category": "Distractor",
+                "Option": "Acanthamoeba polyphaga and Acanthamoeba castellanii",
+                "Coherence": "Yes",
+                "Rationale": "Step 2: The evidence confirms that the two species used in the study are 'Acanthamoeba castellanii' and 'Acanthamoeba polyphaga,' matching the option verbatim. Step 3: The option accurately lists the specific species used. Step 4: It directly answers the question asking for the two species involved in the interaction study. Step 5: The option could be accepted as correct because it correctly states the two species used, with no factual errors. Step 6: The rationale correctly notes that the order is reversed from how it appears in the passage, but since the question does not specify order, this does not affect correctness. The content is accurate and relevant. Final judgment: Coherence is 'Yes'."
+            }
+        ]
+    },
+    "1": {
+        "gpt-4.1-nano_1": [
+            {
+                "Category": "Distractor",
+                "Option": "Cure rate (CR)",
+                "Coherence": "No",
+                "Rationale": "Step 2: The evidence 'Drug efficacy was expressed as ERR and cure rate (CR)...' is an exact quote from the passage. Step 3: The passage states that both ERR and CR were used to express drug efficacy; however, it explicitly mentions that ERR is the WHO-recommended primary outcome measure. Step 4: The option addresses the question correctly as it is a measure of drug efficacy. Step 5: The option is factually correct as a measure used in the study, but it is not the primary WHO-recommended outcome measure. Since the question asks specifically about the WHO recommendation, choosing CR would be incorrect. Therefore, the answer is a plausible distractor. Step 6: The rationale correctly explains that CR is mentioned alongside ERR but is not the primary measure recommended by WHO. Final judgment: Coherence is No, as the option could be confused with the primary measure but is ultimately incorrect in the context of WHO recommendations."
+            },
+            {
+                "Category": "Distractor",
+                "Option": "Log-transformed EPG",
+                "Coherence": "No",
+                "Rationale": "Step 2: The evidence 'EPG were log-transformed before modeling...' is an exact quote from the passage. Step 3: Log-transformed EPG is a methodological detail used for analysis, not a measure of efficacy. Step 4: The option relates to data processing rather than the outcome measure, thus addressing the question indirectly. Step 5: The option is a factual detail from the passage but does not answer the question about the primary outcome measure recommended by WHO. Step 6: The rationale correctly explains that this is a technical data transformation, not the primary efficacy measure. Final judgment: Coherence is No, as this detail does not match the question about the WHO primary outcome."
+            },
+            {
+                "Category": "Distractor",
+                "Option": "Number of stool samples taken",
+                "Coherence": "No",
+                "Rationale": "Step 2: The evidence 'the number of stool samples taken and the number of parasitologic tests conducted on a single sample...' is an exact quote from the passage. Step 3: This detail is about methodological variability affecting efficacy assessment, not an efficacy measure itself. Step 4: The option addresses procedural aspects relevant to study variability but not the primary efficacy outcome. Step 5: The option is a factual detail but not the primary measure recommended by WHO; it is a distractor. Step 6: The rationale correctly notes that this procedural detail is not the primary efficacy outcome. Final judgment: Coherence is No, as the option is related to methodology, not the primary WHO-recommended efficacy measure."
+            }
+        ],
+        "gpt-4.1-nano_2": [
+            {
+                "Category": "Distractor",
+                "Option": "Cure rate (CR)",
+                "Coherence": "No",
+                "Rationale": "The evidence states that drug efficacy was expressed as ERR and cure rate (CR), and that CRs are the percentage of stool-negative individuals at follow-up. However, the passage explicitly mentions that the WHO-recommended primary outcome measure for assessing anthelmintic drug efficacy is the egg reduction rate (ERR). Since the question asks for the primary WHO-recommended measure, and the passage clearly states ERR is the primary, the option 'Cure rate (CR)' is a distractor but not a valid answer for the primary WHO recommendation. Therefore, the coherence should be Yes, indicating a valid distractor."
+            },
+            {
+                "Category": "Distractor",
+                "Option": "Log-transformed EPG",
+                "Coherence": "No",
+                "Rationale": "The passage describes log-transformed EPG as part of the statistical modeling process to evaluate drug efficacy, not as the primary outcome measure recommended by WHO. The primary outcome measure is ERR, which is based on egg counts, but the log-transformation is a data analysis step. Since the question specifically asks about WHO's primary recommended measure, and ERR is identified as such, this option is a distractor but not the primary outcome. The rationale in the options correctly explains that log-transformed EPG is a technical detail used in modeling, not the WHO-recommended primary measure. The coherence should be Yes."
+            },
+            {
+                "Category": "Distractor",
+                "Option": "Number of stool samples taken",
+                "Coherence": "No",
+                "Rationale": "The passage discusses the number of stool samples and parasitologic tests as factors influencing drug efficacy assessment, but it explicitly states that ERR is the primary outcome measure recommended by WHO. The number of stool samples is a methodological factor, not the primary efficacy measure. Therefore, while relevant to study variability, it is not the primary outcome recommended by WHO. The rationale explains the procedural aspect but does not align with the primary WHO-recommended measure. The coherence should be Yes."
+            }
+        ],
+        "gpt-4.1-nano_3": [
+            {
+                "Category": "Distractor",
+                "Option": "Cure rate (CR)",
+                "Coherence": "No",
+                "Rationale": "The passage states that drug efficacy was expressed as ERR and cure rate (CR), but it explicitly mentions that the WHO recommends the egg reduction rate (ERR) as the primary outcome measure. Therefore, while CR is used as an outcome in the studies, it is not the primary outcome measure recommended by WHO. The evidence directly quotes the passage: 'The WHO-recommended primary outcome measure for anthelmintic drug efficacy is the egg reduction rate (ERR).' Hence, the option 'Cure rate (CR)' is a distractor, but the Coherence is No because it does not match the primary WHO recommendation."
+            },
+            {
+                "Category": "Distractor",
+                "Option": "Log-transformed EPG",
+                "Coherence": "No",
+                "Rationale": "The passage describes that eggs per gram (EPG) counts were log-transformed before modeling and discusses the statistical methods used to assess efficacy, but it explicitly states that the primary outcome measure recommended by WHO is the ERR (egg reduction rate). Log-transformed EPG is a data processing step, not an outcome measure. Therefore, although it is a factual detail from the passage, it is not the primary WHO-recommended measure. The rationale confirms that ERR, not log-transformed EPG, is the primary measure, so this is a distractor with Coherence No."
+            },
+            {
+                "Category": "Distractor",
+                "Option": "Number of stool samples taken",
+                "Coherence": "No",
+                "Rationale": "The passage discusses the number of stool samples and parasitologic tests as factors influencing drug efficacy assessment, but explicitly states that the primary outcome measure recommended by WHO is the ERR. The number of stool samples is a procedural detail, not an efficacy measure. Although it is a relevant methodological detail, it is not the primary outcome measure. The rationale states that the WHO recommends ERR, not sample count, so this option, while factual, is a distractor with Coherence No."
+            }
+        ]
+    },
+    "2": {
+        "gpt-4.1-nano_1": [
+            {
+                "Category": "Distractor",
+                "Option": "42.3\u201352.3%",
+                "Coherence": "No",
+                "Rationale": "The option is a range of values explicitly mentioned as the 95% confidence interval around the point estimate in the passage ('A 1 g/m3 increase in AH was associated with a 47.2% (95% CI, 42.3\u201352.3%) increase'). Since the question asks specifically for the estimated percentage increase (the point estimate), this range (the confidence interval) is not the correct answer to what the estimated percentage increase is. Therefore, the option is a distractor but not entirely consistent with the passage's specific question about the point estimate."
+            },
+            {
+                "Category": "Distractor",
+                "Option": "2.6%",
+                "Coherence": "Yes",
+                "Rationale": "All checks pass. The evidence confirms that 'a 1 g/m3 increase in the moisture condition (annual mean AH) was associated with a 2.6% (95% CI, 1.7\u20133.7%) increase in HFRS cases.' The evidence is an exact quote from the passage, the option is relevant, and it correctly represents a specific association from the model. It is a distractor because it pertains to annual mean AH, not the monthly AH, but the question explicitly asks for the estimate related to AH, which is correctly specified here. The rationale supports that this is a plausible distractor, not the correct answer."
+            },
+            {
+                "Category": "Distractor",
+                "Option": "64.5%",
+                "Coherence": "No",
+                "Rationale": "The option's evidence confirms it is the association between a 1-unit rise in MEI and the increase in HFRS cases. Since the question asks specifically about the effect of a 1 g/m\u00b3 increase in absolute humidity, this value, which pertains to MEI, does not answer the question correctly. The evidence directly supports the fact that this is an association but not for AH, and it is a distractor. The rationale correctly indicates that this is a plausible distractor based on the variable but does not match the question's focus."
+            }
+        ],
+        "gpt-4.1-nano_2": [
+            {
+                "Category": "Distractor",
+                "Option": "42.3\u201352.3%",
+                "Coherence": "No",
+                "Rationale": "The option presents a range of values which corresponds to the 95% confidence interval around the estimated increase (47.2%), not the estimated percentage increase itself. The question asks specifically for the estimated percentage increase, which is the point estimate 47.2%. Therefore, this distractor incorrectly interprets the confidence interval as the estimate, which makes it a factual error."
+            },
+            {
+                "Category": "Distractor",
+                "Option": "2.6%",
+                "Coherence": "No",
+                "Rationale": "The option states the percentage increase associated with annual mean absolute humidity, not the monthly AH. The question specifically asks about the increase per 1 g/m\u00b3 increase in AH, which refers to the monthly variable, not the annual average. This is a misinterpretation of the variable and the associated percentage increase, thus it is a factual error."
+            },
+            {
+                "Category": "Distractor",
+                "Option": "64.5%",
+                "Coherence": "No",
+                "Rationale": "This value pertains to the association with the multivariate El Ni\u00f1o\u2013Southern Oscillation index (MEI), not absolute humidity. Since the question asks about AH specifically, citing this figure is incorrect. The variable is different, making this a factual error."
+            }
+        ],
+        "gpt-4.1-nano_3": [
+            {
+                "Category": "Distractor",
+                "Option": "42.3\u201352.3%",
+                "Coherence": "No",
+                "Rationale": "Step 2: The evidence 'A 1 g/m3 increase in AH was associated with a 47.2% (95% CI, 42.3\u201352.3%) increase in HFRS cases' is an exact quote from the passage. Step 3: The option '42.3\u201352.3%' is explicitly present in the evidence. Step 4: The option addresses the question about the estimated percentage increase associated with a 1 g/m\u00b3 increase in AH. Step 5: The option could be considered correct because it is the point estimate; however, the passage states the 47.2% increase with the confidence interval of 42.3\u201352.3%. Since the question asks for the estimated percentage increase, the most precise answer is the point estimate, 47.2%, not the interval. Therefore, this makes it a distractor. Step 6: The rationale correctly identifies that this is the confidence interval, not the point estimate, supporting its role as a distractor. Final judgment: Coherence = Yes."
+            },
+            {
+                "Category": "Distractor",
+                "Option": "2.6%",
+                "Coherence": "Yes",
+                "Rationale": "All checks pass. Step 2: The evidence 'a 1 g/m3 increase in the moisture condition (annual mean AH) was associated with a 2.6% (95% CI, 1.7\u20133.7%) increase in HFRS cases' is an exact quote. Step 3: The option '2.6%' is explicitly found in the evidence. Step 4: The option directly responds to the question about the percentage increase associated with a 1 g/m\u00b3 increase in AH. Step 5: The value 2.6% is associated with the 'annual mean AH', not the monthly AH. The question asks about the change in AH (which could imply the monthly AH), but since the passage clearly states this figure is for the 'annual mean AH', the best interpretation is that it is a distractor, but it can be accepted as a correct estimate for the annual mean AH effect. Final decision: The value matches the evidence and addresses the question, so Coherence = Yes."
+            },
+            {
+                "Category": "Distractor",
+                "Option": "64.5%",
+                "Coherence": "Yes",
+                "Rationale": "All checks pass. Step 2: The evidence 'a 1-unit MEI rise was associated with a 64.5% (95% CI, 43.5\u201388.5%) increase in HFRS cases' is exact from the passage. Step 3: The option '64.5%' appears directly in the evidence. Step 4: It pertains to the effect of MEI, a climate variable, on HFRS cases, which is relevant to the question of modeling factors. Step 5: The question explicitly asks about the percentage increase in HFRS cases associated with a 1 g/m\u00b3 increase in absolute humidity, not MEI. Therefore, while the figure is correct for MEI, it is a distractor because it does not answer the question about AH. Final judgment: Coherence = Yes."
+            }
+        ]
+    },
+    "3": {
+        "gpt-4.1-nano_1": [
+            {
+                "Category": "Distractor",
+                "Option": "Lutzomyia ayacuchensis and Lutzomyia peruensis",
+                "Coherence": "No",
+                "Rationale": "The evidence confirms that Lu. ayacuchensis and Lu. peruensis are identified as vectors of L. (V.) peruviana in other regions of Peru, but they are not found in the study area of northern Peru according to the passage. The question specifically asks about the species found to be naturally infected in the study area, and these two are not among the species collected or infected in this study. Therefore, this distractor is factually incorrect regarding the study context."
+            },
+            {
+                "Category": "Distractor",
+                "Option": "Pintomyia verrucarum and Lutzomyia castanea",
+                "Coherence": "Yes",
+                "Rationale": "All checks pass. Step 2: The evidence 'Pintomyia verrucarum' and 'Lu. castanea' are explicitly mentioned in the passage as species captured in the study area. Step 3: Both are present in the passage, with Pi. verrucarum being confirmed as infected. Step 4: The option addresses the question directly, asking about species found to be infected in the area. Step 5: The statement is factually accurate, as Pi. verrucarum was found to be infected with Leishmania (V.) peruviana, and Lu. castanea was among the species captured, though not infected, but the question asks about being infected or not; since the question says 'found to be naturally infected,' it is acceptable to include Lu. castanea as one of the species present; however, because it was not found to be infected, including it as a species 'found to be infected' is incorrect. But the question wording is about species found to be infected. The option says 'species found to be infected,' but only Pi. verrucarum was confirmed as infected; Lu. castanea was not. Therefore, this could be misleading and should be carefully considered. Because the option suggests both species were infected, but only Pi. verrucarum was, this makes the answer factually inaccurate regarding infection status. Final check: The option states 'species found to be infected,' which is incorrect for Lu. castanea. Therefore, the coherence as a distractor is compromised. The rationale, which recognizes Pi. verrucarum as infected but notes Lu. castanea was captured, supports this. Therefore, the overall coherence is No."
+            }
+        ],
+        "gpt-4.1-nano_2": [
+            {
+                "Category": "Distractor",
+                "Option": "Lutzomyia ayacuchensis and Lutzomyia peruensis",
+                "Coherence": "No",
+                "Rationale": "The evidence states that Lu. ayacuchensis and Lu. peruensis are vectors of L. (V.) peruviana in other regions of Peru, but the passage clearly indicates that in the study area of northern Peru, these species were not identified or discussed as infected. The actual sand fly species found to be infected in the study area are Pi. verrucarum and Pi. maranonensis. Therefore, this option is factually incorrect for the current study area and should not be a distractor according to the passage's findings."
+            },
+            {
+                "Category": "Distractor",
+                "Option": "Pintomyia verrucarum and Lutzomyia castanea",
+                "Coherence": "No",
+                "Rationale": "The evidence confirms that Pi. verrucarum was found to be infected with Leishmania (V.) peruviana in this study. Lu. castanea was captured in the study area but was not reported as infected. The question specifically asks for species found to be naturally infected, which are Pi. verrucarum and Pi. maranonensis. Since Lu. castanea was not infected according to the passage, this option is factually incorrect for the context of the study's findings and should not be considered a valid distractor."
+            }
+        ],
+        "gpt-4.1-nano_3": [
+            {
+                "Category": "Distractor",
+                "Option": "Lutzomyia ayacuchensis and Lutzomyia peruensis",
+                "Coherence": "No",
+                "Rationale": "The evidence confirms that Lu. ayacuchensis and Lu. peruensis are vectors of L. (V.) peruviana in other regions of Peru, but the passage clearly states that in the study area in the Eastern Andes of northern Peru, these species have not been reported there. The study identified Pi. verrucarum and Pi. maranonensis as infected with L. (V.) peruviana, not Lu. ayacuchensis or Lu. peruensis. Therefore, this option cannot serve as a correct answer to the question and the distractor label is appropriate."
+            },
+            {
+                "Category": "Distractor",
+                "Option": "Pintomyia verrucarum and Lutzomyia castanea",
+                "Coherence": "No",
+                "Rationale": "While Pi. verrucarum is correctly identified as infected in the study, Lu. castanea was not reported to be infected with Leishmania in this study. The passage states Lu. castanea was captured but does not mention it being infected with Leishmania. Since the question asks for species found to be naturally infected, this option incorrectly includes Lu. castanea. Therefore, this distractor is factual but not supported as infected in the study, so the distractor label is appropriate."
+            }
+        ]
+    },
+    "4": {
+        "gpt-4.1-nano_1": [
+            {
+                "Category": "Distractor",
+                "Option": "Foxhounds",
+                "Coherence": "No",
+                "Rationale": "The evidence mentions Foxhounds as a breed affected by L. infantum in the United States, but the question is about South America. The passage explicitly states that in South America, dogs are the primary domestic reservoir host for ZVL. Therefore, 'Foxhounds' are not the primary reservoir in South America, making this option incorrect for the specific question. Since the option does not match the geographic scope of the question, it is not a valid distractor as it appears to be a factual error."
+            },
+            {
+                "Category": "Distractor",
+                "Option": "Sand flies",
+                "Coherence": "No",
+                "Rationale": "The evidence states that in endemic regions, the sand fly is the primary vector, not the reservoir host. The question asks about the primary *domestic reservoir host*, and the passage clearly states that dogs are the primary reservoir in South America. Sand flies are vectors, not reservoirs. Therefore, this option is factually incorrect for the question, which makes it a valid distractor. Since the rationale claims it is a plausible distractor but the factual accuracy is off, the Coherence should be 'No'."
+            }
+        ],
+        "gpt-4.1-nano_2": [
+            {
+                "Category": "Distractor",
+                "Option": "Foxhounds",
+                "Coherence": "No",
+                "Rationale": "Step 2: The evidence mentions Foxhounds as a breed with high prevalence in the U.S., but this is not from the passage's text regarding South America. The evidence related to Foxhounds is specific to the U.S. context. Step 3: The option is relevant to the passage but not to the specific question about South America. Step 4: The option is a specific answer but pertains to the U.S., not South America, so it doesn't answer the question correctly. Step 5: The passage states dogs are the primary reservoir in South America, not Foxhounds, which are a specific breed in the U.S. Therefore, this is a factual error for the question asked. Step 6: The rationale correctly identifies the factual inaccuracy\u2014Foxhounds are not the primary reservoir in South America. Final judgment: Coherence = No."
+            },
+            {
+                "Category": "Distractor",
+                "Option": "Sand flies",
+                "Coherence": "No",
+                "Rationale": "Step 2: The evidence states that sand flies are the primary vector, not reservoir, in endemic regions. The evidence is accurate but pertains to vectors, not reservoirs. Step 3: The option is relevant to disease transmission but not the primary reservoir host. Step 4: The question asks specifically about the primary domestic reservoir host, not the vector. Step 5: The biological role of sand flies as vectors, not reservoirs, makes this an incorrect answer to the question. Step 6: The rationale correctly notes the distinction and the potential confusion, supporting that this is a distractor but not the correct answer. Final judgment: Coherence = No."
+            }
+        ],
+        "gpt-4.1-nano_3": [
+            {
+                "Category": "Distractor",
+                "Option": "Foxhounds",
+                "Coherence": "No",
+                "Rationale": "Step 2: The evidence does not contain the exact phrase 'Foxhounds' as the primary reservoir host in South America; instead, it states that in South America, dogs are the primary reservoir. The evidence about Foxhounds is from the context of the United States, not South America, so it does not directly support the answer to the question. Step 3: The option 'Foxhounds' appears in the passage but only in relation to the US, not South America, so it is not supported as the primary reservoir there. Step 4: The option addresses a different geographic location, so it does not directly answer the question about South America. Step 5: The factual error is that the passage specifies 'dogs' as the primary reservoir in South America, not specifically Foxhounds. The distractor assumes Foxhounds are the primary reservoir, which is incorrect. Step 6: The rationale correctly identifies that Foxhounds are not the primary reservoir in South America, only in the US, invalidating this distractor. Final judgment: Coherence should be 'No' as this distractor is based on a geographically incorrect assumption."
+            },
+            {
+                "Category": "Distractor",
+                "Option": "Sand flies",
+                "Coherence": "No",
+                "Rationale": "Step 2: The evidence 'In historically-endemic regions, the sand fly is the primary vector for this disease' is an exact quote from the passage. Step 3: The option 'Sand flies' appears in the passage as the primary vector, not as the reservoir host. Step 4: The question specifically asks about the primary *reservoir host*, not the vector, so this option is not relevant to the question. Step 5: The factual error is that 'sand flies' are described as vectors, not hosts, thus they are not the primary reservoir. The answer assumes they are the reservoir host, which is incorrect. Step 6: The rationale correctly explains that sand flies are vectors and not the reservoir, making this distractor invalid for the question. Final judgment: Coherence should be 'No' because this option does not answer the question accurately."
+            }
+        ]
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "Protection effectiveness, waning, reinfection & immune escape": 64,
+    "Exposure-response interpretation": 35,
+    "Study design & causal effects": 12,
+    "Real-Time Debiasing & Delay Adjustment": 2,
+    "Transmission modes & contact patterns": 33,
+    "Measurement & bias handling": 38,
+    "Zoonotic/One Health interfaces, reservoirs & vectors": 109,
+    "Program performance & impact evaluation": 21,
+    "Transmission modeling & inference": 17,
+    "Severity risk & prognostic factors": 60,
+    "Contextual determinants of exposure": 32,
+    "Serology & correlates of protection": 21,
+    "Susceptibility stratification & special populations": 18,
+    "System Performance, Deduplication & Record Linkage": 2,
+    "Time-Place-Person patterns, seasonality & clustering": 10,
+    "Event-specific attack rates & epidemic curves": 1,
+    "Outbreak hypothesis mapping & Source Attribution": 2,
+    "Immediate control & situation reporting": 1
+}
