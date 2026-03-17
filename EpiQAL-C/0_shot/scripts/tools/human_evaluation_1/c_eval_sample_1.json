@@ -679,12 +679,12 @@
             "1"
         ],
         "evaluation": {
-            "Answer Correctness": "",
-            "Distractor Quality": "",
-            "Question Clarity": "",
-            "Evidence Sufficiency": "",
-            "Reasoning Depth": "",
-            "Answerability": "",
+            "Answer Correctness": "3",
+            "Distractor Quality": "3",
+            "Question Clarity": "2",
+            "Evidence Sufficiency": "3",
+            "Reasoning Depth": "2",
+            "Answerability": "3",
             "Other Comments": ""
         }
     },
