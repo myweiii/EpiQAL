@@ -1,0 +1,11 @@
+{
+    "Time": 8117.6129308519885,
+    "Classification": 40.93281623814255,
+    "Topic Chosen": 37.30589013174176,
+    "Question Generation": 38.58407222852111,
+    "Correct Options Gen": 42.56433160882443,
+    "Distractors Gen": 65.89958423003554,
+    "Correct Options Check": 3432.7134695909917,
+    "Distrators Check": 4397.85588040296,
+    "Option Selection": 0.0033513354137539864
+}

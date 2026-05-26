@@ -1,0 +1,1237 @@
+{
+    "0": [
+        {
+            "Category": "Correct Option",
+            "Option": "tblastn",
+            "Evidence": [
+                "In the third method, all four of the Sri Lanka protein sequences were compared by tblastn (default parameters) to the nucleotide sequence of the genomes of all six other L. borgpetersenii strains."
+            ],
+            "Rationale": "The passage explicitly states that the third method used to identify VM protein homologs in animal-infecting L. borgpetersenii strains was tblastn, which compared the Sri Lankan protein sequences to the nucleotide sequences of the target strains. This method is directly described and supports the answer."
+        },
+        {
+            "Category": "Correct Option",
+            "Option": "hmmscan",
+            "Evidence": [
+                "The hmmscan reported three proteins meeting these criteria in HB203, TC112, TC129, TC147, and TC273 genomes, four proteins meeting these criteria in the LR131 strain, and two proteins meeting these criteria in the MN900 strain."
+            ],
+            "Rationale": "The passage identifies hmmscan as one of the primary methods used to detect VM protein homologs by searching annotated proteins against the DUF1561 HMM model. This method is explicitly mentioned and directly supports the answer."
+        },
+        {
+            "Category": "Correct Option",
+            "Option": "searching translations from all ORFs over 50 bp against the DUF1561 HMM",
+            "Evidence": [
+                "The second and third search approaches did not use NCBI protein annotations. This was done to eliminate the possibility that a homolog could have been missed due to an incorrect or missing protein annotation.",
+                "In the second approach, a liberal method of searching the translations from every ORF over 50\u2009bp in all six reading frames was utilized. These translations were searched against the DUF1516 (IPR011455) HMM as described for the NCBI annotations."
+            ],
+            "Rationale": "The passage describes a second method that involved translating all ORFs over 50 bp in all reading frames and searching them against the DUF1561 HMM. This method is explicitly detailed and serves as a distinct approach to identifying VM protein homologs, making it a correct answer."
+        }
+    ],
+    "1": [
+        {
+            "Category": "Correct Option",
+            "Option": "1 mM",
+            "Evidence": [
+                "Exposure to 5-HT for 24 hours, in the absence of growth-enhancing media (RPMI), significantly increased the motility of F. hepatica newly excysted juveniles (NEJs) by over 130% at a concentration of 1\u2009mM"
+            ],
+            "Rationale": "The passage explicitly states that a 24-hour exposure to 1 mM serotonin significantly increased motility in newly excysted juvenile F. hepatica by over 130%. This concentration is directly cited in the evidence and is the only value specified for this particular experimental condition, making it the correct and unambiguous answer."
+        }
+    ],
+    "2": [
+        {
+            "Category": "Correct Option",
+            "Option": "Hy. excavatum",
+            "Evidence": [
+                "In Bannu, Hy. excavatum was found to harbor P. rettgeri, with a prevalence of 5.83% (8/137), suggesting the emergence of this bacterium as a potential zoonotic agent."
+            ],
+            "Rationale": "The passage explicitly states that Hy. excavatum was the tick species found to harbor P. rettgeri in Bannu, Pakistan, with a confirmed prevalence rate. This information is directly retrievable from the 'Pathogen detection' section and matches the evidence provided, making it a precise and unambiguous correct answer."
+        }
+    ],
+    "3": [
+        {
+            "Category": "Correct Option",
+            "Option": "100 fg/\u00b5L",
+            "Evidence": [
+                "At 100 fg/\u00b5L, the fluorescence increase was clear, stable, and statistically significant, with all replicates showing positive detection. Therefore, although the assay begins to show detectable activity below 100 fg/\u00b5L, 100 fg/\u00b5L is the lowest concentration that satisfies all LOD performance criteria, and thus was chosen as the reported detection limit."
+            ],
+            "Rationale": "The passage explicitly states that 100 fg/\u00b5L was selected as the reported detection limit because it met all performance criteria, including consistent positive detection across all replicates, clear and stable fluorescence, and statistical significance. This directly answers the question about the detection limit determined by serial dilution of Salmonella typhimurium DNA."
+        }
+    ],
+    "4": [
+        {
+            "Category": "Correct Option",
+            "Option": "June to December 2023",
+            "Evidence": [
+                "The study was carried out from June to December 2023."
+            ],
+            "Rationale": "The passage explicitly states that the study was conducted from June to December 2023, directly answering the question about the time period of data collection in Hawella Tulla sub-city, Ethiopia. This information is clearly located in the 'Study setting and design' section and is not inferable from other parts of the text."
+        }
+    ],
+    "5": [
+        {
+            "Category": "Correct Option",
+            "Option": "42\u201374%",
+            "Evidence": [
+                "personnel costs account for 42\u201374% of total study expenses"
+            ],
+            "Rationale": "The passage explicitly states that personnel costs constitute 42\u201374% of total study expenses in STH and SCH monitoring programs, directly answering the question. This percentage is presented as a range, which is accurately captured in the option. No inference is required, and the information is unambiguously located in the text."
+        }
+    ],
+    "6": [
+        {
+            "Category": "Correct Option",
+            "Option": "Ensenada, 61.5%",
+            "Evidence": [
+                "Ensenada had the highest overall seroreactivity with 61.5% (59/96) of dogs seroreactive to at least one pathogen.",
+                "The highest overall seroprevalence was observed in Ensenada, where 61.5% of dogs were seroreactive to at least one pathogen."
+            ],
+            "Rationale": "The passage explicitly states that Ensenada had the highest overall seroprevalence of rickettsial pathogens in dogs, with 61.5% of dogs seroreactive to at least one pathogen. Both evidence sentences directly support this answer, confirming both the subregion (Ensenada) and the percentage (61.5%) as accurate and verifiable from the text."
+        }
+    ],
+    "7": [
+        {
+            "Category": "Correct Option",
+            "Option": "Quantitative real-time PCR",
+            "Evidence": [
+                "Quantitative real-time PCR of randomly selected genes (LIC10771, LIC11352, LIC11467, LIC11848, LIC20148, LIC_RS14805, and LIC_RS21185) in all conditions, corroborated our RNAseq results with a correlation coefficient of 0.70 (S3 Fig)."
+            ],
+            "Rationale": "The passage explicitly states that quantitative real-time PCR was used to validate the RNA sequencing results, with specific mention of the genes tested and a correlation coefficient of 0.70. This directly answers the question about the method used for validation, and the evidence is unambiguous and verbatim from the text."
+        }
+    ],
+    "8": [
+        {
+            "Category": "Correct Option",
+            "Option": "726 cases in 2019",
+            "Evidence": [
+                "peaking in 2019 (n\u2009=\u2009726)",
+                "Between 2011\u20132024, 12 deaths due to dengue were recorded, and the health centers across Goa recorded a steady rise in dengue cases, peaking in 2019 (n\u2009=\u2009726)"
+            ],
+            "Rationale": "The passage explicitly states that dengue cases in Goa peaked in 2019 with 726 cases, as confirmed by two direct quotes. This information is clearly locatable and directly answers the question about the peak number of cases and the year it occurred. The evidence is verbatim and unambiguous, making this a valid and accurate retrieval-based answer."
+        }
+    ],
+    "9": [
+        {
+            "Category": "Correct Option",
+            "Option": "0.61",
+            "Evidence": [
+                "The supervised stepwise regression model had an adjusted R2 of 0.61"
+            ],
+            "Rationale": "The passage explicitly states the adjusted R-squared value of the supervised stepwise regression model as 0.61, which directly answers the question. This value is presented in a clear, standalone sentence, making it easily retrievable without inference or additional context."
+        }
+    ],
+    "10": [
+        {
+            "Category": "Correct Option",
+            "Option": "SEARO",
+            "Evidence": [
+                "SEARO (54.5%) possess the highest proportions of \u201cEvidence Mature\u201d countries"
+            ],
+            "Rationale": "The passage explicitly states that SEARO (54.5%) has the highest proportion of 'Evidence Mature' countries among all WHO regions, directly answering the question. This information is clearly located in the section discussing the Evidence Maturity Index (EMI) analysis and is supported by the provided evidence."
+        },
+        {
+            "Category": "Correct Option",
+            "Option": "EURO",
+            "Evidence": [
+                "EURO (48.1%) possess the highest proportions of \u201cEvidence Mature\u201d countries"
+            ],
+            "Rationale": "The passage identifies EURO as having 48.1% of 'Evidence Mature' countries, which is the second-highest proportion among WHO regions. This is explicitly stated in the same sentence that lists SEARO as the highest, making it a distinct correct answer based on the data provided."
+        }
+    ],
+    "11": [
+        {
+            "Category": "Correct Option",
+            "Option": "Odisha, Andhra Pradesh, Tamil Nadu, and West Bengal; 62%",
+            "Evidence": [
+                "Notably, 62% of filariasis YouTube comments originated from vernacular channels registered in these four states, implying that digital engagement is being driven by local advocacy groups and patient networks rather than national news outlets.",
+                "In contrast, lymphatic filariasis presents as a band of medium-sized bubbles along the eastern littoral\u2014Odisha, Andhra Pradesh, Tamil Nadu and West Bengal reflecting both the coastal ecology of Culex quinquefasciatus and the history of MDA campaigns in these states."
+            ],
+            "Rationale": "The passage explicitly identifies Odisha, Andhra Pradesh, Tamil Nadu, and West Bengal as the states contributing the highest volume of YouTube comments on lymphatic filariasis, and directly states that 62% of such comments originated from these states. The evidence is drawn from two distinct but complementary sentences: one providing the quantitative proportion and the other confirming the geographic focus. This information is not inferable and is directly locatable in the text, fulfilling the criteria for a precise retrieval-based answer."
+        }
+    ],
+    "12": [
+        {
+            "Category": "Correct Option",
+            "Option": "4.9",
+            "Evidence": [
+                "presenting a SI of 4.9 (Table 1)."
+            ],
+            "Rationale": "The passage explicitly states that the selectivity index (SI) for trypomastigote egress was 4.9, directly answering the question. This value is clearly provided in the context of the EC50 determination for trypomastigote egress, making it a precise and retrievable fact from the text."
+        }
+    ],
+    "13": [
+        {
+            "Category": "Correct Option",
+            "Option": "Cx. univittatus and Cx. pipiens were selected as focal vectors for modeling Sindbis virus habitat suitability because they were the most frequently detected species in SINV presence points.",
+            "Evidence": [
+                "Therefore, we selected Cx. univittatus and Cx. pipiens as focal vectors.",
+                "Of the 109 SINV presence points we identified, 44 were from at least 17 different mosquito hosts; these were dominated by the Culex genus (31), featuring multiple species, led by Cx. univittatus (15) and Cx. pipiens (4) (S1 Table)."
+            ],
+            "Rationale": "The passage explicitly states that Cx. univittatus and Cx. pipiens were selected as focal vectors for SINV modeling, and the reason provided is their dominance in SINV presence records, with Cx. univittatus being the most frequently detected (15 instances) and Cx. pipiens the second (4 instances) among the 44 mosquito-host detections. This directly supports the option as a correct and verifiable answer."
+        }
+    ],
+    "14": [
+        {
+            "Category": "Correct Option",
+            "Option": "Ultrasound",
+            "Evidence": [
+                "Measurement validity is evaluated by comparing measurements taken by a digital calliper and those taken by ultrasound, which is used as the reference size.",
+                "Node measurements were obtained using the Butterfly iQ+ measurement tool."
+            ],
+            "Rationale": "The passage explicitly states that ultrasound measurements were used as the reference standard for assessing bubo size, as confirmed by the direct statement that 'ultrasound, which is used as the reference size.' This is further supported by the description of measurements being obtained via the Butterfly iQ+ probe and its integrated measurement tool, reinforcing ultrasound as the primary reference method."
+        }
+    ],
+    "15": [
+        {
+            "Category": "Correct Option",
+            "Option": "Using CCR8 knockout (KO) mice",
+            "Evidence": [
+                "To functionally confirm the pathogenic role of CCR8, we conducted studies using CCR8 knockout (KO) mice.",
+                "We utilized WT and CCR8 gene knockout mouse models combined with multidisciplinary technical approaches to systematically elucidate the role and mechanism of the CCR8/CCL1 axis in AE liver immunopathology"
+            ],
+            "Rationale": "The passage explicitly states that CCR8 knockout (KO) mice were used to functionally confirm the role of CCR8 in disease progression and immune modulation. This experimental approach directly enables causal inference by comparing infected KO mice to wild-type (WT) mice, allowing researchers to assess the impact of CCR8 deficiency on immune responses and pathology. The evidence is directly supported by two verbatim sentences in the passage."
+        },
+        {
+            "Category": "Correct Option",
+            "Option": "Comparing wild-type and CCR8 gene knockout mouse models",
+            "Evidence": [
+                "We utilized WT and CCR8 gene knockout mouse models combined with multidisciplinary technical approaches to systematically elucidate the role and mechanism of the CCR8/CCL1 axis in AE liver immunopathology"
+            ],
+            "Rationale": "The study employed a comparative design between wild-type (WT) and CCR8 gene knockout (KO) mice to investigate the role of the CCR8/CCL1 axis. This comparison is central to determining the causal effect of CCR8 deficiency on immune responses and disease outcomes. The passage explicitly describes this dual-model approach as the foundation of the study\u2019s methodology, making it a distinct and directly supported correct option."
+        }
+    ],
+    "16": [
+        {
+            "Category": "Correct Option",
+            "Option": "5.26%",
+            "Evidence": [
+                "Of 57 negative extraction controls (NECs) across 33 Multi-Tryp qPCR runs, 5.26% (n\u2009=\u20093) recorded UGWigg amplification (mean Cq 32.38\u2009\u00b1\u20092.39 SE)."
+            ],
+            "Rationale": "The passage explicitly states that 5.26% of the negative extraction controls (NECs) showed amplification of W. glossinidia DNA, which is directly reported in the evidence sentence. This percentage is a precise quantitative result from the field-based validation phase and is the only value provided in the text for this specific metric."
+        }
+    ],
+    "17": [
+        {
+            "Category": "Correct Option",
+            "Option": "Wind speed",
+            "Evidence": [
+                "Wind speed appears to be a key factor determining the dispersal capacity of infected T. vitticeps in the Esp\u00edrito Santo, representing a potential novel mechanism for the long-distance transmission of T. cruzi.",
+                "Wind has been identified as one of the factors influencing the flight displacement of triatomines, typically associated with low wind speeds and other factors such as temperature, humidity, and nutritional status."
+            ],
+            "Rationale": "The passage explicitly identifies wind speed as a key factor in the long-distance dispersal of infected Triatoma vitticeps in Esp\u00edrito Santo. The first evidence sentence directly states this, while the second supports it by confirming wind's role in triatomine flight displacement, reinforcing the centrality of wind speed in the dispersal mechanism described in the study."
+        }
+    ],
+    "18": [
+        {
+            "Category": "Correct Option",
+            "Option": "49.80 TU/mL",
+            "Evidence": [
+                "ROC curve analysis established 49.80 TU/mL as the best cut-off value of sTM to identify 28-day hospital mortality"
+            ],
+            "Rationale": "The passage explicitly states that the best cut-off value of sTM for predicting 28-day hospital mortality in HFRS patients was established as 49.80 TU/mL through ROC curve analysis. This value is directly reported in the text and serves as the precise answer to the question."
+        }
+    ],
+    "19": [
+        {
+            "Category": "Correct Option",
+            "Option": "Huaphan",
+            "Evidence": [
+                "By province, STG IgG seropositivity was 27% in Huaphan, 19% in Oudomxay, and 16% in Xiangkhuang.",
+                "Huaphan, Oudomxay and Xiangkhuang were the three provinces with the highest STG seroprevalence."
+            ],
+            "Rationale": "The passage explicitly states that Huaphan had the highest STG IgG seropositivity rate at 27% among blood donors based on IFA testing, which is higher than Oudomxay (19%) and Xiangkhuang (16%). This information is directly supported by the provided evidence and clearly identifies Huaphan as the province with the highest seroprevalence."
+        }
+    ],
+    "20": [
+        {
+            "Category": "Correct Option",
+            "Option": "Light-microscopy based",
+            "Evidence": [
+                "Diagnosis of Giardiasis is still primarily light-microscopy based"
+            ],
+            "Rationale": "The passage explicitly states that the primary method for diagnosing Giardiasis is light-microscopy based, making this the direct and correct answer to the first part of the question. This information is clearly and unambiguously stated in the text."
+        },
+        {
+            "Category": "Correct Option",
+            "Option": "Not immediately affordable for most diagnostics labs in LMICs",
+            "Evidence": [
+                "These products are not immediately affordable for most diagnostics labs in LMICs, the most likely to be faced with cases of both acute and chronic Giardiasis"
+            ],
+            "Rationale": "The passage directly identifies the limitation of the current diagnostic reagents\u2014specifically the proprietary anti-CWP-1 monoclonal antibody\u2014by stating they are not affordable for most labs in low- and middle-income countries (LMICs), which are the most affected by Giardiasis. This matches the second part of the question precisely."
+        }
+    ],
+    "21": [
+        {
+            "Category": "Correct Option",
+            "Option": "24.0\u00b0C",
+            "Evidence": [
+                "the highest mean (24.0\u00b0C) and maximum (37.5\u00b0C) temperatures occurred in July 1857"
+            ],
+            "Rationale": "The passage explicitly states that the highest mean temperature in July 1857 was 24.0\u00b0C, directly answering the first part of the question. This value is clearly identified in the text and is the only temperature mentioned for July, making it the correct and unambiguous answer."
+        },
+        {
+            "Category": "Correct Option",
+            "Option": "Temperatures decreased from summer and autumn, dropping to 7.5\u00b0C in January 1858 and 11.3\u00b0C in February 1858",
+            "Evidence": [
+                "Temperatures began to decrease from the high averages observed in summer and autumn, dropping to an average temperature of 7.5\u00b0C in January 1858, and 11.3\u00b0C in February 1858"
+            ],
+            "Rationale": "The passage provides a clear comparison of July's temperatures to later months, stating that temperatures declined after summer and autumn, with specific values given for January and February 1858. This directly addresses the second part of the question about how July's temperature compared to other months in the year."
+        }
+    ],
+    "22": [
+        {
+            "Category": "Correct Option",
+            "Option": "Western region",
+            "Evidence": [
+                "The highest dengue seroprevalence was recorded in the western region of Bangkok (35.3%, 95% CI 32.2-38.4)"
+            ],
+            "Rationale": "The passage explicitly states that the western region of Bangkok had the highest dengue seroprevalence among children aged 10\u201315 years, with a rate of 35.3%. This information directly answers the question and is supported by a verbatim quote from the text."
+        }
+    ],
+    "23": [
+        {
+            "Category": "Correct Option",
+            "Option": "Annual mean temperature, rainfall in the driest quarter, and elevation",
+            "Evidence": [
+                "annual mean temperature, rainfall in the driest quarter, and elevation were consistently effective predictors in the models and showed negative associations with onchocerciasis prevalence, with residual spatial correlation increasing overtime (Table 2).",
+                "annual mean temperature, rainfall in the driest quarter, and elevation were consistently associated with onchocerciasis prevalence across time. These variables were consistently negatively associated with prevalence."
+            ],
+            "Rationale": "The passage explicitly states that these three environmental factors\u2014annual mean temperature, rainfall in the driest quarter, and elevation\u2014were consistently negatively associated with onchocerciasis prevalence across all time periods in the geostatistical model. This is directly supported by two verbatim quotes from the text, both of which confirm the consistent negative association of these variables with disease prevalence over time."
+        }
+    ],
+    "24": [
+        {
+            "Category": "Correct Option",
+            "Option": "To determine the preventive effect of DI on T. gondii-induced anxiety-like behavior",
+            "Evidence": [
+                "Experiment 3 aimed to determine the preventive effect of DI on T. gondii-induced anxiety-like behavior."
+            ],
+            "Rationale": "The passage explicitly states the purpose of Experiment 3 in the 'In-vivo experimental design' section, directly answering the question. This option is a concise, semantically complete restatement of the stated aim and is fully supported by the provided evidence."
+        },
+        {
+            "Category": "Correct Option",
+            "Option": "DI administration started one week before T. gondii infection and lasted until the end of the experiment",
+            "Evidence": [
+                "DI administration (intraperitoneal injection, twice per week) started one week before T. gondii infection and lasted until the end of the experiment."
+            ],
+            "Rationale": "This option captures a key methodological detail that confirms the preventive nature of DI treatment in Experiment 3. The timing of administration\u2014starting one week before infection\u2014directly supports the purpose of evaluating prevention, and the sentence is a verbatim quote from the passage."
+        }
+    ],
+    "25": [
+        {
+            "Category": "Correct Option",
+            "Option": "Necrophagous flies",
+            "Evidence": [
+                "an alternative transmission route, especially relevant for Bcbva commonly inhabiting densely vegetated rainforest ecosystems and also infecting strictly arboreal monkey species [10,13], involves necrophagous flies."
+            ],
+            "Rationale": "The passage explicitly identifies necrophagous flies as the alternative transmission route relevant for Bcbva in densely vegetated rainforest ecosystems. This is directly stated in the provided evidence sentence, making it a clear and unambiguous answer to the question."
+        }
+    ],
+    "26": [
+        {
+            "Category": "Correct Option",
+            "Option": "Inability to safely restrain the dog",
+            "Evidence": [
+                "The most common reasons for non-vaccination were inability to safely restrain the dog (n\u2009=\u2009214; 43.3%) and dogs being too distant to approach (n\u2009=\u2009194; 39.3%)"
+            ],
+            "Rationale": "The passage explicitly states that the most common reason for non-vaccination was the inability to safely restrain the dog, with 214 dogs affected (43.3% of non-vaccinated dogs). This directly answers the question about the primary reason for non-vaccination during the campaign."
+        },
+        {
+            "Category": "Correct Option",
+            "Option": "Dogs being too distant to approach",
+            "Evidence": [
+                "The most common reasons for non-vaccination were inability to safely restrain the dog (n\u2009=\u2009214; 43.3%) and dogs being too distant to approach (n\u2009=\u2009194; 39.3%)"
+            ],
+            "Rationale": "The passage identifies 'dogs being too distant to approach' as the second most common reason for non-vaccination, with 194 dogs affected (39.3%). While not the primary reason, this is a distinct and correct answer supported by explicit text, reflecting a key operational challenge during the campaign."
+        }
+    ],
+    "27": [
+        {
+            "Category": "Correct Option",
+            "Option": "June-September 2023",
+            "Evidence": [
+                "DENV-3 was detected in June-September 2023 samples from Chantal, Cayes, Port Salut, St. Louis du Sud, Les Anglais, and Port-a-Piment",
+                "In this study, we demonstrated evidence for circulation of DENV-3 within the Sud Department of Haiti during June-September 2023"
+            ],
+            "Rationale": "The passage explicitly states that DENV-3 was detected in samples collected between June and September 2023 in multiple locations within Haiti, including the Sud Department. This time period is directly supported by two verbatim sentences in the text, confirming the temporal window of detection in the study."
+        }
+    ],
+    "28": [
+        {
+            "Category": "Correct Option",
+            "Option": "Attack rate: the proportion of inoculated participants who developed viraemia",
+            "Evidence": [
+                "Primary outcome was attack rate: the proportion of inoculated participants who developed viraemia."
+            ],
+            "Rationale": "The passage explicitly defines the primary outcome measure in the systematic review as 'attack rate: the proportion of inoculated participants who developed viraemia,' which directly answers the question. This information is clearly stated in the 'Search strategy' section and is the only definition provided for the primary outcome, making it the unambiguous correct answer."
+        }
+    ],
+    "29": [
+        {
+            "Category": "Correct Option",
+            "Option": "Central Gabon, with a reported S. haematobium prevalence between 9% to 25% among pregnant women",
+            "Evidence": [
+                "This cross-sectional, diagnostic proof-of-concept study was conducted at the CERMEL [16]. The study region is in the tropical rainforest of central Gabon, approximately 100 km south of the capital, Libreville.",
+                "Previous publications have reported a regional prevalence for S. haematobium between 9% to 25% among pregnant women [17,18]."
+            ],
+            "Rationale": "The passage explicitly states that the study was conducted in central Gabon, approximately 100 km south of Libreville, and that prior studies in the same region reported an S. haematobium prevalence among pregnant women ranging from 9% to 25%. These two pieces of information directly answer the question and are supported by verbatim evidence from the text."
+        }
+    ],
+    "30": [
+        {
+            "Category": "Correct Option",
+            "Option": "90% of stage 2 participants with oedema",
+            "Evidence": [
+                "Through a combination of MAG and 16S rRNA gene recovery, we therefore detected Treponema sp. A in 15/19 noma participants assessed in this study, including 90% (8/9) of Stage 2 participants with oedema, and 100% (7/7) of Stage 3 participants with gangrenous lesions (S5 Table)."
+            ],
+            "Rationale": "The passage explicitly states that Treponema sp. A was detected in 90% (8 out of 9) of stage 2 participants with oedema, using both MAG and 16S rRNA gene recovery methods. This directly answers the question about the prevalence in stage 2 disease."
+        },
+        {
+            "Category": "Correct Option",
+            "Option": "100% of stage 3 participants with gangrene",
+            "Evidence": [
+                "Through a combination of MAG and 16S rRNA gene recovery, we therefore detected Treponema sp. A in 15/19 noma participants assessed in this study, including 90% (8/9) of Stage 2 participants with oedema, and 100% (7/7) of Stage 3 participants with gangrenous lesions (S5 Table)."
+            ],
+            "Rationale": "The passage clearly reports that Treponema sp. A was detected in 100% (7 out of 7) of stage 3 participants with gangrene, confirming its high prevalence in this clinical stage. This is a direct and unambiguous answer to the question."
+        }
+    ],
+    "31": [
+        {
+            "Category": "Correct Option",
+            "Option": "0.6 days",
+            "Evidence": [
+                "All patients were admitted to hospital at the acute phase of infection, a median of 0.6\u2009\u00b1\u20090.9 days after onset of illness."
+            ],
+            "Rationale": "The passage explicitly states that the median time between the onset of illness and hospital admission for children in the study cohort was 0.6 days, directly answering the question. This information is clearly provided in the context of the study's patient characteristics and is not inferable from other parts of the text."
+        }
+    ],
+    "32": [
+        {
+            "Category": "Correct Option",
+            "Option": "R. aegyptiacus",
+            "Evidence": [
+                "field surveillance efforts reporting detection of ZIKV subgenomic flaviviral RNA (sfRNA) in free-ranging R. aegyptiacus"
+            ],
+            "Rationale": "The passage explicitly states that field surveillance studies detected ZIKV subgenomic flavivirus RNA (sfRNA) in free-ranging R. aegyptiacus, directly answering the question. This information is clearly located in the text and is not inferred or generalized."
+        }
+    ],
+    "33": [
+        {
+            "Category": "Correct Option",
+            "Option": "4.22-fold higher relative risk",
+            "Evidence": [
+                "This cluster covered 11 counties in central and eastern Ningxia and was associated with a 4.22-fold higher relative risk (RR) compared to areas outside the cluster."
+            ],
+            "Rationale": "The passage explicitly states that the persistent high-risk spatiotemporal cluster (Cluster 1) in central and eastern Ningxia from 2015 to 2022 was associated with a 4.22-fold higher relative risk compared to non-cluster areas. This value is directly provided in the text and serves as the precise answer to the question."
+        }
+    ],
+    "34": [
+        {
+            "Category": "Correct Option",
+            "Option": "Inhibition of the parasympathetic response",
+            "Evidence": [
+                "Heart Rate Recovery (HRR) was observed to show an altered response and statistical significance (p\u2009=\u20090.006; d\u2009=\u20091.05). This index is associated with an inhibition of the parasympathetic response.",
+                "Although heart rate variability assessment indices were normalized, a parasympathetic inhibition response was observed in the recovery phase of the exercise stress test."
+            ],
+            "Rationale": "The passage explicitly states that in the recovery phase of the exercise stress test, despite normalization of HRV indices, a parasympathetic inhibition response was observed. This is directly supported by two verbatim quotes: one linking HRR to inhibition of the parasympathetic response, and another confirming the persistence of this inhibition post-treatment. The answer is specific, directly retrievable, and matches the evidence provided."
+        }
+    ],
+    "35": [
+        {
+            "Category": "Correct Option",
+            "Option": "The study was substantially underpowered due to a small sample size, limiting the stability and reliability of statistical estimates and increasing the risk of overfitting in ROC analysis.",
+            "Evidence": [
+                "Given that only 13 pediatric brucellar meningitis cases were identified in 10 years, the study is substantially underpowered, and no a priori power calculation was performed, which further limits the interpretability of the statistical findings.",
+                "the small sample size limits the stability and reliability of the statistical estimates.",
+                "the ROC performed in this study may be prone to overfitting due to the limited sample size, and therefore the diagnostic performance observed should be interpreted as exploratory rather than confirmatory."
+            ],
+            "Rationale": "The passage explicitly states that the study's small sample size\u2014particularly the identification of only 13 pediatric brucellar meningitis cases over 10 years\u2014rendered it substantially underpowered. This directly impacts statistical analysis by reducing reliability, limiting interpretability, and increasing the risk of overfitting in ROC analysis. The evidence collectively supports that the primary limitation related to sample size is its effect on statistical robustness, which is clearly articulated in the text."
+        },
+        {
+            "Category": "Correct Option",
+            "Option": "No a priori power calculation was performed, which further limits the interpretability of the statistical findings.",
+            "Evidence": [
+                "Given that only 13 pediatric brucellar meningitis cases were identified in 10 years, the study is substantially underpowered, and no a priori power calculation was performed, which further limits the interpretability of the statistical findings."
+            ],
+            "Rationale": "The passage directly states that the absence of an a priori power calculation is a key limitation tied to the small sample size, which undermines the validity and interpretability of the statistical results. This is a distinct and explicit point from the broader issue of underpowering, making it a separate correct answer supported by verbatim evidence."
+        }
+    ],
+    "36": [
+        {
+            "Category": "Correct Option",
+            "Option": "Detectable lesion development confirmed by ultrasound and terminal necropsy",
+            "Evidence": [
+                "The ultrasound-guided group achieved 100% (15/15) modeling success by day 75 post-modeling, with uniform lesion growth, while the surgical group showed detectable lesions in only 11 animals at the same time point.",
+                "Overall, the ultrasound-guided method achieved a 100% modeling success rate (30/30), significantly higher than the surgical group\u2019s 80% (24/30)",
+                "Final necropsy revealed 3 cases of peritoneal metastasis in the surgical group versus only 1 in the ultrasound-guided group."
+            ],
+            "Rationale": "The passage explicitly defines modeling success through the presence of detectable lesions observed via ultrasound monitoring and confirmed by terminal necropsy. The evidence shows that success was assessed by the ability to detect lesions over time and verified through post-mortem examination, including the identification of metastasis. This operational definition is consistent across multiple statements and directly answers the question about the primary outcome measure."
+        },
+        {
+            "Category": "Correct Option",
+            "Option": "100% modeling success rate in the ultrasound-guided group by day 75 post-modeling",
+            "Evidence": [
+                "The ultrasound-guided group achieved 100% (15/15) modeling success by day 75 post-modeling, with uniform lesion growth, while the surgical group showed detectable lesions in only 11 animals at the same time point."
+            ],
+            "Rationale": "This specific metric\u2014100% modeling success by day 75\u2014is directly stated in the passage as a key indicator of success in the ultrasound-guided group. It reflects the primary outcome measure used to compare the two methods, demonstrating the effectiveness of the technique in achieving consistent and early lesion development."
+        }
+    ],
+    "37": [
+        {
+            "Category": "Correct Option",
+            "Option": "590,377 pre-school children and 1,556,647 school age children",
+            "Evidence": [
+                "The population targeted for preventive chemotherapy was 590,377 pre-school children and 1,556,647 school age children"
+            ],
+            "Rationale": "The passage explicitly states the targeted population for preventive chemotherapy for STH in Kenya in 2022, including the exact numbers for pre-school and school-age children. This information is directly provided in the evidence sentence and matches the question's request for the 2022 key statistics."
+        }
+    ],
+    "38": [
+        {
+            "Category": "Correct Option",
+            "Option": "0.56 per 100,000 inhabitants",
+            "Evidence": [
+                "The average annual hospital prevalence averaged 0.56 per 100,000 inhabitants"
+            ],
+            "Rationale": "The passage explicitly states that the average annual hospital prevalence rate of cystic echinococcosis in Italy from 2015 to 2022 was 0.56 per 100,000 inhabitants, directly answering the question. This figure is clearly presented in the context of the study period and is supported by a verbatim quote from the passage."
+        }
+    ],
+    "39": [
+        {
+            "Category": "Correct Option",
+            "Option": "Sensory loss and muscle weakness in the hands and feet",
+            "Evidence": [
+                "The disease damages peripheral nerves [5], leaving many with sensory loss and muscle weakness in the hands and feet, predisposing them to injuries from daily activities."
+            ],
+            "Rationale": "The passage explicitly states that leprosy damages peripheral nerves, resulting in sensory loss and muscle weakness in the hands and feet, which are long-term physical complications that persist even after MDT completion. This directly answers the question and is supported by a verbatim quote from the text."
+        },
+        {
+            "Category": "Correct Option",
+            "Option": "Chronic ulcers, loss of digits, and disfigurement",
+            "Evidence": [
+                "These presentations progress into chronic ulcers, loss of digits, and disfigurement\u2014visible signs of leprosy that reinforce stigma."
+            ],
+            "Rationale": "The passage clearly identifies chronic ulcers, loss of digits, and disfigurement as long-term physical complications that result from leprosy and persist after treatment. This is a direct and explicit statement in the text, making it a valid correct option."
+        },
+        {
+            "Category": "Correct Option",
+            "Option": "Residual nerve damage and impairments impacting daily life",
+            "Evidence": [
+                "Physical limitations persist well beyond treatment completion, with residual nerve damage and impairments impacting daily life [27,28]."
+            ],
+            "Rationale": "The passage explicitly states that residual nerve damage and impairments continue after MDT completion and affect daily functioning, directly addressing the long-term physical complications of leprosy. This is a clear, verbatim-supported answer to the question."
+        }
+    ],
+    "40": [
+        {
+            "Category": "Correct Option",
+            "Option": "6 pm to 9 pm",
+            "Evidence": [
+                "The largest proportion of snakebites was reported during the three hours from 6 pm to 9 pm (1435/4671, 30.7%) (Fig 2), particularly for H. hypnale and D. russelii."
+            ],
+            "Rationale": "The passage explicitly states that the largest proportion of snakebites occurred during the three hours from 6 pm to 9 pm, with 30.7% of cases reported in this time window. This directly answers the question about the time period with the highest proportion of snakebites."
+        },
+        {
+            "Category": "Correct Option",
+            "Option": "September to February",
+            "Evidence": [
+                "Snakebites peaked from September to February (Fig 3)."
+            ],
+            "Rationale": "The passage clearly identifies September to February as the period when snakebites peaked, based on seasonal trend analysis. This is a direct and explicit statement that answers the question about the peak seasonal period for snakebites in the cohort."
+        }
+    ],
+    "41": [
+        {
+            "Category": "Correct Option",
+            "Option": "M. fortis survived for 30 days with no detectable T. gondii tachyzoites in organs or ascitic fluid",
+            "Evidence": [
+                "M. fortis survived for 30 days (Fig 1B), and no T. gondii tachyzoites were detected by microscopy in the brain, heart, liver, spleen, lung, kidney, or ascitic fluid of the surviving M. fortis."
+            ],
+            "Rationale": "The passage explicitly states that M. fortis animals survived the 30-day observation period and showed no evidence of T. gondii tachyzoites in multiple organs or ascitic fluid, directly answering the first part of the question about the outcome for M. fortis."
+        },
+        {
+            "Category": "Correct Option",
+            "Option": "KM mice died within 7 days after infection",
+            "Evidence": [
+                "KM mice, which are sensitive to T. gondii, died within 7 days."
+            ],
+            "Rationale": "The passage clearly states that KM mice, used as a control, died within 7 days of infection, providing a direct comparison to the survival outcome observed in M. fortis, thus answering the second part of the question."
+        }
+    ],
+    "42": [
+        {
+            "Category": "Correct Option",
+            "Option": "Coyotes, red foxes, and gray wolves",
+            "Evidence": [
+                "Three potential wild hosts exist for E. multilocularis in Washington state: coyotes, red foxes, and gray wolves.",
+                "Our study focused on coyotes, as they are most common in our study area."
+            ],
+            "Rationale": "The passage explicitly lists three wild canid species as potential definitive hosts for E. multilocularis in Washington state: coyotes, red foxes, and gray wolves. This is directly stated in the first sentence of the evidence. The second sentence confirms that the study focused on coyotes, reinforcing that all three species are recognized as potential hosts in the region. The answer is unambiguous and fully supported by the text."
+        }
+    ],
+    "43": [
+        {
+            "Category": "Correct Option",
+            "Option": "Overall hookworm infection",
+            "Evidence": [
+                "For hookworm, the focus of this analysis, two outcomes were investigated: (i) overall hookworm infection; and (ii) MHI N. americanus infection.",
+                "the predicted risk for overall hookworm infection and MHI N. americanus infection was mapped across Dak Lak province pre- and post-intervention"
+            ],
+            "Rationale": "The passage explicitly states that the geospatial analysis focused on two outcomes: overall hookworm infection and MHI N. americanus infection. The first evidence confirms this dual focus, while the second supports that overall hookworm infection was one of the primary outcomes mapped to assess intervention impact. This option directly answers the question by identifying one of the two primary outcomes measured."
+        },
+        {
+            "Category": "Correct Option",
+            "Option": "MHI N. americanus infection",
+            "Evidence": [
+                "For hookworm, the focus of this analysis, two outcomes were investigated: (i) overall hookworm infection; and (ii) MHI N. americanus infection.",
+                "the predicted risk for overall hookworm infection and MHI N. americanus infection was mapped across Dak Lak province pre- and post-intervention"
+            ],
+            "Rationale": "The passage clearly identifies MHI N. americanus infection as one of the two primary outcomes investigated in the geospatial analysis. The second evidence confirms that this outcome was mapped pre- and post-intervention, directly linking it to the assessment of intervention impact. This option is a distinct and correct answer, representing the second of the two main outcomes measured."
+        }
+    ],
+    "44": [
+        {
+            "Category": "Correct Option",
+            "Option": "X10 (annual temperature variation trend)",
+            "Evidence": [
+                "In the southern region, only five climatic factors show correlations with plague, where X10 (annual temperature variation trend) exhibits the highest explanatory power at 17.07%."
+            ],
+            "Rationale": "The passage explicitly states that in southern China, X10 (annual temperature variation trend) has the highest explanatory power for plague incidence at 17.07%, making it the correct answer. This information is directly supported by the provided evidence and is the only factor identified as having the highest explanatory power in the southern region."
+        }
+    ],
+    "45": [
+        {
+            "Category": "Correct Option",
+            "Option": "Nearly all warm-blooded animals",
+            "Evidence": [
+                "T. gondii is an obligate intracellular parasitic protozoan with a broad host range, capable of invading the nucleated cells of nearly all warm-blooded animals, thereby causing toxoplasmosis in both humans and animals [1]."
+            ],
+            "Rationale": "The passage explicitly states that T. gondii can invade the nucleated cells of 'nearly all warm-blooded animals,' which directly identifies the animal reservoirs associated with transmission to humans. This information is unambiguously provided in the evidence sentence and directly answers the question about the animal reservoirs involved in T. gondii transmission."
+        }
+    ],
+    "46": [
+        {
+            "Category": "Correct Option",
+            "Option": "Non-human studies and in-vitro investigations were excluded.",
+            "Evidence": [
+                "Non-human studies and in-vitro investigations were excluded."
+            ],
+            "Rationale": "The passage explicitly states that non-human studies and in-vitro investigations were excluded from the systematic review, which directly answers the question about the primary reason for their exclusion. This sentence is the only statement in the passage that addresses the exclusion criterion, making it the definitive and verbatim answer."
+        }
+    ],
+    "47": [
+        {
+            "Category": "Correct Option",
+            "Option": "M. fuliginosus",
+            "Evidence": [
+                "This study provides the first molecular evidence of pathogenic Leptospira species in bat populations in Sri Lanka, specifically identifying L. borgpetersenii in M. fuliginosus bats."
+            ],
+            "Rationale": "The passage explicitly states that this study provides the first molecular evidence of pathogenic Leptospira in Sri Lankan bat populations, specifically identifying L. borgpetersenii in M. fuliginosus bats. This directly answers the question about which species was found to carry pathogenic Leptospira for the first time in this study."
+        },
+        {
+            "Category": "Correct Option",
+            "Option": "R. leschenaultii",
+            "Evidence": [
+                "The sequence obtained from a Rousettus bat (U289) did not cluster with any currently recognized Leptospira species. Instead, it formed a distinct basal lineage within the pathogenic (P1) Leptospira clade."
+            ],
+            "Rationale": "The passage indicates that the Leptospira isolate from R. leschenaultii formed a distinct basal lineage within the pathogenic Leptospira clade, suggesting it represents a previously uncharacterized pathogenic lineage. This finding, while not matching a known species, constitutes the first detection of pathogenic Leptospira in this bat species in Sri Lanka, making it a correct answer to the question."
+        }
+    ],
+    "48": [
+        {
+            "Category": "Correct Option",
+            "Option": "ELISA",
+            "Evidence": [
+                "The prevalence for IFA, ELISA, RT-PCR were 9.35% (95%CI, 4.85%-17.26%, p < 0.01), 10.68% (95%CI, 4.05%-25.33%, p < 0.01), and 2.29% (95%CI, 0.87%-5.91%, p < 0.01), respectively, with ELISA showing the highest rate."
+            ],
+            "Rationale": "The passage explicitly states that among the detection methods analyzed\u2014IFA, ELISA, and RT-PCR\u2014ELISA had the highest prevalence rate at 10.68%, which is directly supported by the quoted sentence. This information is clearly located in the 'Subgroup analysis of detection methods' section and is the only method with a prevalence rate above 10%, making it the correct answer based on direct textual evidence."
+        }
+    ],
+    "49": [
+        {
+            "Category": "Correct Option",
+            "Option": "HAT group and SERO group",
+            "Evidence": [
+                "At enrolment, the results obtained by linear regression model showed significantly higher titers of plasmatic sHLA-G in the HAT (n\u2009=\u200936) (p\u2009=\u20093.4*10-6) and SERO (n\u2009=\u200945) groups than in the CTR group (n\u2009=\u200950) (Fig 2A and Table 2A)."
+            ],
+            "Rationale": "The passage explicitly states that both the HAT group and the SERO group had significantly higher plasma levels of soluble HLA-G compared to seronegative controls (CTR) at enrolment, supported by p-values less than 0.05. This directly answers the question with precise group names and statistical evidence."
+        },
+        {
+            "Category": "Correct Option",
+            "Option": "SERO/TL- subgroup, SERO/TL+ subgroup, S1 subgroup, and S2 subgroup",
+            "Evidence": [
+                "Compared to the CTR group, significantly higher sHLA-G levels were observed in the subgroups SERO/TL- (n\u2009=\u200938) (p\u2009=\u20090.037), SERO/TL+ (n\u2009=\u20097) (p\u2009=\u20094.89*10-5), S1 (n\u2009=\u20098) (p\u2009=\u20091.37*10-3) and S2 (n\u2009=\u200928) (p\u2009=\u20093.83*10-6) (Fig 2B and Table 2B)."
+            ],
+            "Rationale": "The passage provides direct evidence that all four subgroups\u2014SERO/TL-, SERO/TL+, S1, and S2\u2014showed significantly higher plasma sHLA-G levels than seronegative controls at enrolment, as confirmed by statistical p-values. This represents a distinct set of correct answers derived from the same evidence section, each corresponding to a specific subgroup."
+        }
+    ],
+    "50": [
+        {
+            "Category": "Correct Option",
+            "Option": "American Robin (Turdus migratorius), House Sparrow (Passer domesticus), and House Finch (Haemorhous mexicanus)",
+            "Evidence": [
+                "In North America, American Robin (Turdus migratorius), House Sparrow (Passer domesticus), and House Finch (Haemorhous mexicanus) are the most common blood-meal sources [6,8,9]."
+            ],
+            "Rationale": "The passage explicitly lists these three bird species as the most common blood-meal sources for Culex mosquitoes in North America, directly answering the question. The evidence is a verbatim quote from the text, confirming the accuracy of the option without requiring inference."
+        }
+    ],
+    "51": [
+        {
+            "Category": "Correct Option",
+            "Option": "The toxicity of red blood cells may explain the elimination of the combined effect",
+            "Evidence": [
+                "the toxicity of RBC may explain the elimination of this combined effect"
+            ],
+            "Rationale": "This option directly captures the primary reason suggested in the passage for the lack of a combined beneficial effect. The sentence is a direct statement from the text that explicitly links RBC toxicity to the failure of synergy between SIS and RBC supplementation, making it a precise and verbatim-supported answer."
+        },
+        {
+            "Category": "Correct Option",
+            "Option": "Oxidative stress caused by free iron derived from heme is one of the expected toxicities of red blood cells",
+            "Evidence": [
+                "One of the expected toxicities of RBC is oxidative stress caused by free iron derived from heme"
+            ],
+            "Rationale": "This option provides a specific biological mechanism underlying the toxicity of RBC, as explicitly stated in the passage. It directly supports the broader explanation that RBC toxicity interferes with the beneficial effects of SIS, and the sentence is a verbatim quote from the text, making it a valid and distinct correct answer."
+        },
+        {
+            "Category": "Correct Option",
+            "Option": "The effects of sex-inducing substances might be inhibited by oxidative stress",
+            "Evidence": [
+                "We speculated that the effects of SIS might be inhibited by oxidative stress"
+            ],
+            "Rationale": "This option identifies a key causal hypothesis from the passage that explains why the combination of SIS and RBC failed to produce a synergistic effect. The sentence is a direct quote and explicitly links oxidative stress to the potential inhibition of SIS function, providing a distinct and supported explanation for the observed outcome."
+        }
+    ],
+    "52": [
+        {
+            "Category": "Correct Option",
+            "Option": "Leptospirosis was studied in 1 study, zoonotic tuberculosis in 1 study, bovine tuberculosis (bTB) in 4 studies, Crimean-Congo haemorrhagic fever in 1 study, brucellosis in 4 studies, and Toxoplasma gondii infection in 1 study.",
+            "Evidence": [
+                "Six specific zoonotic diseases were investigated: leptospirosis (n\u2009=\u20091), zoonotic tuberculosis (n\u2009=\u20091), bovine tuberculosis (bTB) (n\u2009=\u20094), Crimean-Congo haemorrhagic fever (n\u2009=\u20091), brucellosis (n\u2009=\u20094), and Toxoplasma gondii infection (n\u2009=\u20091)."
+            ],
+            "Rationale": "The passage explicitly lists the six zoonotic diseases investigated in the included studies along with the number of studies for each, providing a direct and unambiguous answer to the question. This information is presented in a clear, structured format that matches the query exactly."
+        },
+        {
+            "Category": "Correct Option",
+            "Option": "One study addressed multiple zoonotic diseases, and three studies did not specify the exact zoonotic disease investigated.",
+            "Evidence": [
+                "One study addressed multiple zoonotic diseases (n\u2009=\u20091), while three did not specify the exact zoonotic disease investigated (n\u2009=\u20093)."
+            ],
+            "Rationale": "The passage provides a direct count of studies that either addressed multiple zoonotic diseases or failed to specify the exact disease, which is a distinct and correct part of the answer to the question. This information complements the first option and ensures full coverage of the evidence."
+        }
+    ],
+    "53": [
+        {
+            "Category": "Correct Option",
+            "Option": "1 pg per reaction",
+            "Evidence": [
+                "The empirical LoD was established at 1 pg per reaction, the lowest DNA input yielding positive results in all replicates."
+            ],
+            "Rationale": "The passage explicitly states that the empirical limit of detection (LoD) for the RPA assay was determined to be 1 pg per reaction, as this was the lowest DNA input that produced positive results in all technical replicates (3/3). This information is directly provided in subsection 3.3, making it a clear and unambiguous retrieval target."
+        }
+    ],
+    "54": [
+        {
+            "Category": "Correct Option",
+            "Option": "Pierce BCA Protein Assay Kit",
+            "Evidence": [
+                "Protein concentration in obtained fractions was measured using the Pierce BCA Protein Assay Kit according to the manufacturer\u2019s instructions."
+            ],
+            "Rationale": "The passage explicitly states that the protein concentration in the purified toxin fractions was measured using the Pierce BCA Protein Assay Kit, directly answering the question. This method is clearly identified in the text and is the only technique mentioned for quantifying protein concentration in this context."
+        }
+    ],
+    "55": [
+        {
+            "Category": "Correct Option",
+            "Option": "Complete protection after secondary infection",
+            "Evidence": [
+                "Based on the rarity of third and fourth infections [5], we make the assumption that individuals acquire complete protection from dengue infection after secondary infection [19,20]."
+            ],
+            "Rationale": "The passage explicitly states that the model assumes individuals acquire 'complete protection from dengue infection after secondary infection' based on the observed rarity of third and fourth infections. This is a direct and unambiguous statement that answers the question about the duration of protection following a secondary infection."
+        }
+    ],
+    "56": [
+        {
+            "Category": "Correct Option",
+            "Option": "Self-reported lifetime history, in which participants reported previous diagnoses made by health professionals",
+            "Evidence": [
+                "The occurrence of Neglected infectious diseases was assessed based on self-reported lifetime history, in which participants reported previous diagnoses made by health professionals."
+            ],
+            "Rationale": "The passage explicitly states that the occurrence of NIDs was assessed through a self-reported lifetime history, where participants recalled previous diagnoses made by health professionals. This method is directly described in the evidence sentence and is the only method mentioned for assessing NID occurrence in the study."
+        }
+    ],
+    "57": [
+        {
+            "Category": "Correct Option",
+            "Option": "20 \u03bcg/mL",
+            "Evidence": [
+                "A feasible concentration of 20 \u03bcg/mL was then selected and applied for rTenascin15/30/33 exposure in the following investigations.",
+                "rTenascin15/30/33 at a concentration of 20 \u03bcg/mL was applied."
+            ],
+            "Rationale": "The passage explicitly states that a concentration of 20 \u03bcg/mL was selected and used for experiments involving recombinant tenascins (rTenascin15/30/33) on HT-29 cells. This value is directly mentioned in two separate sentences, confirming its accuracy and relevance to the question about experimental concentration."
+        }
+    ],
+    "58": [
+        {
+            "Category": "Correct Option",
+            "Option": "45",
+            "Evidence": [
+                "The minimum required sample size was 45."
+            ],
+            "Rationale": "The passage explicitly states that the minimum required sample size was calculated to be 45 using G*Power, based on the effect size, alpha level, and desired power. This value is directly provided in the 'Sample size calculation' section and serves as the foundational estimate for the study's design."
+        }
+    ],
+    "59": [
+        {
+            "Category": "Correct Option",
+            "Option": "60%",
+            "Evidence": [
+                "60% of snakebite patients seeking care at a health facility [22]"
+            ],
+            "Rationale": "The passage explicitly states that 60% of snakebite patients in Ogoou\u00e9 et des Lacs, Gabon, sought care at a health facility, as reported in the household survey. This figure is directly supported by the provided evidence and is the only percentage mentioned in the passage regarding healthcare-seeking behavior for snakebites."
+        }
+    ],
+    "60": [
+        {
+            "Category": "Correct Option",
+            "Option": "August, September, and October",
+            "Evidence": [
+                "the highest number of cases in August, September, and October, with 487 cases (31.56%) in August, 510 cases (33.05%) in September, and 236 cases (15.29%) in October"
+            ],
+            "Rationale": "The passage explicitly states that the highest number of cholera cases in Hubei Province between 1949 and 2020 occurred in August, September, and October, with detailed case counts provided for each month. This directly answers the question about the months with the highest case numbers and is supported by verbatim evidence from the text."
+        }
+    ],
+    "61": [
+        {
+            "Category": "Correct Option",
+            "Option": "Cx. annulirostris",
+            "Evidence": [
+                "Australian field studies and laboratory-based vector competence experiments have incriminated Cx. annulirostris as the primary local vector [4,15,22]."
+            ],
+            "Rationale": "The passage explicitly identifies Cx. annulirostris as the primary local vector for Japanese encephalitis virus in Australia based on field and laboratory evidence, directly answering the question. This statement is unambiguous and located in a single sentence, making it a clear and retrievable fact."
+        }
+    ],
+    "62": [
+        {
+            "Category": "Correct Option",
+            "Option": "Panstrongylus megistus",
+            "Evidence": [
+                "field-collected specimens of Panstrongylus megistus, a well-documented T. cruzi vector in Minas Gerais, were found near palm trees in the MT area"
+            ],
+            "Rationale": "The passage explicitly states that field-collected specimens of Panstrongylus megistus were found near palm trees in the Mata da Tapera Municipal Natural Park (MT area), directly answering the question. This information is specific, verifiable, and not inferable from general knowledge, making it a strong retrieval-based answer."
+        }
+    ],
+    "63": [
+        {
+            "Category": "Correct Option",
+            "Option": "Logistic regression models in PLINKv1.9",
+            "Evidence": [
+                "Association testing was performed using logistic regression models in PLINKv1.9, adjusting for age, sex, and comorbidities (hypertension, diabetes, cardiovascular and respiratory diseases and cancer) as covariates."
+            ],
+            "Rationale": "The passage explicitly states that association testing was conducted using logistic regression models in PLINKv1.9, which directly answers the question about the primary method used to estimate the association between genetic variants and COVID-19 severity and outcomes. This method is clearly described in the 'Association testing' section and is the central analytical approach used in the study."
+        },
+        {
+            "Category": "Correct Option",
+            "Option": "Adjusting for age, sex, comorbidities, and principal components (PC1-PC10)",
+            "Evidence": [
+                "Association testing was performed using logistic regression models in PLINKv1.9, adjusting for age, sex, and comorbidities (hypertension, diabetes, cardiovascular and respiratory diseases and cancer) as covariates.",
+                "To explicitly control for population stratification and ancestry differences between the comparison groups, the top 10 principal components (PC1-PC10) derived from PCA were included as covariates in all the models."
+            ],
+            "Rationale": "The passage specifies that the logistic regression models included multiple covariates\u2014age, sex, comorbidities, and the top 10 principal components (PC1-PC10)\u2014to adjust for confounding factors. This comprehensive adjustment strategy is a key component of the method used to estimate genetic associations, and the evidence is directly supported by two verbatim sentences from the text."
+        }
+    ],
+    "64": [
+        {
+            "Category": "Correct Option",
+            "Option": "Children living in rural and agricultural communities",
+            "Evidence": [
+                "children often representing a disproportionately affected group due to their limited awareness, outdoor activity patterns, and dependence on adult supervision for timely medical care [2]."
+            ],
+            "Rationale": "The passage explicitly states that children in rural and agricultural communities are disproportionately affected by snakebites, citing their limited awareness, outdoor activity patterns, and dependence on adult supervision for timely medical care. This directly answers the question and is supported by the provided evidence."
+        }
+    ],
+    "65": [
+        {
+            "Category": "Correct Option",
+            "Option": "To investigate the anti-leishmanial efficacy and immunomodulatory impact of PF-543 in a murine model",
+            "Evidence": [
+                "To investigate the anti-leishmanial efficacy and immunomodulatory impact of PF-543 in a murine model, Swiss mice were infected with L. donovani and subsequently treated intraperitoneally with PF-543 (10 mg/kg), Amphotericin B (2 mg/kg), or a combination regimen (PF-543 2 mg/kg\u2009+\u2009Amph-B 0.4 mg/kg) for three consecutive days."
+            ],
+            "Rationale": "This sentence explicitly states the primary purpose of the in vivo study, which is to evaluate both the anti-leishmanial effects and the immunomodulatory impact of PF-543, including in combination with Amphotericin B. The use of the phrase 'to investigate' directly identifies the study's objective, making this a verbatim and accurate answer to the question."
+        },
+        {
+            "Category": "Correct Option",
+            "Option": "To achieve synergistic clearance of L. donovani and enhance protective immune responses",
+            "Evidence": [
+                "Collectively, these in vivo results affirm that combination therapy with PF-543 and Amphotericin B leads to enhanced protective immune responses, substantially reduced regulatory cytokine (IL-10) levels, increased pro-inflammatory milieu (TNF-\u03b1), and synergistic clearance of L. donovani in an experimental mouse model."
+            ],
+            "Rationale": "This sentence directly describes the outcomes of the combination therapy, which are the key purposes of using the two drugs together. The terms 'synergistic clearance' and 'enhanced protective immune responses' are explicitly stated as the result of the combination, confirming that this was a primary goal of the in vivo study."
+        },
+        {
+            "Category": "Correct Option",
+            "Option": "To highlight the promise of SphK1-targeted interventions as adjuncts in anti-leishmanial therapy",
+            "Evidence": [
+                "This highlights the promise of SphK1-targeted interventions as adjuncts in anti-leishmanial therapy."
+            ],
+            "Rationale": "This sentence directly states the broader scientific purpose of the combination study: to demonstrate that targeting SphK1 (via PF-543) can serve as a valuable addition to existing anti-leishmanial treatments like Amphotericin B. The phrase 'adjuncts in anti-leishmanial therapy' confirms that the combination was used to explore a complementary therapeutic strategy."
+        }
+    ],
+    "66": [
+        {
+            "Category": "Correct Option",
+            "Option": "Rate of BI decline and smear negativity rate",
+            "Evidence": [
+                "Our primary outcomes included bacteriological indicators (the rate of BI decline, smear negativity rate), cure/relapse rates, leprosy reaction frequency and disability progression (DP), with safety evaluation and treatment duration as secondary outcomes."
+            ],
+            "Rationale": "The passage explicitly lists 'the rate of BI decline' and 'smear negativity rate' as part of the bacteriological indicators that were designated as primary outcomes in the study. These are directly stated in the evidence sentence, making them the correct and unambiguous answer to the question about the primary bacteriological efficacy measures."
+        }
+    ],
+    "67": [
+        {
+            "Category": "Correct Option",
+            "Option": "L. fulica",
+            "Evidence": [
+                "In Guadeloupe and Martinique, the species L. fulica is largely predominant and appears to be the main terrestrial molluscan intermediate host",
+                "L. fulica serves as a more frequent host for A. cantonensis compared to P. orbiculata or P. platychila"
+            ],
+            "Rationale": "The passage explicitly identifies L. fulica as the main intermediate host in both Guadeloupe and Martinique. The first evidence sentence directly states this, and the second supports it by comparing its infection frequency to other species. Both statements are verbatim from the passage and directly answer the question."
+        }
+    ],
+    "68": [
+        {
+            "Category": "Correct Option",
+            "Option": "B. abortus",
+            "Evidence": [
+                "All 15 isolates were identified as B. abortus (Table 2)."
+            ],
+            "Rationale": "The passage explicitly states that all 15 bacterial isolates from milk samples were identified as B. abortus, directly answering the question. This information is clearly located in the 'Bacterial culture and isolation, and real-time PCR analysis' section and is supported by a verbatim quote from the text."
+        }
+    ],
+    "69": [
+        {
+            "Category": "Correct Option",
+            "Option": "19.79 to 37",
+            "Evidence": [
+                "Positive samples showed Ct values ranging from 19.79 to 37, with most below 25, reflecting high viral loads."
+            ],
+            "Rationale": "The passage explicitly states the range of Ct values observed in the positive mosquito pools, directly answering the question. The phrase 'ranging from 19.79 to 37' provides the exact numerical bounds, making this a precise and verifiable answer that is not inferred but directly extracted from the text."
+        }
+    ],
+    "70": [
+        {
+            "Category": "Correct Option",
+            "Option": "2",
+            "Evidence": [
+                "a high MALDI Biotyper (Bruker Daltonics) log score value (LSV) \u2265 2"
+            ],
+            "Rationale": "The passage explicitly states that snail specimens included in the DNA sequence-based confirmation process had to display a log score value (LSV) of at least 2, as indicated by the symbol '\u2265 2' in the text. This numerical threshold is directly tied to the quality of the MALDI-TOF MS spectrum and is a key criterion for inclusion in the validation step."
+        }
+    ],
+    "71": [
+        {
+            "Category": "Correct Option",
+            "Option": "95%",
+            "Evidence": [
+                "Of the 506 households approached, 480 consented and completed in-depth interviews, corresponding to an overall acceptance rate of 95%."
+            ],
+            "Rationale": "The passage explicitly states that 480 out of 506 households approached consented to participate, which corresponds to an overall acceptance rate of 95%. This figure is directly provided in the text and serves as the precise answer to the question about the acceptance rate."
+        }
+    ],
+    "72": [
+        {
+            "Category": "Correct Option",
+            "Option": "65.7%",
+            "Evidence": [
+                "the intestinal adult burden in the rTsSPc group was significantly reduced, with a 65.7% reduction of adult burden (F\u2009=\u200946.24, P\u2009<\u20090.0001) (Fig 6C)."
+            ],
+            "Rationale": "The passage explicitly states that the rTsSPc-immunized mice group showed a 65.7% reduction in intestinal adult worm burden compared to the PBS control group at 7 days post-infection, directly answering the question. This value is clearly specified in the text and corresponds to the data presented in Figure 6C."
+        }
+    ],
+    "73": [
+        {
+            "Category": "Correct Option",
+            "Option": "Adolescents (aged 9\u201318 years)",
+            "Evidence": [
+                "Analysis of age distribution demonstrated that adolescents presented the highest prevalence of CE.",
+                "The risk of developing CE among individuals aged 9\u201318 years was significantly elevated (OR = 14.82, z-statistic\u2009=\u20095.44, 95%CI [5.6\u201339.2], p\u2009<\u20090.0001)."
+            ],
+            "Rationale": "The passage explicitly states that adolescents (aged 9\u201318 years) had the highest prevalence of CE, supported by both descriptive text and statistical evidence. The evidence directly identifies this age group as the one with the highest risk and concentration of infections, making it the correct and retrievable answer."
+        },
+        {
+            "Category": "Correct Option",
+            "Option": "Younger participants",
+            "Evidence": [
+                "Age-specific analysis revealed a marked concentration of infections among younger participants.",
+                "The predominance of CE1-stage lesions, particularly in younger participants, suggests recent and active transmission within these communities."
+            ],
+            "Rationale": "The passage uses the term 'younger participants' to describe the group with the highest concentration of infections, particularly in the context of active transmission and early-stage cysts. This phrase is used directly in the text to refer to the age group with the highest prevalence, making it a valid and directly supported correct option."
+        }
+    ],
+    "74": [
+        {
+            "Category": "Correct Option",
+            "Option": "Consumption of unpasteurised dairy products, handling of infected animal tissues, or inhalation of contaminated aerosols",
+            "Evidence": [
+                "Humans acquire infection mainly through consumption of unpasteurised dairy products, handling of infected animal tissues or inhalation of contaminated aerosols [3]."
+            ],
+            "Rationale": "The passage explicitly lists the three primary routes of human brucellosis acquisition in a single, unambiguous sentence. This directly answers the question by providing the exact transmission pathways described in the text, with no need for inference or interpretation."
+        }
+    ],
+    "75": [
+        {
+            "Category": "Correct Option",
+            "Option": "1,052 km\u00b2",
+            "Evidence": [
+                "the total area of suitable habitats drops significantly over time from 6,300 km\u00b2 in the 2030s to just 1,052 km\u00b2 in the 2070s under SSP5-8.5."
+            ],
+            "Rationale": "The passage explicitly states that under the SSP5-8.5 scenario, the suitable habitat area for An. stephensi in Hormozgan Province is projected to decrease to 1,052 km\u00b2 by the 2070s, directly answering the question with a precise numerical value."
+        },
+        {
+            "Category": "Correct Option",
+            "Option": "2,490 km\u00b2",
+            "Evidence": [
+                "the projected environmental suitability decreases, starting at approximately 9,200 km\u00b2 in the 2030s and dropping to 2,490 km\u00b2 in the 2070s, SSP5-8.5 scenario."
+            ],
+            "Rationale": "The passage provides a second explicit figure for environmental suitability under the same scenario and time period, indicating that the suitable area drops to 2,490 km\u00b2 by the 2070s under SSP5-8.5, which is a distinct but related measure of habitat suitability."
+        }
+    ],
+    "76": [
+        {
+            "Category": "Correct Option",
+            "Option": "6.55 \u00b5g/mouse",
+            "Evidence": [
+                "Probit analysis established the median lethal dose (LD50) at 6.55 \u00b5g/mouse (0.34 \u00b5g/g) with a 95% confidence interval (CI) of 5.27-7.83 \u00b5g/mouse, calculated as the mean of three independent experiments."
+            ],
+            "Rationale": "The passage explicitly states the median lethal dose (LD50) of crude Naja kaouthia venom in mice as 6.55 \u00b5g/mouse, which directly answers the question. This value is clearly identified in the text and is the only numerical value provided for LD50 in the study, making it the correct and unambiguous answer."
+        }
+    ],
+    "77": [
+        {
+            "Category": "Correct Option",
+            "Option": "3 to 72 days",
+            "Evidence": [
+                "The reported duration of ENL \u201cepisodes\u201d (in individuals prescribed ENL treatment) ranges from 3 to 72 days [2,3,55]."
+            ],
+            "Rationale": "The passage explicitly states the range of durations for ENL episodes in individuals prescribed treatment as '3 to 72 days', directly answering the question. This information is clearly located in the text and is not inferable from general knowledge, making it a precise retrieval target."
+        }
+    ],
+    "78": [
+        {
+            "Category": "Correct Option",
+            "Option": "Methodological differences in diagnostic assays",
+            "Evidence": [
+                "Much of the observed heterogeneity arises from methodological rather than biological causes.",
+                "Agglutination-based screening assays such as RBT and SAT, consistently overestimate seropositivity relative to confirmatory tests such as CFT or ELISA."
+            ],
+            "Rationale": "The passage explicitly states that the variation in seroprevalence estimates is primarily due to methodological factors, particularly the use of different diagnostic assays. The evidence confirms that screening tests like RBT and SAT overestimate seropositivity compared to confirmatory tests, which directly explains the observed heterogeneity. This answer is directly supported by two distinct, verbatim statements in the passage."
+        },
+        {
+            "Category": "Correct Option",
+            "Option": "Variation in assay methods and cut-off thresholds",
+            "Evidence": [
+                "The apparent differences in na\u00efve pooled results are driven mainly by variation in assay methods and cut-off thresholds, rather than by pathogen ecology alone."
+            ],
+            "Rationale": "This option captures a specific and distinct reason for the variation in seroprevalence estimates, as directly stated in the passage. The evidence explicitly identifies assay methods and cut-off thresholds as the main drivers of differences in observed results, distinguishing them from biological or ecological factors. This is a semantically complete, non-redundant answer supported by a verbatim quote."
+        }
+    ],
+    "79": [
+        {
+            "Category": "Correct Option",
+            "Option": "Ingestion of contaminated food or water and skin penetration by infective larvae",
+            "Evidence": [
+                "STHs are transmitted either through the ingestion of food and/or water that has been contaminated by the eggs of the helminths (roundworms and whipworms) or through the penetration of the host skin by the infective larvae (hookworm)."
+            ],
+            "Rationale": "The passage explicitly lists two primary transmission routes for soil-transmitted helminths: ingestion of contaminated food/water (for roundworms and whipworms) and skin penetration by infective larvae (for hookworm). This option accurately captures both routes in concise, semantically complete language directly supported by the evidence sentence."
+        }
+    ],
+    "80": [
+        {
+            "Category": "Correct Option",
+            "Option": "Mid-June 2010",
+            "Evidence": [
+                "the time to the most recent common ancestor (tMRCA) traced to approximately mid-June 2010 (2010.4476; 95% HPD: 2002.1353, 2015.0588)"
+            ],
+            "Rationale": "The passage explicitly states that the tMRCA for genotype K was traced to approximately mid-June 2010, which directly answers the question. This information is clearly located in the Bayesian evolutionary analysis section and is supported by the provided evidence."
+        }
+    ],
+    "81": [
+        {
+            "Category": "Correct Option",
+            "Option": "October 2021 to February 2024",
+            "Evidence": [
+                "We conducted a prospective cohort study between October 2021 and February 2024."
+            ],
+            "Rationale": "The passage explicitly states the start and end dates of the prospective cohort study in East and Central Africa, directly answering the question about the study's duration. This information is clearly and unambiguously provided in the text, making it a valid and precise retrieval-based answer."
+        }
+    ],
+    "82": [
+        {
+            "Category": "Correct Option",
+            "Option": "Lu. longipalpis",
+            "Evidence": [
+                "Entomological surveillance conducted at the BH Zoo between 2019 and 2021 identified Lu. longipalpis as the predominant sand fly species, accounting for more than 65% of captured specimens."
+            ],
+            "Rationale": "The passage explicitly states that Lu. longipalpis was the predominant sand fly species identified during entomological surveillance at the Belo Horizonte Zoo between 2019 and 2021, with over 65% of captured specimens belonging to this species. This directly answers the question and is supported by a verbatim quote from the text."
+        }
+    ],
+    "83": [
+        {
+            "Category": "Correct Option",
+            "Option": "Hemagglutination assays using human erythrocytes",
+            "Evidence": [
+                "The presence of the \u03b2-galactose-binding lectin on the yeast cell-wall of each cultured H. capsulatum studied was inferred by hemagglutination assays using human erythrocytes and expressed as HAU; also, hemagglutination was inhibited once H. capsulatum yeasts were incubated with \u03b2-galactose (Table 1)."
+            ],
+            "Rationale": "The passage explicitly states that hemagglutination assays using human erythrocytes were used to infer the presence of the \u03b2-galactose-binding lectin on the yeast cell-wall, with results expressed as hemagglutinating units (HAU). This method is directly supported by the evidence sentence and is the primary technique described for detecting the lectin."
+        },
+        {
+            "Category": "Correct Option",
+            "Option": "Affinity chromatography with human O erythrocyte stroma",
+            "Evidence": [
+                "Affinity chromatography was used to purify the \u03b2-galactose-binding lectin from two representative H. capsulatum isolates, one from a human clinical case (EH-53) and the other from a naturally infected bat (EH-374).",
+                "Lysed yeasts or yeast culture-supernatants were loaded on a chromatographic column with human O erythrocyte stroma-Sephadex G-25 (Pharmacia Chemicals, Upsala, Sweden) column."
+            ],
+            "Rationale": "The passage specifies that affinity chromatography using human O erythrocyte stroma was employed to purify the \u03b2-galactose-binding lectin from H. capsulatum isolates. This method is directly mentioned in the evidence and is a key step in confirming the lectin's presence and properties."
+        }
+    ],
+    "84": [
+        {
+            "Category": "Correct Option",
+            "Option": "Azithromycin at a dose of 30mg/kg under direct observation of trained community nurses",
+            "Evidence": [
+                "All participants with DPP positive yaws were treated with Azithromycin at a dose of 30mg/kg under direct observation of trained community nurses as recommended by the WHO [31] and followed up at 4 weeks post-treatment."
+            ],
+            "Rationale": "The passage explicitly states that participants with confirmed yaws ulcers were treated with azithromycin at 30mg/kg and administered under direct observation by trained community nurses, as per WHO recommendations. This directly answers both parts of the question: the treatment (azithromycin) and its delivery method (dose and supervision)."
+        }
+    ],
+    "85": [
+        {
+            "Category": "Correct Option",
+            "Option": "Navier-Stokes inpainting was used to eliminate specular reflections, and this approach was chosen because of the limited available data, aiming to obtain as much information as possible.",
+            "Evidence": [
+                "Following the localization of SRs, Navier-Stokes inpainting from OpenCV [22] was utilized to eliminate them.",
+                "The reason for inpainting the reflections instead of disregarding these areas for training is because of the limited available data. The objective was to obtain as much information from the images as possible."
+            ],
+            "Rationale": "The passage explicitly states that Navier-Stokes inpainting was used to remove specular reflections and provides a clear rationale: due to the limited dataset size, the researchers aimed to retain as much usable image data as possible rather than discarding areas affected by reflections. This directly answers both parts of the question\u2014what method was used and why it was chosen over discarding affected regions."
+        }
+    ],
+    "86": [
+        {
+            "Category": "Correct Option",
+            "Option": "IL10 and VDR",
+            "Evidence": [
+                "only two SNVs showed a significant association between the patients\u2019 genotype and their susceptibility or resistance to developing PCM.",
+                "The data suggests that variant in the IL10 gene (rs1800896) could be a risk factor for increased susceptibility to PCM (OR = 2.52, 95% CI\u2009=\u20091.22-5.23, pFDR\u2009=\u20090.025, AIC/BIC\u2009=\u2009104.0/108.7) [48].",
+                "On the other hand, SNV in the VDR gene (rs7975232) may be related to protection in the development of PCM (OR = 0.13, 95% CI\u2009=\u20090.06-0.29, pFDR\u2009=\u20090.00017, AIC/BIC\u2009=\u2009159.0/164.9) [47]."
+            ],
+            "Rationale": "The passage explicitly states that after reanalysis, only two SNVs showed a significant association with susceptibility or resistance to PCM: one in the IL10 gene and one in the VDR gene. The evidence directly names both genes and provides supporting details about their association, including odds ratios and statistical significance. This information is clearly located in the results section and directly answers the question without requiring inference."
+        }
+    ],
+    "87": [
+        {
+            "Category": "Correct Option",
+            "Option": "Common vampire bat (Desmodus rotundus)",
+            "Evidence": [
+                "In Latin America, the common vampire bat (Desmodus rotundus) is the principal wildlife reservoir [4]."
+            ],
+            "Rationale": "The passage explicitly identifies the common vampire bat (Desmodus rotundus) as the principal wildlife reservoir for rabies in Latin America, directly answering the question. This statement is unambiguous and supported by a citation, making it a clear and verifiable correct option."
+        }
+    ],
+    "88": [
+        {
+            "Category": "Correct Option",
+            "Option": "20 cases per 100,000",
+            "Evidence": [
+                "the annual incidence of CE in Kyrgyzstan, based on hospital records, increased from 5.4 cases/100,000 in 1991\u201314 cases/100,000 in 1998 [10], and then to 20 cases/100,000 in 2014 (the present study)."
+            ],
+            "Rationale": "The passage explicitly states that the annual incidence of cystic echinococcosis (CE) in Kyrgyzstan, based on hospital records, reached 20 cases per 100,000 in 2014. This information directly answers the question and is supported by a verbatim quote from the text."
+        }
+    ],
+    "89": [
+        {
+            "Category": "Correct Option",
+            "Option": "Two out of three measurements per swab agreed with the panel",
+            "Evidence": [
+                "LAMP assays were evaluated qualitatively. Swabs were counted as correctly identified if two out of three measurements per swab were in agreement with the panel."
+            ],
+            "Rationale": "The passage explicitly states the criterion for validating LAMP assay results in the proficiency testing programme: a swab was considered correctly identified if two out of three measurements agreed with the reference panel. This directly answers the question about the validity criterion for molecular analysis at the district-level laboratory."
+        },
+        {
+            "Category": "Correct Option",
+            "Option": "Concordance with the PTI provider\u2019s reference results",
+            "Evidence": [
+                "The African RLs agreed with the PTI provider laboratory qualitative results in most cases, with a concordance of 95.0-100.0% (97.7% \u00b1 5.2%)",
+                "Only two false negative results were seen across all three PT rounds for TP and HD when the reporting results were compared to the PTI provider\u2019s reference"
+            ],
+            "Rationale": "The passage specifies that the validity of qPCR results at the reference laboratory level was determined by comparing the results to those of the PTI provider\u2019s laboratory. Concordance with the provider\u2019s reference results was the key criterion used to assess the validity of molecular analysis for qPCR, which is a core component of CCP2."
+        }
+    ],
+    "90": [
+        {
+            "Category": "Correct Option",
+            "Option": "Hamsters",
+            "Evidence": [
+                "A. ceylanicum can complete its lifecycle in hamsters, making it a key hookworm species for laboratory studies"
+            ],
+            "Rationale": "The passage explicitly states that A. ceylanicum can complete its lifecycle in hamsters, which makes it a key species for laboratory studies. This directly answers the question about the animal host used in such research. The evidence is unambiguous and matches the specific detail requested in the question."
+        }
+    ],
+    "91": [
+        {
+            "Category": "Correct Option",
+            "Option": "Phase coherence analysis",
+            "Evidence": [
+                "Phase coherence analysis identified provinces where climate-dengue timing was sufficiently consistent for potential early warning applications.",
+                "Provinces with both positive or zero lag (after rounding) and high coherence are selected as candidates for climate-based risk prediction (18 for precipitation and 7 for temperature).",
+                "Phase coherence exceeded 0.85 in 19 provinces for precipitation and 9 for temperature (Fig 5B). This threshold, while necessarily arbitrary, identifies provinces where climate-dengue timing is sufficiently consistent for early warning."
+            ],
+            "Rationale": "The passage explicitly states that phase coherence analysis is the primary method used to identify provinces with sufficiently consistent climate-dengue timing for early warning applications. Multiple sentences confirm this, including the use of a coherence threshold (\u22650.85) and the selection of provinces based on high coherence and positive or zero lag. The method is directly tied to the goal of early warning, making it the correct and unambiguous answer."
+        }
+    ],
+    "92": [
+        {
+            "Category": "Correct Option",
+            "Option": "250 individuals, based on a target of 10 participants per item",
+            "Evidence": [
+                "A sample size of 10 participants per item is considered acceptable for validation studies [22]. We aimed to recruit 250 individuals."
+            ],
+            "Rationale": "The passage explicitly states that the target sample size was 250 individuals, which was determined by applying the standard guideline of 10 participants per item for validation studies. Since the CLIQ consists of 25 items, 10 \u00d7 25 = 250, directly supporting the stated sample size."
+        }
+    ],
+    "93": [
+        {
+            "Category": "Correct Option",
+            "Option": "5 years, with a range of 1\u201312 years",
+            "Evidence": [
+                "the median duration from onset to diagnosis of HAM/TSP was 5 (range, 1\u201312) years"
+            ],
+            "Rationale": "The passage explicitly states the median duration from onset to diagnosis of HAM/TSP in Japan as 5 years, with a range of 1 to 12 years, directly answering the question. This information is presented in the context of an epidemiological study cited in the text, making it a verifiable and specific retrieval point."
+        }
+    ],
+    "94": [
+        {
+            "Category": "Correct Option",
+            "Option": "AS \u2264 0.25",
+            "Evidence": [
+                "participants with an AS \u2264 0.25 are at significantly increased risk of symptomatic recurrence following infection with P. vivax",
+                "The time to recurrence was significantly shortened among participants with null/low activity (hazard ratio = 2.22, P = 0.004; Table 3)",
+                "We found that the differences in recurrence risk were gradually attenuated by raising the AS threshold from 0.25 to 1.0, and lost statistical significance at an AS = 1.25 (Table 2; S4 Table)"
+            ],
+            "Rationale": "The passage explicitly states that individuals with a CYP2D6 activity score (AS) of 0.25 or lower (AS \u2264 0.25) are at significantly increased risk of symptomatic Plasmodium vivax recurrence within six months after treatment with chloroquine and primaquine. This is directly supported by the hazard ratio (HR = 2.22, P = 0.004) and the observation that recurrence risk differences were lost at higher thresholds, confirming that AS \u2264 0.25 is the critical threshold for increased risk."
+        }
+    ],
+    "95": [
+        {
+            "Category": "Correct Option",
+            "Option": "Generalized linear model with a complementary log-log link",
+            "Evidence": [
+                "To formally account for covariates modulating the force of infection, we use the complementary log-log link: where ; a relationship that can be fit using the glm function in R, setting log age as an offset."
+            ],
+            "Rationale": "The passage explicitly states that a generalized linear model (GLM) with a complementary log-log link was used to estimate the force of infection, directly answering the question. This method is clearly described as being fitted using the glm function in R, making it a precise and directly retrievable answer."
+        },
+        {
+            "Category": "Correct Option",
+            "Option": "lmer package in R",
+            "Evidence": [
+                "We fit this model using the lmer package in R where the full link function is defined by: and obtain estimates and standard errors of the full set of parameters."
+            ],
+            "Rationale": "The passage specifies that the model was fitted using the 'lmer package in R', which is a distinct and correct answer to the question about the statistical model used. This detail is explicitly stated and supports the methodological approach described in the study."
+        }
+    ]
+}

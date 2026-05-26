@@ -1,0 +1,37 @@
+{
+    "Title": "Diverging conclusions from risk difference and difference in restricted mean survival time in quantifying absolute treatment effect heterogeneity",
+    "URL": "https://academic.oup.com/ije/article/54/6/dyaf191/8361724",
+    "DOI": "10.1093/ije/dyaf191",
+    "PMID": "41317377",
+    "Published": "2025/10/14",
+    "Volume": "54",
+    "Issue": "6",
+    "Journal": "International Journal of Epidemiology",
+    "Keywords": [
+        "heterogeneous treatment effect",
+        "time-to-event outcomes",
+        "survival analysis",
+        "Kaplan–Meier curve",
+        "risk difference",
+        "restricted mean survival time"
+    ],
+    "Authors": {
+        "Maas, Carolien C H M": [
+            "Department of Public Health, Erasmus University Medical Center, Rotterdam, Netherlands",
+            "Department of Research and Development, Netherlands Comprehensive Cancer Organization (IKNL), Utrecht, Netherlands",
+            "Predictive Analytics and Comparative Effectiveness Center, Institute for Clinical Research and Health Policy Studies, Tufts Medical Center, Boston, United States"
+        ],
+        "Kent, David M": [
+            "Predictive Analytics and Comparative Effectiveness Center, Institute for Clinical Research and Health Policy Studies, Tufts Medical Center, Boston, United States"
+        ],
+        "Dinmohamed, Avinash G": [
+            "Department of Public Health, Erasmus University Medical Center, Rotterdam, Netherlands",
+            "Department of Research and Development, Netherlands Comprehensive Cancer Organization (IKNL), Utrecht, Netherlands"
+        ],
+        "van Klaveren, David": [
+            "Department of Public Health, Erasmus University Medical Center, Rotterdam, Netherlands",
+            "Predictive Analytics and Comparative Effectiveness Center, Institute for Clinical Research and Health Policy Studies, Tufts Medical Center, Boston, United States"
+        ]
+    },
+    "PDF_URL": "https://academic.oup.com/ije/article-pdf/54/6/dyaf191/65660608/dyaf191.pdf"
+}

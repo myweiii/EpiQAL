@@ -1,0 +1,55 @@
+{
+    "Title": "Hookworm genes encoding intestinal excreted-secreted proteins are transcriptionally upregulated in response to the host’s immune system",
+    "URL": "https://doi.org/10.1371/journal.pntd.0014106",
+    "Published": "March 17, 2026",
+    "Subject_Areas": [
+        "Gastrointestinal tract",
+        "Protein domains",
+        "Hookworms",
+        "Gene expression",
+        "Immune system proteins",
+        "Gene prediction",
+        "Helminth infections",
+        "Necator americanus"
+    ],
+    "Authors": {
+        "Erich M. Schwarz": [
+            "Department of Molecular Biology and Genetics, Cornell University, Ithaca, New York, United States of America"
+        ],
+        "Jason B. Noon": [
+            "Program in Molecular Medicine, University of Massachusetts Chan Medical School, Worcester, Massachusetts, United States of America"
+        ],
+        "Jeffrey D. Chicca": [
+            "Program in Molecular Medicine, University of Massachusetts Chan Medical School, Worcester, Massachusetts, United States of America"
+        ],
+        "Carli Garceau": [
+            "Program in Molecular Medicine, University of Massachusetts Chan Medical School, Worcester, Massachusetts, United States of America"
+        ],
+        "Hanchen Li": [
+            "Program in Molecular Medicine, University of Massachusetts Chan Medical School, Worcester, Massachusetts, United States of America"
+        ],
+        "Igor Antoshechkin": [
+            "Division of Biology and Biological Engineering, California Institute of Technology, Pasadena, California, United States of America"
+        ],
+        "Vladislav Ilík": [
+            "Department of Botany and Zoology, Faculty of Science, Masaryk University, Brno, Czech Republic",
+            "Institute of Vertebrate Biology, Czech Academy of Sciences, Brno, Czech Republic"
+        ],
+        "Barbora Pafčo": [
+            "Department of Botany and Zoology, Faculty of Science, Masaryk University, Brno, Czech Republic",
+            "Institute of Vertebrate Biology, Czech Academy of Sciences, Brno, Czech Republic"
+        ],
+        "Amy M. Weeks": [
+            "Department of Biochemistry, University of Wisconsin-Madison, Madison, Wisconsin, United States of America"
+        ],
+        "E. Jane Homan": [
+            "ioGenetics LLC, Madison, Wisconsin, United States of America"
+        ],
+        "Gary R. Ostroff": [
+            "Program in Molecular Medicine, University of Massachusetts Chan Medical School, Worcester, Massachusetts, United States of America"
+        ],
+        "Raffi V. Aroian": [
+            "Program in Molecular Medicine, University of Massachusetts Chan Medical School, Worcester, Massachusetts, United States of America"
+        ]
+    }
+}

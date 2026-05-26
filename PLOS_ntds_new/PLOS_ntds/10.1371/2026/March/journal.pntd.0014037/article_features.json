@@ -1,0 +1,40 @@
+{
+    "Title": "Image segmentation of cervical grainy sandy patches lesions associated with female genital schistosomiasis using deep convolutional neural network with U-NET architecture",
+    "URL": "https://doi.org/10.1371/journal.pntd.0014037",
+    "Published": "March 5, 2026",
+    "Subject_Areas": [
+        "Lesions",
+        "Reflection",
+        "Imaging techniques",
+        "Deep learning",
+        "Computer software",
+        "Diagnostic medicine",
+        "Medical devices and equipment",
+        "Preprocessing"
+    ],
+    "Authors": {
+        "Karl Emil Jøker": [
+            "Centre for Clinical Research, North Denmark Regional Hospital, Hjoerring, Denmark"
+        ],
+        "Peter Christian Derek Leutscher": [
+            "Centre for Clinical Research, North Denmark Regional Hospital, Hjoerring, Denmark",
+            "Department of Clinical Medicine, Aalborg University, Aalborg, Denmark"
+        ],
+        "Kristine Brøndbjerg Øby": [
+            "Centre for Clinical Research, North Denmark Regional Hospital, Hjoerring, Denmark"
+        ],
+        "Karoline Jøker": [
+            "Centre for Clinical Research, North Denmark Regional Hospital, Hjoerring, Denmark"
+        ],
+        "Bodo Sahondra Randrianasolo": [
+            "Association K’OLO VANONA, Antananarivo, Madagascar"
+        ],
+        "Maciej Plocharski": [
+            "Department of Health Science and Technology, Aalborg University, Aalborg, Denmark"
+        ],
+        "Louise Thomsen Schmidt Arenholt": [
+            "Centre for Clinical Research, North Denmark Regional Hospital, Hjoerring, Denmark",
+            "Department of Clinical Medicine, Aalborg University, Aalborg, Denmark"
+        ]
+    }
+}

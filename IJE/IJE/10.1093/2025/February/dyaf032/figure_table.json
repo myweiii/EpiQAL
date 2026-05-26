@@ -1,0 +1,34 @@
+{
+    "Table 1.": [
+        "Specifications for analyses using tree-temporal scan statistics applied prospectively to genomic surveillance data among NYC residents",
+        ""
+    ],
+    "Table 2.": [
+        "Example hierarchical nomenclature for SARS-CoV-2 variants assigned to Pango lineages, showing tree levels",
+        ""
+    ],
+    "Table 3.": [
+        "Example hierarchical nomenclature for Salmonella isolates assigned a serotype and allele code",
+        ""
+    ],
+    "Figure 1.": [
+        "Example of prospective temporal scan windows for a 12-week study period at daily resolution ending on 12 June 2023, with 14-day minimum and 28-day maximum cluster periods. In prospective analyses, only cluster periods extending to the study period end date are evaluated. The baseline period, which is used for comparison, is prior to each cluster period.",
+        "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/ije/54/2/10.1093_ije_dyaf032/1/m_dyaf032f1.jpeg?Expires=1779246174&Signature=Dq6LLG5U2Zdhl2xtoyp5VXV44N~G5RpI~QtsdQYIFvw8sSj5PMbpqe75cWR2PqXP85KQt4bS5wToY5p-VGXNGH-eLJT8SfYBt~6i6Cm~pV0324ZmWaE6lVi96UJ54iVWa3xMLZYISO1BHfA7uT5Fs8oQg9qGsaRrjQrM7TJEuR7nEM3gHRGHrk27cQUrgJaPbuL5An8nWMRznVbpbrLXsZdf3o0H-4Er0sEVh7QPfSZ4XCD5-34e9YzEpa4rMaRydWun6FrxBGsMlEMYzSWoRRUNJWqB8Wej9SQ4ir2dCHEUp-5q0Q8WNrT8fThdhddN7FcG~lyJCGBEAy2Y2NmAiQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ],
+    "Figure 2.": [
+        "Example of scanning windows for a SARS-CoV-2 genomic surveillance tree excerpt, showing XBB.1.9.2 and its subvariants as detected among NYC residents as of 12 June 2023. Each detected variant is a node that is connected to its parent and any children. Ovals indicate the complete set of scanning windows within this excerpt, evaluating each node together with its descendants.",
+        "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/ije/54/2/10.1093_ije_dyaf032/1/m_dyaf032f2.jpeg?Expires=1779246174&Signature=QTG~pYmFX~0w-PlKPoGhqclLKIfAn3g-TAjUJpVN2n4gUwf7SbqlPxKLnlIXb-EVXXmudSSBk2JleyRI5Yzj5NPORcjgjeoQzWHKhOVFIRnLXW9dg7ilYsRtW08f5p-bxews99Jd9e037eUxxVDH-gLYXz8VkZ6nn6BmQMtNkK-pk6m17n4rayjOubLz8yLGV1JU4n~3zCwD0ejc4wRjpETCdwetT28m2WJrwDLRjGnJpGeyh1on6P~mUWfkzysdiVh3TLSmRlEZhj2CSKufl5VewQKHd-W9ZpJB4ylmZsQ9EvtnzJOU1QVJhCAu~xfWNDox3FuVb7FGt~j8TlvOlA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ],
+    "Table 4.": [
+        "Analysis conducted on 22 June 2023 to apply prospective tree-temporal scan statistics to detect emerging SARS-CoV-2 variants in specimens that were collected among NYC residents during the 14- to 28-day period that ended on 12 June 2023",
+        ""
+    ],
+    "Figure 3.": [
+        "Count and percentage of cases with EG.5.1 as the SARS-CoV-2 sequencing result among NYC residents with specimens collected during 21 March–12 June 2023. Results are as of 22 June 2023, the first analysis week that EG.5.1 signaled as emerging, with the cluster window starting on 17 May 2023 shaded in gray.",
+        "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/ije/54/2/10.1093_ije_dyaf032/1/m_dyaf032f3.jpeg?Expires=1779246174&Signature=HKS4fcY2gDzXHH5PLH9Qj721Q3krMuE1Xd5Cg1dJDQQs4wqa0gM8ZSLTEsScaXpyUPhUTTnrJ8VMVzu2GQsHleYIqKPCvGL7IYl6zNkqBlNvXpBDr7fOx9OFfZAn7~-yO4Z~Rg3bIGIw7Igv5hLWFHqpFUlC5j3czedsTR15l9GP6YF-Zqy9SQncsqMGtMPNJ1BUYItf7MRb8uwujGzQS4ISjHhoCaAsorifVzRShu1~pLEvPyr2IxZ~QBP0ZvSdIBJs9DOjOtWGZ-6XCjoZWAUoyz-psFOFK6iaNmQ9ogLxwFtlf~TrB-7591q0--oFerW8FBDv0rrs82ujqEKUfg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ],
+    "Table 5.": [
+        "Salmonellosis clusters among NYC residents that were detected by using prospective tree-temporal scan statistics in weekly analyses conducted during 16 November 2022–8 November 2023",
+        ""
+    ]
+}

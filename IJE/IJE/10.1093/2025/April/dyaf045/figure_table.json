@@ -1,0 +1,38 @@
+{
+    "Table 1.": [
+        "Description of the study population by cohort",
+        ""
+    ],
+    "Table 2a.": [
+        "Characteristics of the female participants based on the psychosocial work demands by cohort",
+        ""
+    ],
+    "Table 2b.": [
+        "Characteristics of the female participants based on the physical work demands by cohort",
+        ""
+    ],
+    "Table 3a.": [
+        "Characteristics of the male participants based on the psychosocial work demands by cohort",
+        ""
+    ],
+    "Table 3b.": [
+        "Characteristics of the male participants based on the physical work demands by cohort",
+        ""
+    ],
+    "Figure 1.": [
+        "Pooled and cohort-specific estimates of the associations of psychosocial (top) and physical (bottom) work demands with all-cause mortality among (a) female and (b) male participants in two comparison groups: moderate versus low exposure (left) and high versus low exposure (right). The pooled estimates of all-cause mortality for both work demands were calculated using random-effects meta-analysis. Heterogeneity between the cohort studies was calculated using the Higgins’ I 2 test statistic and the Paule–Mandel estimator for τ 2 . The estimates are based on Models 4 in Table 4a and 4b , which included adjustment for socio-demographic information, lifestyle factors, and physical or psychosocial work demands, accordingly. ELSA, English Longitudinal Study of Ageing; FLAME, Finnish Longitudinal Study of Aging Municipal Employees; GAZEL, GAZ and Electricité ; HRS, Health and Retirement Study; VS, versus.",
+        "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/ije/54/3/10.1093_ije_dyaf045/4/m_dyaf045f1.jpeg?Expires=1779232303&Signature=07JzFf1rviFKWqBFTmdNlMxVMr~Ox02EwgJIgsnxN6STnJkDO~8VS8UuxW9dzCe~Fb~7QP2ImwG2N2DbP~nGfLRt4kJIgwmOHZ70Q0DSG7jB2UOwCy64Y8o~vAQPDoyUzDkv5GCKf7jp0snSseIS2ObN2CFKUrr~RPyE5Hlujz~adAUE3Hq59AP8bzCcDeRwk3xT4Gi8-Aly-IR2ljQZz~T~JSfpLDajztAkhAAb9GXvFl5W0z8lDmm7EimpRzf0W6OoihrJJorJdLflV9y-UXoU~vEHufFpwXhJOXw5GBy0fo8frM23jtNXSFkgzNEOV5-fkLLfbS7TjqEvwCtIJg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ],
+    "Table 4a.": [
+        "Crude and adjusted associations of psychosocial and physical work demands with all-cause mortality among female participants by cohort",
+        ""
+    ],
+    "Table 4b.": [
+        "Crude and adjusted associations of psychosocial and physical work demands with all-cause mortality among male participants by cohort",
+        ""
+    ],
+    "Figure 2.": [
+        "Unadjusted cumulative hazard estimates of the association between (a) psychosocial and (b) physical work demands and all-cause mortality, stratified by sex and cohort. The hazard functions were visualized using the Nelson–Aalen analysis. In each cohort and in both sexes, the cumulative hazards of death increased during the follow-up period, measured in years. ELSA, English Longitudinal Study of Ageing; FLAME, Finnish Longitudinal Study of Aging Municipal Employees; GAZEL, GAZ and Electricité .",
+        "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/ije/54/3/10.1093_ije_dyaf045/4/m_dyaf045f2.jpeg?Expires=1779232303&Signature=aFC7TvUNJlS1rXFJvBgNyJNceHcxozAa-H~HNfvFSuRaMjCU4a6Kz9S1GoQC~ggFH6~SThNAyrMpbXhWJhhzGzdc-1Jg~kLxg~liLSjXN1~GIihyeaRTTIPr~SsfEncugxBJxvGc0CYobe~4-DV6xGGQEP0jDEcX3yld~G8aMe37WNvYHtguCLhMq~77EEOm9qltC~BPQgXmoh-lscw94ndCsF~bqcgefxccL-vAiYdnCl8pcPBwfqtJ2wx9q4PInuEdiol9vLZgfogimWIi6o0OptABWyH6gk-s8iYPFlEbb1wXNY9a1RUBMpG6SBw-U9w3lFfOjcL5nF2j9mVoiw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+}

@@ -1,0 +1,1088 @@
+{
+    "0": [
+        {
+            "Category": "Correct Option",
+            "Option": "Stepped-wedge cluster randomized trial (SW-CRT)",
+            "Evidence": [
+                "The stepped-wedge cluster randomized trial (SW-CRT) has become increasingly popular in health and social care in recent years [ 1 ].",
+                "The SW-CRT study design is often appealing in these settings.",
+                "Moreover, due to the nature of complex interventions, randomization at the level of the individual is often inappropriate [ 2 ]."
+            ],
+            "Rationale": "The passage explicitly identifies the stepped-wedge cluster randomized trial (SW-CRT) as the study design used for evaluating complex interventions in real-world settings, especially when individual-level randomization is inappropriate. The evidence directly supports this answer, with multiple sentences confirming the design's relevance and suitability for such contexts."
+        }
+    ],
+    "1": [
+        {
+            "Category": "Correct Option",
+            "Option": "Multivariable principal component generalized method of moments (MV-PC-GMM)",
+            "Evidence": [
+                "Multivariable Mendelian randomization analyses were implemented using the multivariable principal component generalized method of moments (MV-PC-GMM), which performs dimension reduction to reduce a large number of correlated variants to a manageable number of orthogonal principal components.",
+                "The method is implemented in the mr_mvpcgmm function in the MendelianRandomization package with the random effects option. We used a threshold of 99% of variance in the matrix of genetic associations with the exposure for selecting principal components, allowing for random-effects heterogeneity, and using variant correlation estimates obtained from 367,703 European ancestry UK Biobank participants."
+            ],
+            "Rationale": "The passage explicitly states that the multivariable principal component generalized method of moments (MV-PC-GMM) was used to perform dimension reduction in the multivariable Mendelian randomization analyses. This is directly supported by the sentence identifying MV-PC-GMM as the method that 'performs dimension reduction to reduce a large number of correlated variants to a manageable number of orthogonal principal components.' The second sentence confirms the implementation of this method via the mr_mvpcgmm function, reinforcing its use in the analysis."
+        }
+    ],
+    "2": [
+        {
+            "Category": "Correct Option",
+            "Option": "1980",
+            "Evidence": [
+                "our country reached the peak of consumption in 1980, at >180\u00a0000 metric tons"
+            ],
+            "Rationale": "The passage explicitly states that Italy reached the peak of asbestos consumption in 1980, which directly answers the question about the year of peak consumption. This information is unambiguous and precisely located in the text, making it a valid and accurate retrieval-based answer."
+        }
+    ],
+    "3": [
+        {
+            "Category": "Correct Option",
+            "Option": "17.6% (15.8%\u201319.6%)",
+            "Evidence": [
+                "the proportion of people with HIV exhibiting viraemia decreased from 40.6% (38.4%\u201342.8%) in 2013 to 17.6% (15.8%\u201319.6%) in 2019 in inland communities"
+            ],
+            "Rationale": "The passage explicitly states the proportion of people with HIV exhibiting viraemia in inland communities by 2019 as 17.6% with a 95% confidence interval of 15.8% to 19.6%, directly answering the question. This value is clearly specified in the text and is the only figure provided for this specific metric and location in the year 2019."
+        }
+    ],
+    "4": [
+        {
+            "Category": "Correct Option",
+            "Option": "The proportion of deaths reported to have occurred in the same month and year as indicated by the HDSS",
+            "Evidence": [
+                "The main study outcome was the proportion of deaths reported to have occurred in the same month and year as indicated by the HDSS."
+            ],
+            "Rationale": "The passage explicitly defines the primary outcome of the trial in the 'Primary outcome' section, stating that it was the proportion of deaths reported to have occurred in the same month and year as recorded in the HDSS. This directly answers the question and is the only measure used to evaluate the effectiveness of the calendars in the study."
+        }
+    ],
+    "5": [
+        {
+            "Category": "Correct Option",
+            "Option": "Cancer",
+            "Evidence": [
+                "Among males, higher risks were observed in those with cancer [1.52 (1.22\u20131.89)], chronic obstructive pulmonary disease (COPD) [1.42 (1.05\u20131.91)], and coronary heart disease [1.31 (1.11\u20131.56)]."
+            ],
+            "Rationale": "The passage explicitly lists cancer as the pre-existing health condition associated with the highest heat-EHA risk among males, with a relative risk (RR) of 1.52, which is higher than the RRs for COPD (1.42) and coronary heart disease (1.31). This information directly answers the question and is unambiguously supported by the text."
+        }
+    ],
+    "6": [
+        {
+            "Category": "Correct Option",
+            "Option": "1.25",
+            "Evidence": [
+                "We selected this non-inferiority margin assuming that a vaccine 1.25 times less efficacious than BCG in protecting neonates and infants against TB infection would not be considered non-inferior regardless of possible advantages with regard to safety or cost."
+            ],
+            "Rationale": "The passage explicitly states that the non-inferiority margin used in the simulated trials was 1.25, based on the assumption that a vaccine less efficacious by a factor of 1.25 compared to BCG would not be considered non-inferior. This value is directly provided in the evidence sentence and is the only numerical non-inferiority margin mentioned in the passage."
+        }
+    ],
+    "7": [
+        {
+            "Category": "Correct Option",
+            "Option": "UV load, calculated by multiplying seasonal average ambient UV by self-reported time outdoors and summing over age spans",
+            "Evidence": [
+                "Satellite data were used to estimate the average daily UV for each month for each year of life according to the latitude and longitude of the location of residence indicated on the lifetime calendar [ 24 ], which we then averaged over the 6-month summer and winter seasons at each latitude/longitude to obtain the seasonal average ambient UV. We then multiplied each seasonal average ambient UV by the self-reported time outdoors in summer/winter in each year of life and summated this over different age spans to calculate the total summer and winter UV exposures for each individual, hereafter referred to as the UV load."
+            ],
+            "Rationale": "The passage explicitly describes the calculation of the primary exposure metric, UV load, using satellite-derived seasonal average ambient UV values and self-reported time spent outdoors, which are then summed across age spans. This directly answers the question about both the metric and its calculation method, with no inference required."
+        }
+    ],
+    "8": [
+        {
+            "Category": "Correct Option",
+            "Option": "Pre-eclampsia, placental abruption, fetal growth restriction (FGR), and preterm birth",
+            "Evidence": [
+                "we aimed to identify whether in utero exposure to any prescription opioid analgesic or specific opioids codeine and oxycodone in early- and/or late-pregnancy results in an increased risk of pre-eclampsia, placental abruption, FGR, and preterm birth"
+            ],
+            "Rationale": "The passage explicitly lists these four outcomes as the primary outcomes of interest in the study's objective. The sentence directly states that the study aimed to assess the risk of these specific adverse pregnancy outcomes related to placental malperfusion, making this the correct and directly retrievable answer."
+        }
+    ],
+    "9": [
+        {
+            "Category": "Correct Option",
+            "Option": "Hazard ratios (HRs)",
+            "Evidence": [
+                "Cox proportional hazard models were used to estimate hazard ratios (HRs) with 95% confidence intervals (CIs) in the cohort design."
+            ],
+            "Rationale": "The passage explicitly states that Cox proportional hazard models were used to estimate hazard ratios (HRs), which directly answers the question about the primary outcome measure in the statistical analysis. This is the key metric reported in the models, making 'hazard ratios (HRs)' the correct and directly retrievable answer."
+        },
+        {
+            "Category": "Correct Option",
+            "Option": "Diagnoses of EC, EOC, and CC",
+            "Evidence": [
+                "The outcomes were diagnoses of EC (ICD-10: C54), EOC (including fallopian tube and primary peritoneal cancers) (C48.2, C56, C57.0\u2013C57.4), or CC (C53)."
+            ],
+            "Rationale": "The passage clearly defines the primary outcomes of the study as diagnoses of endometrial cancer (EC), epithelial ovarian cancer (EOC), and cervical cancer (CC), which were the events analyzed using the Cox proportional hazard models. This directly answers the question about the outcome measure in the study's statistical assessment."
+        }
+    ],
+    "10": [
+        {
+            "Category": "Correct Option",
+            "Option": "Inverse-variance weighted method",
+            "Evidence": [
+                "The inverse-variance weighted [ 41 ] method was the primary analysis used to calculate the effect estimates."
+            ],
+            "Rationale": "The passage explicitly states that the inverse-variance weighted method was used as the primary analysis in the two-sample Mendelian randomization study to calculate effect estimates. This directly answers the question and is the only method identified as the primary analysis in the text."
+        }
+    ],
+    "11": [
+        {
+            "Category": "Correct Option",
+            "Option": "To compare the prevalence of STIs/RTIs between IPTp arms",
+            "Evidence": [
+                "This study had three objectives: (i) to compare the prevalence of STIs/RTIs between IPTp arms, (ii) to estimate associations between STIs/RTIs and adverse birth outcomes, and (iii) for STIs/RTIs associated with both IPTp-SP and adverse birth outcomes, quantify the extent to which the effects of IPTp-SP on birth outcomes are mediated through STI/RTI prevention."
+            ],
+            "Rationale": "The passage explicitly lists the first objective of the secondary analysis as comparing the prevalence of STIs/RTIs between the IPTp arms, which directly answers the question about the primary purpose of the analysis. This option is supported by a verbatim quote from the text and is a distinct, non-redundant correct answer."
+        },
+        {
+            "Category": "Correct Option",
+            "Option": "To estimate associations between STIs/RTIs and adverse birth outcomes",
+            "Evidence": [
+                "This study had three objectives: (i) to compare the prevalence of STIs/RTIs between IPTp arms, (ii) to estimate associations between STIs/RTIs and adverse birth outcomes, and (iii) for STIs/RTIs associated with both IPTp-SP and adverse birth outcomes, quantify the extent to which the effects of IPTp-SP on birth outcomes are mediated through STI/RTI prevention."
+            ],
+            "Rationale": "The second objective of the secondary analysis, as stated in the passage, is to estimate associations between STIs/RTIs and adverse birth outcomes. This is a distinct and correct answer that is directly supported by the evidence provided in the text."
+        },
+        {
+            "Category": "Correct Option",
+            "Option": "To quantify the extent to which the effects of IPTp-SP on birth outcomes are mediated through STI/RTI prevention",
+            "Evidence": [
+                "This study had three objectives: (i) to compare the prevalence of STIs/RTIs between IPTp arms, (ii) to estimate associations between STIs/RTIs and adverse birth outcomes, and (iii) for STIs/RTIs associated with both IPTp-SP and adverse birth outcomes, quantify the extent to which the effects of IPTp-SP on birth outcomes are mediated through STI/RTI prevention."
+            ],
+            "Rationale": "The third objective of the secondary analysis is explicitly stated as quantifying the mediation effect of STI/RTI prevention on birth outcomes. This option is semantically complete, distinct from the others, and directly supported by a verbatim quote from the passage."
+        }
+    ],
+    "12": [
+        {
+            "Category": "Correct Option",
+            "Option": "A generalized linear quasi-Poisson regression model including age, sex, and month of the year as predictors",
+            "Evidence": [
+                "We used two methods for constructing a mortality baseline from pre-pandemic data: (i) a generalized linear quasi-Poisson regression model for monthly death counts including age, sex, and month of the year as predictors, based closely on the model of the UK\u2019s Office for National Statistics [15];"
+            ],
+            "Rationale": "The passage explicitly states that the quasi-Poisson regression model included age, sex, and month of the year as predictors, which directly accounts for changes in population size and age structure. This method is described as one of the two approaches used to estimate excess mortality while controlling for these factors."
+        },
+        {
+            "Category": "Correct Option",
+            "Option": "A linear regression fitted to the age- and sex-standardized annual mortality rate",
+            "Evidence": [
+                "We used two methods for constructing a mortality baseline from pre-pandemic data: (ii) a linear regression fitted to the age- and sex-standardized annual mortality rate."
+            ],
+            "Rationale": "The passage clearly identifies this method as the second approach used to estimate excess mortality, specifically designed to account for changes in population size and age structure by standardizing the mortality rate across age and sex groups."
+        }
+    ],
+    "13": [
+        {
+            "Category": "Correct Option",
+            "Option": "Employed state pension age as an instrumental variable",
+            "Evidence": [
+                "To address potential endogenous retirement decision bias, we employed the SPA as an IV for retirement ( Supplementary Table S3 )."
+            ],
+            "Rationale": "The passage explicitly states that the study used state pension age (SPA) as an instrumental variable (IV) to address the endogenous nature of retirement decisions, directly answering the question. This method is clearly described in the text and is the primary approach used to establish causal inference."
+        },
+        {
+            "Category": "Correct Option",
+            "Option": "Applied instrumental variable causal forests (IV forests)",
+            "Evidence": [
+                "The IV forests method combines the generalized method of moments for IV estimation with random forests to identify similar treatment effects ( Supplementary Method S2 )."
+            ],
+            "Rationale": "The passage identifies the use of instrumental variable causal forests (IV forests) as the specific methodological approach employed to estimate the causal effect of retirement on cognitive function. This technique is explicitly described as combining IV estimation with random forests, providing a robust, nonparametric method to address endogeneity."
+        }
+    ],
+    "14": [
+        {
+            "Category": "Correct Option",
+            "Option": "The one-sample Wald ratio method",
+            "Evidence": [
+                "The one-sample Wald ratio method was used to assess the causal relevance of BMI to cause-specific mortality [ 14 ], in which Cox regression was used to estimate the association between a trans-ancestry BMI genetic score (BMI-GS) and mortality, and linear regression was used to estimate the association between the BMI-GS and BMI."
+            ],
+            "Rationale": "The passage explicitly states that the one-sample Wald ratio method was used to assess the causal relevance of BMI to cause-specific mortality, directly answering the question. This method is described in detail in the text, confirming its use in the one-sample Mendelian randomization approach."
+        }
+    ],
+    "15": [
+        {
+            "Category": "Correct Option",
+            "Option": "45%",
+            "Evidence": [
+                "authors explicitly interpreted their estimates as corresponding to hypothetical intervention effects in 45% (13/29) of intervention-effect studies."
+            ],
+            "Rationale": "The passage explicitly states that 45% of intervention-effect studies (13 out of 29) had authors who explicitly interpreted their estimates as corresponding to the effects of a hypothetical intervention. This percentage is directly provided in the Results/Discussion section and matches the evidence given in the question, making it a precise and retrievable answer."
+        }
+    ],
+    "16": [
+        {
+            "Category": "Correct Option",
+            "Option": "15.3%",
+            "Evidence": [
+                "15.3% (95% CI: 13.1\u201317.5) for BMI of <23.0\u2009kg/m 2 and 2.6% (95% CI: \u20133.1\u20137.9) for BMI of \u226523.0\u2009kg/m 2 in 18 cohorts of people with HIV ( n =\u2009162\u200a609)"
+            ],
+            "Rationale": "The passage explicitly states that for individuals with HIV, the percentage reduction in tuberculosis risk per one-unit increase in BMI in the range below the identified breakpoint (BMI <23.0 kg/m\u00b2) is 15.3%. This value is directly provided in the text and corresponds exactly to the question's focus on the pre-breakpoint reduction in risk for this population group."
+        }
+    ],
+    "17": [
+        {
+            "Category": "Correct Option",
+            "Option": "Afar, Somali, and Benishangul-Gumuz",
+            "Evidence": [
+                "the Afar, Somali, and Benishangul-Gumuz regions experienced an increase in incidence during the same period ( Fig. 1 )"
+            ],
+            "Rationale": "The passage explicitly lists these three regions as having experienced an increase in TB incidence between 2015 and 2020 in the regional-level progress analysis. This information is directly stated and serves as the correct answer to the question."
+        }
+    ],
+    "18": [
+        {
+            "Category": "Correct Option",
+            "Option": "To facilitate cross-national comparison",
+            "Evidence": [
+                "To facilitate the cross-national comparison, loneliness was operationalized using the same single question about loneliness included in the CES-D scale administered at our study baseline in the HRS (2002) and KLoSA (2006).",
+                "Data from the Health and Retirement Study (HRS) and the Korean Longitudinal Study of Aging (KLoSA) were obtained from harmonized data files in the Gateway to Global Aging Data [25]."
+            ],
+            "Rationale": "The passage explicitly states that the use of harmonized data files was intended to facilitate cross-national comparison between the USA and South Korea. This is directly supported by the sentence explaining that the same loneliness question was used across both studies to enable such comparison. The reason for using harmonized data is thus clearly and unambiguously stated in the text."
+        }
+    ],
+    "19": [
+        {
+            "Category": "Correct Option",
+            "Option": "North region",
+            "Evidence": [
+                "The North and South regions had the highest weighted prevalence of 35.1% and 33.5%, respectively."
+            ],
+            "Rationale": "The passage explicitly states that the North region had the highest weighted prevalence of self-reported COVID-19 cases at 35.1%, which is directly supported by the provided evidence. This information is unambiguous and directly answers the question about the region with the highest prevalence in the EPICOVID 2.0 survey."
+        }
+    ],
+    "20": [
+        {
+            "Category": "Correct Option",
+            "Option": "Cox proportional-hazards regression models",
+            "Evidence": [
+                "We used Cox proportional-hazards regression models adjusted for age, multiple birth, comorbidity, socio-economic disadvantage, and time period."
+            ],
+            "Rationale": "The passage explicitly states that Cox proportional-hazards regression models were used to estimate the association between pre-eclampsia and the risk of liver hospitalization over time. This method is directly mentioned in the 'Data analysis' section and is the primary statistical approach described for assessing the hazard ratio and confidence intervals."
+        },
+        {
+            "Category": "Correct Option",
+            "Option": "The number of days since the first delivery as the timescale",
+            "Evidence": [
+                "We used the number of days since the first delivery as the timescale and censored women who died or were never hospitalized for liver disease by the end of the study."
+            ],
+            "Rationale": "The passage specifies that the timescale used in the analysis was the number of days since the first delivery, which is a key component of the Cox proportional-hazards regression model. This detail is directly stated and supports the methodological approach used to estimate the risk over time."
+        }
+    ],
+    "21": [
+        {
+            "Category": "Correct Option",
+            "Option": "Glycoprotein acetyls",
+            "Evidence": [
+                "Our study revealed that glycoprotein acetyls were stable before puberty (higher in girls), then increased by 40%, and then remained elevated in adults.",
+                "In adults, elevated glycoprotein acetyls indicate chronic inflammation [ 20 ] and are associated with a wide variety of diseases [ 22 ]."
+            ],
+            "Rationale": "The passage explicitly states that glycoprotein acetyls increased by 40% after puberty and remained elevated in adults, and that elevated levels in adults are associated with chronic inflammation. This directly answers the question by identifying glycoprotein acetyls as the metabolic measure that both increased post-puberty and is linked to chronic inflammation in adults."
+        }
+    ],
+    "22": [
+        {
+            "Category": "Correct Option",
+            "Option": "Weibull distribution",
+            "Evidence": [
+                "Because the assumption was violated, we used Weibull distribution to model the hazard function."
+            ],
+            "Rationale": "The passage explicitly states that when the proportional-hazards assumption was violated in the fully adjusted models, the researchers used the Weibull distribution to model the hazard function. This directly answers the question about the statistical method employed in response to the violation of the assumption."
+        }
+    ],
+    "23": [
+        {
+            "Category": "Correct Option",
+            "Option": "Calculating the proportion of ambient levels infiltrating into the home using infiltration efficiencies when indoors, and equating it to measured personal exposure when outdoors",
+            "Evidence": [
+                "To estimate it during the measurement period, we calculated the proportion of ambient levels infiltrating into the home by using the infiltration efficiencies described above when participants were indoors. When they were outdoors or in other indoor environments, i.e. \u2018not at home\u2019, assuming no indoor sources, personal exposure from outdoor sources was equal to the measured personal exposure."
+            ],
+            "Rationale": "The passage explicitly describes the method used to estimate personal exposure from outdoor sources during the measurement period: infiltration efficiencies were applied indoors to estimate outdoor exposure based on ambient levels, and outdoors, exposure was directly taken as the measured personal exposure. This is a direct and unambiguous statement of the primary method used, as required by the question and supported by the provided evidence."
+        }
+    ],
+    "24": [
+        {
+            "Category": "Correct Option",
+            "Option": "Random-effects inverse variance weighted (IVW) method",
+            "Evidence": [
+                "We conducted a two-sample MR for CRC overall, by anatomical site and CRC stage using the random-effects inverse variance weighted (IVW) method."
+            ],
+            "Rationale": "The passage explicitly states that the main analysis used the random-effects inverse variance weighted (IVW) method to assess the association between genetically predicted anthropometric traits and CRC-specific mortality. This is the primary statistical method directly mentioned in the context of the main analysis, making it the correct answer."
+        }
+    ],
+    "25": [
+        {
+            "Category": "Correct Option",
+            "Option": "Participants were asked about their usual frequency and quantity of consumption for beer, wine, and spirits during 10-year age periods starting at age 20, and intake was calculated by multiplying frequency by quantity and standard alcohol content per container.",
+            "Evidence": [
+                "Participants were asked at baseline if they had ever drunk at least 12 alcoholic drinks in a year. Those who answered yes ('non-lifetime abstainers') were then asked about their usual frequency of consumption and usual quantity consumed per drinking occasion for beer, wine, and spirits separately during 10-year age periods commencing at age 20\u2009years, up to the decade of their age at baseline attendance.",
+                "We calculated the usual intake within each age period in grams per day for each beverage type by multiplying intake frequency by quantity and standard amount of alcohol per container using data from Australian food composition tables [19]. The alcohol intake for each age period in grams per day was calculated as the sum of intake from the three beverage types."
+            ],
+            "Rationale": "The passage explicitly describes the method used to assess alcohol intake: participants were asked about their usual frequency and quantity of consumption for each beverage type during 10-year age periods starting at age 20. It further specifies that intake was calculated by multiplying frequency by quantity and standard alcohol content per container, using Australian food composition data. These two sentences directly answer both parts of the question and are verbatim from the passage."
+        }
+    ],
+    "26": [
+        {
+            "Category": "Correct Option",
+            "Option": "Cox proportional hazards regression analysis",
+            "Evidence": [
+                "Cox proportional hazards regression analysis was conducted to estimate the multivariable-adjusted hazard ratio (HR) for CVD and mortality outcomes.",
+                "In factorial MR analysis, the population was naturally randomly allocated into four subgroups based on the median values of genetic scores. We then estimated the change of blood lipids and the risk of CVD and mortality between the groups and the reference group using the multivariable linear and Cox proportional hazard regression, respectively, with adjustment for age, sex, assessment center, and the first 10 PCs."
+            ],
+            "Rationale": "The passage explicitly states that Cox proportional hazards regression analysis was used to estimate hazard ratios for CVD and mortality outcomes. This method is directly mentioned in two distinct sentences, both confirming its use in the study. The answer is unambiguously supported by verbatim text and directly addresses the question about the statistical method employed."
+        }
+    ],
+    "27": [
+        {
+            "Category": "Correct Option",
+            "Option": "Tuberculosis",
+            "Evidence": [
+                "The exposure of interest was tuberculosis, from the health insurance database.",
+                "We identified participants with the outcome as those diagnosed with COPD, defined by ICD-10 codes ( Supplementary Table S1 , available as Supplementary data at IJE online) during the study period (1 January 2009 to 30 September 2021)."
+            ],
+            "Rationale": "The passage explicitly states that 'the exposure of interest was tuberculosis,' directly answering the question about the primary exposure variable. This is confirmed in the study design section, where tuberculosis is clearly defined as the key exposure used to assess its association with subsequent COPD development. The evidence is verbatim and unambiguous."
+        }
+    ],
+    "28": [
+        {
+            "Category": "Correct Option",
+            "Option": "<40%",
+            "Evidence": [
+                "Statistical robustness was evaluated by the width of the Clopper\u2013Pearson 95% CIs, with intervals of <40% considered robust."
+            ],
+            "Rationale": "The passage explicitly states that intervals with a width of less than 40% were considered statistically robust, directly answering the question about the threshold used in the quality assessment. This threshold is a specific, quantifiable criterion that is clearly defined in the text and is essential for determining the reliability of the study results."
+        }
+    ],
+    "29": [
+        {
+            "Category": "Correct Option",
+            "Option": "2016 for Australia and 2015 for New Zealand",
+            "Evidence": [
+                "latest year of input data was 2016 for Australia and 2015 for New Zealand",
+                "official cause-specific mortality data were only available up to 2015 (New Zealand)/2016 (Australia) at the time of publishing"
+            ],
+            "Rationale": "The passage explicitly states that the latest year of input data for Australia was 2016 and for New Zealand was 2015 at the time of GBD 2019 publication. This information is directly supported by two verbatim sentences in the text, confirming the data availability cutoffs for both countries. The answer is precise, unambiguous, and directly retrievable from the passage."
+        }
+    ],
+    "30": [
+        {
+            "Category": "Correct Option",
+            "Option": "0.58 to 0.75",
+            "Evidence": [
+                "The reproducibility of the examined phenotypes was moderate to good, with the ICC (95% CI) for overall activity being 0.75 (0.74\u20130.76) and the rest ranging from 0.58 (0.56\u20130.59) for sleep efficiency to 0.69 (0.68\u20130.70) for sedentary behaviour (Fig. 2 and Supplementary Table S4)."
+            ],
+            "Rationale": "The passage explicitly states the range of intraclass correlation coefficients (ICCs) for accelerometer-derived phenotypes, identifying 0.58 as the lowest ICC (for sleep efficiency) and 0.75 as the highest (for overall activity). This range is directly supported by the provided evidence sentence, which gives the exact values and their corresponding phenotypes."
+        }
+    ],
+    "31": [
+        {
+            "Category": "Correct Option",
+            "Option": "The monthly number of malaria diagnoses per 1000 all-cause diagnoses across all wards in both hospitals, including malaria and excluding COVID-19 diagnoses",
+            "Evidence": [
+                "The primary outcome is the malaria diagnosis rate from 2018 to early 2023, calculated as the monthly number of malaria diagnoses by 1000 all-cause diagnoses across all wards in both hospitals, including malaria and excluding COVID-19 diagnoses."
+            ],
+            "Rationale": "The passage explicitly defines the primary outcome measure in the 'Outcome variables' section, stating that the malaria diagnosis rate was calculated as the monthly number of malaria diagnoses per 1000 all-cause diagnoses, with specific inclusion and exclusion criteria. This definition is directly quoted in the evidence and fully answers the question without requiring inference."
+        }
+    ],
+    "32": [
+        {
+            "Category": "Correct Option",
+            "Option": "Simulated annealing approach",
+            "Evidence": [
+                "We applied a simulated annealing approach [31] to estimate smoking prevalence disaggregated by year, sex, age, remoteness, SES, and Indigenous status between 2001 and 2023, using the datasets in Table 1.",
+                "A detailed description of this approach is available in the Supplementary Methods. Briefly, simulated annealing is a probabilistic algorithm used to search for an optimal solution within a parameter space, based on pre-defined target(s) [32]."
+            ],
+            "Rationale": "The passage explicitly states that a 'simulated annealing approach' was used to generate historic smoking data for 11,040 sociodemographic strata between 2001 and 2023. This method is directly named and described in the text, making it a clear and unambiguous answer to the question. The evidence confirms both the method and its application context, satisfying the requirement for direct textual support."
+        }
+    ],
+    "33": [
+        {
+            "Category": "Correct Option",
+            "Option": "01 January 1995 to 31 December 2016",
+            "Evidence": [
+                "the study period was 01 January 1995 to 31 December 2016 (latest available data)"
+            ],
+            "Rationale": "The passage explicitly states the study period as '01 January 1995 to 31 December 2016', which directly answers the question about the time frame covered by the analysis of childhood cancer incidence near nuclear installations in Great Britain. This information is clearly and unambiguously provided in the text."
+        },
+        {
+            "Category": "Correct Option",
+            "Option": "1995 to 2016",
+            "Evidence": [
+                "During the study period (1995\u20132016), 14 791 incident cases of LNHL, 8303 cases of CNS cancer, and 27 409 cases of all solid tumours were diagnosed in children aged 0\u201314\u2009years resident in Great Britain."
+            ],
+            "Rationale": "The passage uses the shorthand '1995\u20132016' to refer to the study period, which is a concise and accurate representation of the time frame covered by the analysis. This alternative phrasing is directly supported by the text and provides a valid, distinct correct answer."
+        }
+    ],
+    "34": [
+        {
+            "Category": "Correct Option",
+            "Option": "To account for reporting delays",
+            "Evidence": [
+                "Data were compiled in mid-2023 to account for reporting delays"
+            ],
+            "Rationale": "The passage explicitly states that the mortality data were compiled in mid-2023 specifically 'to account for reporting delays,' which directly answers the question about the primary reason for the timing of data compilation. This reason is clearly and unambiguously stated in the text."
+        },
+        {
+            "Category": "Correct Option",
+            "Option": "To allow reporting authorities sufficient time to consolidate and enhance data quality",
+            "Evidence": [
+                "allow reporting authorities sufficient time to consolidate and enhance the quality of the data"
+            ],
+            "Rationale": "The passage provides a second explicit reason for compiling the data in mid-2023: to give reporting authorities enough time to consolidate and improve the quality of the data. This is a distinct and correct answer supported directly by the text, independent of the first option."
+        }
+    ],
+    "35": [
+        {
+            "Category": "Correct Option",
+            "Option": "2.80/1000",
+            "Evidence": [
+                "For 150 clubfoot cases, the overall birth prevalence for the period was 2.80/1000 (95% CI: 2.38\u20133.27)"
+            ],
+            "Rationale": "The passage explicitly states the overall birth prevalence of isolated clubfoot in the Northern Territory during the study period (2009\u20132022) as 2.80 per 1,000 live births. This value is directly supported by the evidence sentence and is the precise answer to the question."
+        }
+    ],
+    "36": [
+        {
+            "Category": "Correct Option",
+            "Option": "Cox proportional-hazards models with time-dependent covariates integrated with a DLNM",
+            "Evidence": [
+                "We fitted Cox proportional-hazards models with time-dependent covariates integrated with a DLNM [ 28 , 40 ]."
+            ],
+            "Rationale": "The passage explicitly states that the study used Cox proportional-hazards models with time-dependent covariates integrated with a distributed lag non-linear model (DLNM) to examine the association between temperature exposure and preterm birth while accounting for time-varying exposures and gestational length. This methodological approach is directly supported by the quoted sentence and is the primary statistical technique described in the study design."
+        },
+        {
+            "Category": "Correct Option",
+            "Option": "A new approach to demonstrate predictions of the model for realistic cumulative exposure trajectories",
+            "Evidence": [
+                "We applied a new approach to demonstrate the predictions of the model for realistic cumulative exposure trajectories."
+            ],
+            "Rationale": "The passage describes a novel methodological contribution of the study: using realistic exposure trajectories defined by last menstrual period (LMP) month to estimate cumulative PTB risk. This approach was specifically developed to address challenges related to varying gestational lengths and to provide a more interpretable assessment of exposure effects over time, directly supporting the question's focus on accounting for gestational length and time-varying exposures."
+        }
+    ],
+    "37": [
+        {
+            "Category": "Correct Option",
+            "Option": "Cox proportional hazard models",
+            "Evidence": [
+                "Hazard ratios (HRs) with 95% confidence intervals (CIs) were calculated by fitting Cox proportional hazard models."
+            ],
+            "Rationale": "The passage explicitly states that hazard ratios were calculated by fitting Cox proportional hazard models, which is the primary statistical method used to assess the association between congenital anomalies and premature adult mortality. This directly answers the question and is supported by a verbatim quote from the text."
+        },
+        {
+            "Category": "Correct Option",
+            "Option": "Multiple imputations by chained equations",
+            "Evidence": [
+                "We conducted several sensitivity analyses ... using the multiple imputations by chained equations with five imputation datasets (R package mice)."
+            ],
+            "Rationale": "The passage identifies multiple imputations by chained equations as one of the statistical methods used in sensitivity analyses to handle missing data, which is part of the overall methodological approach in the study. This is a distinct correct answer supported by direct evidence from the text."
+        },
+        {
+            "Category": "Correct Option",
+            "Option": "Sibling fixed-effects analysis",
+            "Evidence": [
+                "Finally, since our data on family background are limited, we performed a sibling fixed-effects analysis. This design compares the mortality of siblings with and without anomalies within the same family and thus controls for unmeasured shared factors..."
+            ],
+            "Rationale": "The passage explicitly describes the sibling fixed-effects analysis as a method used to control for unmeasured shared factors such as genetic background and household environment, making it a valid and distinct correct answer to the question about statistical methods used in the study."
+        }
+    ],
+    "38": [
+        {
+            "Category": "Correct Option",
+            "Option": "Grocery infrastructure",
+            "Evidence": [
+                "neighborhood context (e.g. grocery infrastructure) [ 8 ]"
+            ],
+            "Rationale": "The passage explicitly lists 'grocery infrastructure' as an example of neighborhood context, which is identified as a key environmental factor contributing to food insecurity. This directly answers the question by providing a specific environmental factor mentioned in the text."
+        },
+        {
+            "Category": "Correct Option",
+            "Option": "Accessibility of quality foods",
+            "Evidence": [
+                "accessibility (transportation to and availability of quality foods) [ 9 ]"
+            ],
+            "Rationale": "The passage identifies 'accessibility (transportation to and availability of quality foods)' as a distinct environmental factor that contributes to food insecurity. This is a direct and explicit statement, making it a valid correct option for the question."
+        },
+        {
+            "Category": "Correct Option",
+            "Option": "Affordability of foods",
+            "Evidence": [
+                "the affordability of foods [ 5 ]"
+            ],
+            "Rationale": "The passage explicitly states that 'the affordability of foods' is a key environmental factor contributing to food insecurity. This is a clear, verifiable fact from the text, making it a correct and distinct answer to the question."
+        }
+    ],
+    "39": [
+        {
+            "Category": "Correct Option",
+            "Option": "Counterfactual mediation methods",
+            "Evidence": [
+                "We used counterfactual mediation methods to examine the extent to which the association between each socio-economic indicator and pain outcomes was mediated by sleep measures that fulfilled the criteria for mediation (based on the previously mentioned three sets of analyses) ( Fig. 1 )."
+            ],
+            "Rationale": "The passage explicitly states that counterfactual mediation methods were used to examine the mediating role of sleep measures in the association between socio-economic conditions and pain outcomes. This directly answers the first part of the question about the statistical method employed."
+        },
+        {
+            "Category": "Correct Option",
+            "Option": "Enables decomposition of total effect into direct and indirect components even in the presence of interactions and non-linearities, overcoming limitations of traditional approaches",
+            "Evidence": [
+                "Counterfactual mediation analysis enables the decomposition of the total effect of socio-economic conditions on pain into direct and indirect components, even in the presence of interactions and non-linearities, overcoming limitations of traditional approaches (e.g. difference-of-coefficients or product-of-coefficients methods) [ 40 , 41 ]."
+            ],
+            "Rationale": "The passage clearly outlines the key advantage of counterfactual mediation methods: their ability to handle interactions and non-linearities, which traditional methods cannot, thereby providing more accurate estimates of direct and indirect effects. This directly answers the second part of the question."
+        }
+    ],
+    "40": [
+        {
+            "Category": "Correct Option",
+            "Option": "July to October",
+            "Evidence": [
+                "There were apparently higher trends of respiratory visits during July to October",
+                "major haze episodes occurred during this monsoon season (July to September in 2015 and 2019)"
+            ],
+            "Rationale": "The passage explicitly states that higher trends in respiratory visits were observed during July to October, and further confirms this by noting that major haze episodes occurred in July to September during the study period. These two direct statements provide clear, verifiable evidence for the time period in question, making 'July to October' the correct and retrievable answer."
+        }
+    ],
+    "41": [
+        {
+            "Category": "Correct Option",
+            "Option": "Meteorological variables, greenness, culture-specific emissions (e.g. temples, Chinese restaurants), proximity to the nearest power plant, garbage incinerators, and industrial parks",
+            "Evidence": [
+                "Meteorological variables, greenness, culture-specific emissions (e.g. temples, Chinese restaurants), proximity to the nearest power plant, garbage incinerators, and industrial parks were predictors for PM 2.5, NO 2, and CO [ 37\u201339 ]."
+            ],
+            "Rationale": "The passage explicitly lists these factors as predictors in the hybrid Kriging land-use regression (LUR) model used to estimate daily PM 2.5, NO 2, and CO levels. This information is directly stated in the 'Exposure evaluation' section and matches the evidence provided."
+        },
+        {
+            "Category": "Correct Option",
+            "Option": "Levels of co-pollutants such as SO 2 and O 3",
+            "Evidence": [
+                "Additionally, levels of co-pollutants such as SO 2 and O 3 were determined [ 37\u201339 ]."
+            ],
+            "Rationale": "The passage explicitly states that SO 2 and O 3 levels were determined as part of the exposure model, making this a distinct and directly supported correct answer. This information is separate from the primary predictors and adds to the environmental factors considered in the model."
+        }
+    ],
+    "42": [
+        {
+            "Category": "Correct Option",
+            "Option": "Weight measurements were excluded if they were less than 50 lbs or greater than 500 lbs based on biological impossibility.",
+            "Evidence": [
+                "we excluded all weight measurements of <50 or >500 lbs",
+                "we excluded impossible biological values in the first step of data filtering with a phenomenological approach",
+                "Based on our experience in the communities, we determined that the ranges of all other outcomes were within possibility for humans. Therefore, we did not exclude values from the other outcomes as being impossible."
+            ],
+            "Rationale": "The passage explicitly states that weight measurements below 50 lbs or above 500 lbs were excluded because they represent biologically impossible values. This criterion is directly tied to the phenomenological approach, which prioritizes the exclusion of only biologically impossible values. The specific numerical limits and the rationale are both clearly provided in the text, making this a precise and directly retrievable answer."
+        }
+    ],
+    "43": [
+        {
+            "Category": "Correct Option",
+            "Option": "Finland",
+            "Evidence": [
+                "Finland could only identify educational qualifications obtained within its own system and did not include foreign qualifications; hence, Finland was excluded from the education-specific analyses."
+            ],
+            "Rationale": "The passage explicitly states that Finland was excluded from education-specific analyses because it could only recognize educational qualifications obtained within its own system and did not include foreign qualifications. This directly answers the question about which country was excluded due to this data limitation."
+        }
+    ],
+    "44": [
+        {
+            "Category": "Correct Option",
+            "Option": "March and June 2024",
+            "Evidence": [
+                "The Epicovid 2.0 survey was carried out between March and June 2024, covering all 26 states of the country and the Federal District."
+            ],
+            "Rationale": "The passage explicitly states the time period of the Epicovid 2.0 survey as 'between March and June 2024,' which directly answers the question. This information is unambiguous and located in a clear, standalone sentence, making it a reliable and direct retrieval target."
+        }
+    ],
+    "45": [
+        {
+            "Category": "Correct Option",
+            "Option": "10 years",
+            "Evidence": [
+                "For some Latin American countries, life-expectancy losses at the beginning of the pandemic ranged from 3 (Chilean females) to 10 years (Peruvian males) [ 5 , 7 , 8 ]."
+            ],
+            "Rationale": "The passage explicitly states that life-expectancy losses for Peruvian males at the beginning of the pandemic were 10 years, directly answering the question. This information is clearly located in the text and is not inferable from other data points."
+        }
+    ],
+    "46": [
+        {
+            "Category": "Correct Option",
+            "Option": "Six or more fillings",
+            "Evidence": [
+                "In the longitudinal analysis of disability progression, exposure was grouped into three categories to ensure statistical power and interpretability: zero, one to five, or six or more fillings."
+            ],
+            "Rationale": "The passage explicitly states that in the longitudinal analysis of disability progression, amalgam exposure was categorized into three groups: zero, one to five, or six or more fillings. Therefore, the highest category is 'six or more fillings,' which directly answers the question and is supported by the provided evidence."
+        }
+    ],
+    "47": [
+        {
+            "Category": "Correct Option",
+            "Option": "Leveraging genetic variants as instrumental variables (IVs)",
+            "Evidence": [
+                "Mendelian randomization (MR) has become a highly used approach in epidemiological research, offering a robust method for causal inference, generally through leveraging genetic variants as instrumental variables (IVs)"
+            ],
+            "Rationale": "The passage explicitly states that Mendelian randomization uses genetic variants as instrumental variables to enable causal inference, directly answering the question about the primary method. This phrase is the core definition of MR provided in the text and is the most precise and complete answer to the question."
+        },
+        {
+            "Category": "Correct Option",
+            "Option": "Genetic variants serve as instrumental variables (IVs) to reduce biases from confounding and reverse causation",
+            "Evidence": [
+                "The appeal of MR lies in its ability to reduce biases from confounding and reverse causation, common limitations in conventional observational studies, making it a valuable tool for strengthening causal inference"
+            ],
+            "Rationale": "The passage clearly explains that the role of genetic variants in MR is to mitigate key biases\u2014confounding and reverse causation\u2014by acting as instrumental variables. This directly addresses the second part of the question about the role of genetic variants, and the evidence is a verbatim statement from the passage that supports this function."
+        }
+    ],
+    "48": [
+        {
+            "Category": "Correct Option",
+            "Option": "0.78",
+            "Evidence": [
+                "Across countries, consuming four to five subtypes of plant-protein sources was associated with a lower incidence of T2D [HR 0.78 (95% CI 0.65, 0.93)] compared with no consumption (Table 3)."
+            ],
+            "Rationale": "The passage explicitly states the hazard ratio (HR) for consuming four to five subtypes of plant-protein sources compared to no consumption as 0.78, which directly answers the question. This value is presented in the context of a statistically significant association with lower T2D incidence, and the evidence is a verbatim quote from the passage."
+        }
+    ],
+    "49": [
+        {
+            "Category": "Correct Option",
+            "Option": "SSQ score of \u22658",
+            "Evidence": [
+                "The cluster-level geometric mean prevalence of CMD, defined as an SSQ score of \u22658, was 19.4% when ACASI was used and 14.1% when using SAQ ( Table 2 )",
+                "The primary outcomes were the cluster-level prevalence of CMD, defined as an SSQ score of \u22658, and the cluster-level prevalence of any violence, defined as answering 'yes' to any item on the violence questionnaire."
+            ],
+            "Rationale": "The passage explicitly defines the primary outcome for CMD as an SSQ score of \u22658 in both the methods and results sections. This definition is directly used to calculate the cluster-level prevalence, making it the correct and unambiguous answer to the question. The evidence is verbatim and clearly supports the option."
+        }
+    ],
+    "50": [
+        {
+            "Category": "Correct Option",
+            "Option": "Adjusting the logistic regression model by self-test use (yes/no)",
+            "Evidence": [
+                "This bias in COVID-19 VE can be mitigated by adjusting the logistic regression model by self-test use (yes/no), if this information is collected within the study without misclassification."
+            ],
+            "Rationale": "The passage explicitly states that adjusting the logistic regression model for self-test use (yes/no) is a recommended method to mitigate selection bias in COVID-19 vaccine effectiveness studies when self-testing behavior varies by vaccination status. This is directly supported by the evidence sentence and is the primary analytical solution proposed in the 'Mitigation of potential bias' section."
+        },
+        {
+            "Category": "Correct Option",
+            "Option": "Adjusting for self-testing at the analysis stage to close a non-causal path opened by conditioning on GP consultation",
+            "Evidence": [
+                "Adjusting for self-testing closes a non-causal path opened by conditioning on the descendant (GP consultation) of a collider (self-test result)."
+            ],
+            "Rationale": "The passage explains that the bias arises due to an open non-causal path involving vaccination, self-testing, self-test result, and GP consultation. The solution is to adjust for self-testing at the analysis stage, which closes this path. This is a precise and directly supported method for mitigating bias, as stated in the evidence."
+        },
+        {
+            "Category": "Correct Option",
+            "Option": "Estimating VE both adjusted and unadjusted for self-testing to understand its effects",
+            "Evidence": [
+                "We recommend estimating VE both adjusted (as a main analysis) and unadjusted for self-testing, to understand its effects."
+            ],
+            "Rationale": "The passage explicitly recommends conducting both adjusted and unadjusted analyses for self-testing to assess the impact of self-testing on vaccine effectiveness estimates. This is a distinct and correct method for evaluating and mitigating bias, directly supported by the evidence sentence."
+        }
+    ],
+    "51": [
+        {
+            "Category": "Correct Option",
+            "Option": "14-day horizon",
+            "Evidence": [
+                "we chose a consistent 14-day horizon across all models.",
+                "This provides enough foresight to be useful, with meaningfully small uncertainty, agreed with end users of the forecasts."
+            ],
+            "Rationale": "The passage explicitly states that a 'consistent 14-day horizon' was chosen across all models for the forecasting suite during the 2023\u20134 winter season. This directly answers the question about the forecast horizon. The supporting evidence confirms both the consistency of the horizon and its purpose, which aligns with the question's focus on the specific duration used."
+        }
+    ],
+    "52": [
+        {
+            "Category": "Correct Option",
+            "Option": "2013",
+            "Evidence": [
+                "In 2013 once the combination regimen for early medication abortion was added to the Pharmaceutical Benefits Scheme (PBS), which is a list of medicines that are provided at a government-subsidized price [ 18 ].",
+                "Therefore, we only analysed data from 2013 onwards."
+            ],
+            "Rationale": "The passage explicitly states that the mifepristone\u2013misoprostol combination regimen was added to the PBS in 2013, which marks the year it became available for government-subsidized access. This information is directly supported by two sentences in the text, one of which is the exact evidence provided. The second sentence reinforces the temporal cutoff for data analysis, confirming that 2013 is the starting point for the availability of the regimen on the PBS."
+        }
+    ],
+    "53": [
+        {
+            "Category": "Correct Option",
+            "Option": "Participants were asked about their commuting transport options and categorized into four groups: car/motor vehicle only, walk (walk only or combined with other modes except cycling), cycle (cycle only or combined with any other modes), and public transport (public transport only or combined with car).",
+            "Evidence": [
+                "Participants in paid employment or self-employed, except those who indicated they always work from home, were asked, \u201cWhat types of transport do you use to get to and from work?\u201d. They could select one or more of the five options: car/motor vehicle, walk, public transport, cycle, and mode other than those.",
+                "Since many participants used more than one mode and the number of participants who used an active mode (walking or cycling) alone was small, we grouped the modes into four overall categories: car/motor vehicle only, walk (walk only or combined with other modes except cycling), cycle (cycle only or combined with any other modes), and public transport (public transport only or combined with car)."
+            ],
+            "Rationale": "The passage explicitly describes the primary exposure metric as self-reported commuting transport modes and details the categorization process into four composite groups based on the predominant mode used. The answer is directly supported by two consecutive sentences in the 'Exposure (commuting modes)' section, which together provide a complete and accurate description of how participants were assessed and grouped."
+        }
+    ],
+    "54": [
+        {
+            "Category": "Correct Option",
+            "Option": "33.7 per 100,000",
+            "Evidence": [
+                "The overall age-standardized mortality rate was 33.7/100\u00a0000 (32.2/100\u00a0000 in women, 35.1/100\u00a0000 in men)."
+            ],
+            "Rationale": "The passage explicitly states the overall age-standardized stroke mortality rate in Switzerland in 2017 as 33.7 per 100,000, directly answering the question. This value is clearly specified in the text and corresponds exactly to the information requested."
+        }
+    ],
+    "55": [
+        {
+            "Category": "Correct Option",
+            "Option": "31.1%",
+            "Evidence": [
+                "A total of 3\u2009985\u2009500 outpatient department visits were recorded in the 20\u2009months before the COVID-19 pandemic compared with 2\u2009745\u2009395 visits during the pandemic, indicating an overall 31.1% reduction in outpatient department visits"
+            ],
+            "Rationale": "The passage explicitly states that there was an overall 31.1% reduction in outpatient department visits for non-communicable diseases during the pandemic compared to the pre-pandemic period, directly answering the question. This figure is derived from a clear comparison of visit counts before and during the pandemic, making it a precise and retrievable fact."
+        }
+    ],
+    "56": [
+        {
+            "Category": "Correct Option",
+            "Option": "12.5%",
+            "Evidence": [
+                "This design accounts for 12.5% of the co-segregating genes of the cousins and, in addition, for those environmental factors that are shared by the cousins [ 38 , 39 ]."
+            ],
+            "Rationale": "The passage explicitly states that the cousin comparison design accounts for 12.5% of the co-segregating genes of the cousins, which directly answers the question. This information is presented as a precise numerical value in a clearly defined context, making it a straightforward retrieval target."
+        }
+    ],
+    "57": [
+        {
+            "Category": "Correct Option",
+            "Option": "Synthetic control method (SCM)",
+            "Evidence": [
+                "We used the synthetic control method (SCM) [ 16 ] to construct a synthetic control for Seoul by deriving a weighted average of multiple control registries without intervention."
+            ],
+            "Rationale": "The passage explicitly states that the synthetic control method (SCM) was used to construct a synthetic control for Seoul by deriving a weighted average of multiple control registries without intervention. This directly answers the question about the method used, and the evidence is a verbatim quote from the text."
+        },
+        {
+            "Category": "Correct Option",
+            "Option": "Flexible SCM approach developed by Bonander",
+            "Evidence": [
+                "Therefore, we applied the flexible SCM approach developed by Bonander [ 16 ], which relaxes the requirement for control weights to sum to one while imposing a penalty on extrapolation to avoid unrealistic estimates."
+            ],
+            "Rationale": "The passage specifies that the study applied a flexible SCM approach developed by Bonander to address limitations of the original SCM, particularly due to South Korea's high GC incidence rate. This methodological detail is directly stated and supports the correct answer to the question about the specific method used."
+        }
+    ],
+    "58": [
+        {
+            "Category": "Correct Option",
+            "Option": "Surrogate variable analysis (SVA)",
+            "Evidence": [
+                "SVA was also used to account for batch effects.",
+                "SVA was also used to account for batch effects."
+            ],
+            "Rationale": "The passage explicitly states that SVA (surrogate variable analysis) was used to account for batch effects in the epigenome-wide association study (EWAS) analyses. This is directly supported by the repeated mention of SVA in the context of batch effect correction, making it a clear and unambiguous answer to the question."
+        }
+    ],
+    "59": [
+        {
+            "Category": "Correct Option",
+            "Option": "The proportion of the population aged \u226525 years who had completed primary education or above",
+            "Evidence": [
+                "As a proxy for neighbourhood-level SEP, we used the proportion of the population aged \u226525\u2009years who had completed primary education or above\u2014obtained from a population census, with higher levels representing neighbourhoods with higher SEP."
+            ],
+            "Rationale": "The passage explicitly states that the proportion of the population aged \u226525 years who had completed primary education or above was used as the proxy for neighbourhood-level socioeconomic position (SEP), directly answering the question. This information is clearly and unambiguously provided in the 'Exposures' section of the passage."
+        }
+    ],
+    "60": [
+        {
+            "Category": "Correct Option",
+            "Option": "The Omicron wave caused a shortage of testing and disrupted schools",
+            "Evidence": [
+                "We end the study period on 15 December, because the Omicron wave caused a shortage of testing in some areas [23]\u2014which would have undercounted cases\u2014and further disrupted schools in January 2022."
+            ],
+            "Rationale": "The passage explicitly states that the study period ended on 15 December 2021 due to the Omicron wave, which led to a shortage of testing (causing undercounting of cases) and disruptions to schools in January 2022. This directly answers the question about the primary reason for ending the study period, and the evidence is a verbatim quote from the passage."
+        }
+    ],
+    "61": [
+        {
+            "Category": "Correct Option",
+            "Option": "The proportion of variation in the offspring exposure explained by the paternal genotype is reduced by a factor of 0.25 relative to that explained by the offspring\u2019s own genotype",
+            "Evidence": [
+                "the proportion of variation in the offspring exposure explained by the paternal genotype reduced by a factor of 0.25 relative to that explained by the offspring\u2019s own genotype"
+            ],
+            "Rationale": "This option directly captures the primary statistical limitation of the offspring genotype-by-proxy MR approach as explicitly stated in the passage. The reduction in explained variance by a factor of 0.25 is a precise, quantifiable measure of the power limitation, and the evidence is a verbatim quote from the text."
+        },
+        {
+            "Category": "Correct Option",
+            "Option": "The approach is less powerful than MR approaches using genotyped mother\u2013offspring pairs",
+            "Evidence": [
+                "our approach will be less powerful than those based on similar-sized samples of genotyped mother\u2013offspring pairs"
+            ],
+            "Rationale": "This option provides a clear, direct comparison of statistical power between the offspring genotype-by-proxy MR approach and traditional mother\u2013offspring pair designs. The statement is explicitly stated in the passage and directly answers the question about the limitation in power, making it a valid and distinct correct option."
+        }
+    ],
+    "62": [
+        {
+            "Category": "Correct Option",
+            "Option": "27.6%",
+            "Evidence": [
+                "In a region with a typical malaria parasitaemia prevalence of 24% [17], 47.8% of WHO pneumonia cases are malaria-slide-negative, 24.6% are coinfected, and 27.6% are misclassified (Figure 3)."
+            ],
+            "Rationale": "The passage explicitly states that in a setting with 24% malaria parasitaemia prevalence, 27.6% of WHO-defined pneumonia cases were misclassified due to malaria infection. This value is directly provided in the evidence sentence and corresponds exactly to the question's request for the proportion of misclassified cases."
+        }
+    ],
+    "63": [
+        {
+            "Category": "Correct Option",
+            "Option": "Low-education Hispanic men experienced a life expectancy loss of 6.0 years",
+            "Evidence": [
+                "In 2020, the largest losses were among low-education Hispanic men (\u22126.0\u2009years; from 81.0 to 75.0\u2009years) and women (\u22125.4\u2009years; from 87.9 to 82.5\u2009years)",
+                "the largest losses were among low-education Hispanic men (\u22126.0\u2009years; from 81.0 to 75.0\u2009years)"
+            ],
+            "Rationale": "The passage explicitly states that low-education Hispanic men had the largest life expectancy loss at age 25 between 2019 and 2020, with a magnitude of \u22126.0 years. This information is directly supported by two verbatim quotes from the text, which provide both the group and the exact numerical loss, making this option a precise and unambiguous answer to the question."
+        }
+    ],
+    "64": [
+        {
+            "Category": "Correct Option",
+            "Option": "Incident multiple myeloma (MM)",
+            "Evidence": [
+                "We identified 276 MM cases over 27\u2009years of follow-up",
+                "We aimed to evaluate the possible relationship between area-level attributes and MM incidence in a large, prospective cohort of Black women.",
+                "We found that women living in areas of concentrated disadvantage were at a higher risk of MM regardless of educational attainment."
+            ],
+            "Rationale": "The passage explicitly states that the study's primary outcome was the incidence of multiple myeloma (MM), as evidenced by the identification of 276 incident cases over 27 years of follow-up and the study's aim to evaluate the relationship between neighborhood attributes and MM incidence. The repeated use of 'MM' and 'incidence' in the context of the study's objectives and findings confirms that incident MM is the primary outcome."
+        }
+    ],
+    "65": [
+        {
+            "Category": "Correct Option",
+            "Option": "Stepped-wedge cluster-randomized pilot trial",
+            "Evidence": [
+                "We conducted an open-label, stepped-wedge cluster-randomized pilot trial between December 2019 and April 2020 in the Viwandani urban informal settlement in Nairobi County in Kenya [ 8 ]."
+            ],
+            "Rationale": "The passage explicitly states the study design in the first sentence of the 'Study design and setting' section, directly answering the question. The phrase 'stepped-wedge cluster-randomized pilot trial' is the exact methodological designation used in the text, making it a clear and unambiguous retrieval target."
+        }
+    ],
+    "66": [
+        {
+            "Category": "Correct Option",
+            "Option": "Using the \"svyset\" command with city as the stratification variable and census sector as the primary sampling unit, followed by the \"svy\" command in Stata",
+            "Evidence": [
+                "Sampling weights were accounted for by using the \"svyset\" command, with the city as the stratification variable and the census sector as the primary sampling unit. All subsequent analyses were conducted by using the \"svy\" command in Stata, which adjusted for the complex survey design by accounting for stratification, clustering, and within-city correlations."
+            ],
+            "Rationale": "The passage explicitly describes the method used to adjust for the complex survey design, including stratification, clustering, and within-city correlations. The exact technical procedure\u2014using the \"svyset\" command with city as the stratification variable and census sector as the primary sampling unit, followed by the \"svy\" command in Stata\u2014is directly stated in the evidence sentence, making it a precise and verifiable answer to the question."
+        }
+    ],
+    "67": [
+        {
+            "Category": "Correct Option",
+            "Option": "UShER method",
+            "Evidence": [
+                "on 16 December 2021, we switched to the UShER method for placing new genome sequences onto a phylogeny [ 34 ]",
+                "To improve lineage assignment stability, on 16 December 2021, we switched to the UShER method for placing new genome sequences onto a phylogeny [ 34 ]"
+            ],
+            "Rationale": "The passage explicitly states that after 16 December 2021, the UShER method was adopted to improve lineage assignment stability. This is directly supported by two verbatim sentences in the text, confirming the method used for assigning SARS-CoV-2 Pango lineages post-December 2021."
+        }
+    ],
+    "68": [
+        {
+            "Category": "Correct Option",
+            "Option": "1.62",
+            "Evidence": [
+                "Cox proportional-hazards models estimated (i) a 62% greater \u2018hazard\u2019 of peer-reviewed publication for preprints prior to the pandemic (during 2019) compared with COVID-19 preprints, with a hazard ratio (HR) of 1.62 (95% confidence interval (CI): 1.60, 1.65)"
+            ],
+            "Rationale": "The passage explicitly states the hazard ratio (HR) for subsequent peer-reviewed publication of preprints from 2019 compared to COVID-19 preprints as 1.62 in the Cox proportional-hazards model. This value is directly provided in the evidence sentence and is the precise answer to the question, with no inference required."
+        }
+    ],
+    "69": [
+        {
+            "Category": "Correct Option",
+            "Option": "200 ng/mL",
+            "Evidence": [
+                "overload (>200\u2009ng/mL in men; >150\u2009ng/mL in women) [ 32 , 33 ]"
+            ],
+            "Rationale": "The passage explicitly states that the WHO cutoff for iron overload in men is greater than 200 ng/mL, which directly answers the question. This value is clearly defined in the text and is the only threshold provided for men in the context of ferritin levels and iron status."
+        }
+    ],
+    "70": [
+        {
+            "Category": "Correct Option",
+            "Option": "Occupational and outdoor activities",
+            "Evidence": [
+                "Young or middle-aged individuals are more likely to engage in occupational and outdoor activities that could increase the possibility for exposure to extreme temperatures."
+            ],
+            "Rationale": "The passage explicitly states that young and middle-aged individuals are more likely to engage in occupational and outdoor activities, which increases their exposure to extreme temperatures. This directly answers the question about the type of activities that contribute to higher exposure among this subgroup."
+        },
+        {
+            "Category": "Correct Option",
+            "Option": "Construction, agriculture, and transportation",
+            "Evidence": [
+                "In South Korea, economically disadvantaged males tend to work in relatively more intensive industries (such as construction, agriculture, and transportation) that can increase exposure to outdoor extreme temperatures, compared with females and males who are not socially marginalized."
+            ],
+            "Rationale": "The passage specifically lists construction, agriculture, and transportation as intensive industries in which economically disadvantaged males\u2014representing a subset of young and middle-aged Medical Aid beneficiaries\u2014tend to work, leading to greater exposure to outdoor extreme temperatures. This provides a precise answer to the question about the types of occupational activities involved."
+        }
+    ],
+    "71": [
+        {
+            "Category": "Correct Option",
+            "Option": "Age at menarche, in years",
+            "Evidence": [
+                "The exposure for this analysis was age at menarche, in years, or age at first menstrual period."
+            ],
+            "Rationale": "The passage explicitly states that the exposure variable in the study was 'age at menarche, in years,' which directly answers the question. This definition is provided in the 'Exposure and outcome assessment' section and is the primary variable under investigation."
+        },
+        {
+            "Category": "Correct Option",
+            "Option": "Age at first menstrual period",
+            "Evidence": [
+                "The exposure for this analysis was age at menarche, in years, or age at first menstrual period."
+            ],
+            "Rationale": "The passage defines the exposure as 'age at menarche, in years, or age at first menstrual period,' indicating that 'age at first menstrual period' is an equivalent and explicitly stated form of the primary exposure variable. This provides a distinct but equally valid correct answer based on the passage's wording."
+        }
+    ],
+    "72": [
+        {
+            "Category": "Correct Option",
+            "Option": "Data-driven distributed lag models (DLMs)",
+            "Evidence": [
+                "We employed data-driven distributed lag models (DLMs) to identify susceptible air-pollution-exposure windows in childhood and investigated effect modification by sex.",
+                "To explore susceptible windows, we fitted log Poisson DLMs with robust standard error estimators with a cross-basis of a log-linear exposure\u2013response association based on prior work [ 18 ] and a lag\u2013response association using a natural cubic spline smooth function."
+            ],
+            "Rationale": "The passage explicitly states that data-driven distributed lag models (DLMs) were used to identify susceptible windows of childhood air-pollution exposure. This is directly supported by two verbatim sentences in the text, confirming the methodological approach used in the study. The answer is specific, unambiguous, and directly retrievable from the passage."
+        }
+    ],
+    "73": [
+        {
+            "Category": "Correct Option",
+            "Option": "Families earning one minimum wage or less",
+            "Evidence": [
+                "Food insecurity, work disruptions, and interruption of studies were more common among families earning one minimum wage or less, those led by women, and households with six or more residents."
+            ],
+            "Rationale": "The passage explicitly states that food insecurity was more common among families earning one minimum wage or less, directly supporting this option as a correct answer to the question about demographic and socioeconomic characteristics associated with higher food insecurity."
+        },
+        {
+            "Category": "Correct Option",
+            "Option": "Households led by women",
+            "Evidence": [
+                "Food insecurity, work disruptions, and interruption of studies were more common among families earning one minimum wage or less, those led by women, and households with six or more residents."
+            ],
+            "Rationale": "The passage clearly identifies households led by women as being more affected by food insecurity, making this a directly supported and correct answer to the question."
+        },
+        {
+            "Category": "Correct Option",
+            "Option": "Households with six or more residents",
+            "Evidence": [
+                "Food insecurity, work disruptions, and interruption of studies were more common among families earning one minimum wage or less, those led by women, and households with six or more residents."
+            ],
+            "Rationale": "The passage explicitly lists households with six or more residents as a group more likely to experience food insecurity, providing direct textual support for this option."
+        },
+        {
+            "Category": "Correct Option",
+            "Option": "Indigenous populations",
+            "Evidence": [
+                "Food insecurity was particularly frequent in low-income and female-headed families, those with six or more members and with children, and among indigenous populations."
+            ],
+            "Rationale": "The passage directly states that indigenous populations were among the groups with particularly high levels of food insecurity during the pandemic, making this a correct and explicitly supported answer."
+        }
+    ],
+    "74": [
+        {
+            "Category": "Correct Option",
+            "Option": "Intention-to-treat effect",
+            "Evidence": [
+                "The causal estimand corresponds to the intention-to-treat effect, i.e. an average treatment effect of initiation in a given period.",
+                "The \u2018as-started\u2019 effect, the target trial emulation equivalent of an \u2018intention-to-treat\u2019 effect [22]."
+            ],
+            "Rationale": "The passage explicitly defines the primary causal estimand as the 'intention-to-treat effect' in two distinct locations. The first sentence directly states this, and the second confirms it by equating the 'as-started' effect with the intention-to-treat effect. This makes the answer unambiguously retrievable from the text without inference."
+        }
+    ],
+    "75": [
+        {
+            "Category": "Correct Option",
+            "Option": "Polycystic ovarian syndrome (PCOS)",
+            "Evidence": [
+                "Girls of mothers with polycystic ovarian syndrome (PCOS) experienced earlier puberty by \u223c3.5\u2009months."
+            ],
+            "Rationale": "The passage explicitly states that girls whose mothers had polycystic ovarian syndrome (PCOS) experienced earlier puberty by approximately 3.5 months, directly answering the question. This information is specific, quantified, and unambiguously supported by the text."
+        }
+    ],
+    "76": [
+        {
+            "Category": "Correct Option",
+            "Option": "Whether the participant's home was located within the affected areas of tropical cyclones or floods",
+            "Evidence": [
+                "A participant was considered exposed to a flood or TC if their home was located within the affected areas.",
+                "Our primary exposure was defined for each subject based on whether they had been exposed to TCs or floods."
+            ],
+            "Rationale": "The passage explicitly defines the primary exposure metric as whether a participant's home was located within the affected areas of tropical cyclones (TCs) or floods. This is directly supported by two consecutive sentences that clarify the criterion for exposure classification based on residential location relative to disaster-affected zones. The answer is precise, unambiguous, and directly retrievable from the text without inference."
+        }
+    ],
+    "77": [
+        {
+            "Category": "Correct Option",
+            "Option": "<12.5, 12.5\u201324.9, 25\u201349.9, and \u226550 g/day",
+            "Evidence": [
+                "Current drinkers were classified according to the alcohol amount as <12.5, 12.5\u201324.9, 25\u201349.9, and \u226550\u2009g/day."
+            ],
+            "Rationale": "The passage explicitly states the four categories used to classify current drinkers based on daily alcohol consumption, directly answering the question. This information is unambiguous and precisely matches the threshold criteria described in the text."
+        }
+    ],
+    "78": [
+        {
+            "Category": "Correct Option",
+            "Option": "The residential locations of the subjects were not made available to the users",
+            "Evidence": [
+                "the residential locations of the subjects are not made available to the users, requiring the use of assessment centre as a proxy for geographical areas"
+            ],
+            "Rationale": "The passage explicitly states that the residential locations of participants were not accessible to researchers, which necessitated the use of assessment centres as a proxy for geographical areas. This directly answers the question about the primary reason for this methodological choice, and the evidence is a verbatim quote from the text."
+        }
+    ],
+    "79": [
+        {
+            "Category": "Correct Option",
+            "Option": "\u226415 years of age",
+            "Evidence": [
+                "We defined 'paternal snus use' as never-use, in puberty (\u226415\u2009years of age), and after puberty (>15\u2009years of age)."
+            ],
+            "Rationale": "The passage explicitly states that paternal snus use initiation during puberty was defined as occurring at or before 15 years of age, as indicated by the threshold '\u226415 years of age' in the definition provided. This directly answers the question about the age threshold used in the study."
+        }
+    ],
+    "80": [
+        {
+            "Category": "Correct Option",
+            "Option": "All-cause, cardiovascular, and respiratory ambulance dispatches",
+            "Evidence": [
+                "We collected daily counts of all-cause, cardiovascular, and respiratory ambulance dispatches",
+                "Ambulance dispatches data can offer timely health information, serving as a crucial source of evidence on the early effects of moderate and extreme temperatures"
+            ],
+            "Rationale": "The passage explicitly states that the study collected daily counts of all-cause, cardiovascular, and respiratory ambulance dispatches as the primary health outcome. This is directly supported by the first evidence sentence. The second sentence reinforces that ambulance dispatches data were used as a key source of evidence on temperature-related health effects, confirming their central role in the study. Together, these sentences confirm that ambulance dispatches\u2014specifically categorized by cause\u2014were the primary outcome used to assess the impact of non-optimum temperatures."
+        }
+    ],
+    "81": [
+        {
+            "Category": "Correct Option",
+            "Option": "IL-6",
+            "Evidence": [
+                "A one-unit increase in log IL-6 was associated with an increase in the odds of any UI, daytime wetting, and nocturia in the adjusted models (Table 2).",
+                "There was weak evidence that IL-6 was associated with reduced odds of voiding postponement (OR 0.89, 95% CI 0.79\u20131.00). The 95% CIs for associations of IL-6 with the other LUTS crossed the null."
+            ],
+            "Rationale": "The passage explicitly states that a one-unit increase in log IL-6 was associated with increased odds of any urinary incontinence (UI) at age 14 years in the adjusted models, as reported in Table 2. This directly answers the question by identifying IL-6 as the biological marker measured at age 9 years linked to increased odds of any UI at age 14 years. The evidence is unambiguous and directly supported by the text."
+        }
+    ],
+    "82": [
+        {
+            "Category": "Correct Option",
+            "Option": "1.57",
+            "Evidence": [
+                "Obese individuals showed an increased risk of cardia GC (OR 1.57, 95% CI 1.20\u20132.06)"
+            ],
+            "Rationale": "The passage explicitly states the odds ratio for obese individuals compared to those with normal weight in relation to cardia gastric cancer as 1.57, which directly answers the question. This value is provided in the context of the pooled analysis from the StoP Project, matching the scope of the question precisely."
+        }
+    ],
+    "83": [
+        {
+            "Category": "Correct Option",
+            "Option": "8.9%",
+            "Evidence": [
+                "We estimated a relative increase in incidence of 8.9% (95% CI: 0.0%; 19.0%) every 5-year span of exposure to screening."
+            ],
+            "Rationale": "The passage explicitly states the estimated relative increase in DCIS incidence for every 5-year span of exposure to the screening programme as 8.9%, directly answering the question. This value is part of the final model's findings and is clearly locatable in the text, making it a precise and unambiguous retrieval target."
+        }
+    ],
+    "84": [
+        {
+            "Category": "Correct Option",
+            "Option": "2010 to 2021",
+            "Evidence": [
+                "To minimize biases that might have arisen from lack of information before 2005, a 5-year washout period (2005\u20139) was used, setting the observation window from 2010 to 2021."
+            ],
+            "Rationale": "The passage explicitly states that the observation window was set from 2010 to 2021 after a 5-year washout period (2005\u20132009), directly answering the first part of the question about the time frame used in the study."
+        },
+        {
+            "Category": "Correct Option",
+            "Option": "To minimize bias from incomplete data before 2005",
+            "Evidence": [
+                "To minimize biases that might have arisen from lack of information before 2005, a 5-year washout period (2005\u20139) was used, setting the observation window from 2010 to 2021.",
+                "Only those individuals without diagnoses during the washout were considered to have been disease-free in 2010."
+            ],
+            "Rationale": "The passage clearly explains that the 5-year washout period (2005\u20132009) was implemented to reduce biases caused by missing health information prior to 2005, justifying the selection of 2010\u20132021 as the observation window. This rationale is directly supported by two verbatim sentences in the text."
+        }
+    ]
+}

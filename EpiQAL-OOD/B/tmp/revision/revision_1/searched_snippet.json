@@ -1,0 +1,959 @@
+{
+    "0": {
+        "Entity": "multibacillary leprosy",
+        "Snippet": [
+            "Definition. A lepromatous form of leprosy that is characterized by numerous infiltrated skin lesions displaying high bacillary loads, impaired peripheral nerves, possible involvement of internal organs, and a Th2-mediated immune response. [",
+            "The classification of leprosy patients into multibacillary and paucibacillary groups determines the duration of treatment. Misclassification leads to an ...",
+            "The characteristic skin lesions are annular lesions with a well-defined, punched-out inner edge and an ill-defined outer-sloping edge that give the appearance ...",
+            "Leprosy, also known as Hansen disease, is a chronic infectious disease caused mainly by a type of bacteria called Mycobacterium leprae.",
+            "This is characterized by limited disease with the presence of a few well-defined hypopigmented skin lesions with marked sensory loss. This is ...",
+            "Multibacillary leprosy is defined as a clinical form of leprosy characterized by numerous anesthetic skin lesions with readily detectable Mycobacterium ..."
+        ]
+    },
+    "1": {
+        "Entity": "dengue",
+        "Snippet": [
+            "Classically referred to as \u201cbreakbone fever,\u201d this course details the clinical features of dengue fever, characterized by high fever, myalgias, arthralgias, headache, and rash, with severe forms involving plasma leakage, hemorrhage, and organ dysfunction as well as the expanding geographic distribution of dengue, ...",
+            "Dengue (break-bone fever) is a viral infection that is spread from mosquitoes to people. It is more common in tropical and subtropical than in ...",
+            "The high prevalence of headache (70.3%), myalgia (66.1%), and arthralgia (48.4%) is consistent with the classic symptomatology of dengue fever.",
+            "Dengue, an acute febrile illness, is caused by infection with any of four related single-stranded RNA viruses of the genus Flavivirus, dengue ...",
+            "Dengue fever is a viral disease caused by Dengue virus. Dengue virus is transmitted to humans through the bite of infected Aedes mosquitoes.",
+            "Dengue is a mosquito-borne disease caused by a flavivirus, specifically an enveloped single-strand RNA virus from the genus Flavivirus, which has four distinct ..."
+        ]
+    },
+    "2": {
+        "Entity": "brucellosis",
+        "Snippet": [
+            "Brucellosis is a zoonotic disease that primarily affects both livestock and wildlife. This infectious condition has considerable public health implications and causes significant economic challenges, especially in regions with inadequate food safety measures, hygiene standards and veterinary care.",
+            "Brucellosis is a bacterial disease caused by various Brucella species, which mainly infect cattle, swine, goats, sheep and dogs.",
+            "Brucellosis in people is mostly caused by four species of Brucella bacteria. Most people get it through close contact with infected animals, ...",
+            "Brucellosis is a zoonotic infection caused by the bacterial genus Brucella. The bacteria are transmitted from animals to humans by ingestion ...",
+            "Brucellosis, also known as Mediterranean fever, or Malta fever, is a typical zoonotic infectious disease caused by Brucella species. The ...",
+            "Importance. Brucellosis, a bacterial disease caused by organisms in the genus Brucella, is an important zoonosis and a significant cause of ..."
+        ]
+    },
+    "3": {
+        "Entity": "visceral leishmaniasis",
+        "Snippet": [
+            "Visceral leishmaniasis (VL), also known as kala-azar, is fatal if left untreated in over 95% of cases. It is characterized by irregular bouts of fever, weight loss, enlargement of the spleen and liver, and anaemia. Most cases occur in Brazil, east Africa and India.",
+            "Visceral Leishmaniasis (VL) is a vector-borne disease caused by an intracellular protozoa of the genus Leishmania that can be lethal if not treated.",
+            "Visceral leishmaniasis (VL), also known as kala-azar or \"black fever\", is the most severe form of leishmaniasis and, without proper diagnosis and treatment, ...",
+            "This review focuses on the two parasites causing most human visceral leishmaniasis (VL), which leads to substantial health problems or death for up to 400,000 ...",
+            "Persons who have visceral leishmaniasis usually have fever, weight loss, and an enlarged spleen and liver (usually the spleen is bigger than the liver). Some ...",
+            "The epidemiology is characterized by the interplay between the sandflies, reservoir hosts, and susceptible humans. At the site of the bite of an infected ..."
+        ]
+    },
+    "4": {
+        "Entity": "paediatric snakebites",
+        "Snippet": [
+            "Understanding pediatric snakebites: Clinical and epidemiological insights from a healthcare center in Bihar, India ... All cases of snakebites ...",
+            "Objective: This study aimed to characterize the epidemiological and clinical behavior of snakebite envenomation in the pediatric population and ...",
+            "Due to the unique challenges posed by paediatric snakebite envenoming and the paucity of data on paediatric snakebites, there is need for local ...",
+            "Clinical characteristics of children with snakebite poisoning and management of complications in the pediatric intensive care unit. January 2006; Pediatrics ...",
+            "The epidemiology of pediatric snakebites is changing. One-half of the reported exposures were venomous, and copperhead bites and exotic ...",
+            "Paediatric snakebite envenoming: recognition and management of cases. Free ... 22 24 This means the child's clinical and laboratory abnormalities ..."
+        ]
+    },
+    "5": {
+        "Entity": "seroprevalence study",
+        "Snippet": [
+            "Seroprevalence studies (or serosurveys) are population-based epidemiological surveys that measure the presence of antibodies against a particular pathogen.",
+            "In a seroprevalence study, the group of people among whom we are trying to estimate prevalence of specific antibodies is called the population. Population could ...",
+            "Seroprevalence is defined as the proportion of individuals in a population who test positive for specific antibodies, indicating previous exposure to a ...",
+            "We developed a flexible framework that integrates uncertainty from test characteristics, sample size, and heterogeneity in seroprevalence across subpopulations.",
+            "The percentage of people in a population who have proteins called antibodies in their blood that show they have been exposed to a virus or other infectious ...",
+            "Seroprevalence studies systematically measure the presence of antibodies to the COVID-19 virus in random population samples."
+        ]
+    },
+    "7": {
+        "Entity": "rTsSPc vaccination",
+        "Snippet": [
+            "Vaccination of mice with rTsSPc exhibited a 65.7% reduction of enteral adult burden with a 61.13% decline of female fecundity, and a 58.10% reduction of muscle ...",
+            "Our results showed that rTsSPc bound specifically to macrophages and induced M1 polarization by activating the classical NF-\u03baB pathway, thereby ...",
+            "Anti-rTsSPc IgG levels were assayed in serum sample from vaccinated mice two weeks after the final vaccination. All serum samples were tested in duplicate. The ...",
+            "rTsSPc might be a candidate vaccine target to block T. spiralis larval intrusion. Introduction. Trichinella spiralis is an intestinal and tissue-parasitizing ...",
+            "This study aims to investigate the impact of rTsSPc vaccination on intestinal epithelial integrity and its elicited protective immunity in a ...",
+            "The aim of this study was to investigate protective immunity produced by vaccination with rTsCTL and its effect on gut epithelial barrier function in a mouse ..."
+        ]
+    },
+    "8": {
+        "Entity": "field study",
+        "Snippet": [
+            "Field epidemiology The rapid, immediate investigation of urgent public health problems, such as communicable disease outbreaks. A primary goal of field epidemiology is to rapidly guide the selection and implementation of public health interventions to prevent negative health impacts, including death.",
+            "Field epidemiology as used in this manual describes investigations initiated in response to urgent public health problems.",
+            "As a field epidemiologist, you will collect and assess data from field investigations, surveillance systems, vital statistics, or other sources.",
+            "Definitions. Epidemiology is the study of the determinants, occurrence, and distribution of health and disease in a defined population.",
+            "Applied or field epidemiology aims to produce timely information to allow for intervention when public health problems arise.",
+            "It clarifies clinical and demo- graphic characteristics of diseases and conditions. It iden- tifies who is at risk, and provides clues to the causes of disease."
+        ]
+    },
+    "9": {
+        "Entity": "ZIKV",
+        "Snippet": [
+            "Zika virus is a single-stranded RNA virus of the family Flavivirus and the genus Flavivirus and belongs to two phylogenetic types: Asian and African.",
+            "Zika virus is primarily transmitted by Aedes mosquitoes, which bite mostly during the day. Most people with Zika virus infection do not ...",
+            "Zika virus (ZIKV), classified as a priority pathogen by the World Health Organization, is an Aedes-borne arbovirus that can cause ...",
+            "ZIKV is recognized as a neurotropic virus and numerous diseases manifested in multiple neurological disorders have been described.",
+            "The eruption of maculopapular rashes presented by more than 90% of patients remains the main clinical symptom that characterizes ZIKV infection [37]. While the ...",
+            "When clinical illness occurs, it is generally mild with characteristic clinical symptoms of maculopapular rash, fever, arthralgia, and/or ..."
+        ]
+    },
+    "10": {
+        "Entity": "abattoir settings",
+        "Snippet": [
+            "As defined by law, a slaughterhouse is an establishment used for slaughtering and dressing animals whose meat is intended for human consumption [10]. According ...",
+            "Abattoir, or slaughter, surveillance has been an important component of bovine tuberculosis control and eradication programs in the U.S., and has adapted to ...",
+            "To assess the food safety knowledge and practices in meat handling, and to determine microbial load and pathogenic organisms in meat at Mekelle city.",
+            "Discussion \u00b7 This study demonstrates that regularly scheduled abattoir surveillance is achievable given clear guidelines and regular funding.",
+            "Abattoirs are facilities where livestock are slaughtered and are an important aspect in the food production chain. There are several types of abattoirs, ...",
+            "In low throughput abattoirs where separate facilities are not required for \"clean\" and \"dirty\" workers, the facilities must be situated on the cleaner side of ..."
+        ]
+    },
+    "11": {
+        "Entity": "Aedes aegypti",
+        "Snippet": [
+            "This is the scientific name of the mosquito that can transmit dengue, chikungunya, Zika, and yellow fever viruses. It can be recognized by the white markings on its legs. Dengue. This is a mosquito-borne disease caused by dengue viruses (four types).",
+            "Aedes aegypti is the main vector for yellow fever, dengue, chikungunya and Zika viruses. Recent outbreaks of dengue and chikungunya have been ...",
+            "Aedes aegypti is a known vector of several viruses including yellow fever virus, dengue virus chikungunya virus and Zika virus.",
+            "Aedes aegypti sometimes called the Egyptian mosquito, dengue mosquito, or yellow fever mosquito \u2013 is a mosquito that spreads diseases such as dengue fever, ...",
+            "Aedes aegypti is a ubiquitous vector of arboviruses mostly in urbanised areas throughout the tropics and subtropics and a growing threat beyond.",
+            "Aedes aegypti and Ae. albopictus mosquitoes live in many areas of the United States. A mosquito egg takes 7\u201310 days to develop into an adult mosquito."
+        ]
+    },
+    "12": {
+        "Entity": "dengue transmission dynamics",
+        "Snippet": [
+            "Dengue cases were predominantly concentrated in southern China and it exhibited an annual peak of activity, typically peaking in September. The ...",
+            "Dengue cases were predominantly concentrated in southern China and it exhibited an annual peak of activity, typically peaking in September.",
+            "Geographical Information System and heatmaps were used to describe the epidemiological characteristics. Maximum Likelihood phylogenetic and ...",
+            "Transmitted to humans by the bite of an infected mosquito, dengue is caused by any one of four serotypes, or antigen-specific viruses. In this thesis, both the ...",
+            "The purpose of the study is to analyze the epidemiological characteristics and to explore the dynamic transmission of dengue in China, 2013.",
+            "Dengue fever is an important mosquito-borne (mainly by Aedes mosquitoes [1,2,3]) viral disease that is caused by four different serotypes of the dengue virus ( ..."
+        ]
+    },
+    "13": {
+        "Entity": "seroprevalence estimates",
+        "Snippet": [
+            "Seroprevalence is defined as the proportion of individuals in a population who test positive for specific antibodies, indicating previous exposure to a ...",
+            "We developed a flexible framework that integrates uncertainty from test characteristics, sample size, and heterogeneity in seroprevalence across subpopulations.",
+            "Seroprevalence studies (or serosurveys) are population-based epidemiological surveys that measure the presence of antibodies against a particular pathogen.",
+            "We developed a flexible framework that integrates uncertainty from test characteristics, sample size, and heterogeneity in seroprevalence across subpopulations.",
+            "Seroprevalence studies aim to measure the presence and amount of antibodies against a particular pathogen, acquired by either natural infection or ...",
+            "Measures of morbidity frequency characterize the number of persons in a population who become ill (incidence) or are ill at a given time (prevalence)."
+        ]
+    },
+    "14": {
+        "Entity": "pediatric meningitis",
+        "Snippet": [
+            "In young children, clinical manifestations of MM may be subtle and non-specific, initially presenting with fever, irritability, and lethargy, ...",
+            "Pediatric bacterial meningitis is a serious infection associated with a risk of neurologic sequelae and can be potentially life-threatening.",
+            "Meningitis is the inflammation of the tissues surrounding the brain and spinal cord. It can be infectious or non-infectious in origin, can be associated with ...",
+            "Death occurs in 6-10% of cases and sequelae in 4.3-11.2% of cases. Early recognition of children with meningococcal infection is important in order to initiate ...",
+            "Meningitis is the most common presentation of invasive meningococcal disease and is found in about 50% of cases in the United States. Symptoms ...",
+            "This study details patients diagnosed with bacterial meningitis in the first 90 days of life at 7 pediatric hospitals in Canada."
+        ]
+    },
+    "15": {
+        "Entity": "T. gondii",
+        "Snippet": [
+            "Toxoplasma gondii is an intestinal coccidium that parasitizes members of the cat family as definitive hosts and has a wide range of intermediate hosts.",
+            "Toxoplasma gondii is a protozoan parasite that infects most species of warm-blooded animals, including humans, and causes the disease toxoplasmosis.",
+            "Infection with the protozoan parasite Toxoplasma gondii has a worldwide distribution. This obligate intracellular parasite can infect humans as well as ...",
+            "There are 3 major genotypes (type I, type II, and type III) of T gondii. These genotypes differ in their pathogenicity and prevalence in people.",
+            "Toxoplasma gondii is a zoonotic intracellular apicomplexan protozoan parasite of mammals and birds that occurs around the world, including in Canada.",
+            "Toxoplasma gondii is a species of parasitic alveolate that causes toxoplasmosis. Found worldwide, T. gondii is capable of infecting virtually all ..."
+        ]
+    },
+    "16": {
+        "Entity": "A. cantonensis",
+        "Snippet": [
+            "Angiostrongylus cantonensis, commonly known as the \"rat lungworm,\" is a parasitic nematode that causes eosinophilic meningitis in humans.",
+            "Angiostrongylus (=Parastrongylus) cantonensis, also called the rat lungworm, is a common cause of human eosinophilic meningitis (neural angiostrongyliasis) and ...",
+            "Angiostrongylus cantonensis is a nematode (roundworm) parasite that causes angiostrongyliasis, an infection that is the most common cause of eosinophilic ...",
+            "3. Epidemiology and Clinical Manifestations of Human Angiostrongylosis in the Indian Subcontinent. Humans are a typical dead-end aberrant host.",
+            "Angiostrongylus is defined as a genus of metastrongyloid nematodes, with Angiostrongylus cantonensis being the rat lungworm, where rats serve as definitive ...",
+            "Angiostrongyliasis, also known as neuroangiostrongyliasis or rat lungworm, is a disease that affects the brain and spinal cord of the host."
+        ]
+    },
+    "17": {
+        "Entity": "plague",
+        "Snippet": [
+            "Plague is an acute, contagious, febrile illness usually transmitted to humans by the bite of an infected flea. Plague occurs as 3 major clinical events: bubonic plague, septicemic plague, and pneumonic plague.",
+            "Plague is an infectious disease caused by the bacteria Yersinia pestis, a zoonotic bacteria, usually found in small mammals and their fleas.",
+            "Plague is a potentially life-threatening disease caused by the bacterium, Yersinia pestis. \u00b7 Plague occurs naturally in areas of the western ...",
+            "Plague is a zoonotic infection that has affected humans for thousands of years. In humans, the primary plague syndromes are bubonic, septicemic, and pneumonic.",
+            "Plague is an illness you get from Y. pestis bacteria. It's spread by infected fleas, animals and people. Types include bubonic, pneumonic ...",
+            "Plague is an infectious disease caused by the bacterium Yersinia pestis. Symptoms include fever, weakness, headache and black lips. Usually, this begins one ..."
+        ]
+    },
+    "18": {
+        "Entity": "Brucella",
+        "Snippet": [
+            "Brucellosis is a disease involving multiple systems with diverse clinical manifestations. The disease is characterized by are fever, hydrolysis, anorexia, arthralgia, fatigue and hepatosplenomegaly [18].",
+            "Background: Brucellosis is a pervasive zoonotic disease caused by various Brucella species. It mainly affects livestock and wildlife and poses significant ...",
+            "Brucellosis is a bacterial disease caused by various Brucella species, which mainly infect cattle, swine, goats, sheep and dogs.",
+            "Brucellosis in people is mostly caused by four species of Brucella bacteria. Most people get it through close contact with infected animals, ...",
+            "Brucellosis is a contagious disease of livestock with significant economic impact. The disease is caused by various bacteria of the family Brucella.",
+            "Importance. Brucellosis, a bacterial disease caused by organisms in the genus Brucella, is an important zoonosis and a significant cause of ..."
+        ]
+    },
+    "19": {
+        "Entity": "rickettsial pathogens",
+        "Snippet": [
+            "Rickettsial infections are a group of zoonotic diseases caused by obligate intracellular, gram-negative bacteria of the order Rickettsiales, ...",
+            "Rickettsial infections are caused by various obligate intracellular bacteria within the order Rickettsiales and genera Rickettsia, Orientia, Anaplasma, ...",
+            "Rickettsia is a group of vector-borne organisms that cause acute febrile illnesses throughout the world.",
+            "A general characteristic of rickettsiae is that mammals and arthropods are natural hosts. Rickettsioses are usually transmitted to humans by ...",
+            "Rickettsial infections are a group of zoonotic diseases caused by obligate intracellular, gram-negative bacteria of the order. Rickettsiales, including the ...",
+            "Rickettsioses are globally distributed and caused by the family Rickettsiaceae, which comprise a diverse and expanding list of organisms."
+        ]
+    },
+    "20": {
+        "Entity": "digital surveillance study",
+        "Snippet": [
+            "Digital epidemiology is the process of investigating the dynamics of disease-related patterns, both social and clinical, as well as the causes ...",
+            "Public health surveillance is defined as \u201cthe ongoing systematic collection, analysis, and interpretation of data, closely integrated with the timely ...",
+            "Digital epidemiology promises exciting new insights into the occurrence and spread of diseases, into human behavior, into personal characteristics, and into the ...",
+            "This course covers basic epidemiology principles, concepts, and procedures useful in the surveillance and investigation of health-related states or events.",
+            "Digital surveillance data, inspired by the definition of digital epidemiology data by Salath\u00e9, is the publicly available user-contributed ...",
+            "In this chapter, we will explore how mobile devices and digital data sources can substantially expand the means of public health surveillance."
+        ]
+    },
+    "21": {
+        "Entity": "cholera epidemics",
+        "Snippet": [
+            "Summary. Cholera is an acute, secretory diarrhea caused by infection with Vibrio cholerae of the O1 and O139 serogroups. Cholera is endemic in over 50 countries and also causes large epidemics. Since 1817, seven cholera pandemics have spread from Asia to much of the world.",
+            "Cholera is an acute diarrheal infection caused by consuming food or water contaminated with the bacterium Vibrio cholerae.",
+            "Cholera is an acute bacterial intestinal infection caused by toxigenic Vibrio cholerae O-group 1 (O1) or O-group 139 (O139).",
+            "The current knowledge on cholera transmission, human susceptibility and epidemiologic patterns in Asia, Africa and the Americas are discussed below.",
+            "Cholera is a bacterial disease spread through contaminated water and food. \u00b7 Cholera can cause severe diarrhea, dehydration, and even death if ...",
+            "Cholera is an acute watery diarrheal disease caused by enterotoxins produced by Vibrio cholerae bacteria. Two serogroups, O1 and O139, cause extensive epidemics ..."
+        ]
+    },
+    "22": {
+        "Entity": "snakebite management",
+        "Snippet": [
+            "Admit all snakebite patients for observation for a minimum of 24 hours. The onset of symptoms may be delayed but can worsen rapidly. Inform ...",
+            "Venomous snakebites pose a significant global health threat, leading to substantial morbidity and mortality, especially in regions with high venomous snakebite ...",
+            "4.3 Epidemiological characteristics of snakebite victims. 79. 4.4 Circumstances of snakebites. 79. 4.5 Snakebite as an occupational disease. 79. 4.6 Death from ...",
+            "The Epidemiology, Clinical Course, and Management of Snakebites in the North American Snakebite Registry. J Med Toxicol. 2017 Dec. 13 (4): ...",
+            "Epidemiological characteristics, hospital course and outcome of snakebite victims in West Texas. Hosp Pract (1995) 2015;43(4):217\u2013220. doi ...",
+            "Snakebite envenoming is a potentially life-threatening disease caused by toxins in the bite of a venomous snake. Envenoming can also be caused by having ..."
+        ]
+    },
+    "23": {
+        "Entity": "RPA assay",
+        "Snippet": [
+            "by IM Lobato \u00b7 2017 \u00b7 Cited by 1230 \u2014 Recombinase polymerase amplification (RPA) is a highly sensitive and selective isothermal amplification technique, operating at 37\u201342\u00b0C, with minimal sample ...",
+            "Recombinase polymerase amplification (RPA) is a single tube, isothermal alternative to the polymerase chain reaction (PCR).",
+            "by A Rosser \u00b7 2015 \u00b7 Cited by 176 \u2014 Recombinase Polymerase Amplification (RPA) is an isothermal DNA amplification/detection technology that is simple, rapid, portable and needs few resources.",
+            "Simplex RPA assay is defined as an RPA assay containing a single reaction with one probe and primer set. c Pure cultures were isolated from ...",
+            "by L Mao \u00b7 2022 \u00b7 Cited by 66 \u2014 Here, three recombinase-based isothermal amplification assays (RPA/RAA) for the rapid detection of MPXV isolates were developed.",
+            "by G Li \u00b7 2021 \u00b7 Cited by 16 \u2014 In this study, we developed and evaluated a rapid real-time recombinase polymerase amplification (RPA) method that can detect EHP within 15 min at a constant ..."
+        ]
+    },
+    "24": {
+        "Entity": "host immune response",
+        "Snippet": [
+            "It is well known that a prior immune response to a microbe can affect host susceptibility and resistance to the same microbe as well as other ...",
+            "Host response refers to the way a body reacts to an injury, illness, or other stressor. It is a critical tool that can be used by health practitioners to ...",
+            "Susceptibility of a host depends on genetic or constitutional factors, specific immunity, and nonspecific factors that affect an individual's ability to resist ...",
+            "Host susceptibility is defined as the variability in an individual's vulnerability to infectious diseases based on genetic polymorphisms, immune system ...",
+            "Key Factors: The immune response is characterized by the order and timing of responses, the portal of entry of pathogens, and whether the ...",
+            "We conclude that several host characteristics \u2013 such as mass, maturity, immune system and pathogen permissiveness- are linked with zoonoses, disease emergence ..."
+        ]
+    },
+    "25": {
+        "Entity": "chikungunya virus infection",
+        "Snippet": [
+            "Chikungunya is a mosquito-borne viral disease caused by the chikungunya virus (CHIKV), an RNA virus in the alphavirus genus of the family Togaviridae.",
+            "by JAO Rodriguez \u00b7 2023 \u00b7 Cited by 7 \u2014 Chikungunya virus is an alphavirus that is arthropod-borne and transmitted by Aedes mosquitoes. This virus causes a rash, an acute febrile illness, and ...",
+            "Chikungunya is a viral febrile disease characterized by severe joint pain which can persist for weeks to years.",
+            "by LA Silva \u00b7 2017 \u00b7 Cited by 630 \u2014 Chikungunya virus (CHIKV), a reemerging arbovirus, causes a crippling musculoskeletal inflammatory disease in humans characterized by fever, polyarthralgia, ...",
+            "by S Yactayo \u00b7 2016 \u00b7 Cited by 353 \u2014 It spreads rapidly, affecting populated areas with no prior immunity. Areas with outbreaks of other arboviruses, such as dengue virus and yellow ...",
+            "The disease is characterized by a sudden onset of fever, chills, headache, myalgia, nausea, photophobia, incapacitating joint pain and petechial or ..."
+        ]
+    },
+    "26": {
+        "Entity": "zoonotic trypanosomatids",
+        "Snippet": [
+            "The protozoan parasite Trypanosoma cruzi, cause of Chagas disease, infects approximately 7 million people worldwide and cycles between many wild and domestic ...",
+            "Trypanosomatids are single-cell flagellated parasites that include Trypanosoma brucei, Trypanosoma cruzi, and Leishmania species.",
+            "Trypanosomatids are among the most critical parasites for public health due to their impact on human, animal, and plant health.",
+            "Human African trypanosomiasis, also known as sleeping sickness, is a vector-borne parasitic disease. It is caused by protozoans of the genus Trypanosoma.",
+            "Abstract. Trypanosomes include various groups of parasitic hemoflagellates that infect animals and humans, with extensive worldwide distribution.",
+            "Trypanosomes include various groups of parasitic hemoflagellates that infect animals and humans, with extensive worldwide distribution."
+        ]
+    },
+    "27": {
+        "Entity": "Trypanosoma cruzi genotypes",
+        "Snippet": [
+            "Trypanosoma cruzi, the agent of Chagas disease, can be subdivided into six discrete typing units (DTUs), TcI, TcIIa, TcIIb, TcIIc, TcIId or TcIIe, ...",
+            "Different T. cruzi genotypes are widely distributed across the American continent, with DTU I being the most geographically widespread. In ...",
+            "The protozoan Trypanosoma cruzi is the flagellate parasite agent of Chagas' disease, of major medical significance throughout Latin America.",
+            "Populations of T. cruzi are divided into genetic subdivisions, which are known as discrete typing units (DTUs): TcI to TcVI and TcBat.",
+            "Trypanosoma cruzi is a parasitic protozoan that is the causative agent of Chagas disease (American trypanosomiasis).",
+            "The epidemiology of Chagas disease is complex, with distinct genetic lineages within the single species T. cruzi. The focus of this ambitious multidisciplinary ..."
+        ]
+    },
+    "28": {
+        "Entity": "tick species",
+        "Snippet": [
+            "There are many genera and species of ticks in the families Ixodidae (hard ticks) and Argasidae (soft ticks) that are of public health importance.",
+            "Ticks are external parasites, living by feeding on the blood of mammals, birds, and sometimes reptiles and amphibians.",
+            "Ticks are well known bloodsucking external parasites of humans, pets, livestock, and wild animals. They also are vectors of a wide variety of disease-causing ...",
+            "From walking the dog to camping, it helps to know which ticks live in your area and what diseases they can spread.",
+            "Ticks are hematophagous ectoparasites that are capable of infesting a wide range of mammals, including domestic animals, ruminants, wildlife, and humans across ...",
+            "In the United States, ticks can spread bacteria, viruses, and parasites (pathogens) that cause human diseases. Many tickborne diseases can ..."
+        ]
+    },
+    "29": {
+        "Entity": "acute Chagas disease",
+        "Snippet": [
+            "Chagas disease is an infection caused by the protozoan parasite Trypanosoma cruzi. Infection with T. cruzi has been well-characterized in Latin America, where it is primarily transmitted by triatomine vectors. While imported cases of Chagas disease outnumber locally-transmitted cases, enzootic transmission of T.",
+            "Chagas disease, or American Trypanosomiasis, is a zoonotic illness caused by the parasite Trypanosoma cruzi, primarily found in Central and South America.",
+            "Chagas disease is caused by the infection of a protozoan parasite (Trypanosoma cruzi). However, this condition is the result of a complex health problem.",
+            "The objective of this study was to describe the clinical and epidemiological characteristics of the cases of acute CD in Casanare, eastern Colombia, in the ...",
+            "Chagas disease, caused by the parasite Trypanosoma cruzi, is a serious health problem in Latin America and is an emerging disease in non-endemic countries.",
+            "Chagas disease, also known as American trypanosomiasis, is caused by infection with the protozoan parasite Trypanosoma cruzi."
+        ]
+    },
+    "30": {
+        "Entity": "ENL classification",
+        "Snippet": [
+            "For the purposes of the study ENL was defined as a patient with leprosy who had crops of tender cutaneous or subcutaneous lesions or was on ...",
+            "Erythema nodosum leprosum (ENL) is a severe immunological complication of leprosy, characterised by painful nodules, fever, arthralgia, oedema, and systemic ...",
+            "ENL has been classified as mild, moderate, or severe. In order to standardize the classification, the Erythema Nodosum Leprosum International ...",
+            "Erythema Nodosum Leprosum (ENL) is a humoral immunological response in leprosy that leads to inflammatory skin nodules which may result in nerve ...",
+            "Erythema Nodosum Leprosum (ENL) occurs due to the immunological complication of multibacillary leprosy and is characterized by painful nodules and systemic ...",
+            "ENL is associated with a deleterious impact on health related quality of life (HRQoL)[4], \u00b7 increased mortality[5] and severe economic hardship ..."
+        ]
+    },
+    "31": {
+        "Entity": "leprosy",
+        "Snippet": [
+            "Key facts. Leprosy is a chronic infectious disease caused by a type of bacteria, Mycobacterium leprae. The disease predominantly affects the skin and peripheral nerves. Left untreated, the disease may cause progressive and permanent disabilities.",
+            "The characteristic lesion is an annular plaque with a sloping outer margin and a well-defined inner margin presenting a characteristic Swiss ...",
+            "This is characterized by limited disease with the presence of a few well-defined hypopigmented skin lesions with marked sensory loss. This is ...",
+            "Leprosy is a neglected infectious disease caused by acid-fast bacillus Mycobacterium leprae. It primarily affects the skin and then progresses to a secondary ...",
+            "Leprosy is a chronic infectious disease caused by the bacillus Mycobacterium leprae. While the organism is readily transmitted from person to person, ...",
+            "Leprosy, also known as Hansen's disease (HD), is a long-term infection by the bacteria Mycobacterium leprae or Mycobacterium lepromatosis."
+        ]
+    },
+    "32": {
+        "Entity": "H. ducreyi-only infections",
+        "Snippet": [
+            "SUMMARY. Chancroid, a sexually transmitted infection caused by Haemophilus ducreyi, is characterized by painful genital ulcers (GU) and inguinal lymphadenitis. H. ducreyi was recently described as a major cause of non-sexually transmitted cutaneous ulcers (CU) on the lower legs in children in yaws-endemic regions.",
+            "The global epidemiology of Haemophilus ducreyi infections is poorly documented because of difficulties in confirming microbiological diagnoses.",
+            "\u2022 Distinguish the clinical presentation of genital ulcer disease with Haemophilus ducreyi. \u2022 Assess the means used to diagnose H. ducreyi infection.",
+            "Haemophilus ducreyi is a Gram-negative coccobacillus that causes chancroid, a genital ulcer disease (GUD) that is common in many developing countries.",
+            "Chancroid is a bacterial sexually transmitted infection (STI) caused by Haemophilus ducreyi. It is characterized by painful necrotizing genital ...",
+            "Haemophilus ducreyi is defined as a gram-negative bacillus that forms streptobacillary chains, often described as resembling railroad tracks or a school of ..."
+        ]
+    },
+    "33": {
+        "Entity": "HFRS",
+        "Snippet": [
+            "Increased vascular permeability, coagulopathy, and renal injury are typical clinical features of HFRS, which has a case fatality rate of 1\u201315%.",
+            "Hemorrhagic fever renal syndrome (HFRS) is an acute zoonotic disease transmitted through aerosolized excrement of rodents (mice, rats, shrews, and voles)",
+            "Hemorrhagic fever with renal syndrome (HFRS) is one of the 10 major infectious diseases that jeopardize human health and is distributed in more ...",
+            "HFRS is a severe and sometimes deadly disease that affects the kidneys. Symptoms of HFRS usually develop within 1 to 2 weeks after someone is exposed to ...",
+            "Hemorrhagic fever with renal syndrome (HFRS) is a rodent-borne zoonotic disease caused by Hantavirus (HTNV), causing symptoms such as fever, ...",
+            "The objective of this study is to identify the epidemiological characteristics of HFRS in Zhejiang from 2007 to 2016."
+        ]
+    },
+    "34": {
+        "Entity": "climatic data",
+        "Snippet": [
+            "This task, called descriptive epidemiology, answers the following questions about disease, injury, or environmental hazard occurrence.",
+            "Characteristics of climate epidemiology studies that make results more suitable to use within quantitative climate health impact projections.",
+            "Any factor, whether event, characteristic, or other definable entity, that brings about change in a health condition, or in other defined characteristics.",
+            "Climate epidemiology plays an important role in informing policy related to climate change and its threats to public health.",
+            "The following material will review important statistical concepts allowing for robust conclusions to be drawn from available weather and climate data.",
+            "Climate is the long-term average of temperature, precipitation, and other weather variables at a given location."
+        ]
+    },
+    "35": {
+        "Entity": "analytical approach",
+        "Snippet": [
+            "Thus, analytic epidemiology is concerned with the search for causes and effects, or the why and the how. Epidemiologists use analytic epidemiology to quantify the association between exposures and outcomes and to test hypotheses about causal relationships.",
+            "Analytic epidemiologic studies measure the association between a particular exposure and a disease, using information collected from individuals.",
+            "This chapter will present the key features of common epidemiology study designs, including their main characteristics, strengths, limitations, types of ...",
+            "A key feature of analytic studies is that they use comparison groups. In contrast to descriptive studies, which generate hypotheses, analytic studies are ...",
+            "Analytical epidemiology deals with the search for causes and effects, or the why and the how. Epidemiologists use analytic epidemiology to ...",
+            "Epidemiology is traditionally defined as the study of the distribution and determinants of health-related states or events in specified populations and the ..."
+        ]
+    },
+    "36": {
+        "Entity": "Japanese encephalitis virus",
+        "Snippet": [
+            "1.1 General Disease and Pathogen Information: Japanese encephalitis (JE) is a zoonotic, mosquito-borne viral disease affecting swine, equids, birds, and humans. The disease is caused by the JE virus (JEV), a positive-strand RNA virus that belongs to the Orthoflavivirus genus in the Flaviviridae family.",
+            "Japanese encephalitis virus (JEV) is a flavivirus related to dengue, yellow fever and West Nile viruses, and is spread by mosquitoes ...",
+            "Japanese encephalitis is a mosquito-borne viral infection and the leading preventable cause of encephalitis in Asia, Australia, and the Western Pacific. This ...",
+            "JE virus is the most common vaccine-preventable cause of encephalitis in Asia, occurring throughout most of Asia and parts of the western Pacific.",
+            "Japanese encephalitis (JE) is one of severe viral encephalitis that affects individuals in Asia, western Pacific countries, and northern Australia.",
+            "Japanese encephalitis (JE) is a mosquito-borne viral disease caused by the Japanese encephalitis virus (JEV) that continues to be endemic throughout Southeast ..."
+        ]
+    },
+    "37": {
+        "Entity": "liver fluke",
+        "Snippet": [
+            "Liver fluke disease is a chronic parasitic inflammatory disease of the bile ducts. Infection occurs through ingestion of fluke-infested, fresh-water raw fish. The most well-known species that cause human infection are Clonorchis sinensis, Opisthorchis viverrini and Opisthorchis felineus.",
+            "Liver fluke is a collective name of a polyphyletic group of parasitic trematodes under the phylum Platyhelminthes. They are principally parasites of the ...",
+            "Liver flukes are parasites that can infect humans and cause liver and bile duct disease. There are two families of liver flukes that cause ...",
+            "Liver flukes are trematodes that can cause diseases of the liver and bile ducts, with notable infections including clonorchiasis, opisthorchiasis, and ...",
+            "Two Fasciola species infect people: F. hepatica, known as \"the common liver fluke\" and \"the sheep liver fluke\", is most common; F. gigantica is less common ...",
+            "The epidemiology of liver fluke is often viewed as the result of two distinct cycles of snail infection and pasture contamination. Summer infection of ..."
+        ]
+    },
+    "38": {
+        "Entity": "A. ceylanicum",
+        "Snippet": [
+            "Ancylostoma ceylanicum is the common hookworm of domestic dogs and cats throughout Asia. \u00b7 A. ceylanicum is an emerging public health risk in tropical northern ...",
+            "Ancylostoma ceylanicum is a hookworm species that primarily infects animals but can occasionally infect humans in restricted geographic areas.",
+            "Intestinal hookworm disease in humans is caused by Ancylostoma duodenale, A. ceylanicum, and Necator americanus.",
+            "Ancylostoma ceylanicum is a zoonotic helminth that is commonly found in domestic dogs and cats throughout Asia but is largely neglected in many countries.",
+            "It is the only zoonotic hookworm species that is able to produce symptomatic infections in humans, with the majority of cases being in Southeast Asia.",
+            "Ancylostoma ceylanicum is defined as a zoonotic soil-transmitted helminth and the second most common hookworm species infecting humans in the Asia Pacific ..."
+        ]
+    },
+    "39": {
+        "Entity": "N. kaouthia",
+        "Snippet": [
+            "According to WHO, it belongs to Category 1 of venomous snakes. The symptoms of cobra bite are general neurotoxicity leading to flaccid paralysis and death by ...",
+            "Cobra (Naja) venom poisoning is characterized by neurotoxicity and cardiotoxicity. The main venom toxins include polypeptide neurotoxins, cardiotoxins, and ...",
+            "Envenomation by N. kaouthia is a medical emergency, and the primary clinical symptoms are neurotoxicity and localized tissue destruction.",
+            "All patients were bitten on the limbs, typically below the knee or elbow. Bites were most common between 5:00 am and 12:00 pm or 3:00 pm and 11:00 ...",
+            "N. kaouthia is recognized by distinct hood markings with the presence of a pale, oval or circular marking with a dark center and ventrolateral throat spots ( ...",
+            "Throughout its broad distribution, spanning various major ecoregions and habitat types, N. kaouthia displays a great amount of phenotypic variation. Recent ..."
+        ]
+    },
+    "40": {
+        "Entity": "quilombola communities",
+        "Snippet": [
+            "A qualitative, descriptive study, carried out with 40 men from two Quilombola communities in Santa Izabel do Par\u00e1, state of Par\u00e1, Brazil.",
+            "Quilombola communities are defined by the particularity of the historical trajectory and the presumption of black ancestry linked to resistance, violence ...",
+            "Quilombola are highly vulnerable groups due to the long history of enslavement in Brazil. This is the first investigation of SARS\u2010CoV\u20102 ...",
+            "Our findings show that NIDs in quilombola communities are not only biological problems, but also reflect longstanding social and territorial inequalities.",
+            "Quilombola communities are territories made up of descendants of escaped slaves, located in remote rural areas. This study aims to describe the socioeconomic, ...",
+            "Quilombo is the denomination for communities of black slaves who resisted the slavery regime that prevailed in Brazil for over 300 years and was abolished in ..."
+        ]
+    },
+    "42": {
+        "Entity": "Rift Valley fever",
+        "Snippet": [
+            "by D Wright \u00b7 2019 \u00b7 Cited by 246 \u2014 Rift Valley fever (RVF) is a mosquito-borne viral zoonosis that was first discovered in Kenya in 1930 and is now endemic throughout multiple African countries ...",
+            "Rift Valley fever is a viral zoonosis that primarily affects animals but can also infect humans. Infection can cause severe disease in both animals and humans.",
+            "Rift Valley Fever (RVF) is caused by a virus carried by mosquitoes that can spread to livestock or people. People get RVF through contact ...",
+            "by RV Fever \u00b7 Cited by 8 \u2014 Some cattle develop acute disease characterized by fever, anorexia, lacrimation, salivation, nasal discharge, and bloody or fetid diarrhea. The course of the ...",
+            "by MK Rostal \u00b7 2025 \u00b7 Cited by 10 \u2014 Rift Valley fever (RVF), a zoonotic mosquito-borne viral disease with erratic occurrence and complex epidemiology, results in substantial ...",
+            "Rift Valley fever (RVF) is a vector-borne viral disease that can cause severe illness in domestic animals and poses a significant zoonotic ..."
+        ]
+    },
+    "43": {
+        "Entity": "arboviruses",
+        "Snippet": [
+            "Arboviruses are defined as a diverse group of viruses that are transmitted to susceptible hosts by arthropods such as mosquitoes, ticks, and sandflies, typically causing zoonotic infections in vertebrates, with exceptions like dengue and o'nyong-nyong viruses which primarily infect humans.",
+            "This review summarizes the epidemiology of major arboviruses \u2013 including Crimean-Congo hemorrhagic fever virus (CCHFV), chikungunya virus (CHIKV) ...",
+            "Arboviral disease cases are often categorized into two primary groups: neuroinvasive disease and non-neuroinvasive disease.",
+            "Arbovirus is an informal name for any virus that is transmitted by arthropod vectors. The term arbovirus is a portmanteau word (arthropod-borne virus).",
+            "Arboviruses are arthropod-borne viruses transmitted by mosquitoes, biting midges and ticks; they are grouped within viral families such as Flaviviridae, ...",
+            "Some viruses also can cause more characteristic clinical manifestations, such as severe polyarthralgia or arthritis due to chikungunya virus or other."
+        ]
+    },
+    "44": {
+        "Entity": "HCoV-OC43",
+        "Snippet": [
+            "HCoV-OC43 (66.0%) was detected most frequently, followed by HCoV-NL63 (33.3%), and HCoV-229E (7.7%). Two different types of HCoVs were co-detected in 18 samples ...",
+            "OC43 is one of seven coronaviruses known to infect humans. It is one of the viruses responsible for the common cold.",
+            "HCoV OC43 is defined as a human coronavirus that is a major cause of the ... The presence of the virus in stool samples has made SARS-CoV-2 a candidate for ...",
+            "From the detection rate, we can see that HCoV-OC43 mainly infected <3 years infants and toddlers. HCoV-229E more likely infected elder children of 7\u201315 years.",
+            "While HCoV-229E and HCoV-OC43 were thought to account for 5 to 30% of human respiratory tract infections, HCoV-NL63 and HCoV-HKU1 often were detected in <5% of ...",
+            "Human Coronavirus OC43 is a type of group II coronavirus that was discovered in the 1960s and is known to cause mainly mild upper respiratory tract disease in ..."
+        ]
+    },
+    "46": {
+        "Entity": "cystic echinococcosis",
+        "Snippet": [
+            "Cystic echinococcosis (CE) is a parasitic disease caused by Echinococcus granulosus sensu lato (sl) which produces chronic, often silent, infections in humans .",
+            "Human echinococcosis is a parasitic disease caused by tapeworms of the genus Echinococcus. The two most important forms in humans are cystic ...",
+            "Human echinococcosis (hydatidosis, or hydatid disease) is caused by the larval stages of cestodes (tapeworms) of the genus Echinococcus.",
+            "Cystic echinococcosis is a parasitic disease of major public health concern in many countries. Infection is generally acquired during childhood and symptoms ...",
+            "Cystic echinococcosis (CE) is a zoonosis caused by metacestodes, the larval stage of Echinococcus granulosus. Although the World Health Organization (WHO) ...",
+            "Epidemiology of cystic echinococcosis. CE is globally distributed but occurs predominantly in rural areas where livestock farming is ..."
+        ]
+    },
+    "47": {
+        "Entity": "placental schistosomiasis",
+        "Snippet": [
+            "by J Gerstenberg \u00b7 2024 \u00b7 Cited by 12 \u2014 Schistosome egg deposition in pregnant women may affect the placenta of infected mothers and cause placental schistosomiasis (PS).",
+            "by J Gerstenberg \u00b7 2024 \u00b7 Cited by 12 \u2014 Schistosome egg deposition in pregnant women may affect the placenta of infected mothers and cause placental schistosomiasis (PS).",
+            "Schistosomiasis is an acute and chronic parasitic disease caused by blood flukes (trematode worms) of the genus Schistosoma.",
+            "Schistosomiasis (also known as bilharzia and snail fever) is caused by helminth parasites of the genus Schistosoma.",
+            "Placental schistosomiasis (PS) is underdiagnosed and may compromise maternal and neonatal health. This study estimated the prevalence of PS in a rural Gabonese ...",
+            "Our data indicate that maternal schistosomiasis results in a proinflammatory signature that is detectable in maternal, placental, and fetal compartments, and a ..."
+        ]
+    },
+    "48": {
+        "Entity": "chronic condition",
+        "Snippet": [
+            "Chronic diseases are defined broadly as conditions that last 1 year or more and require ongoing medical attention or limit activities of daily living or both.",
+            "Chronic condition is defined as a condition that lasts 12 months or longer and meets 1 or both of the following tests: 1) it places limitations ...",
+            "A chronic condition, also known as chronic disease or chronic illness, is a health condition or disease that is persistent or otherwise long-lasting in its ...",
+            "a human health condition or disease that is persistent or otherwise long-lasting in its effects or a disease that comes with time. The term ...",
+            "As noted in Chapter 1, chronic diseases are distinguished from other health problems by their multiple and interrelated causes often rooted in early life.",
+            "Definition of Chronic Diseases. Chronic diseases\u2014heart disease, cancer, diabetes, arthritis, stroke, chronic lower respiratory disease,."
+        ]
+    },
+    "49": {
+        "Entity": "Fasciola hepatica",
+        "Snippet": [
+            "Fasciola hepatica, also known as the common liver fluke or sheep liver fluke, is a parasitic trematode (fluke or flatworm, a type of helminth) of the class Trematoda, phylum Platyhelminthes. It infects the livers of various mammals, including humans, and is transmitted by sheep and cattle to humans all over the world.",
+            "Fascioliasis is a parasitic infection primarily of the hepatobiliary system caused by one of 2 digenean flatworms, Fasciola hepatica or Fasciola gigantica.",
+            "Adults of Fasciola hepatica are large and broadly-flattened, measuring up to 30 mm long and 15 mm wide. The anterior end is cone-shaped, unlike ...",
+            "An important characteristic of Fasciola's epidemiology is its patchy geographic distribution. ... Lymnaeid snails hosts of Fasciola hepatica and ...",
+            "Fasciola hepatica (the common liver fluke of ruminants) infects cattle and sheep, and less commonly a range of domestic and wildlife species, around the world.",
+            "The distinct morphological characteristics of Fasciola species enable their differentiation. Fasciola hepatica (Figure 2a) has a leaf-shaped body with a broad, ..."
+        ]
+    },
+    "50": {
+        "Entity": "onchocerciasis",
+        "Snippet": [
+            "Onchocerciasis, also known as the African river blindness, is the second most important cause of infectious blindness worldwide after trachoma. It is caused by the filarial nematode, Onchocerca volvulus, and transmitted by repeated bites of the vector, female black fly of the genus Simulium damnosum.",
+            "Onchocerciasis \u2013 or \u201criver blindness\u201d \u2013 is a parasitic disease caused by the filarial worm Onchocerca volvulus. It is transmitted through ...",
+            "Onchocerciasis is usually diagnosed by the finding of microfilariae in skin snips or adults in biopsy specimens of skin nodules.",
+            "The disease manifests either as ocular or as dermal onchocerciasis with several symptoms including itching, nodules, skin thickening, visual ...",
+            "Onchocerciasis is defined as a parasitic disease caused by the filarial worm Onchocerca volvulus, characterized by the presence of larval microfilariae in ...",
+            "Onchocerciasis \u2013 or \u201criver blindness\u201d \u2013 is a parasitic disease caused by the filarial worm Onchocerca volvulus transmitted by repeated bites of infected ..."
+        ]
+    },
+    "51": {
+        "Entity": "Salmonella spp.",
+        "Snippet": [
+            "Salmonella is a foodborne pathogen that belongs to the family Enterobacteriaceae. It causes human gastroenteritis and can inhabit animals, amphibians, and reptiles [1,2]. The transmission of Salmonella to a healthy host occurs through the consumption of contaminated food and water [3,4].",
+            "Salmonella species are Gram-negative, flagellated facultatively anaerobic bacilli characterized by O, H, and Vi antigens. There are over 1800 known serovars ...",
+            "Salmonellosis is a disease caused by the bacteria Salmonella. It is usually characterized by acute onset of fever, abdominal pain, diarrhoea, nausea and ...",
+            "Salmonellae are gram-negative motile, nonsporulating, straight-rod bacteria. The genus Salmonella is named after Daniel E. Salmon, ...",
+            "Infections caused by Salmonella enterica serotype Typhi (S. Typhi) are often characterized by insidious onset of sustained fever, headache, malaise, anorexia, ...",
+            "Salmonellae are motile gram-negative bacilli that infect or colonize humans, causing a number of clinical infections with different clinical features."
+        ]
+    },
+    "52": {
+        "Entity": "vector distribution",
+        "Snippet": [
+            "One of the most obvious definitions is based on the recognition that most organisms we commonly recognize as being 'vectors' are hosts that ...",
+            "In epidemiology, a disease vector is any living agent that carries and transmits an infectious pathogen such as a parasite or microbe, to another living ...",
+            "Vectors are living organisms that can transmit infectious pathogens between humans, or from animals to humans. Many of these vectors are ...",
+            "VECTOR. An animate intermediary in the indirect transmission of an agent that carries the agent from a reservoir to a susceptible host.",
+            "Some diseases such as influenza and West Nile infection are known to have characteristic seasonal distributions. Seasonal patterns may suggest hypotheses ...",
+            "The study of the distribution (who, where, when) and determinants (why, how) of health related events in human populations."
+        ]
+    },
+    "53": {
+        "Entity": "dengue",
+        "Snippet": [
+            "Classically referred to as \u201cbreakbone fever,\u201d this course details the clinical features of dengue fever, characterized by high fever, myalgias, arthralgias, headache, and rash, with severe forms involving plasma leakage, hemorrhage, and organ dysfunction as well as the expanding geographic distribution of dengue, ...",
+            "Dengue (break-bone fever) is a viral infection that is spread from mosquitoes to people. It is more common in tropical and subtropical than in ...",
+            "The high prevalence of headache (70.3%), myalgia (66.1%), and arthralgia (48.4%) is consistent with the classic symptomatology of dengue fever.",
+            "Dengue, an acute febrile illness, is caused by infection with any of four related single-stranded RNA viruses of the genus Flavivirus, dengue ...",
+            "Dengue fever is a viral disease caused by Dengue virus. Dengue virus is transmitted to humans through the bite of infected Aedes mosquitoes.",
+            "Dengue is a mosquito-borne disease caused by a flavivirus, specifically an enveloped single-strand RNA virus from the genus Flavivirus, which has four distinct ..."
+        ]
+    },
+    "54": {
+        "Entity": "fungal lectin",
+        "Snippet": [
+            "Fungal lectins are a large family of carbohydrate-binding proteins with no enzymatic activity. They play fundamental biological roles in the interactions of ...",
+            "Fungal lectins are involved in the growth and development of fungal species, as well as in their symbiotic relationship with plants (5). This ...",
+            "Lectins are a widespread class of proteins implicated in many essential cellular and molecular recognition processes. They recognize carbohydrates in a ...",
+            "In molecular biology, the fungal fucose-specific lectin family is a family of lectins. Lectins are proteins which are involved in many recognition events at ...",
+            "Lectins are carbohydrate-binding proteins widely distributed in nature. They constitute a highly diverse group of proteins consisting of many different ...",
+            "Lectins are proteins that specifically bind carbohydrates and, in fungi, are associated with plant-pathogen interactions, fungal growth, fruiting body ..."
+        ]
+    },
+    "55": {
+        "Entity": "Trypanosoma sp.",
+        "Snippet": [
+            "Human African trypanosomiasis (HAT), also known as sleeping sickness, is a vector-borne parasitic disease caused by an extracellular protozoa belonging to the ...",
+            "Human African trypanosomiasis, also known as sleeping sickness, is a vector-borne parasitic disease. It is caused by protozoans of the genus Trypanosoma.",
+            "Causal Agents. \u201cAfrican trypanosomes\u201d or \u201cOld World trypanosomes\u201d are protozoan hemoflagellates of the genus Trypanosoma, in the subgenus Trypanozoon.",
+            "Trypanosoma is a genus of kinetoplastids (class Trypanosomatidae), a monophyletic group of unicellular parasitic flagellate protozoa. Trypanosoma is part of the ...",
+            "Trypanosoma refers to a genus of hemoparasites that cause diseases, such as trypanosomiasis, in humans and livestock. Key species include Trypanosoma brucei ...",
+            "The Trypanosoma genus comprises single-celled protozoan parasites. \u00b7 Triatominae insects, commonly called \u201ckissing bugs\u201d, may spread many ..."
+        ]
+    },
+    "56": {
+        "Entity": "giardiasis",
+        "Snippet": [
+            "Giardiasis is a prevalent and treatable cause of gastroenteritis worldwide and represents the most commonly diagnosed intestinal parasitic infection in the United States.",
+            "Giardiasis is diagnosed by the identification of cysts or trophozoites in the feces, using direct mounts as well as concentration procedures.",
+            "Giardiasis is a major diarrheal disease found throughout the world. The flagellate protozoan Giardia intestinalis (previously known as G lamblia or G ...",
+            "Giardiasis is the intestinal infection caused by Giardia lamblia (also known as Giardia intestinalis or Giardia duodenalis ). G. lamblia is a ...",
+            "Giardia infection, also called giardiasis, is caused by a tiny parasite. It infects part of the digestive system called the small intestine.",
+            "An illness caused by the protozoan Giardia lamblia and characterized by diarrhea, abdominal cramps, bloating, weight loss, or malabsorption. Infected persons ..."
+        ]
+    },
+    "57": {
+        "Entity": "modeling techniques",
+        "Snippet": [
+            "There are three basic types of deterministic models for infectious diseases which are spread by direct person-to-person contact in a population.",
+            "Epidemiological Modeling is defined as the use of mathematical, statistical, and computational techniques to predict the spread of diseases in ...",
+            "\u201cEpidemic modelling\u201d describes a set of approaches where mathematical, statistical, and computational tools are used to study the spread of communicable ...",
+            "Models of how they progress in an epidemic are based on a set of assumptions and statistics which are used to establish a set of parameters that inform how ...",
+            "A critical premise of epidemiology is that disease and other health events do not occur randomly in a population, but are more likely to occur in some members ...",
+            "The analysis of disease models with exposed and infective periods of ftxed length reduces to the analysis of systems of differential-difference equations with ..."
+        ]
+    },
+    "58": {
+        "Entity": "in vitro conditions",
+        "Snippet": [
+            "In vitro studies vary in their value as predictors of harm. An in vitro assay will have the most direct predictive value when the measured effects are known to ...",
+            "In vitro diagnostics (IVDs) are tests that can detect disease, conditions and infections. In vitro simply means 'in glass'.",
+            "In vivo describes something \u201cwithin a living organism\u201d while in vitro describes something \u201cin glass\u201d such as a test tube or petri dish.",
+            "In vitro. In vitro is Latin for \u201cwithin the glass.\u201d When something is performed in vitro, it happens outside of a living organism.",
+            "The limit of detection (LoD) is defined as the lowest concentration of analyte that can be consistently detected (typically in \u226595% of samples ...",
+            "presence or absence of a clinically defined condition, disorder, or health status of interest in a clearly defined target population. The testing required."
+        ]
+    },
+    "59": {
+        "Entity": "soil-transmitted helminths",
+        "Snippet": [
+            "Soil-transmitted Helminths, or STH, are parasitic worms that live in the human intestine. They spread through soil or water contaminated by human feces (poop) that contain the parasite larvae. STH infections are considered neglected tropical diseases or NTDs.",
+            "Soil-transmitted helminths (STH) are distributed worldwide mostly in tropical and subtropical regions. It consists of mainly roundworm (Ascaris ...",
+            "Soil-transmitted helminth infections are caused by different species of parasitic worms. \u00b7 They are transmitted by eggs present in human faeces, ...",
+            "Soil-transmitted helminths (STHs) are helminths transmitted to humans by contaminated soil. The most prevalent STH species include Ascaris lumbricoides, ...",
+            "Soil-transmitted helminthiasis (STH) is defined as a public health problem characterized by the infection of humans with helminths transmitted through ...",
+            "Soil-transmitted helminths (STHs) comprise a group of intestinal parasites that spread through contact with contaminated soil, water, or fecal ..."
+        ]
+    },
+    "60": {
+        "Entity": "mass drug administration",
+        "Snippet": [
+            "1. Introduction. Mass drug administration (MDA) is the distribution of drugs to entire populations, regardless of ascertainment of disease or infection status.",
+            "Mass drug administration (MDA) is one of the world's most effective tools for protecting whole communities from parasitic infections.",
+            "Mass drug administration (MDA) is a campaign strategy in which all people in an area are given treatment regardless of their disease status.",
+            "Mass drug administration (MDA) involves giving treatment to an entire population or every person in a geographical area. This means that all eligible people ...",
+            "MDA has been a powerful and effective measure to control temperate vivax malaria in China as was the treatment of infected patients.",
+            "Mass drug administration works by clearing existing parasites from the target population and preventing new infections as long as the drug remains at a ..."
+        ]
+    },
+    "61": {
+        "Entity": "visceral leishmaniasis",
+        "Snippet": [
+            "Visceral leishmaniasis (VL), also known as kala-azar, is fatal if left untreated in over 95% of cases. It is characterized by irregular bouts of fever, weight loss, enlargement of the spleen and liver, and anaemia. Most cases occur in Brazil, east Africa and India.",
+            "Visceral Leishmaniasis (VL) is a vector-borne disease caused by an intracellular protozoa of the genus Leishmania that can be lethal if not treated.",
+            "Visceral leishmaniasis (VL), also known as kala-azar or \"black fever\", is the most severe form of leishmaniasis and, without proper diagnosis and treatment, ...",
+            "This review focuses on the two parasites causing most human visceral leishmaniasis (VL), which leads to substantial health problems or death for up to 400,000 ...",
+            "Persons who have visceral leishmaniasis usually have fever, weight loss, and an enlarged spleen and liver (usually the spleen is bigger than the liver). Some ...",
+            "The epidemiology is characterized by the interplay between the sandflies, reservoir hosts, and susceptible humans. At the site of the bite of an infected ..."
+        ]
+    },
+    "62": {
+        "Entity": "transmission model",
+        "Snippet": [
+            "Transmission models are mechanistic, meaning they use equations to represent the processes underlying disease transmission. At a minimum, they ...",
+            "We explore the epidemiological characteristics for assessing the impact of public health interventions in the community setting and their applications.",
+            "A transmission model is defined as a mathematical representation of the spread of disease that allows for testing epidemiological assumptions and making ...",
+            "In this model, disease results from the interaction between the agent and the susceptible host in an environment that supports transmission of the agent from a ...",
+            "Infectious disease transmission models (herein referred to as models) are tools for using epidemiological, biological, statistical and mathematical techniques ...",
+            "Department of Epidemiology of Infectious Diseases. Page 2. Models \u2013 what are they? A model is a simplified description of a complex entity or process. Page 3 ..."
+        ]
+    },
+    "63": {
+        "Entity": "CLIQ",
+        "Snippet": [
+            "Epidemiology is the study of the distribution and determinants of health-related states or events in specified populations.",
+            "Definitions. Epidemiology is the study of the determinants, occurrence, and distribution of health and disease in a defined population.",
+            "Descriptive epidemiology describes the outbreak in terms of person, place and time. \u201cPerson\u201d refers to socio-demographic characteristics of cases.",
+            "Epidemiology is \u201cthe study of disease in populations and of factors that determine its occurrence over time.\u201d The purpose is to describe and identify ...",
+            "The formal definition is 'The study of the occurrence and distribution of health-related states or events in specified populations.",
+            "Descriptive epidemiology covers time, place, and person. Compiling and analyzing data by time, place, and person is desirable for several reasons."
+        ]
+    },
+    "64": {
+        "Entity": "T. gondii",
+        "Snippet": [
+            "Toxoplasma gondii is an intestinal coccidium that parasitizes members of the cat family as definitive hosts and has a wide range of intermediate hosts.",
+            "Toxoplasma gondii is a protozoan parasite that infects most species of warm-blooded animals, including humans, and causes the disease toxoplasmosis.",
+            "Toxoplasma gondii is known to infect a considerable number of mammalian and avian species and a substantial proportion of the world's human population.",
+            "There are 3 major genotypes (type I, type II, and type III) of T gondii. These genotypes differ in their pathogenicity and prevalence in people.",
+            "Toxoplasma gondii is a zoonotic intracellular apicomplexan protozoan parasite of mammals and birds that occurs around the world, including in Canada.",
+            "Toxoplasma gondii is a species of parasitic alveolate that causes toxoplasmosis. Found worldwide, T. gondii is capable of infecting virtually all ..."
+        ]
+    },
+    "65": {
+        "Entity": "Cm-p5",
+        "Snippet": [
+            "Cm-p5 as characterized by circular dichroism and nuclear magnetic resonance revealed an \u03b1-helical structure in membrane-mimetic conditions and a tendency to ...",
+            "Cm-p5 is an AMP with fungistatic activity against the yeast Candida albicans. Its antimicrobial activity and selectivity have been well characterized.",
+            "Cm-p5 peptide dimers inhibit biofilms of Candida albicans clinical isolates, C. parapsilosis and Fluconazole-resistant mutants of C. auris.",
+            "Cm-p5 exhibited cytotoxic activity in a dose-dependent manner against A375 melanoma cells, without toxicity against non-malignant cells or hemolytic activity.",
+            "A cyclic and helical-stabilized analogue of the peptide Cm-p5 was synthetized. The cyclic monomer showed an increased activity in vitro against Candida ...",
+            "Cm-p5 is a snail-derived antimicrobial peptide, which demonstrated antifungal activity against the pathogenic strains of Candida albicans."
+        ]
+    },
+    "66": {
+        "Entity": "Brucella",
+        "Snippet": [
+            "Brucellosis is a disease involving multiple systems with diverse clinical manifestations. The disease is characterized by are fever, hydrolysis, anorexia, arthralgia, fatigue and hepatosplenomegaly [18].",
+            "Background: Brucellosis is a pervasive zoonotic disease caused by various Brucella species. It mainly affects livestock and wildlife and poses significant ...",
+            "Brucellosis is a bacterial disease caused by various Brucella species, which mainly infect cattle, swine, goats, sheep and dogs.",
+            "Brucellosis in people is mostly caused by four species of Brucella bacteria. Most people get it through close contact with infected animals, ...",
+            "Brucellosis is a contagious disease of livestock with significant economic impact. The disease is caused by various bacteria of the family Brucella.",
+            "Importance. Brucellosis, a bacterial disease caused by organisms in the genus Brucella, is an important zoonosis and a significant cause of ..."
+        ]
+    },
+    "67": {
+        "Entity": "school-based preventive chemotherapy program",
+        "Snippet": [
+            "Preventive chemotherapy was offered only to school-age children. In the first year, coverage of preventive chemotherapy was relatively low in ...",
+            "School-based preventive chemotherapy program for schistosomiasis and soil-transmitted helminth control in Angola: 6-year impact assessment.",
+            "The evidence demonstrates that community-wide, and even school-based preventive chemotherapy, can lower prevalence in non-target populations such as adults and ...",
+            "Three key characteristics define PC as a public health intervention: 1. population-based diagnosis;. 2. population-based treatment; and.",
+            "The aim of this study was to compare differences in Schistosoma mansoni prevalence and infection intensity between three different schedules of school-based ...",
+            "Background: A school preventive chemotherapy (PC) program for soil-transmitted helminths (STHs) and schistosomiasis has operated in Huambo, Uige ..."
+        ]
+    },
+    "68": {
+        "Entity": "MALDI-TOF MS",
+        "Snippet": [
+            "During the MALDI-TOF MS process, microbes are identified using either intact cells or cell extracts. The process is rapid, sensitive, and economical in terms of ...",
+            "This study presents the current trends for anaerobic BSIs identified by MALDI-TOF MS. Bacteroides spp. were the most isolated anaerobes, ...",
+            "MALDI-TOF MS, on the other hand, relies on measuring microbial proteins that are typically well conserved within a species. Thus, it provides a ...",
+            "MALDI-TOF MS is defined as a mass spectrometry technique that enables rapid identification of microorganisms, allowing laboratories to identify specific ...",
+            "This study evaluates the potential use of MALDI-TOF for the analysis of suspected outbreaks of vancomycin-resistant enterococci (VRE), compared ...",
+            "The matrix-assisted laser desorption ionization time-of-flight mass spectrometry (MALDI-TOF MS) is a rapid, accurate, and cost-effective method of microbial ..."
+        ]
+    },
+    "69": {
+        "Entity": "immune response",
+        "Snippet": [
+            "The immune response constitutes the primary biological defense mechanism that safeguards the body from diverse threats, including microorganisms ...",
+            "This overview identifies key mechanisms used by the immune system to respond to invading microbes and other exogenous threats",
+            "The immune response is how your body recognizes and defends itself against bacteria, viruses, and substances that appear foreign and harmful.",
+            "An immune response is a physiological reaction which occurs within an organism in the context of inflammation for the purpose of defending against exogenous ...",
+            "This overview describes key mechanisms used by the immune system to respond to invading microbes and identifies settings in which disturbed immune function ...",
+            "Their main feature is the ability to respond quickly and broadly when a problem arises, typically leading to inflammation. Innate immune cells ..."
+        ]
+    },
+    "70": {
+        "Entity": "yaws",
+        "Snippet": [
+            "Yaws is a chronic disfiguring and debilitating childhood infectious disease. The disease affects skin, bone and cartilage.",
+            "Yaws is a neglected tropical disease caused by Treponema pallidum subspecies pertenue. This bacterium causes a chronic relapsing non-venereal treponematosis, ...",
+            "Yaws is a neglected tropical disease caused by Treponema pallidum subspecies pertenue. This bacterium causes a chronic relapsing nonvenereal ...",
+            "Yaws is a tropical infection of the skin, bones, and joints caused by the spirochete bacterium Treponema pallidum pertenue. The disease begins with a round, ...",
+            "Yaws is often distinguished by its late feature of destructive bony disease. However, cutaneous manifestations of other diseases may have significant overlap.",
+            "Yaws is a skin disease you get from the bacteria Treponema pallidum pertenue. You get it through contact with the broken skin of someone who has it."
+        ]
+    },
+    "71": {
+        "Entity": "zoonotic threats",
+        "Snippet": [
+            "Zoonotic diseases, also known as zoonoses, are infectious diseases that can be transmitted from animals to humans. These diseases can be caused ...",
+            "A zoonosis is an infectious disease that has jumped from a non-human animal to humans. Zoonotic pathogens may be bacterial, viral or parasitic.",
+            "Zoonotic diseases, or zoonoses, are infectious diseases or that can be naturally transmitted between humans and animals, including livestock, wildlife, and ...",
+            "The modern definition of a zoonosis is an infectious or parasitic disease whose microbial or parasitic agents are naturally transmitted between humans and other ...",
+            "Zoonotic diseases are caused by harmful germs like viruses, bacterial, parasites, and fungi. These germs can cause many different types of illnesses in people ...",
+            "A zoonosis is an infectious disease that jumps from an animal to humans, for example rabies. Many factors increase the risk of zoonotic diseases ..."
+        ]
+    },
+    "72": {
+        "Entity": "Anuradhapura district",
+        "Snippet": [
+            "These data, collected using a standardised methodology demonstrate a high prevalence of impaired kidney function, not due to known causes of kidney disease, in ...",
+            "Chronic kidney disease of unknown aetiology (CKDu) has been identified in Sri Lanka in the early 1990s in the Anuradhapura District.",
+            "The Anuradhapura district is the largest of all 25 districts in Sri Lanka, with nearly 1 000 000 people, of which approximately 94% live in ...",
+            "Epidemiological characteristics of the leptospirosis patients in Anuradhapura District, Sri Lanka. September 2016. Conference: KDU IRC; At: ...",
+            "In the Anuradhapura district of Sri Lanka, we observed a high prevalence among men in 2 of 5 rural communities (with moderate prevalence in another 2) with ...",
+            "Therefore, the patterns described here may not completely reflect the overall snakebite epidemiology in the Anuradhapura district. However ..."
+        ]
+    },
+    "74": {
+        "Entity": "E. multilocularis",
+        "Snippet": [
+            "Another species, E. multilocularis, causes alveolar echinococcosis, and is becoming increasingly more common. Two exclusively New World species, E. vogeli and E ...",
+            "by M Stefaniak \u00b7 2023 \u00b7 Cited by 17 \u2014 Alveolar echinococcosis (AE) is a chronic zoonotic disease caused by the larval form of Echinococcus multilocularis.",
+            "Echinococcus multilocularis is defined as a small tapeworm that produces \u201calveolar\u201d echinococcosis, an aggressive and invasive form of infection characterized ...",
+            "Echinococcus multilocularis, the fox tapeworm, is a small cyclophyllid tapeworm found extensively in the northern hemisphere.",
+            "There are currently four known species of tapeworm that cause echinococcal infection in humans; E. multilocularis, E. granulosus, E. vogeli, and E. oligarthrus.",
+            "by A Massolo \u00b7 2014 \u00b7 Cited by 156 \u2014 For example, E. multilocularis infection in intermediate hosts is believed to be highly clustered, resulting in prevalence as high as 10% in areas of only a few ..."
+        ]
+    },
+    "75": {
+        "Entity": "Bacillus anthracis",
+        "Snippet": [
+            "The bacteria Bacillus anthracis cause anthrax. The bacteria are small, aerobic or facultatively anaerobic, gram-positive or gram-variable, encapsulated, spore-forming rods. The organism produces toxins that are important for clinical virulence. It grows well on blood agar, producing large, irregularly shaped colonies.",
+            "Anthrax can cause severe illness in both people and animals. The bacteria that cause anthrax occur naturally in soil worldwide.",
+            "It usually begins as a small, painless, pruritic papule on an exposed surface, which progresses through a vesicular stage into a depressed black eschar.",
+            "EPIDEMIOLOGY. Anthrax is a worldwide zoonosis to which most animals, especially grazing herbivores, are susceptible. In natural conditions, human infections ( ...",
+            "Anthrax is a zoonotic infection caused by the gram-positive rod Bacillus anthracis. Most cases of anthrax are cutaneous (95%); the remaining cases are ...",
+            "Anthrax is one of the oldest recorded diseases of animals. Anthrax was the first disease of humans and other animals in which the causative agent was ..."
+        ]
+    },
+    "76": {
+        "Entity": "paracoccidioidomycosis",
+        "Snippet": [
+            "Paracoccidioidomycosis (PCM) is a systemic fungal infection caused by Paracoccidioides species, a dimorphic fungus endemic to Central and South America.",
+            "Paracoccidioidomycosis is an endemic fungal disease acquired exclusively in Latin American countries, and that presents a greater prevalence in South America.",
+            "Paracoccidioidomycosis (PCM) is a chronic infectious tropical disease caused by the fungus Paracoccidioides brasiliensis.",
+            "Paracoccidioidomycosis (PCM) is a systemic mycosis endemic to Latin America caused by thermodimorphic fungi of the genus Paracoccidioides.",
+            "Paracoccidioidomycosis is caused by breathing in Paracoccidioides, a fungus that lives in parts of Mexico and Central and South America.",
+            "Paracoccidioidomycosis is defined as a fungal infection caused by the dimorphic fungus Paracoccidioides brasiliensis, primarily affecting the skin, lymph nodes, ..."
+        ]
+    },
+    "77": {
+        "Entity": "deworming program",
+        "Snippet": [
+            "Deworming for STHs aims to reduce the worm burden in populations and decrease the intensity of infection particularly among heavily\u2010infected children, since ...",
+            "Preventive chemotherapy (deworming), using annual or biannual a single-dose albendazole (400 mg) or mebendazole (500 mg) b is recommended as a public health ...",
+            "This study aims to measure both coverage and equity in global, national, and subnational deworming to guide future programmatic evaluation, investment, and ...",
+            "An influential study conducted in Kenya in 1998\u201399 reported that a school-based drug-and-educational intervention had benefits regarding worm infections and ...",
+            "Global access to deworming is one of the public health success stories of the twenty-first century and was the key catalyst for creating the ...",
+            "Mass deworming involves treating large numbers of people with parasite-killing drugs: praziquantel kills the parasites that cause schistosomiasis, while ..."
+        ]
+    },
+    "78": {
+        "Entity": "rabies transmission dynamics",
+        "Snippet": [
+            "Transmission of the virus occurs through the bite or exposure of open skin or mucous membrane with infected saliva from a potentially rabid animal. Appropriate measures before and after exposure to the rabies virus are highly effective in preventing human disease.",
+            "The transmissibility of rabies decreases with the decrease of the number of stray dogs. When the number of stray dogs is controlled below 15.27 ...",
+            "Rabies is a vaccine-preventable, zoonotic, viral disease affecting the central nervous system. In up to 99% of the human rabies cases, dogs are responsible for ...",
+            "Rabies virus can be transmitted through direct contact between broken skin or mucus membranes and infectious tissue or fluids, including saliva.",
+            "This review addresses the current rabies situation and knowledge gaps in the region and proposes One Health interventions.",
+            "Transmission of rabies virus almost always occurs via introduction of virus-laden saliva into tissues, usually by the bite of a rabid animal. Although much less ..."
+        ]
+    },
+    "79": {
+        "Entity": "Plasmodium vivax",
+        "Snippet": [
+            "The Epidemiology of Plasmodium vivax These include hypnozoite forms in the liver, an invasion preference for reticulocytes, caveola\u2013vesicle complex structures in the infected erythrocyte membrane and rapidly forming and circulating gametocytes. These characteristics make this species very different from P. falciparum.",
+            "Plasmodium vivax is the most widespread of all of the malaria species, can cause severe, even fatal infections and results in significant global morbidity and ...",
+            "Plasmodium vivax is the most widespread human malaria, putting 2.5 billion people at risk of infection. Its unique biological and epidemiological ...",
+            "Plasmodium vivax is the most prevalent malaria-causing parasite in many locations outside of Africa, accounting for ~6.4 million cases in 2019.",
+            "While Plasmodium falciparum is responsible for far more deaths, Plasmodium vivax is the most geographically widespread of all of the malaria ...",
+            "Plasmodium vivax is a protozoal parasite and a human pathogen. This parasite is the most frequent and widely distributed cause of recurring malaria."
+        ]
+    },
+    "81": {
+        "Entity": "Echinococcus granulosus",
+        "Snippet": [
+            "The adult worm, Echinococcus granulosus, develops within the small intestine of carnivores and intermediate stage develops within the internal organs (mainly liver and lungs) of herbivores (such as sheep, horses etc.) and humans in the form of fluid-filled cysts.",
+            "Echinococcus granulosus is a zoonotic larval infection that infects humans globally. Patients with this condition may be asymptomatic for years.",
+            "Echinococcus granulosus (sensu lato) causes cystic echinococcosis and is the form most frequently encountered. Another species, E. multilocularis, causes ...",
+            "Human echinococcosis is a zoonotic disease (a disease that is transmitted to humans from animals) that is caused by parasites, namely tapeworms of the genus ...",
+            "In this article we review the current options and approaches for diagnosis of E. granulosus infection in definitive and animal intermediate hosts.",
+            "Echinococcus granulosus is a helminth from the family Taeniidae, which causes cystic echinococcosis (CE) in humans and diverse livestock around the world. The ..."
+        ]
+    },
+    "82": {
+        "Entity": "Leptospira strains",
+        "Snippet": [
+            "Background and Aim. Leptospira, the causal agent of leptospirosis, has been isolated from the environment, patients, and wide spectrum of animals in Russia.",
+            "Leptospira is a flexible, spiral-shaped, Gram-negative spirochete with internal flagella. Leptospira interrogans has many serovars based on cell surface ...",
+            "Leptospira are spiral-shaped, highly motile aerobic spirochetes with 18 or more coils per cell. Leptospire electron micrograph. Picture 1 - ...",
+            "Leptospira morphology is unique among spirochetes as it has characteristic hooked ends. The spirochete is normally about 0.1 \u03bcm wide and 6\u201320 \u03bcm long. In tissue ...",
+            "Leptospirosis is a disease caused by the bacterium Leptospira that can be found in contaminated water or soil. It affects many different kinds of animals and ...",
+            "Leptospirosis is an infectious disease of humans and animals that is caused by pathogenic spirochetes of the genus Leptospira."
+        ]
+    },
+    "83": {
+        "Entity": "vector dispersal",
+        "Snippet": [
+            "by AJ Wilson \u00b7 2017 \u00b7 Cited by 141 \u2014 One of the most obvious definitions is based on the recognition that most organisms we commonly recognize as being 'vectors' are hosts that ...",
+            "by AT Strauss \u00b7 2020 \u00b7 Cited by 17 \u2014 The spread of vector-borne disease depends on the demography, dispersal and behaviour of vectors. However, vector dynamics are often omitted ...",
+            "A dispersal vector is an agent of biological dispersal that moves a dispersal unit, or organism, away from its birth population to another location",
+            "In epidemiology, a disease vector is any living agent that carries and transmits an infectious pathogen such as a parasite or microbe, to another living ...",
+            "A critical premise of epidemiology is that disease and other health events do not occur randomly in a population, but are more likely to occur in some members ...",
+            "We briefly review some common definitions, identify the strengths and weaknesses of each and consider the functional differences between vectors and other ..."
+        ]
+    },
+    "84": {
+        "Entity": "dengue vaccine development",
+        "Snippet": [
+            "There are numerous dengue vaccine candidates in clinical development. Early efforts to develop a dengue vaccine date back more than 70 years, with attempts to ...",
+            "Epidemiology and transmission characteristics. Dengue is a mosquito-borne arbovirus present primarily in tropical regions including South and ...",
+            "The vaccine is a tetravalent, live-attenuated dengue vaccine. It was constructed using recombinant DNA technology and replaces several genetic ...",
+            "An efficient dengue vaccine is expected to afford a rapid and high protection level against all circulating DENV serotypes regardless of individual immune ...",
+            "In this review, we provide an updated and more in-depth overview of dengue epidemiology and pathogenesis, along with recent progress in diagnostic approaches ( ...",
+            "This review discusses the progress, strengths, and weaknesses of the five types of vaccines including live attenuated vaccine, inactivated virus vaccine, ..."
+        ]
+    },
+    "85": {
+        "Entity": "Giardia",
+        "Snippet": [
+            "Giardiasis, caused by the protozoan parasite Giardia duodenalis, is one of the most common treatable causes of gastroenteritis worldwide, ...",
+            "Giardiasis is diagnosed by the identification of cysts or trophozoites in the feces, using direct mounts as well as concentration procedures.",
+            "Giardiasis is a major diarrheal disease found throughout the world. The flagellate protozoan Giardia intestinalis (previously known as G lamblia or G ...",
+            "Giardia is a tiny parasite (germ) that causes diarrhea. \u00b7 Giardia can spread easily from one person to another or through water, food, surfaces, ...",
+            "Giardia lamblia is a protozoan parasite that has two forms: cyst (inactive form) and trophozoite (active form). Infected persons can shed both trophozoites and ...",
+            "Giardiasis is the intestinal infection caused by Giardia lamblia (also known as Giardia intestinalis or Giardia duodenalis ). G. lamblia is a ..."
+        ]
+    },
+    "86": {
+        "Entity": "T. gondii",
+        "Snippet": [
+            "Toxoplasma gondii is an intestinal coccidium that parasitizes members of the cat family as definitive hosts and has a wide range of intermediate hosts.",
+            "Toxoplasma gondii is a protozoan parasite that infects most species of warm-blooded animals, including humans, and causes the disease toxoplasmosis.",
+            "Infection with the protozoan parasite Toxoplasma gondii has a worldwide distribution. This obligate intracellular parasite can infect humans as well as ...",
+            "There are 3 major genotypes (type I, type II, and type III) of T gondii. These genotypes differ in their pathogenicity and prevalence in people.",
+            "Toxoplasma gondii is a zoonotic intracellular apicomplexan protozoan parasite of mammals and birds that occurs around the world, including in Canada.",
+            "Toxoplasma gondii is a species of parasitic alveolate that causes toxoplasmosis. Found worldwide, T. gondii is capable of infecting virtually all ..."
+        ]
+    },
+    "88": {
+        "Entity": "West Nile virus transmission risk",
+        "Snippet": [
+            "WNV is transmitted primarily by the bite of infected mosquitoes that acquire the virus by feeding on infected birds. The intensity of transmission to humans is dependent on abundance and feeding patterns of infected mosquitoes and on local ecology and behavior that influence human exposure to mosquitoes.",
+            "West Nile Virus (WNV) can cause neurological disease and death in people. WNV is commonly found in Africa, Europe, the Middle East, North America and West Asia.",
+            "The infection is caused by a flavivirus that is transmitted from birds to humans through the bite of culicine mosquitoes. Most infections are mild, with ...",
+            "West Nile virus is most commonly spread through the bite of an infected mosquito. Symptoms include fever, headache, body aches, vomiting, ...",
+            "West Nile disease is a vector-borne disease caused by West Nile virus (WNV), involving mosquitoes as vectors and birds as maintenance hosts. Humans and other ...",
+            "The virus is transmitted among birds via the bite of infected mosquitoes and incidentally humans and other mammals may become infected. About 80 ..."
+        ]
+    },
+    "89": {
+        "Entity": "bubonic plague",
+        "Snippet": [
+            "The bubonic plague is an infection of the lymphatic system, usually resulting from the bite of an infected flea, Xenopsylla cheopis (the Oriental rat flea), though other flea species are able to carry the bubonic plague, such as Pulex irritans (the human flea) and Ceratophyllus fasciatus.",
+            "Plague is a potentially life-threatening disease caused by the bacterium, Yersinia pestis. \u00b7 Plague occurs naturally in areas of the western ...",
+            "Bubonic plague is the most common form and is characterized by painful swollen lymph nodes or 'buboes'. Plague is transmitted between animals ...",
+            "Although contemporaries occasionally called their plague inguinal, not a single medieval source pointed explicitly to the groin as the bubo's principal site.",
+            "Plague is an illness you get from Y. pestis bacteria. It's spread by infected fleas, animals and people. Types include bubonic, pneumonic ...",
+            "Bubonic plague is the most commonly occurring type of plague and is characterized by the appearance of buboes\u2014swollen, tender lymph nodes, ..."
+        ]
+    },
+    "90": {
+        "Entity": "hantavirus",
+        "Snippet": [
+            "Hantaviruses are a family of viruses which can cause serious illnesses and death. \u00b7 These viruses cause diseases like hantavirus pulmonary ...",
+            "by CB Jonsson \u00b7 2010 \u00b7 Cited by 1395 \u2014 Summary: Hantaviruses are enzootic viruses that maintain persistent infections in their rodent hosts without apparent disease symptoms.",
+            "This syndrome is also characterized initially by a nonspecific illness, which usually lasts for 3 to 5 days and is similar to the prodromal.",
+            "by T Manigold \u00b7 Cited by 220 \u2014 Hantaviruses can cause two distinct illnesses in humans: haemorrhagic fever with renal syndrome (HFRS) caused by so-called \u201cOld World hantaviruses\u201d, or ...",
+            "by RA Moore \u00b7 2024 \u00b7 Cited by 4 \u2014 Hantavirus pulmonary syndrome (HPS) is a rare but severe pulmonary disease characterized by pulmonary edema, hypoxia, and hypotension.",
+            "Hantavirus Pulmonary Syndrome (HPS) is an acute febrile illness (i.e., temperature greater than 101.0\u00b0F [greater than 38.3\u00b0C]) with a prodrome ..."
+        ]
+    },
+    "91": {
+        "Entity": "echinococcosis",
+        "Snippet": [
+            "Abstract. Echinococcosis in humans is a zoonotic infection caused by larval stages (metacestodes) of cestode species of the genus Echinococcus. Cystic echinococcosis (CE) is caused by Echinococcus granulosus, alveolar echinococcosis (AE) is caused by E.",
+            "Human echinococcosis is a zoonotic disease (a disease that is transmitted to humans from animals) that is caused by parasites, namely tapeworms ...",
+            "Human echinococcosis (hydatidosis, or hydatid disease) is caused by the larval stages of cestodes (tapeworms) of the genus Echinococcus.",
+            "Cystic echinococcosis is a parasitic disease of major public health concern in many countries. Infection is generally acquired during childhood and symptoms ...",
+            "Echinococcosis is a zoonotic larval infection that infects humans globally. The parasite Echinococcus causes the disease. According to the World Health ...",
+            "Hydatid disease (echinococcosis or hydatidosis) is a zoonotic parasitic infestation by a tapeworm of the genus Echinococcus."
+        ]
+    },
+    "92": {
+        "Entity": "arbovirus",
+        "Snippet": [
+            "This review summarizes the epidemiology of major arboviruses \u2013 including Crimean-Congo hemorrhagic fever virus (CCHFV), chikungunya virus (CHIKV) ...",
+            "Arthropod-borne viruses (arboviruses) are transmitted to humans primarily through the bites of infected mosquitoes, ticks, sand flies, or midges ...",
+            "Arboviruses are defined as a diverse group of viruses that are transmitted to susceptible hosts by arthropods such as mosquitoes, ticks, and sandflies, ...",
+            "Arbovirus is an informal name for any virus that is transmitted by arthropod vectors. The term arbovirus is a portmanteau word (arthropod-borne virus).",
+            "Arboviruses are arthropod-borne viruses transmitted by mosquitoes, biting midges and ticks; they are grouped within viral families such as Flaviviridae, ...",
+            "Some viruses also can cause more characteristic clinical manifestations, such as severe polyarthralgia or arthritis due to chikungunya virus or other."
+        ]
+    }
+}

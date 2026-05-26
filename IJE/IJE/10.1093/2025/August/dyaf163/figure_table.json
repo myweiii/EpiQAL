@@ -1,0 +1,22 @@
+{
+    "Figure 1.": [
+        "Directed acyclic graph (DAG) representing the assumed causal paths between exposure to fine particulate matter (PM 2.5 ) and mortality in the UK Biobank cohort.",
+        "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/ije/54/5/10.1093_ije_dyaf163/2/m_dyaf163f1.jpeg?Expires=1780042168&Signature=gdHlCCz0hkLFf3rHVp4lMJ8yeVuZNQspTEUcdvLXZN7McZPIV1~RSFnYPzaj-u22Mx8Xu9E6NbFzJ7JzU0XRP3h6iziwlNDWbdFfkZ5VXmGCYEQjVhEWind1y6rCAUXEfZ3V609ZOESzsdszFyvhCMXJsdimQzWFPgGpfavgNcp6T-9kTZtDKzVX45T~4L4HELyyqzaKbqPLyRo81p4bq0mgMlwbDXw4etGHKLoCvYXMWfMOBuekdtKhq9ZwkjMciadDo~SRn~gAfCpQa3Pm9MM-d5o2-QNWg-56rjamzsOjkhUqSuKzqXF7usu9duyhqVjVMU-dnG1d2UgPOvePEw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ],
+    "Figure 2.": [
+        "Trends of annual average exposure to fine particulate matter (PM 2.5 , in µg/m 3 , squared line) and mortality rates (per 100 000 person-years) by calendar time (left, dotted line) and age (right, dotted line) in the UK Biobank cohort.",
+        "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/ije/54/5/10.1093_ije_dyaf163/2/m_dyaf163f2.jpeg?Expires=1780042168&Signature=Fq9OiEfqh36lOtivMo3uRIQkEmXcpx9OQ23CC~gQ5zjfnchoQgEoK~CHpaqLM0m3H6arS27fTEt7uETfo8y7ZpEpDwcmuA7LdPp79kVBeUh0Cx8ppAJwKadU1azVVAJ469nSln6Oe2WBFAZwIhBMxdSnX23bgumLOcZ6hSsR-JdzHIUolnr1vy~T4esJZrwvq4vT2v~gwDDVdvz1EqB~ARwJdal4K5hmF~p9ae773NK2iC2k6RYm-NBM05jdmOtlJZn2siY6majX6MKpw4C2-jNlxNKaxonSwaYV8PIIgrlWLVDn8cMH02y8lzXihIEXDLVLUNxb6dXETusvA1YpoA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ],
+    "Figure 3.": [
+        "Scatterplot of average exposure to fine particulate matter (PM 2.5 , in µg/m 3 ) and mortality rates (per 100 000 person-years) by assessment centre in the UK Biobank cohort.",
+        "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/ije/54/5/10.1093_ije_dyaf163/2/m_dyaf163f3.jpeg?Expires=1780042168&Signature=VbF1c04t4q9wxrV5YpAA5TanVKRRntjJIB3AYJ1xhK32UthW5ZuaVLNxs-5zQezhxKPE3iaFp1qhAwi6Zbze9XFtY~i95J5qu13a2MrO0Y07d82ssmQNZ93Cu7xVHg~qTNGbn5cMDsgQK6dx151Of00iqAF39LVQLfyhYOU3GDRRiAMzsrqwf9J6eA2ax0jfI2Nsrn-yK3iMfy3olbediu5DWM3lhOjWW~hdI7DhBmKbvI3YAu3d3fjipG3aHZCB5aBO2d22sRdA7wUmMorGErnTSE9Ql~x5p9kdqW9UYoGco9SdU0l456aWuXFaQPiU9UIr7g8iwn~k3Gymn2QfNA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ],
+    "Table 1.": [
+        "Distributions of subjects, fine particulate matter (PM 2.5 ), and mortality across categories of contextual and individual-level variables in the UK Biobank cohort (see Supplementary Table S1 for further details)",
+        ""
+    ],
+    "Table 2.": [
+        "Hazard ratio (HR) associated with an increase of 10 μg/m³ in PM 2.5 in the UK Biobank cohort, estimated from models with different adjustment strategies, with 95% confidence intervals (CI)",
+        ""
+    ]
+}

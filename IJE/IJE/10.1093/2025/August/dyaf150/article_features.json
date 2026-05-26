@@ -1,0 +1,33 @@
+{
+    "Title": "The effects of missing data due to study dropout on longitudinal analysis inference using outcome-dependent sampling",
+    "URL": "https://academic.oup.com/ije/article/54/5/dyaf150/8250766",
+    "DOI": "10.1093/ije/dyaf150",
+    "PMID": "40929733",
+    "Published": "2025/08/18",
+    "Volume": "54",
+    "Issue": "5",
+    "Journal": "International Journal of Epidemiology",
+    "Keywords": [
+        "outcome-dependent sampling",
+        "missing data",
+        "longitudinal cohorts",
+        "biorepositories"
+    ],
+    "Authors": {
+        "Wilson, Melissa P": [
+            "School of Medicine, Division of Infectious Disease, University of Colorado, Aurora, CO, United States",
+            "Department of Biostatistics and Informatics, University of Colorado, Aurora, CO, United States"
+        ],
+        "Erlandson, Kristine M": [
+            "School of Medicine, Division of Infectious Disease, University of Colorado, Aurora, CO, United States"
+        ],
+        "Moore, Camille M": [
+            "Department of Biostatistics and Informatics, University of Colorado, Aurora, CO, United States",
+            "Center for Genes, Environment and Health, National Jewish Health, Denver, CO, United States"
+        ],
+        "MaWhinney, Samantha": [
+            "Department of Biostatistics and Informatics, University of Colorado, Aurora, CO, United States"
+        ]
+    },
+    "PDF_URL": "https://academic.oup.com/ije/article-pdf/54/5/dyaf150/64237561/dyaf150.pdf"
+}

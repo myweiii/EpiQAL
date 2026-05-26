@@ -1,0 +1,392 @@
+{
+    "0": [
+        "stepped-wedge cluster randomized trials",
+        "crossover cluster randomized design",
+        "group-level randomization design"
+    ],
+    "1": [
+        "statins",
+        "hydroxymethylglutaryl-CoA reductase",
+        "HMG-CoA to mevalonate"
+    ],
+    "2": [
+        "mesothelioma",
+        "mesothelial lining",
+        "mesothelioma"
+    ],
+    "3": [
+        "HIV treatment gaps",
+        "antiretroviral therapy",
+        "combination drug regimen that inhibits HIV replication, prevents disease progression, and reduces transmission through lifelong viral suppression"
+    ],
+    "4": [
+        "digital calendar",
+        "interactive, mobile-based tool with active reminders and event tracking",
+        "mobile health application"
+    ],
+    "5": [
+        "heat-related health risks",
+        "heat stroke",
+        "core body temperature exceeding 40\u00b0C"
+    ],
+    "6": [
+        "non-inferiority trials",
+        "non-inferiority",
+        "TB vaccines"
+    ],
+    "7": [
+        "primary biliary cholangitis",
+        "chronic autoimmune liver disease characterized by progressive destruction of intrahepatic bile ducts due to T-cell-mediated immune attack",
+        "chronic autoimmune liver disorder marked by immune-mediated destruction of intrahepatic bile ducts leading to progressive cholestasis"
+    ],
+    "9": [
+        "statin use",
+        "HMG-CoA reductase",
+        "pharmacological inhibition of the rate-limiting enzyme in cholesterol biosynthesis"
+    ],
+    "10": [
+        "total n-6 polyunsaturated fatty acids",
+        "omega-6 polyunsaturated fatty acids",
+        "dietary polyunsaturated fatty acids with the first double bond at the sixth carbon from the methyl end"
+    ],
+    "11": [
+        "IPTp-SP",
+        "sulfadoxine-pyrimethamine",
+        "intermittent administration of a combination sulfonamide-based antimalarial"
+    ],
+    "12": [
+        "New Zealand",
+        "small-area deprivation indices",
+        "composite area-level socioeconomic deprivation score"
+    ],
+    "14": [
+        "body mass index",
+        "height-to-weight ratio",
+        "anthropometric index derived from weight divided by a power of height that reflects body composition and nutritional status"
+    ],
+    "15": [
+        "TMLE",
+        "g-methods",
+        "g-computation"
+    ],
+    "16": [
+        "tuberculosis",
+        "airborne bacteria",
+        "infectious disease caused by microorganisms transmitted via suspended droplet nuclei or dust particles in air, primarily infecting the lungs after inhalation"
+    ],
+    "17": [
+        "TB incidence reduction",
+        "tuberculosis case rate per 100,000 population",
+        "tuberculosis"
+    ],
+    "18": [
+        "loneliness",
+        "perceived social disconnection",
+        "cardiovascular disease risk"
+    ],
+    "19": [
+        "socioeconomic status",
+        "COVID-19",
+        "SARS-CoV-2"
+    ],
+    "20": [
+        "pre-eclampsia",
+        "multisystem hypertensive disorder of pregnancy",
+        "preeclampsia"
+    ],
+    "21": [
+        "insulin and branched-chain amino acids",
+        "insulin resistance",
+        "insulin stimulation"
+    ],
+    "22": [
+        "physical work demands",
+        "occupational exposure characterized by intensity and duration of physical exertion including lifting, standing, carrying, and repetitive movements",
+        "case-control study"
+    ],
+    "23": [
+        "exposure measurement error",
+        "classical",
+        "Berkson"
+    ],
+    "24": [
+        "colorectal cancer",
+        "malignancy arising from uncontrolled cell proliferation in the colon or rectum",
+        "neoplasm originating from aberrant glandular epithelial cell proliferation in the large bowel"
+    ],
+    "25": [
+        "cohort study",
+        "observational design",
+        "non-experimental approach that tracks individuals with a shared exposure over time to evaluate incidence and relative risk of health outcomes"
+    ],
+    "27": [
+        "tuberculosis",
+        "COPD",
+        "chronic, progressive lung disease defined by irreversible airflow limitation and characterized by persistent dyspnea and declining FEV1"
+    ],
+    "28": [
+        "household transmission in tuberculosis",
+        "secondary case detection",
+        "domestic settings"
+    ],
+    "29": [
+        "Global Burden of Disease estimates",
+        "annual global health assessment framework",
+        "standardized epidemiological framework that uses harmonized cause-of-death attribution methods"
+    ],
+    "30": [
+        "accelerometer-derived movement behaviour data",
+        "cluster analysis",
+        "exploratory data reduction technique"
+    ],
+    "31": [
+        "malaria",
+        "Plasmodium species",
+        "SARS-CoV-2 pandemic"
+    ],
+    "32": [
+        "Australia's national tobacco endgame target",
+        "daily smoking prevalence",
+        "daily smoking prevalence"
+    ],
+    "33": [
+        "Sellafield",
+        "nuclear reprocessing facility",
+        "epidemiological data"
+    ],
+    "34": [
+        "vaccination",
+        "vaccine-induced active immunity",
+        "inactivated or attenuated pathogen components or their genetic blueprints"
+    ],
+    "35": [
+        "clubfoot",
+        "congenital deformity characterized by rigid plantarflexion, supination, and adduction of the foot due to malalignment of hindfoot, midfoot, and forefoot structures",
+        "hindfoot valgus, midfoot abduction, and forefoot adduction"
+    ],
+    "36": [
+        "preterm birth",
+        "infant delivery occurring before 37 weeks of gestation",
+        "live birth before completion of 37 weeks of gestation"
+    ],
+    "37": [
+        "congenital anomalies",
+        "cohort data",
+        "longitudinal observational data"
+    ],
+    "38": [
+        "household food insecurity",
+        "household-level condition characterized by limited or uncertain access to adequate, safe, and nutritious food due to economic and social constraints",
+        "disordered eating behaviors"
+    ],
+    "39": [
+        "sleep",
+        "circadian rhythms",
+        "circadian rhythm"
+    ],
+    "40": [
+        "fire-related haze",
+        "respiratory health outcomes",
+        "acute upper respiratory infections"
+    ],
+    "41": [
+        "cohort study",
+        "observational study",
+        "longitudinal follow-up"
+    ],
+    "42": [
+        "phenomenological data-filtering method",
+        "qualitative approach",
+        "field contact"
+    ],
+    "43": [
+        "life expectancy advantage",
+        "mortality",
+        "life expectancy"
+    ],
+    "44": [
+        "SARS-CoV-2",
+        "zoonotic coronavirus responsible for the global pandemic of COVID-19",
+        "spike protein mutations affecting transmissibility and pathogenicity"
+    ],
+    "45": [
+        "life expectancy",
+        "average remaining years of life at a given age",
+        "average years of life remaining at a specific age"
+    ],
+    "46": [
+        "relapsing-onset multiple sclerosis",
+        "chronic autoimmune disorder of the central nervous system characterized by episodic relapses followed by remissions, with onset typically between ages 20 and 40",
+        "autoimmune demyelinating disease of the central nervous system with relapsing-remitting course and peak onset in young adulthood"
+    ],
+    "47": [
+        "Mendelian randomization studies",
+        "instrumental variables",
+        "genetic variants as proxies to infer causal effects of modifiable exposures on outcomes while addressing unmeasured confounding"
+    ],
+    "48": [
+        "type 2 diabetes",
+        "metabolic disorder characterized by insulin resistance and progressive beta-cell dysfunction leading to hyperglycemia",
+        "chronic condition marked by insulin resistance and progressive pancreatic beta-cell failure resulting in persistent hyperglycemia"
+    ],
+    "49": [
+        "digital self-screening tool",
+        "question-and-answer-based digital platform",
+        "self-reported data collection system using structured interactive queries"
+    ],
+    "50": [
+        "COVID-19 vaccine",
+        "breakthrough infection",
+        "vaccine product"
+    ],
+    "51": [
+        "forecasting system",
+        "epidemic forecasting framework",
+        "analytical techniques"
+    ],
+    "52": [
+        "geographic location",
+        "abortion care",
+        "medical termination of pregnancy"
+    ],
+    "54": [
+        "stroke outcomes",
+        "acute vascular injury to the central nervous system",
+        "neurological deficits from inflammatory or obstructive vascular compromise in the brain or spinal cord"
+    ],
+    "55": [
+        "pandemic",
+        "novel infectious disease",
+        "Nepal"
+    ],
+    "56": [
+        "household dysfunction indicators",
+        "adverse childhood experiences",
+        "traumatic events in childhood before age 18"
+    ],
+    "57": [
+        "gastric cancer screening program",
+        "endoscopic surveillance initiative",
+        "structured, periodic endoscopic monitoring protocol"
+    ],
+    "58": [
+        "methylation patterns",
+        "epigenetic modifications involving methyl group addition to cytosines",
+        "methylation"
+    ],
+    "59": [
+        "BMI",
+        "weight-for-height index",
+        "anthropometric measure derived from body mass and height that estimates body fat levels and nutritional status using a squared-height normalization"
+    ],
+    "61": [
+        "pleiotropy",
+        "genetic confounding",
+        "genetic factor"
+    ],
+    "62": [
+        "PERCH study",
+        "WHO clinical pneumonia diagnosis",
+        "case-control study"
+    ],
+    "63": [
+        "pandemic",
+        "novel infectious disease",
+        "infectious agent with recent emergence"
+    ],
+    "64": [
+        "multiple myeloma",
+        "plasma cell malignancy characterized by clonal proliferation in bone marrow and overproduction of monoclonal immunoglobulins",
+        "hematologic malignancy defined by clonal expansion of plasma cells in bone marrow and excessive production of monoclonal immunoglobulins"
+    ],
+    "65": [
+        "text message reminders",
+        "short message service",
+        "digital communication intervention"
+    ],
+    "66": [
+        "multivariable analysis",
+        "statistical method that evaluates the independent impact of multiple variables on an outcome while controlling for confounding",
+        "regression technique"
+    ],
+    "67": [
+        "automated analytical method",
+        "systematic approach",
+        "genomic surveillance data"
+    ],
+    "68": [
+        "pandemic",
+        "WHO",
+        "international organization that responds to global disease spread and cross-border transmission patterns"
+    ],
+    "69": [
+        "longitudinal data",
+        "Ghanaian cohort study",
+        "prospective observational study"
+    ],
+    "70": [
+        "economically disadvantaged individuals",
+        "socially disadvantaged persons whose capacity to compete in the free market is impaired due to financial hardship",
+        "systemic barriers that limit economic agency"
+    ],
+    "71": [
+        "diabetes",
+        "chronic metabolic disorder characterized by hyperglycemia due to insulin secretion defects, insulin resistance, or both",
+        "chronic metabolic condition marked by persistent hyperglycemia from combined insulin resistance and impaired insulin secretion"
+    ],
+    "72": [
+        "air-pollution exposure",
+        "oxidative stress",
+        "reactive oxygen species"
+    ],
+    "74": [
+        "ADHD medication",
+        "pharmacological agents that reduce hyperactivity and impulsivity symptoms",
+        "attention-deficit/hyperactivity disorder"
+    ],
+    "76": [
+        "extreme weather events",
+        "cellular aging markers",
+        "telomere attrition"
+    ],
+    "77": [
+        "South Korean cohort",
+        "population-based cohort study",
+        "longitudinal epidemiological design"
+    ],
+    "78": [
+        "PM 2.5",
+        "fine inhalable particles with aerodynamic diameter \u22642.5 micrometers that contain carbon and absorb toxic chemical compounds",
+        "inhalable fine particles with aerodynamic diameter \u22642.5 micrometers capable of penetrating deep into the alveoli and carrying absorbed toxic compounds"
+    ],
+    "79": [
+        "paternal behavior during adolescence",
+        "psychological distress timing",
+        "depressive and anxiety symptoms"
+    ],
+    "80": [
+        "emergency medical service demand",
+        "prehospital acute care utilization",
+        "system-wide emergency response activity"
+    ],
+    "81": [
+        "population-based cohort study",
+        "longitudinal study design",
+        "prospective data"
+    ],
+    "82": [
+        "gastric cancer",
+        "adenocarcinoma arising from the mucosa of the stomach",
+        "mucosal-origin adenocarcinoma"
+    ],
+    "83": [
+        "DCIS",
+        "non-invasive breast lesion characterized by abnormal epithelial cell proliferation confined to the milk ducts with variable risk of progression to invasive cancer",
+        "non-invasive breast lesion defined by malignant epithelial cell proliferation within the ductal system, confined to the milk ducts with potential for progression to invasive disease"
+    ],
+    "84": [
+        "multimorbidity",
+        "coexistence of two or more chronic conditions",
+        "chronic conditions"
+    ]
+}

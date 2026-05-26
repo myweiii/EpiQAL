@@ -1,0 +1,1 @@
+We thank Dimensions ( https://www.dimensions.ai/ ) for granting access to their API to conduct this research. We also thank Prof. Marc Lipsitch and Prof. Azeem Majeed for feedback on an early draft of this research.

@@ -1,0 +1,285 @@
+{
+    "0": {
+        "Stepped-wedge cluster randomized trial (SW-CRT)": 9
+    },
+    "1": {
+        "Multivariable principal component generalized method of moments (MV-PC-GMM)": 8
+    },
+    "2": {
+        "1980": 9
+    },
+    "3": {
+        "17.6% (15.8%\u201319.6%)": 9
+    },
+    "4": {
+        "The proportion of deaths reported to have occurred in the same month and year as indicated by the HDSS": 9
+    },
+    "5": {
+        "Cancer": 9
+    },
+    "6": {
+        "1.25": 9
+    },
+    "7": {
+        "UV load, calculated by multiplying seasonal average ambient UV by self-reported time outdoors and summing over age spans": 9
+    },
+    "8": {
+        "Pre-eclampsia, placental abruption, fetal growth restriction (FGR), and preterm birth": 9
+    },
+    "9": {
+        "Hazard ratios (HRs)": 8,
+        "Diagnoses of EC, EOC, and CC": 2
+    },
+    "10": {
+        "Inverse-variance weighted method": 9
+    },
+    "11": {
+        "To compare the prevalence of STIs/RTIs between IPTp arms": 5,
+        "To estimate associations between STIs/RTIs and adverse birth outcomes": 5,
+        "To quantify the extent to which the effects of IPTp-SP on birth outcomes are mediated through STI/RTI prevention": 5
+    },
+    "12": {
+        "A generalized linear quasi-Poisson regression model including age, sex, and month of the year as predictors": 9,
+        "A linear regression fitted to the age- and sex-standardized annual mortality rate": 9
+    },
+    "13": {
+        "Employed state pension age as an instrumental variable": 9,
+        "Applied instrumental variable causal forests (IV forests)": 9
+    },
+    "14": {
+        "The one-sample Wald ratio method": 7
+    },
+    "15": {
+        "45%": 9
+    },
+    "16": {
+        "15.3%": 9
+    },
+    "17": {
+        "Afar, Somali, and Benishangul-Gumuz": 9
+    },
+    "18": {
+        "To facilitate cross-national comparison": 9
+    },
+    "19": {
+        "North region": 9
+    },
+    "20": {
+        "Cox proportional-hazards regression models": 9,
+        "The number of days since the first delivery as the timescale": 1
+    },
+    "21": {
+        "Glycoprotein acetyls": 9
+    },
+    "22": {
+        "Weibull distribution": 9
+    },
+    "23": {
+        "Calculating the proportion of ambient levels infiltrating into the home using infiltration efficiencies when indoors, and equating it to measured personal exposure when outdoors": 9
+    },
+    "24": {
+        "Random-effects inverse variance weighted (IVW) method": 9
+    },
+    "25": {
+        "Participants were asked about their usual frequency and quantity of consumption for beer, wine, and spirits during 10-year age periods starting at age 20, and intake was calculated by multiplying frequency by quantity and standard alcohol content per container.": 9
+    },
+    "26": {
+        "Cox proportional hazards regression analysis": 9
+    },
+    "27": {
+        "Tuberculosis": 9
+    },
+    "28": {
+        "<40%": 9
+    },
+    "29": {
+        "2016 for Australia and 2015 for New Zealand": 9
+    },
+    "30": {
+        "0.58 to 0.75": 9
+    },
+    "31": {
+        "The monthly number of malaria diagnoses per 1000 all-cause diagnoses across all wards in both hospitals, including malaria and excluding COVID-19 diagnoses": 9
+    },
+    "32": {
+        "Simulated annealing approach": 9
+    },
+    "33": {
+        "01 January 1995 to 31 December 2016": 9,
+        "1995 to 2016": 8
+    },
+    "34": {
+        "To account for reporting delays": 7,
+        "To allow reporting authorities sufficient time to consolidate and enhance data quality": 7
+    },
+    "35": {
+        "2.80/1000": 9
+    },
+    "36": {
+        "Cox proportional-hazards models with time-dependent covariates integrated with a DLNM": 9,
+        "A new approach to demonstrate predictions of the model for realistic cumulative exposure trajectories": 2
+    },
+    "37": {
+        "Cox proportional hazard models": 9,
+        "Sibling fixed-effects analysis": 6,
+        "Multiple imputations by chained equations": 3
+    },
+    "38": {
+        "Grocery infrastructure": 9,
+        "Accessibility of quality foods": 9,
+        "Affordability of foods": 9
+    },
+    "39": {
+        "Counterfactual mediation methods": 7,
+        "Enables decomposition of total effect into direct and indirect components even in the presence of interactions and non-linearities, overcoming limitations of traditional approaches": 7
+    },
+    "40": {
+        "July to October": 9
+    },
+    "41": {
+        "Meteorological variables, greenness, culture-specific emissions (e.g. temples, Chinese restaurants), proximity to the nearest power plant, garbage incinerators, and industrial parks": 9,
+        "Levels of co-pollutants such as SO 2 and O 3": 1
+    },
+    "42": {
+        "Weight measurements were excluded if they were less than 50 lbs or greater than 500 lbs based on biological impossibility.": 9
+    },
+    "43": {
+        "Finland": 9
+    },
+    "44": {
+        "March and June 2024": 9
+    },
+    "45": {
+        "10 years": 9
+    },
+    "46": {
+        "Six or more fillings": 9
+    },
+    "47": {
+        "Leveraging genetic variants as instrumental variables (IVs)": 7,
+        "Genetic variants serve as instrumental variables (IVs) to reduce biases from confounding and reverse causation": 9
+    },
+    "48": {
+        "0.78": 9
+    },
+    "49": {
+        "SSQ score of \u22658": 9
+    },
+    "50": {
+        "Adjusting the logistic regression model by self-test use (yes/no)": 9,
+        "Adjusting for self-testing at the analysis stage to close a non-causal path opened by conditioning on GP consultation": 9,
+        "Estimating VE both adjusted and unadjusted for self-testing to understand its effects": 6
+    },
+    "51": {
+        "14-day horizon": 9
+    },
+    "52": {
+        "2013": 5
+    },
+    "53": {
+        "Participants were asked about their commuting transport options and categorized into four groups: car/motor vehicle only, walk (walk only or combined with other modes except cycling), cycle (cycle only or combined with any other modes), and public transport (public transport only or combined with car).": 9
+    },
+    "54": {
+        "33.7 per 100,000": 9
+    },
+    "55": {
+        "31.1%": 9
+    },
+    "56": {
+        "12.5%": 9
+    },
+    "57": {
+        "Synthetic control method (SCM)": 9,
+        "Flexible SCM approach developed by Bonander": 7
+    },
+    "58": {
+        "Surrogate variable analysis (SVA)": 9
+    },
+    "59": {
+        "The proportion of the population aged \u226525 years who had completed primary education or above": 7
+    },
+    "60": {
+        "The Omicron wave caused a shortage of testing and disrupted schools": 9
+    },
+    "61": {
+        "The proportion of variation in the offspring exposure explained by the paternal genotype is reduced by a factor of 0.25 relative to that explained by the offspring\u2019s own genotype": 7,
+        "The approach is less powerful than MR approaches using genotyped mother\u2013offspring pairs": 8,
+        "The proportion of variation in the offspring exposure explained by the paternal genotype is reduced by a factor of 0.25 relative to that explained by the offspring's own genotype": 2,
+        "The approach is less powerful than MR approaches using genotyped mother-offspring pairs": 1
+    },
+    "62": {
+        "27.6%": 8
+    },
+    "63": {
+        "Low-education Hispanic men experienced a life expectancy loss of 6.0 years": 8
+    },
+    "64": {
+        "Incident multiple myeloma (MM)": 7
+    },
+    "65": {
+        "Stepped-wedge cluster-randomized pilot trial": 9
+    },
+    "66": {
+        "Using the \"svyset\" command with city as the stratification variable and census sector as the primary sampling unit, followed by the \"svy\" command in Stata": 9
+    },
+    "67": {
+        "UShER method": 9
+    },
+    "68": {
+        "1.62": 9
+    },
+    "69": {
+        "200 ng/mL": 9
+    },
+    "70": {
+        "Occupational and outdoor activities": 9,
+        "Construction, agriculture, and transportation": 5
+    },
+    "71": {
+        "Age at menarche, in years": 9,
+        "Age at first menstrual period": 9
+    },
+    "72": {
+        "Data-driven distributed lag models (DLMs)": 9
+    },
+    "73": {
+        "Families earning one minimum wage or less": 9,
+        "Households led by women": 9,
+        "Households with six or more residents": 9,
+        "Indigenous populations": 9
+    },
+    "74": {
+        "Intention-to-treat effect": 9
+    },
+    "75": {
+        "Polycystic ovarian syndrome (PCOS)": 9
+    },
+    "76": {
+        "Whether the participant's home was located within the affected areas of tropical cyclones or floods": 9
+    },
+    "77": {
+        "<12.5, 12.5\u201324.9, 25\u201349.9, and \u226550 g/day": 9
+    },
+    "78": {
+        "The residential locations of the subjects were not made available to the users": 9
+    },
+    "79": {
+        "\u226415 years of age": 3
+    },
+    "80": {
+        "All-cause, cardiovascular, and respiratory ambulance dispatches": 9
+    },
+    "81": {
+        "IL-6": 9
+    },
+    "82": {
+        "1.57": 9
+    },
+    "83": {
+        "8.9%": 9
+    },
+    "84": {
+        "2010 to 2021": 6,
+        "To minimize bias from incomplete data before 2005": 6
+    }
+}

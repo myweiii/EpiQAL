@@ -1,0 +1,18 @@
+{
+    "Table 1.": [
+        "Total number of hospital admissions through the ED among MA beneficiaries (2010–19)",
+        ""
+    ],
+    "Figure 1.": [
+        "Overall cumulative lag temperature percentile versus ED admissions in people eligible for MA (blue) and people not eligible for MA (red). Data are ORs (95% CI; red line). The vertical dotted lines indicate the 1st, 10th, 90th, and 99th percentiles. The shaded regions represent 95% CIs. The vertical line shows the MHT (75th percentile).",
+        "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/ije/54/2/10.1093_ije_dyaf027/1/m_dyaf027f1.jpeg?Expires=1779289783&Signature=LpeAipc2Wkv6T3VfCCZuUxmgGPnZnzY2siJBZjN6tt5ZiLViF8tnsygmYsE2Hp~E3OGia4qmjQOu~bYFnRI7E7pvQRmEnO4MY6QKoYMANPMUW2HMR8xncUVAghG3B8IfrixHNVw1MVtte3U~U7kYOMw56F35KanFvbAZ29gXg0oSWDAQpz193BKfnLWqSlsMSs6jxdRbelyYwM8dekgrwhy75mpu4EnBHlu10GLuifKXALtxg4BLly8qFOFyZRhVfo70dw2VRj1rbuSotwLdtnqJDXxamXPZT3I4zXuf-yIkotIXefiyPuMoeg-PxqVbOdAl19YMFsMu9Gkz8RA6Vg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ],
+    "Figure 2.": [
+        "Risk of admissions through ED visits and annual increase in the associated medical costs (US$1000) attributable to extreme heat. The first panel shows the OR when using a case-crossover design with a conditional logistic regression. The second panel shows the ROR that was calculated as the OR of persons eligible for MA divided by the estimates of persons not eligible for MA. Error bars show 95% CIs for estimates of risk. The third panel shows the annual increase in medical costs. It was calculated as α × (OR – 1)/OR, where α is the baseline daily medical costs from 2010 to 2019 per 100 000 person-years. α was calculated among each study group divided by the total person-years for beneficiaries and multiplied by 100 000.",
+        "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/ije/54/2/10.1093_ije_dyaf027/1/m_dyaf027f2.jpeg?Expires=1779289783&Signature=KvynGRVaWr6Q294RSbVEuTNUMX~GblzvFnf0CU8S-19f8RarwjKnojHaucVDEpRxVBjGstrXRQpRZ7SvMCyIs-g7i9iPuZbJvGSQXzP~HiyjM7vtqF7hzWF0F9ZxP5aIDJDq1~U1ItCrvC3ZKGwtVOudhdjgEBCdmJwRoji9SJICv8-OMgvE9loXA5q0lmi6b1A-QuHJB3tVoGFZOuOy8fFhNq-58so296FMnvrG2ci-PyL7VuvRa~LCc~Qh5ouX9oWD0Hrgm5IwhpcyhLtBhCGckAqDFUNOcIy926Io4a9-59dPHtiynfJpsQ~w2swBnJM6~R3pJq3x74x69KMhaQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ],
+    "Figure 3.": [
+        "Risk of admissions through ED visits and annual increase in the associated medical costs (US$1000) attributable to extreme cold. The first panel shows the OR when using a case-crossover design with a conditional logistic regression. The second panel shows the ROR that was calculated as the OR of persons eligible for MA divided by the estimates of persons not eligible for MA. Error bars show 95% CIs for estimates of risk. The third panel shows the annual increase in medical costs. It was calculated as α × (OR – 1)/OR, where α is the baseline daily medical costs from 2010 to 2019 per 100 000 person-years. α was calculated among each study group divided by the total person-years for beneficiaries and multiplied by 100 000.",
+        "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/ije/54/2/10.1093_ije_dyaf027/1/m_dyaf027f3.jpeg?Expires=1779289783&Signature=m7UT4aqrkKnDOAzuCLze9FbTpkKnTLSewalOhipMMzmc~wC2ICe4cuUvoMchIjvzroxVOntVRtrObZ2yXdn8KAyWR7Ym3k4C0Ea2aADKkJZzr5vA7283c3IoROVqRLagYA-Mg3fAgjkrZJ1iKv-2VcBzgFdUW1t1WO5IdGjqvbyVZHtUMImlcfR1CbhJM2PRkBm9JCC8rFxDXVEOOb~9H5P4WnhPzaAs8oCLiHyM2K~3lKJNyVqpoxfujQYAV9iDkumisasrapHMmPqtM5O3il5RM1vAM9UvQysQ8FRfYdLnOnUdf7WjaBlaNFpSXBuoFnjtrMajOuSHM-dFAhymuw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "Figure 1.": [
+        "Design diagram for the Norwegian registries target trial. Time-zero was fixed at one year after the grade five national test (or ‘pretest’). A washout period is a period after which we expect previous interventions have become ineffective. For the main analysis, a complete washout period was considered, i.e. any medication before time-zero was reason for exclusion. For the sensitivity analysis with no-washout period, estimated previous medication was included in the model as a covariate. ‘Long-term’ cutoff refers to the minimum period after which an effect is considered to be a long-term effect, which we set at one year and nine months before the grade eight national test (or ‘posttest’). This results in a 3-month grace period. The ‘post-exam diagnosis window’ was chosen as to include a significant portion of children diagnosed with attention-deficit/hyperactivity disorder. In the diagram we can see that: Subject A is included in the study and assigned to the ‘initiated’ or ‘treated’ condition. Subject B is included in the study and assigned to the ‘control’ condition. Subject C is excluded in the main analysis. They had a dispensation within the medication-free washout period before the national test. Subject D is excluded. They are diagnosed with attention-deficit/hyperactivity disorder after time-zero.",
+        "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/ije/54/2/10.1093_ije_dyaf010/7/m_dyaf010f1.jpeg?Expires=1780429410&Signature=ace6D074NdFOwzphRffHb7dX7~yBBEtwyyw30zETDUVLDImMnMrZ9OyzMrRlMJdXeuUW3qVfzgks4j7011i9Q8AL-aA76Ud6Yfck~SaNe3afsTXzrOxeYoHyRhYGjDURsyL71ok80FsaOlcO5YOxVmsT0lM1czXLsC9YNg~gQOr7NaEgL-eeYDyM6pRV3hV6YFS5QatlzfRJ1-bZseb~YzAy7TBDOokyuZNu7LcTb709P08MWXQtUacejolXr6CCDJP-ExXlJT1SbCQehXPNQyC3P9QsV3-~Dlm0hLFsrPtAJYkc2kpGYDkZcP1lxSRs1zCf7CJFEK8~LDNubjhsEw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ],
+    "Figure 2.": [
+        "Flow diagram for selection of included children in the emulated target trial analytic samples. ADHD: attention-deficit/hyperactivity disorder.",
+        "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/ije/54/2/10.1093_ije_dyaf010/7/m_dyaf010f2.jpeg?Expires=1780429410&Signature=AyhPdU1w-rMP5pvCFMOA30Hd9fV-~VZprSZeNqmCBZeEJzCrHiXUrbXX7NroMvUUu1WpvuImmDRW01IuYcl60cCL4~2Y6fwvB8Qs~DphmgBx4tVYpc1aueKMDWMUShc1u5MChpUqsfALagZ8rtJ8MILPGXOPF~vv-28ICbGt51phLCCbYyEv9H-UDj0-ItmXM2Exz-nYw2WHrpPqGxmekCwMzNAxxtIexYMYxNlBzteuL0s8r0JY9dNPBOjvWSWVipv4C4hoSMxypHwFxA0FShGnx0tTpkmTpYIWv~K~y-n6vZxHXiaKQZisZqj2nYkwZRpUkrQXGilEkZlQSVi45Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ],
+    "Table 1.": [
+        "Frequencies of demographic, clinical, and academic factor variables in the washout analytic sample ( n = 8458) stratified by emulated treatment arm",
+        ""
+    ],
+    "Figure 3.": [
+        "Histogram for number of estimated days of attention-deficit/hyperactivity disorder pharmaceutical treatment by emulated treatment arm. Dashed line marks the respective mean of medicated days for each treatment arm. Total days in the period are 731 (=100%). Number of bins: 15. (a) Main analysis on the not-previously medicated sample ( n = 8458). (b) Sensitivity analysis on the analytic sample ( n = 11 835) with no-washout period. ‘Initiated’ refers to individuals that had dispensed to their name an attention-deficit/hyperactivity disorder medication from a pharmacy in a grace period between 365 and 455 days after their grade five national test. ‘Control’ refers to individuals that did not have dispensed any attention-deficit/hyperactivity disorder medication from a pharmacy during the same grace period.",
+        "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/ije/54/2/10.1093_ije_dyaf010/7/m_dyaf010f3.jpeg?Expires=1780429410&Signature=RmLTCSwqiiqG8yDPoymfSRdcR~kuQgd5tPsQvpcbDRw-N2Gnpe9dgBmjLMA-wROdQrlEqg1mD3rT5LHQAjBV96-QoVRWuIM2bQZefmV6mKkwtD7Xyfi8UQJr0H0vLkbJuU5f7MLXEID55JzwwzRGDidK6YcuM6h15NqQ7XTkcWIqwbGau3ioaoOvVbA-YjRcP~~pAylFSZaPyizr-XR8Bo5dXHDHMcRCCBAwcF49Ufc7gb4TkMXfVH-dxtdUpnTkzMIOOegHJ8n6mZ6SQTL2HY8nuQ3pZwoTWi9BTwL4XpCsnQMjqlgtREw5sKP53CPz~gcQgvDDmopuQBnxptb25w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ],
+    "Table 2.": [
+        "Summary statistics of demographic, clinical, and academic continuous variables in the washout analytic sample ( n = 8458) stratified by emulated treatment arm",
+        ""
+    ],
+    "Figure 4.": [
+        "Posterior distributions for the expected difference in grade eight national test standardized score between the different emulated arms for attention-deficit/hyperactivity disorder pharmaceutical treatment. Estimates come from a semiparametric outcome model using Bayesian additive regression trees (BART) with random intercepts and slopes for school at grades five and eight. Dotted lines denote 95% compatibility intervals. Domains: English (EN), numeracy or mathematics (MA), reading (RE). Estimands: sample average treatment effect (SATE), sample average treatment effect on the treated (SATT), and sample average treatment effect on the untreated (SATU). (a) Main analysis on the not-previously medicated sample ( n = 8458). (b) Sensitivity analysis on the no-washout sample ( n = 11 835).",
+        "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/ije/54/2/10.1093_ije_dyaf010/7/m_dyaf010f4.jpeg?Expires=1780429410&Signature=0Zfiz042h2OnWLnZ0DugVv~PsDdzD2cqJUDTTQ1m2Y3d~P3vKqi2PV-01pL1l9z4Yf4~NS2TPJdJkBgfyRsoZkpTef7Lu7XTEuPX-2zTVJZpJIBgfymhqT8NNj0DHyIZVbGJxxcX5b0DtL4NXh-ftVYh~qnnf2wzA8HOaXvDb1j2XsC1INLb3NOTutzmWGa5428ecuU-X19kEkwalzBqXw2kFw2WFYdoiE-X3qQXWzglUusJTv-6t6vqSZh7OxpXhTQOnWlosVtUoETu2XdtEWxUslLadGV8~DtnWdmIamp80mv6zEHSju3JW30QwzA41~xIXdidW5BKw8Ez8Aagxw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ],
+    "Table 3.": [
+        "Sample average treatment effect estimates of initiating attention-deficit/hyperactivity disorder pharmaceutical treatment on national test scores by domain across different model specifications",
+        ""
+    ],
+    "Figure 5.": [
+        "Sample average treatment effect estimates of initiating attention-deficit/hyperactivity disorder pharmaceutical treatment on national test scores by domain across different model specifications. 95% intervals correspond to compatibility intervals. Domains: English (EN), numeracy or mathematics (MA), reading (RE).",
+        "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/ije/54/2/10.1093_ije_dyaf010/7/m_dyaf010f5.jpeg?Expires=1780429410&Signature=JcVL3Mcyf1FNavJPSl-7NL3xL331aA2lzpm2iLvxZG3Rv2OGTZpchGPXkpBFK4SXOGZ40Up2EeYC~Lt77wycCNjnVMrk5XUI-o~DuEcW3ET8TXaNv3G-7YjaspZsVnzKI32sBvE-cPt0qvlF2oSOhU9ybvMY05ZZ9RbqqNFobLoFvCzP9fPP1i~xhsc4MdlENNXmkMQhjZ-a4SvXjc1eI9iR3B7wZ7wR~0R1NhXtVQFLgfrJSuVwMwZh9yFd-cbsby3v25nD6KefB4lVmh1ViD5ZUcC6poiR6ggubcx1YpQvf33HjSRBEkc~8mxzqpcGY78Zgp85oHvaNV7pol0CGA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+}

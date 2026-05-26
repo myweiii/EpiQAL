@@ -1,0 +1,18 @@
+{
+    "Figure 1.": [
+        "Directed acyclic graph demonstrating a typical example of collider bias in the anthropometry-colorectal cancer survival association in the two-sample Mendelian randomization setting. The genetic instrument is strongly associated with anthropometry, anthropometry is associated with risk of colorectal cancer incidence, and a measured or unmeasured confounder works as a common cause of both colorectal cancer incidence and survival (black solid lines). Conditioning on colorectal cancer incidence induces the association between the previously independent genetic instrument and the confounder (red dashed line). This would cause the violation of the second Mendelian randomization assumption, and hence threaten the validity of the survival estimate.",
+        "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/ije/54/6/10.1093_ije_dyaf193/1/m_dyaf193f1.jpeg?Expires=1779287845&Signature=ABtvV5svHYNskZvcaRvg4nT4PoX7c~tn9oSwDRcbSpi9YblLY5ouBLi1zieQCh7gR8NEdTOfKry6cbE1c1wUVGip6iduA7VjQaEZZRgtA5L7tLRjc5zPkC9lrHhL79NFS8nHHvWXYC9GftxgJUYIQkzdNLHYggGij1bLKCulNspYSz1a5wjFfIB~kEQrwkTNErDpKn5ezABUXrp7Kd1zZtM3YOPxrjEDbhsp0kc1-bBOpZ5rJ3XpIfPsgHayfKAwJifwCWZltJmiFNH1fo8xcvrIkHTwTVHPn3g7Vo3SIz7azZsTnoeidFoU2SpOzNIGLKV0oKYEs5qZldaM6BXUhA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ],
+    "Table 1.": [
+        "Results from the Mendelian Randomization study to evaluate associations between anthropometry-related traits and colorectal cancer survival overall and by anatomical site. a",
+        ""
+    ],
+    "Table 2.": [
+        "Results from the Mendelian randomization study to evaluate associations between anthropometry-related traits and colorectal cancer survival overall and by tumor stage. a",
+        ""
+    ],
+    "Figure 2.": [
+        "Mendelian randomization estimates for the association between genetically predicted anthropometric traits and colorectal cancer-specific mortality, overall and stratified by anatomical site and tumor stage. Hazard ratios and corresponding 95% confidence intervals are presented for each anthropometric trait using the main inverse variance weighted method and three approaches accounting for collider bias: Corrected Weighted Least Squares, Slope-hunter, and Simulation Extrapolation. Each dot represents the point estimate, and horizontal lines denote 95% confidence intervals.",
+        "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/ije/54/6/10.1093_ije_dyaf193/1/m_dyaf193f2.jpeg?Expires=1779287845&Signature=esoEHLbqPFzYm~sMYHvUdfsj7-7pE9oQwg~Zz87xg2Vi86oVGl0lkCtQ3p3MQz92cj0wgagRmbZ6CxfpFJAUFOuD6Qt-sJwyZmKw8VEUnxorhYUFwtrYK3HJLMvO-niYTQIGEPcICnnW1OlPB-ZX9B9TBN7ceqYuP8LWNeX0SXZMxN4nIp1eYl0ZlRe-uZADPcSvk35yoK-tIEcnjpFsLuU4jL-NbBBlMLs2lYWtocGvaFuZOg2zWFd8gxpqIP0XXxVqhQQqVqrq2qYA3L0qWt8IZCR5br8iCZZnKi~JyJCmwd1XHB0eGY2DLoWvtGCGSPLqq3ZSgzX1jB~pah3ljw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+}

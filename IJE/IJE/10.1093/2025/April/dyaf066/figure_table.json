@@ -1,0 +1,34 @@
+{
+    "Table 1.": [
+        "Breakdown of each forecasting target chosen across diseases and metrics",
+        ""
+    ],
+    "Figure 1.": [
+        "The weekly forecasts produced across pathogen and metric. There were no forecasts produced over the winter holiday period. Occupancy metrics began later in the season corresponding to higher-pressure periods.",
+        "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/ije/54/3/10.1093_ije_dyaf066/1/m_dyaf066f1.jpeg?Expires=1779286726&Signature=p5ONBU-gTroeIT5Kf-NgtJcr5~bI3vqmmMOtQKPzdI0MtM9~EUJUvT9xWHqf9x3ymVRjE5PAO5yHBPpcCNpvLeqfMapTaH1MRo1SDmaBKa7Ggjdd8moWfC0Z99KFzW2SwagXGlu1shbdXi~gBClwTRC6Og7E9c9j9GFZgQI38W8lB-xyK4XBfehtl0r0COrB~X9btJ0r-6-WAxcoTjlMgiI6OWfWr07lWOu7zzvuGBiZqu6whlz62miXz~DCy5dnhZzcZLv7QfYJGBkLZesms5rv30moCJHmhyGzqqS63bEpLLi9BjCmsTZmSG4ShwFw9hpufcQoDB5mH9JCmwBx1Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ],
+    "Figure 2.": [
+        "National-level (a) influenza admissions and (b) bed occupancy 14-day forecast overlaid. All metrics and forecasts are 7-day rolling averaged for clarity. (c) Models included in the ensemble each week.",
+        "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/ije/54/3/10.1093_ije_dyaf066/1/m_dyaf066f2.jpeg?Expires=1779286726&Signature=RW~PeM6~F0uVshrUeP28EoZBQVZsF~7tdeCA-Zsr6g0OLtzSVe8-ZhVRXK2XRcbC5MIlRghB0wwPRixOH9J5rT2T~XGm8kvnPiscbBvnztxHazadGqVPtslr0vpInvs49dc0rtyMlqul0PHhapWpgPjKE5zlW8DtnYY4LZIwtmeGg3js3aIRJpy8l8qSBgptojJTnQaMFAhVEwkS8Yvm4I2jVSFGwnBkpRmYT2aOVQfsFY0LGkG8Md5eBk3SoRAzOui8VmMx~FEYHb6dqtz1yor8yndV82EA4T-jKkJqR416SXknzz0xK38LFaP-xjmcKr-6nJQ0y32bhWRxuGDokQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ],
+    "Figure 3.": [
+        "National-level (a) COVID-19 admissions and (b) bed occupancy 14-day forecast overlaid. All metrics and forecasts are 7-day rolling averaged for clarity. (c) Models included in the ensemble each week.",
+        "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/ije/54/3/10.1093_ije_dyaf066/1/m_dyaf066f3.jpeg?Expires=1779286726&Signature=sYrRbCD9dr45TbKrKYP-AXLht3Lj4xT1x-W5f03UAMUNT7Jcy2Y4q5ID6GYm24R0yNhqQlBUxV9lLm1fbxZ3m2So3R4wL2d5RdY8-gxSkYLbCS6yBDM7oZRyUA7b~jhCPM44VPBUozOxv4MZ12Cx-qEUHYrOW~WuBhaiupkExfpZwpKMEEmE2xFhRc0vBLv-XF0B7lASBCVm7vYm-~9lBaAWRUKQm5l1vK7MlapoC4q2Q9lFMS5j0rTjxrTG274BUP2ivIUfzEAUWhNXyGmV64b2udMOXWJNUHtoAmN1hNVHxQ2oLRGb8qfiqCdGg54WHEzLa0h99~dPnQrwdp~7Yw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ],
+    "Figure 4.": [
+        "National-level (a) RSV admissions 14-day forecast overlaid. The metrics and forecasts are 7-day rolling averaged for clarity. (b) Models included each week. RSV forecasts were stopped early when the incidence was low so as to prioritize other forecasts.",
+        "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/ije/54/3/10.1093_ije_dyaf066/1/m_dyaf066f4.jpeg?Expires=1779286726&Signature=ki0TFeSReqxS94BLYXuLC4Ikv8~mcD8cvPVRAi9djRxf2-h5pYI9nk0oJ86Vjie-zkCG2y7Iluy7JIBOINUDwqnWWqhlXrmu8NM2oxeOfNvwtLNsRqoOuBfyxTyiLhQcE4ZE~BHbyb2MhTYTTaOlbuvnjJLPbgsfDjLDZfcJBDaT6wGUNhLyL-o73dIVSYXzfaSdhrpWjghFumI23gBcaKWz4QgFUITHmK4WPw1DdweQ0heOT2N72ciXl8JwteRx~0lrjA3QWOUCk4Dxodxc~AGDX6zpulUlYSrewJG9LvR3NR3VEbdARcbVraDEXIZY5CPcZaGkOfKsgdv~IG-~MQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ],
+    "Table 2.": [
+        "Forecast scoring measures across diseases, metrics, and geographies for the ensemble or primary model",
+        ""
+    ],
+    "Figure 5.": [
+        "(a) National trend, (b) weighted interval score, (c) 90% interval coverage, and (d) 50% interval coverage of each disease and metric nationally over time. The scores are shown for each prediction start date indicating how the performance varies relative to the epidemic-wave magnitude. LOESS smoothing is fitted through the different scores over time to express trends in performance, with central estimate and confidence intervals given.",
+        "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/ije/54/3/10.1093_ije_dyaf066/1/m_dyaf066f5.jpeg?Expires=1779286726&Signature=qvNip5ybc3lKsZ5pdV4PLSz7u1ZFwPJ2BajK-5YhU9JXnMOzq0~rSJXyBlbQpxIoQcIhRKL~RwfcQPFWeFWuRpPnMCtF1yQkzxYgxJbqTfJrdxTQyVTbejdNTl5v3nGGvYdn2JlgCL8eSYmM7h3tUXbhEsVjkgtT4YLmo~fPHvGZsVhSkq8FxaN5Qu9qIpCRYnUcBQGDm~PxmhGbxh-i9nz5aqje6emp~F8CdJOMpjeyOnkHFa2WlXHMuGfP~-Om39bIMZ0r2yeqZRBMr3iDklO-acy0FZ5i9F-FKsaMGIc9YrpH8vHrAq5kS8vVwHDiyNlU5qP3uZG2yNHcCKmsPg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ],
+    "Figure 6.": [
+        "Flow chart of data sources and model dissemination across government decision-makers in the 2023–4 season.",
+        "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/ije/54/3/10.1093_ije_dyaf066/1/m_dyaf066f6.jpeg?Expires=1779286726&Signature=KpH0uv1CLQysUNCBJCK4hMDu0ZAQCpknNksxJ-Kv0eYc7sU0kBZfHshUaU5iG1a8U2a2vsgk-eznDuY8lEL9UGY-c0oGKngZsxtQ2X78GV5c3ubjKuOKXDwTvEvkiyezQl-y93L1BkPChVLxGOucB3X-4JO1NTI5rZw7QvMIC2VUTwCiOxN5LkgZFMnhHn4BpVBHfdqrxyetekHqj68wF2eT98DJ3ajsep7XAPTx0utJTLJq-UJe39JWjH3mDx3ZKxutsgkRr5PTD9aPcYvaWQERfFGUUCEosyFq6JAlyPHtSBNhPySBRbFDpX-NP2RF5p3KrwhidMsvfksRHmmwSw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+}

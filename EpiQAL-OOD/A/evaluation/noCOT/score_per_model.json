@@ -1,0 +1,64 @@
+{
+    "Score": {
+        "f1": 0.8881493506493506,
+        "exact_match": 0.7865259740259739
+    },
+    "Model": {
+        "Qwen/Qwen3-8B": {
+            "f1": 0.943560606060606,
+            "exact_match": 0.8636363636363636
+        },
+        "Qwen/Qwen3-30B-A3B-Instruct-2507": {
+            "f1": 0.9515151515151515,
+            "exact_match": 0.875
+        },
+        "Qwen/Qwen3-32B": {
+            "f1": 0.9518939393939394,
+            "exact_match": 0.8522727272727273
+        },
+        "deepseek-reasoner": {
+            "f1": 0.9731060606060605,
+            "exact_match": 0.9204545454545454
+        },
+        "gpt-4.1-nano": {
+            "f1": 0.8651515151515152,
+            "exact_match": 0.7954545454545454
+        },
+        "gpt-4o-mini": {
+            "f1": 0.9325757575757575,
+            "exact_match": 0.7954545454545454
+        },
+        "gpt-5-mini": {
+            "f1": 0.9685606060606059,
+            "exact_match": 0.8977272727272727
+        },
+        "meta-llama/Llama-3.1-8B-Instruct": {
+            "f1": 0.9246212121212122,
+            "exact_match": 0.8068181818181818
+        },
+        "meta-llama/Llama-3.2-3B-Instruct": {
+            "f1": 0.5946969696969697,
+            "exact_match": 0.45454545454545453
+        },
+        "meta-llama/Llama-3.3-70B-Instruct": {
+            "f1": 0.8325757575757575,
+            "exact_match": 0.7045454545454546
+        },
+        "microsoft/Phi-4-mini-instruct": {
+            "f1": 0.8132575757575757,
+            "exact_match": 0.5909090909090909
+        },
+        "mistralai/Mistral-7B-Instruct-v0.3": {
+            "f1": 0.7590909090909093,
+            "exact_match": 0.6704545454545454
+        },
+        "mistralai/Mistral-Large-Instruct-2411": {
+            "f1": 0.9541666666666667,
+            "exact_match": 0.875
+        },
+        "zai-org/GLM-4.5-Air": {
+            "f1": 0.9693181818181817,
+            "exact_match": 0.9090909090909091
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "Title": "Malaria amidst the COVID-19 pandemic in Gabon: an application of autoregressive integrated moving average (ARIMA) models within an interrupted time series (ITS) framework to hospital-based data",
+    "URL": "https://academic.oup.com/ije/article/54/5/dyaf140/8249438",
+    "DOI": "10.1093/ije/dyaf140",
+    "PMID": "40922028",
+    "Published": "2025/08/18",
+    "Volume": "54",
+    "Issue": "5",
+    "Journal": "International Journal of Epidemiology",
+    "Keywords": [
+        "malaria",
+        "COVID-19",
+        "Gabon",
+        "resurgence",
+        "vector control",
+        "maternal malaria",
+        "time series",
+        "ITS",
+        "ARIMA"
+    ],
+    "Authors": {
+        "Roeder, Friederike": [
+            "Facultat de Medicina i Ciències de la Salut, Universitat de Barcelona (UB), Barcelona, Spain",
+            "ISGlobal, Barcelona, Spain"
+        ],
+        "Adegnika, Olouyomi Scherif": [
+            "Centre de Recherches Médicales de Lambaréné (CERMEL), Libreville, Gabon",
+            "Fondation pour la Recherche Scientifique (FORS), Cotonou, Benin"
+        ],
+        "Honkpehedji, Yabo Josiane": [
+            "Centre de Recherches Médicales de Lambaréné (CERMEL), Libreville, Gabon",
+            "Fondation pour la Recherche Scientifique (FORS), Cotonou, Benin",
+            "Leiden University Center for Infectious Diseases (LUCID), Leiden University Medical Center, Leiden, The Netherlands"
+        ],
+        "Huth, Manuel": [
+            "Institute for Computational Biology, Helmholtz Munich—German Research Center for Environmental Health, Munich, Germany",
+            "Faculty of Mathematics and Natural Sciences, University of Bonn, Bonn, Germany"
+        ],
+        "Lell, Bertrand": [
+            "Centre de Recherches Médicales de Lambaréné (CERMEL), Libreville, Gabon",
+            "Department of Medicine I, Division of Infectious Diseases and Tropical Medicine, Medical University of Vienna, Vienna, Austria"
+        ],
+        "Adegnika, Ayôla Akim": [
+            "Centre de Recherches Médicales de Lambaréné (CERMEL), Libreville, Gabon",
+            "Institute of Tropical Medicine, University of Tübingen, Tübingen, Germany",
+            "German Center of Infection Research (DZIF), Tübingen, Germany"
+        ],
+        "Lopes-Rafegas, Iris": [
+            "Facultat de Medicina i Ciències de la Salut, Universitat de Barcelona (UB), Barcelona, Spain",
+            "ISGlobal, Barcelona, Spain"
+        ],
+        "Sicuri, Elisa": [
+            "Facultat de Medicina i Ciències de la Salut, Universitat de Barcelona (UB), Barcelona, Spain",
+            "ISGlobal, Barcelona, Spain",
+            "LSE Health, London School of Economics and Political Science, London, United Kingdom",
+            "Centro de Investigação em Saúde de Manhiça (CISM), Maputo, Mozambique"
+        ]
+    },
+    "PDF_URL": "https://academic.oup.com/ije/article-pdf/54/5/dyaf140/64224269/dyaf140.pdf"
+}

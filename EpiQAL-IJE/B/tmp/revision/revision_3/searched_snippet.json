@@ -1,0 +1,871 @@
+{
+    "0": {
+        "Entity": "cluster-randomized design",
+        "Snippet": [
+            "The concept of cluster randomization On the other hand, the defining feature of a cluster randomized trial is that natural groups ('clusters') of individuals are allocated as a unit and, thus, the number of independent units allocated is smaller than the number of observations.",
+            "Not only do cluster randomized trials require a larger sample size than individually randomized trials, they also face many additional complexities.",
+            "In cluster randomized trials, the trial objective might be to determine the impact of the intervention on either the typical individual or the typical cluster.",
+            "A cluster randomized trial (CRT) is defined as a study design in which randomization occurs at the group level rather than the individual level, ...",
+            "This has been defined as a comparative study in which the units randomised are pre-existing (natural or self-selected) groups whose members have an identifiable ...",
+            "Cluster randomization (group randomization) assigns entire groups\u2014clinics, schools, villages, hospitals\u2014to treatment arms rather than individual participants."
+        ]
+    },
+    "1": {
+        "Entity": "HMG-CoA reductase",
+        "Snippet": [
+            "HMG-CoA reductase inhibitors (statins) are lipid-lowering medications used in the primary and secondary prevention of coronary heart disease.",
+            "HMG-CoA reductase is the rate-limiting enzyme of the mevalonate pathway, the metabolic pathway that produces cholesterol and other isoprenoids.",
+            "Hydroxymethylglutaryl CoA reductase is defined as the rate-limiting enzyme in cholesterol biosynthesis that is inhibited by statins, leading to a reduction ...",
+            "The reaction catalyzed by human HMG-CoA reductase is a target for anti-hypercholesterolemic drugs (statins), which are intended to lower cholesterol levels in ...",
+            "This enzyme catalyzes one of the most important steps in cholesterol biosynthesis and is regarded as one of the most important drug targets in the treatment of ...",
+            "A substance that blocks an enzyme needed by the body to make cholesterol and lowers the amount of cholesterol in the blood."
+        ]
+    },
+    "2": {
+        "Entity": "serous cavity lining cells",
+        "Snippet": [
+            "The serous cavities are fluid-filled spaces that surround the lung, heart, and abdomen. One of their main functions is to provide protection ...",
+            "For decades, it has been known that the serous cavities, which include the peritoneal, pleural and pericardial cavities, harbour large numbers of macrophages.",
+            "These cavities generate effector cells during infection, maintain long-lived immune populations, and coordinate closely with surrounding adipose tissue and ...",
+            "The serous membrane (or serosa) is a smooth epithelial membrane of mesothelium lining the contents and inner walls of body cavities",
+            "The serous cavities contain phenotypically and functionally distinct macrophage subsets. \u00b7 The developmental origin of these subsets is distinct and influenced ...",
+            "Serous membrane lining the wall of a serous cavity is designated parietal while that covering viscera is called visceral. Connecting serous membrane runs ..."
+        ]
+    },
+    "3": {
+        "Entity": "combination antiretroviral drug regimens",
+        "Snippet": [
+            "The use of two-drug regimens is one way to reduce lifetime exposure to antiretroviral drugs while maintaining the benefits of viral suppression. Multiple large, ...",
+            "View the clinical guidelines for the initial selection and prescription of antiretroviral regimens in adults and adolescents with HIV.",
+            "Treatment that uses a combination of three or more drugs to treat HIV infection. Combination antiretroviral therapy stops the virus from making copies of ...",
+            "More than 30 antiretroviral (ARV) drugs in nine mechanistic classes are U.S. Food and Drug Administration (FDA)\u2013approved for treatment of HIV infection. These ...",
+            "This Topic Review will summarize the mechanism of action of antiretroviral medications, indications for antiretroviral therapy, and recommended antiretroviral ...",
+            "Definitions. Combination antiretroviral therapy was defined as an antiretroviral regimen containing at least 3 drugs\u2014that is, 2 nucleoside ..."
+        ]
+    },
+    "4": {
+        "Entity": "temporal data",
+        "Snippet": [
+            "Temporal data is often analyzed as multiple data points per observation over time and can be measured by just as many ways as the spatial data, if not more. One ...",
+            "Spatial and temporal data analysis where the spectrum of analytical methods ranges from visualisation and exploratory analysis, to modelling.",
+            "Examining Rates by Time. Temporal disease rates are usually illustrated by using a line graph (Guidelines for Graphical Data Presentation). The ...",
+            "Spatial epidemiology is the description and analysis of geographical data, specif- ically health data in the form of counts of mortality or morbidity and ...",
+            "Epidemiology is the study of the distribution and determinants of health-related events, along with the application of this study to disease control [1].",
+            "Epidemiology is the study of patterns of disease in the population. Understanding disease patterns can not only help identify risk factors for disease but ..."
+        ]
+    },
+    "6": {
+        "Entity": "non-inferiority",
+        "Snippet": [
+            "As clinicians, we are frequently faced with papers stating that something is 'non-inferior' to something else. By definition, a non-inferiority trial aims ...",
+            "Non-inferiority might sound like it means one drug is \u201cas good as\u201d another. But statistically, when a drug is non-inferior to another treatment, it actually ...",
+            "In a noninferiority trial, one is interested in showing that the new treatment is not inferior to the standard treatment. These trials arise when the new ...",
+            "The goal of the study is to show that the effect of the test drug (T) is not inferior to the effect of the active control (C) by a specified amount, called the ...",
+            "A wider non-inferiority margin gives a less restrictive definition of non-inferiority and hence typically means smaller sample sizes; we ...",
+            "A study that tests whether a new treatment is not worse than an active treatment it is being compared to. Non-inferiority trials are sometimes done when a ..."
+        ]
+    },
+    "7": {
+        "Entity": "chronic cholestatic autoimmune liver disorder with immune-mediated destruction of small intrahepatic bile ducts and presence of antimitochondrial antibodies",
+        "Snippet": [
+            "Primary biliary cholangitis (PBC) is an autoimmune, progressive cholestatic liver disorder that exhibits 3 main characteristics, including chronic cholestasis, circulating antimitochondrial antibodies (AMAs), and typical liver biopsy findings of nonsuppurative destructive intrahepatic bile duct destruction.",
+            "Autoimmune cholestatic liver diseases are rare hepato-biliary disorders characterized by a progressive, inflammatory destruction of bile ducts.",
+            "Primary biliary cholangitis (PBC), formerly termed primary biliary cirrhosis, is an autoimmune disorder that gradually destroys intrahepatic bile ducts.",
+            "Primary biliary cholangitis (PBC) is an uncommon, long-term disease of the liver in which the body's immune system mistakenly attacks bile ...",
+            "Cholestasis is a chronic liver disease characterised by bile flow obstruction in the liver, bile acid (BA) accumulation, and increased BA concentration in ...",
+            "Autoimmune hepatitis can have cholestatic features that are outside the codified diagnostic criteria. These features have uncertain effects on the clinical ..."
+        ]
+    },
+    "8": {
+        "Entity": "premature separation of the placenta from the uterine wall before delivery",
+        "Snippet": [
+            "Placental abruption (PA), a severe obstetric complication, defined as the partial or complete detachment of a normally situated placenta from the uterine wall before birth, after 20 weeks of gestation, is associated with significant maternal and neonatal morbidity and mortality.",
+            "Placental abruption is the early separation of a placenta from the lining of the uterus before the completion of the second stage of labor.",
+            "Placental abruption occurs when the placenta partly or completely separates from the inner wall of the uterus before delivery.",
+            "Placental abruption has been defined as the complete or partial separation of a normally implanted placenta from its uterine site before the delivery of the ...",
+            "Placental abruption refers to the premature separation of a normally implanted placenta after the 20th week of gestation, but before birth. This ...",
+            "\u2713\u2713Placental Abruption (Abruptio Placentae): \u2713Definition: Placental abruption is the premature separation of a normally implanted placenta from ..."
+        ]
+    },
+    "9": {
+        "Entity": "statin use",
+        "Snippet": [
+            "Statin medications are used in the management of hypercholesteremia. Statins are inhibitors of hydroxymethylglutaryl-CoA reductase enzyme and ...",
+            "HMG-CoA reductase inhibitors, commonly known as statins, are the primary treatment choice for cardiovascular diseases, which stand as the leading global ...",
+            "The USPSTF recommends that clinicians prescribe a statin for the primary prevention of CVD for adults aged 40 to 75 years who have 1 or more CVD risk factors.",
+            "One in 4 Americans >40 years of age takes a statin to reduce the risk of myocardial infarction, ischemic stroke, and other complications of atherosclerotic ...",
+            "To achieve the full benefits of statin use, it is essential to equitably improve statin use in both women and men of all races and ethnicities, ...",
+            "Background Statin use is proven to be effective in lowering low-density lipoprotein cholesterol (LDL-C) levels and reducing risk of recurrent myocardial ..."
+        ]
+    },
+    "10": {
+        "Entity": "essential polyunsaturated fatty acids",
+        "Snippet": [
+            "Polyunsaturated fatty acids (PUFAs) are vital dietary elements that play a significant role in human nutrition. They are highly regarded for their positive ...",
+            "Polyunsaturated fatty acids (PUFAs) are fatty acids that contain more than one double bond in their structure. These are widely known as essential fatty acids.",
+            "Fatty acids (FA) are organic compounds composed by lineal monocarboxylic carbon chains that usually have an even number of carbons and might ...",
+            "Abstract. Fatty acids (FA) are organic compounds composed by lineal monocarboxylic carbon chains that usually have an even number of carbons and.",
+            "In biochemistry and nutrition, a polyunsaturated fat is a fat that contains a polyunsaturated fatty acid (abbreviated PUFA), which is a subclass of fatty ...",
+            "Omega-6 and omega-3 fatty acids are polyunsaturated fatty acids (PUFA), meaning they contain more than one cis double bond (1). In all omega-6 (\u03c96 or n-6) fatty ..."
+        ]
+    },
+    "11": {
+        "Entity": "sulfadoxine-pyrimethamine",
+        "Snippet": [
+            "Sulfadoxine-pyrimethamine has been linked with rare cases of idiosyncratic liver injury which resembles the hepatotoxicity associated with sulfonamides.",
+            "Sulfadoxine-pyrimethamine is defined as a combination medication that is effective against certain infections, particularly in specific regions like West Africa ...",
+            "Sulfadoxine-pyrimethamine (SP) is the standard of care for Plasmodium falciparum malaria chemoprevention among pregnant women, infants and children.",
+            "Sulfadoxine/pyrimethamine, sold under the brand name Fansidar, is a combination medication used to treat malaria. It contains sulfadoxine (a sulfonamide) ...",
+            "In Tanzania, 28 days after treatment with sulfadoxine/pyrimethamine, the rate of treatment failure was 16% in pregnant women and 80% in children ...",
+            "Where they can be estimated, frequencies are defined as very common (\u2265 1/10), common (1/100\u20131/10), uncommon. (1/1000\u20131/100), rare (1/10 000\u20131/ ..."
+        ]
+    },
+    "12": {
+        "Entity": "expected deaths",
+        "Snippet": [
+            "Epidemiologists often compare the observed number of deaths in a cohort with the expected number of deaths, obtained by multiplying person-time accrued in the ...",
+            "A mortality rate is a measure of the frequency of occurrence of death in a defined population during a specified interval.",
+            "Death is considered expected when patient life expectancy is less than 6 months. This includes, but is not limited to, patients with chronic, terminal, or ...",
+            "The expected mortality is the average expected number of deaths based upon diagnosed conditions, age, gender, etc. within the same timeframe.",
+            "Standardized Mortality Ratio (SMR) is a ratio between the observed number of deaths in an study population and the number of deaths would be expected.",
+            "Standard Mortality Rate = No. of deaths in a cohort of exposed persons / The expected no. of deaths for persons fitting the cohort membership characteristics as ..."
+        ]
+    },
+    "13": {
+        "Entity": "instrumental variable",
+        "Snippet": [
+            "Instrumental variables (IV) is a central strategy for identifying causal effects in absence of randomized experiments. Clinicians and epidemiologists may find the intuition of IV easy to grasp by comparison to randomized experiments.",
+            "Instrumental-variable (IV) methods were invented over 70 years ago, but remain uncommon in epidemiology. Over the past decade or so, non-parametric versions ...",
+            "Instrumental-variable (IV) methods were invented over 70 years ago, but remain uncommon in epidemiology. Over the past decade or so, non-parametric versions ...",
+            "Patient characteristics at different VHA facilities are pretty similar. Used facility preference for high dose versus standard dose as an instrumental variable.",
+            "ABSTRACT. Purpose Instrumental variable (IV) methods are used increasingly in pharmacoepidemiology to address unmeasured confounding. In this.",
+            "An IV is a variable (characteristic) that is robustly associated with the exposure of interest and can be used to explore the unconfounded causal effect of ..."
+        ]
+    },
+    "14": {
+        "Entity": "polynomial regression",
+        "Snippet": [
+            "Polynomial regression is a form of regression analysis in which the relationship between the independent variable x and the dependent variable y is modeled as ...",
+            "In the case of a trend analysis, a second-order polynomial regression model (quadratic) models a broad curve across time, a third-order polynomial regression ...",
+            "Polynomial Regression is a type of Regression Analysis that models the relationship between the input variable (independent variable) and ...",
+            "A model in which there are only categorical predictors is, for historical reasons, often called an analysis of variance model. Estimating such a model presents ...",
+            "Polynomial regression is a form of regression analysis in which higher-degree functions of the independent variable, such as squares and cubes, are used to fit ...",
+            "In polynomial regression, we describe the relationship between the independent variable x and the dependent variable y using an nth-degree ..."
+        ]
+    },
+    "15": {
+        "Entity": "potential outcomes framework",
+        "Snippet": [
+            "The potential outcomes framework provides a way to quantify causal effects. For a hypothetical intervention, it defines the causal effect for an individual as the difference between the outcomes that would be observed for that individual with versus without the exposure or intervention under consideration.",
+            "Potential outcomes can be thought as fixed for a given unit potential outcomes as characteristics of units potential outcomes do have a distribution across ...",
+            "This chapter introduces the concept of potential outcomes to define causal effects. The potential outcomes framework has redefined and clarified our ...",
+            "Potential Outcomes Framework is a rigorous approach to causal inference that defines causal effects as contrasts between counterfactual ...",
+            "Average treatment effect (ATE): \u03c4 , E[\u2206i ] = E[Yi (1) \u2212 Yi (0)]. The ATE is the difference of the average outcome had everyone gotten treated.",
+            "A potential outcome is the outcome for an individual under a potential treatment. For this individual, the causal effect of the treatment is the difference ..."
+        ]
+    },
+    "16": {
+        "Entity": "pulmonary tuberculosis",
+        "Snippet": [
+            "Although reactivation tuberculosis may involve any lung segment, the characteristic distribution usually suggests the disease. In 95% of cases of localized ...",
+            "Tuberculosis (TB) is an infectious disease caused by bacteria that most often affects the lungs. It spreads through the air when people with TB ...",
+            "This activity introduces the epidemiology, pathophysiology, diagnostic approaches, treatments, and prevention of latent and active TB.",
+            "TB is a disease in which TB bacteria multiply and attack a part of the body, usually the lungs.",
+            "Pulmonary tuberculosis (TB) is a contagious bacterial infection that involves the lungs. It may spread to other organs.",
+            "This study aimed to analyze the epidemiology of pulmonary tuberculosis (PTB) and gained insight into the future TB control plan in China."
+        ]
+    },
+    "17": {
+        "Entity": "TB",
+        "Snippet": [
+            "Tuberculosis (TB) is an infectious disease caused by bacteria that most often affects the lungs. It spreads through the air when people with TB ...",
+            "This activity introduces the epidemiology, pathophysiology, diagnostic approaches, treatments, and prevention of latent and active TB.",
+            "Tuberculosis is a disease caused by germs that are spread from person to person through the air.",
+            "Tuberculosis, also called TB, is a serious illness that mainly affects the lungs. The germs that cause tuberculosis are a type of bacteria.",
+            "TB is by all means a poverty-related disease, mainly affecting the most vulnerable populations in the poorest countries. The presence of multidrug-resistant ...",
+            "or in other defined characteristics. Distribution. The complete summary of the frequency and pattern of the values or categories of a measurement. In ..."
+        ]
+    },
+    "18": {
+        "Entity": "observational framework",
+        "Snippet": [
+            "In this paper, we propose a framework for thinking through the design and conduct of descriptive epidemiologic studies. A well-defined descriptive question aims ...",
+            "Observational studies are those in which there is no intervention by the investigators. Data are obtained by simply observing and recording events without any ...",
+            "A descriptive study of the relationship between diseases and other factors at one point in time (usually) in a defined population. Cross ...",
+            "An observational study is when researchers are looking at the effect of some type of intervention, risk, a diagnostic test or treatment, without trying to ...",
+            "Epidemiological Frameworks Definition: Structured approaches for studying patterns, causes, and effects of health and diseases in populations.",
+            "Observational studies can track disease spread by analysing demographics, travel history and contacts of infected persons. Transmission patterns ..."
+        ]
+    },
+    "19": {
+        "Entity": "pandemic respiratory illness caused by a coronavirus with a median incubation period of 3\u20134 days, airborne transmission, and a surveillance case definition based on clinical and epidemiological criteria",
+        "Snippet": [
+            "Being highly transmissible, this novel coronavirus disease, also known as coronavirus disease 2019 (COVID-19), has spread fast all over the world. It has ...",
+            "A surveillance case definition is a set of uniform criteria used to define a disease for public health surveillance.",
+            "This section briefly describes possible modes of transmission for SARS-CoV-2, including contact, droplet, airborne, fomite, fecal-oral, ...",
+            "COVID\u201119 transmission occurs when infectious particles are breathed in or come into contact with the eyes, nose, or mouth. The risk is highest when people are ...",
+            "Furthermore, the median incubation period for SARS has been estimated as 4.0 days in 2009 [82], which is considerably lower than what we observed for COVID-19.",
+            "Incubation periods have varied by SARS-CoV-2 variant. Omicron median is 3-4 days following exposure. SARS-CoV-2 continues to evolve due to ..."
+        ]
+    },
+    "20": {
+        "Entity": "multisystem hypertensive disorder of pregnancy",
+        "Snippet": [
+            "19 Preeclampsia is a multisystem disorder defined by hypertension after 20 weeks with proteinuria or organ dysfunction (e.g., thrombocytopenia, hepatic or renal impairment, pulmonary edema, or neurological symptoms), affects ~3%\u20135% of pregnancies, and is a major cause of maternal and perinatal morbidity and mortality; ...",
+            "Hypertensive disease in pregnancy encompasses a spectrum of conditions, including gestational hypertension, preeclampsia (which can be further qualified as ...",
+            "Chronic hypertension is defined by the presence of hypertension before pregnancy or of an elevated blood pressure before 20 weeks of gestation ...",
+            "Hypertensive disease of pregnancy, also known as maternal hypertensive disorder, is a group of high blood pressure disorders that include preeclampsia.",
+            "* HDPs are defined as chronic hypertension, pregnancy-associated hypertension (i.e., gestational hypertension, preeclampsia, eclampsia, and ...",
+            "1: Hypertensive disorders are the most common medical problems encountered by women during pregnancy and remain a major cause of maternal and fetal ..."
+        ]
+    },
+    "21": {
+        "Entity": "repeated observation of the same individuals over extended periods",
+        "Snippet": [
+            "A longitudinal study (or longitudinal survey, or panel study) is a research design that involves repeated observations of the same variables (e.g., people) over long periods of time (i.e., uses longitudinal data).",
+            "Longitudinal studies employ continuous or repeated measures to follow particular individuals over prolonged periods of time\u2014often years or decades. They are ...",
+            "Cohort studies are a type of research design. They are also called longitudinal studies because they follow groups of people over time.",
+            "A cohort study is a type of epidemiological study in which a group of people with a common characteristic is followed over time.",
+            "A longitudinal study is an observational research design in which data are collected from the same individuals (or groups) repeatedly over a defined period ...",
+            "Cohort studies are useful for estimating disease risk, incidence rates, and/or relative risks. Non-cases may be enrolled from a well-defined population."
+        ]
+    },
+    "23": {
+        "Entity": "surrogate exposure",
+        "Snippet": [
+            "A surrogate endpoint is expected to predict clinical benefit (or harm or lack of benefit or harm) based on epidemiologic, therapeutic, pathophysiologic, or ...",
+            "In this article, we have reviewed definitions relevant to surrogate outcomes and have specifically considered how these definitions are related to the surrogate ...",
+            "We categorized findings into four themes about the use of surrogate end points in trials: definitions, acceptability, limitations and challenges to use, and ...",
+            "A surrogate endpoint is a clinical trial endpoint used as a substitute for a direct measure of how a patient feels, functions, or survives.",
+            "For brain and whole-body dose three exposure categories were defined: brain or whole-body dose <50th percentile (low), 50th\u201390th percentile (medium) and >90th ...",
+            "The Exposure Surrogate Reference Table provides pesticide exposure information for risk assessment based on exposure scenarios, exposure routes and applicable ..."
+        ]
+    },
+    "24": {
+        "Entity": "instrumental variables",
+        "Snippet": [
+            "Instrumental variables (IV) is a central strategy for identifying causal effects in absence of randomized experiments. Clinicians and epidemiologists may find the intuition of IV easy to grasp by comparison to randomized experiments.",
+            "Instrumental-variable (IV) methods were invented over 70 years ago, but remain uncommon in epidemiology. Over the past decade or so, non-parametric versions of ...",
+            "Instrumental-variable (IV) methods were invented over 70 years ago, but remain uncommon in epidemiology. Over the past decade or so, non-parametric versions ...",
+            "Patient characteristics at different VHA facilities are pretty similar. Used facility preference for high dose versus standard dose as an instrumental variable.",
+            "ABSTRACT. Purpose Instrumental variable (IV) methods are used increasingly in pharmacoepidemiology to address unmeasured confounding. In this.",
+            "An IV is a variable (characteristic) that is robustly associated with the exposure of interest and can be used to explore the unconfounded causal effect of that ..."
+        ]
+    },
+    "25": {
+        "Entity": "lifetime alcohol intake trajectories",
+        "Snippet": [
+            "This study reports two distinct lifetime trajectories among regular drinkers, one characterized by heavy drinking early in adulthood followed by ...",
+            "Five different trajectories of total alcohol consumption were identified among the two subcohorts: non-drinker stable (12.5%\u201323.6%), low stable ...",
+            "This article addresses the need to develop lifetime drinking trajectories of alcohol use from adolescence to old age using a 3-step approach ...",
+            "The greater the alcohol consumption accumulated throughout life, the greater the risk of BC, especially in postmenopausal women.",
+            "This study measured the association between alcohol consumption trajectories and mortality risk in CVD patients.",
+            "This study examined changes in drinking behavior after age 50 and baseline personal characteristics and subsequent life events associated with different alcohol ..."
+        ]
+    },
+    "26": {
+        "Entity": "Mendelian randomization",
+        "Snippet": [
+            "Definition. Mendelian randomization. Uses genetic variants as a proxy for an exposure and tests the causal effect of the variants (IV) on an outcome. Based on Mendel's principle of independent assortment, MR mimics randomized trials and minimizes some of the biases inherent in traditional epidemiologic studies.",
+            "Mendelian randomization (MR) is a method of studying the causal effects of modifiable exposures (ie, potential risk factors) on health, social, and economic ...",
+            "Mendelian randomization analysis is defined as an epidemiological method that utilizes genetic variants as instruments to infer causal relationships between ...",
+            "Mendelian randomisation is an analytical method that uses genetic variants as instrumental variables for modifiable risk factors that affect ...",
+            "Mendelian randomization (commonly abbreviated to MR) is a method using measured variation in genes to examine the causal effect of an exposure on an outcome.",
+            "Mendelian randomization is a method of using measured variation in genes of known function to examine the causal effect of a modifiable exposure on disease."
+        ]
+    },
+    "27": {
+        "Entity": "repeated observation of the same individuals over extended periods",
+        "Snippet": [
+            "Longitudinal Study. A longitudinal study is an observational research design in which data are collected from the same individuals (or groups) repeatedly over a defined period of time.",
+            "Longitudinal studies employ continuous or repeated measures to follow particular individuals over prolonged periods of time\u2014often years or decades. They are ...",
+            "A longitudinal study is a research design that involves repeated observations of the same variables (e.g., people) over long periods of time (i.e., ...",
+            "Cohort studies are a type of research design. They are also called longitudinal studies because they follow groups of people over time.",
+            "Cohort studies are useful for estimating disease risk, incidence rates, and/or relative risks. Non-cases may be enrolled from a well-defined population.",
+            "A longitudinal study[1] is a research method that uses continuous or repeated tests to study the same individuals over an extended period."
+        ]
+    },
+    "28": {
+        "Entity": "laboratory-based genome sequencing",
+        "Snippet": [
+            "This review highlights the range of epidemiological questions that can be addressed from the combination of genome sequence and traditional 'line lists'.",
+            "Whole-genome sequencing (WGS) is a laboratory procedure that determines the order of all, or most, of the nucleotides in the genome of these disease-causing ...",
+            "Genomics has revolutionized epidemiology and disease surveillance by providing powerful tools for identifying, tracking, and analyzing pathogens ...",
+            "Threshold definition is usually based on the genetic variability observed within previous, well characterised outbreaks, an approach rooted ...",
+            "Molecular epidemiology describes a process of identifying the genetic basis of disease, including variants within hosts and pathogens that influence infection.",
+            "Genomic epidemiology is the process of monitoring the genetic makeup of pathogens (germs) that cause disease."
+        ]
+    },
+    "29": {
+        "Entity": "disease burden",
+        "Snippet": [
+            "The term disease burden implies the volume and distribution of disease within a population as well as its consequences in terms of morbidity and mortality.",
+            "Disease burden is the impact of a health problem as measured by financial cost, mortality, morbidity, or other indicators.",
+            "Descriptive epidemiology aims to organize and summarize data regarding the persons affected (e.g., the characteristics of those who became ill), time (e.g., ...",
+            "A crude incidence, prevalence, or mortality (death rate) is one that relates to results for a population taken as a whole, without subdivision or refinement.",
+            "Morbidity refers to the state of being symptomatic or unhealthy due to a disease or condition and is typically expressed through prevalence or ...",
+            "The sum of mortality and morbidity is called the \u201cburden of disease\u201d by researchers, and can be measured by a metric called \u201cDisability Adjusted Life Years\u201d ( ..."
+        ]
+    },
+    "31": {
+        "Entity": "case-control study",
+        "Snippet": [
+            "Listen to pronunciation. (kays-kun-TROLE STUH-dee) A study that compares two groups of people: those with the disease or condition under study (cases) and a very similar group of people who do not have the disease or condition (controls).",
+            "A case-control study is a type of observational study commonly used to look at factors associated with diseases or outcomes.",
+            "A study that compares patients who have a disease or outcome of interest (cases) with patients who do not have the disease or outcome (controls), and looks ...",
+            "In a case-control study patients who have developed a disease are identified and their past exposure to suspected aetiological factors is compared with that of ...",
+            "A case-control study is an experimental design that compares a group of participants possessing a condition of interest to a very similar group lacking that ...",
+            "Case-control study designs are used to estimate the risk for a disease from a specific risk factor. The estimate is the odds ratio, which is a good estimate of ..."
+        ]
+    },
+    "32": {
+        "Entity": "evidence-based global treaty",
+        "Snippet": [
+            "We assessed what impact can be expected from global health treaties on the basis of 90 quantitative evaluations of existing treaties on trade, finance, human ...",
+            "The Pandemic Agreement is a legally-binding deal in which countries agree to a shared international response to shared pandemic threats.",
+            "A new global public health security convention designed to optimise prevention, preparedness, and response to pandemic infectious diseases.",
+            "An international agreement on pandemics prevention and preparedness would enable countries around the world to be more resilient to future pandemics such as ...",
+            "Disease surveillance was initiated to characterize the cases by standard measures of time, place, and person and to identify population groups at risk. Based on ...",
+            "Global legal epidemiology is a transdisciplinary practice with interventions, causal mechanisms and outcomes that span multiple jurisdictional levels. This ..."
+        ]
+    },
+    "33": {
+        "Entity": "observational study",
+        "Snippet": [
+            "In an observational epidemiologic study, an investigator observes what is occurring in a study population without intervening. Observational studies may be descriptive or analytic. Examples of analytic studies include case-control, cohort, cross-sectional, and ecologic studies, as well as hybrid designs.",
+            "It is an observational study in which there is no prospective or retrospective follow-up. Once the subjects are selected, the investigators collect data and ...",
+            "Observational studies are ones where researchers observe the effect of a risk factor, diagnostic test, treatment or other intervention without trying to change ...",
+            "Observational epidemiology provides information about disease patterns or drug use problems by various characteristics of person, place, and time. This ...",
+            "Observational studies. In an observational study, the epidemiologist simply observes the exposure and disease status of each study participant. John Snow's ...",
+            "An observational study is when researchers are looking at the effect of some type of intervention, risk, a diagnostic test or treatment, without trying to ..."
+        ]
+    },
+    "34": {
+        "Entity": "epidemiological approach",
+        "Snippet": [
+            "Epidemiology utilizes an organized approach to problem solving by: (1) confirming the existence of an epidemic and verifying the diagnosis; (2) developing a case definition and collating data on cases; (3) analyzing data by time, place, and person; (4) developing a hypothesis; (5) conducting further studies if ...",
+            "Epidemiology is the study of the distribution and determinants of health-related states or events in specified populations.",
+            "Epidemiology is the study of how often diseases occur in different groups of people and why. Epidemiological information is used to plan and evaluate ...",
+            "Section 5: The Epidemiologic Approach ; Counts cases or health events, and describes them in terms of time, place, and person; ; Divides the number of cases by an ...",
+            "Epidemiology is \u201cthe study of disease in populations and of factors that determine its occurrence over time.\u201d The purpose is to describe and identify ...",
+            "Epidemiology is the study of the distribution and determinants of health-related states, conditions, or events in specified populations"
+        ]
+    },
+    "35": {
+        "Entity": "idiopathic congenital foot deformity presenting with fixed equinus, varus, and adduction of the forefoot and hindfoot at birth",
+        "Snippet": [
+            "Congenital idiopathic clubfoot is a significant musculoskeletal deformity affecting children globally. It is characterized by hindfoot varus, midfoot cavus, forefoot adduction, and ankle equinus.",
+            "Clubfoot is a congenital deformity of the foot, otherwise known as congenital talipes equinovarus. It is one of the most common congenital malformations.",
+            "Clubfoot, medically termed congenital talipes equinovarus (CTEV), is a prevalent musculoskeletal birth defect, affecting approximately 0.3% of all live ...",
+            "Equinovarus foot deformity, better known as clubfoot, is a relatively common birth defect. It can occur on average in 1 in 1000 live births.",
+            "Clubfoot, also known as Congenital Talipes Equinovarus, is a complex, congenital deformity of the foot, that left untreated can limit a person's mobility.",
+            "Rigid hindfoot equinus and varus and forefoot varus result in a stiff and non-plantigrade foot, which forces the individual to walk on the dorsum of the ..."
+        ]
+    },
+    "36": {
+        "Entity": "observational designs that repeatedly measure the same individuals over extended periods",
+        "Snippet": [
+            "Longitudinal Study. A longitudinal study is an observational research design in which data are collected from the same individuals (or groups) repeatedly over a defined period of time.",
+            "Longitudinal studies employ continuous or repeated measures to follow particular individuals over prolonged periods of time\u2014often years or decades. They are ...",
+            "A longitudinal study is a research design that involves repeated observations of the same variables (e.g., people) over long periods of time (i.e., ...",
+            "In a longitudinal study subjects are followed over time with continuous or repeated monitoring of risk factors or health outcomes, or both.",
+            "A longitudinal study[1] is a research method that uses continuous or repeated tests to study the same individuals over an extended period.",
+            "A longitudinal study is an observational research method involving repeated, continuous measurements of the same individuals or variables over an extended ..."
+        ]
+    },
+    "37": {
+        "Entity": "non-interventional design",
+        "Snippet": [
+            "Case-control, Cohort and other observational studies are non-interventional by definition. They are observational studies, which means that the researcher only observes the patients. Registries, which keep track of post-approval side effects and efficacy (how well a drug works) are also considered non-interventional.",
+            "Non-Interventional Studies (NIS) are studies that reflect actual patient behaviors and how medicinal products are used in daily medical practice.",
+            "a non-interventional study (also referred to as an observational study) is a type of study in which all participants receive routine clinical ...",
+            "It is important to note that these seven characteristics are inherently connected and impacted by similar study design features and analysis ...",
+            "Common mistakes in research methods include: not fully addressing all sources of potential bias; lack of clearly defined study population, identification period ...",
+            "Epidemiologic studies are observational; the researcher does not manage any intervention. The most common epidemiological study designs are case-control ..."
+        ]
+    },
+    "38": {
+        "Entity": "recurrent compensatory act to eliminate food intake or prevent weight gain, occurring without binge eating and involving non-binge-related purging methods",
+        "Snippet": [
+            "Visit the National Eating Disorders Association (NEDA) to learn about eating disorders, find help, and how you can take action to raise awareness.",
+            "#NEDAW Learn the signs & symptoms of binge-eating disorder\u2014and how to get help for yourself or others: samhsa.gov/mental-health/eating-disorders.",
+            "Bulimia nervosa is a disorder that is characterized by binge eating and inappropriate compensatory behavior to control weight with potentially dangerous ...",
+            "Types of eating disorders include anorexia nervosa, bulimia nervosa, binge eating disorder, avoidant restrictive food intake disorder, other specified feeding ...",
+            "Non-purging weight control behaviours include extreme dietary restriction, excessive exercise and the use of diet pills. Subtyping of AN is generally supported ...",
+            "Eating disorders include anorexia nervosa, a form of self-starvation; bulimia nervosa, in which individuals engage in repetitive cycles of binge-eating."
+        ]
+    },
+    "39": {
+        "Entity": "non-experimental approach",
+        "Snippet": [
+            "Non-experimental research is research that lacks the manipulation of an independent variable. Rather than manipulating an independent variable, researchers conducting non-experimental research simply measure variables as they naturally occur (in the lab or real world).",
+            "An alternative approach involves use of natural experiment designs, which aim to approximate casual effects by capitalizing on existing variation in an exposure ...",
+            "Characteristics of non-experimental research: \u00b7 Most studies are based on events that occurred previously and are analyzed later. \u00b7 In this method, controlled ...",
+            "Non-experimental research is the type of research that does not involve the manipulation of control or independent variable. In non-experimental research, ...",
+            "Most non-experimental designs are retrospective in nature and are sometimes called \u201cex post facto\u201d (after the fact) research. Because a retrospective study is ...",
+            "Non-experimental research is research that lacks the manipulation of an independent variable, random assignment of participants to conditions or orders of ..."
+        ]
+    },
+    "40": {
+        "Entity": "fine particulate matter \u22642.5 micrometers in diameter",
+        "Snippet": [
+            "Several epidemiologic and toxicological studies have commonly viewed ambient fine particulate matter (PM2.5), defined as particles having an aerodynamic diameter of less than 2.5 \u00b5m, as a significant potential danger to human health.",
+            "PM2.5 : fine inhalable particles, with diameters that are generally 2.5 micrometers and smaller. How small is 2.5 micrometers? Think about a ...",
+            "Ambient fine particulate matter of 2.5 \u03bcm or less in diameter (PM 2.5 ) of environment contamination is deemed as a risk factor of cerebrovascular diseases.",
+            "Fine particulate matter (PM) is defined as solid or liquid particles with an aerodynamic diameter ranging from 0.1 to 2.5 \u03bcm, generated from sources such as ...",
+            "Particles \u226410 \u00b5m in aerodynamic diameter are considered respirable and pose the greatest health concern because some can penetrate deep into the lungs and enter ...",
+            "Those particles that are less than 2.5 micrometers in diameter are known as \u201cfine\u201d particles; those larger than 2.5 micrometers are known as \u201ccoarse\u201d particles."
+        ]
+    },
+    "41": {
+        "Entity": "NAFLD",
+        "Snippet": [
+            "NAFLD is closely associated with metabolic syndrome, defined by the presence of three or more of the following: increased weight circumference, elevated blood pressure or being on mediation for hypertension, elevated fasting glucose or being on medication for diabetes, elevated triglycerides or on treatment for ...",
+            "Non-alcoholic fatty liver disease (NAFLD) is one of the most common liver diseases worldwide, with a global prevalence of approximately 30%.",
+            "NAFLD (also referred to as metabolic dysfunction-associated steatotic liver disease, or MASLD), is a condition in which excess fat builds up in your liver.",
+            "NAFLD is a leading cause of liver-related morbidity and mortality. We assessed the global and regional prevalence, incidence, and mortality of NAFLD using an in ...",
+            "... (NAFLD), is a liver condition that affects people with excess weight ... Epidemiology, clinical features, and diagnosis of nonalcoholic fatty liver ...",
+            "Non-alcoholic fatty liver disease (NAFLD) is one of the most common liver diseases worldwide, with a global prevalence of approximately 30%."
+        ]
+    },
+    "42": {
+        "Entity": "repeated measurement",
+        "Snippet": [
+            "Repeated measurements refer to multiple observations of the same variable performed on the same subject, which results in correlated values.",
+            "Such repeatedly measured data are referred to as longitudinal data, and longitudinal study designs are commonly used to investigate changes in an outcome over ...",
+            "Repeated measures design is a research design that involves multiple measures of the same variable taken on the same or matched subjects",
+            "A repeated-measures design is one in which multiple, or repeated, measurements are made on each experimental unit.",
+            "Any dataset in which subjects are measured repeatedly over time can be described as repeated measures data. Repeated measurements can be made ...",
+            "It introduced the main calculations for disease occurrence and frequency including counts, proportions, ratios, rates, and risks."
+        ]
+    },
+    "43": {
+        "Entity": "age-standardized summary measure of average remaining years of life at a given age",
+        "Snippet": [
+            "Human life expectancy is a statistical measure of the estimate of the average remaining years of life at a given age. The most commonly used measure is life expectancy at birth (LEB, or in demographic notation e 0, where e x denotes the average life remaining at age x).",
+            "Life expectancy (LE) is considered a straightforward summary measure of mortality that comes with an implicit age standardisation.",
+            "Whereas age 85 years is beyond the average life expectancy, age 90 years is closer to the 90th percentile and age 100 years is beyond the 99th percentile for ...",
+            "Life expectancy tells us the average number of years of life a person who has attained a given age can expect to live. Life expectancy estimates from the ...",
+            "Average number of years that a person can expect to live in \"full health\", if he or she were to pass through the remaining years of life exposed to the sex- and ...",
+            "Life expectancy is the average number of years a person in a population could expect to live after age x. It is the life table parameter most commonly used to ..."
+        ]
+    },
+    "45": {
+        "Entity": "pandemic",
+        "Snippet": [
+            "[7] define a pandemic as \u201clarge-scale outbreak of infectious disease that greatly increases morbidity and mortality over a large geographic area and causes ...",
+            "Pandemic refers to an epidemic that has spread over several countries or continents, usually affecting a large number of people. Epidemics occur when an agent ...",
+            "Learn about the differences between epidemic, endemic, and pandemic diseases. Discover their global health impacts and preventive measures.",
+            "A pandemic is the worldwide spread of a new disease. An influenza pandemic occurs when a new influenza virus emerges and spreads around the world.",
+            "A pandemic is an epidemic of an infectious disease that has a sudden increase in cases and spreads across a large region, for instance multiple continents ...",
+            "A pandemic is defined as \u201can epidemic occurring worldwide, or over a very wide area, crossing international boundaries and usually affecting a large number of ..."
+        ]
+    },
+    "46": {
+        "Entity": "chronic autoimmune inflammatory demyelinating disease of the central nervous system",
+        "Snippet": [
+            "Chronic inflammatory demyelinating polyradiculoneuropathy (CIDP) is a rare type of autoimmune disorder. In an autoimmune disease, the body attacks its own tissues. In CIDP, the body attacks the myelin sheaths. These are the fatty coverings on the fibers that insulate and protect the nerves.",
+            "Chronic inflammatory demyelinating polyradiculoneuropathy is an immune-mediated polyneuropathy marked by nerve roots and peripheral nerve inflammation.",
+            "Inflammatory demyelinating diseases are a heterogeneous group of disorders, which occur against the background of an acute or chronic inflammatory process.",
+            "CIDP chronic inflammatory demyelinating polyneuropathy is an autoimmune condition that affects the myelin sheath around your peripheral nerves.",
+            "Acute inflammatory demyelinating polyneuropathy (AIDP) is an autoimmune process characterized by progressive areflexic weakness and mild sensory changes.",
+            "CIDP is a rare neurological disorder in which there is inflammation of nerve roots and peripheral nerves and destruction of the fatty protective covering ( ..."
+        ]
+    },
+    "47": {
+        "Entity": "genetic instruments",
+        "Snippet": [
+            "This review explores the criteria used for the selection of genetic instruments of sleep traits in the context of Mendelian randomisation studies.",
+            "Genetic epidemiology is \u201ca science which deals with the etiology, distribution, and control of disease in groups of relatives and with inherited causes of ...",
+            "Mendelian randomization (MR) studies typically assess the pathogenic relevance of environmental exposures or disease biomarkers, using genetic variants that ...",
+            "Mendelian randomization is one way in which genetic epidemiology can inform understanding about environmental determinants of disease. A more conventional ...",
+            "In this study we examine the instrument selection strategies currently used throughout the type 2 diabetes and HbA 1c Mendelian randomization (MR) literature.",
+            "Mendelian randomization is the term that has been given to studies that use genetic variants in observational epidemiology to make causal ..."
+        ]
+    },
+    "48": {
+        "Entity": "chronic condition marked by insulin resistance and declining insulin secretion from pancreatic beta cells, resulting in sustained high blood glucose levels",
+        "Snippet": [
+            "Type 2 diabetes is characterized by two major pathological abnormalities: insulin resistance in peripheral tissues and impaired insulin secretion from pancreatic \u03b2-cells. Both contribute to disease development, although their relative importance varies in different patients and populations.",
+            "Both beta cell dysfunction and insulin resistance lead to persistent hyperglycemia which characterizes type 2 diabetes.",
+            "Type 2 diabetes is characterized by peripheral insulin resistance and insufficient insulin release from pancreatic islet \u03b2 cells. However ...",
+            "The disease course is primarily characterized by a decline in \u03b2-cell function and worsening of insulin resistance. The process is manifested ...",
+            "It is characterized by a combination of insulin resistance due to metabolic abnormal obesity and \u03b2-cell dysfunction, leading to relative insulin deficiency.",
+            "Diabetes is a chronic disease that occurs either when the pancreas does not produce enough insulin or when the body cannot effectively use the insulin it ..."
+        ]
+    },
+    "49": {
+        "Entity": "epidemiological investigation",
+        "Snippet": [
+            "Epidemiology is the study of how disease is distributed in populations and of the factors that influence this distribution. 1. More broadly, it is the study of the distribution and determinants of health-related states or events in specified populations and the application of this study to control health problems. 2.",
+            "A case definition is a set of standard criteria for classifying whether a person has a particular disease, syndrome, or other health condition.",
+            "Epidemiology is \u201cthe study of the distribution and determinants of disease frequency in human populations.\u201d It is the collection and analysis of information to ...",
+            "What is Epidemiology? A text book definition of epidemiology is the study of the distribution and determinants of disease frequency in human populations. It ...",
+            "Descriptive epidemiology describes the outbreak in terms of person, place and time. \u201cPerson\u201d refers to socio-demographic characteristics of cases.",
+            "Epidemiology can be defined as the study of the frequency, distribution ... An epidemiological investigation can be qualitative, quantitative, or both ..."
+        ]
+    },
+    "50": {
+        "Entity": "selection bias",
+        "Snippet": [
+            "Selection bias occurs when the association between exposure and health outcome is different for those who complete a study compared with those who are in the target population.",
+            "It occurs when loss to follow-up is differential among exposure groups, and is also connected with the outcome by a common cause (i.e., L1). Figure 2 (e) is the ...",
+            "occurs when individuals or groups in a study differ systematically from the population of interest leading to a systematic error in an association or outcome.",
+            "Selection bias occurs when the subjects studied are not representative of the target population about which conclusions are to be drawn. Suppose that an ...",
+            "Selection bias refers to situations where research bias is introduced due to factors related to the study's participants.",
+            "Selection bias happens when the participants of a study don't represent the whole population, leading to skewed data and unreliable conclusions."
+        ]
+    },
+    "51": {
+        "Entity": "mathematical simulation system",
+        "Snippet": [
+            "The goal of epidemiologists is first to understand the causes of a disease, then to predict its course, and finally to develop ways of controlling it.",
+            "Mathematical models can project how infectious diseases progress to show the likely outcome of an epidemic (including in plants)",
+            "No definitive definition of the term \u201cepidemic\u201d is available for disease modelers. Epidemic definitions impact which simulation runs are included in analysis.",
+            "There are three basic types of deterministic models for infectious diseases which are spread by direct person-to-person contact in a population.",
+            "A major non-laboratory tool used to analyze, understand, and predict the course of this disease in humans is mathematical modeling [4]. The most basic of such.",
+            "Since then, mathematical modeling has increasingly played an intrinsic part in managing outbreaks and epidemics and informing public health decisions."
+        ]
+    },
+    "52": {
+        "Entity": "systematic, ongoing collection of health data from a geographically stratified sample",
+        "Snippet": [
+            "Epidemiologic data are paramount to targeting and implementing evidence-based control measures to protect the public's health and safety.",
+            "We define a descriptive epidemiologic question as one that aims to quantify some feature of the health of a population and, often, to characterize the ...",
+            "ongoing, systematic collection, analysis, and interpretation of health-related data essential to the planning, implementation, and evaluation of public health ...",
+            "Epidemiological surveillance is defined as the systematic and active collection of data on diseases or health hazards, followed by data assessment and ...",
+            "Public health surveillance. Public health surveillance is the ongoing, systematic collection, analysis, interpretation, and dissemination of health data to ...",
+            "The Centers for Disease Control and Prevention have defined surveillance as follows: \u201cthe ongoing systematic collection, analysis, and interpretation of data ..."
+        ]
+    },
+    "53": {
+        "Entity": "case-control study",
+        "Snippet": [
+            "Listen to pronunciation. (kays-kun-TROLE STUH-dee) A study that compares two groups of people: those with the disease or condition under study (cases) and a very similar group of people who do not have the disease or condition (controls).",
+            "A case-control study is a type of observational study commonly used to look at factors associated with diseases or outcomes.",
+            "A study that compares patients who have a disease or outcome of interest (cases) with patients who do not have the disease or outcome (controls), and looks ...",
+            "In a case-control study patients who have developed a disease are identified and their past exposure to suspected aetiological factors is compared with that of ...",
+            "A case-control study is an experimental design that compares a group of participants possessing a condition of interest to a very similar group lacking that ...",
+            "Case-control study designs are used to estimate the risk for a disease from a specific risk factor. The estimate is the odds ratio, which is a good estimate of ..."
+        ]
+    },
+    "54": {
+        "Entity": "acute focal central nervous system injuries",
+        "Snippet": [
+            "CNS infection clinically manifests as fever, headache, and vomiting associated with seizure, loss of consciousness, altered sensorium, focal ...",
+            "Focal brain damage is produced by collision forces acting on the skull and resulting in compression of the tissue underneath the cranium at the site of impact ( ...",
+            "Impact of the head against another object can cause focal brain injury under the skull at the site of impact and ... Central nervous system injury surveillance ...",
+            "Focal and diffuse brain injury are ways to classify brain injury: focal injury occurs in a specific location, while diffuse injury occurs over a more ...",
+            "Focal injury: Includes scalp injury, skull fracture, and surface contusions; generally caused by contact. Diffuse injury: Includes diffuse ...",
+            "Focal and diffuse brain injury refers to distinct types of brain damage, where focal injury is localized to specific regions of the brain, while diffuse ..."
+        ]
+    },
+    "55": {
+        "Entity": "time-specific public health intervention",
+        "Snippet": [
+            "Epidemiology has been defined as the \u201cstudy of the distribution and determinants of health-related states or events in specified populations ...",
+            "Researchers in epidemiology and public health use these three variables (person, place, and time) to look for associations and health determinants.",
+            "Descriptive epidemiology covers time, place, and person. Compiling and analyzing data by time, place, and person is desirable for several reasons.",
+            "This paper presents a conceptual framework displaying how combinations of settings and populations seen in a long-term perspective may guide public health",
+            "Time has special importance in interpreting epidemiologic data in that the initial exposure to a causative agent must precede disease. Often, ...",
+            "Epidemiology is the study of health-related events in defined human or animal populations. These events include specific diseases and conditions as well as the ..."
+        ]
+    },
+    "56": {
+        "Entity": "case-control study",
+        "Snippet": [
+            "Listen to pronunciation. (kays-kun-TROLE STUH-dee) A study that compares two groups of people: those with the disease or condition under study (cases) and a very similar group of people who do not have the disease or condition (controls).",
+            "A case-control study is a type of observational study commonly used to look at factors associated with diseases or outcomes.",
+            "A study that compares patients who have a disease or outcome of interest (cases) with patients who do not have the disease or outcome (controls), and looks ...",
+            "In a case-control study patients who have developed a disease are identified and their past exposure to suspected aetiological factors is compared with that of ...",
+            "A case-control study is an experimental design that compares a group of participants possessing a condition of interest to a very similar group lacking that ...",
+            "Case-control study designs are used to estimate the risk for a disease from a specific risk factor. The estimate is the odds ratio, which is a good estimate of ..."
+        ]
+    },
+    "57": {
+        "Entity": "screening of individuals without clinical signs of disease",
+        "Snippet": [
+            "Authors of medical screening definitions emphasize that screening is \u201cintended to benefit the individuals being screened\u201d and explicitly exclude \u201cmass ...",
+            "'Screening' published in 'Encyclopedia of Public Health'",
+            "Additionally, it's necessary that, when untreated, the disease progresses to a clinical disease phase rather than remaining indefinitely without signs, symptoms ...",
+            "Screening refers to the early detection of individuals with unrecognized disease or with early stages of disease among a population.",
+            "In clinical medicine, diagnostic and screening tests help us answer three questions: How do we treat individual patients? How does the test we use in our study ...",
+            "Screening is the use of a test to identify a disease before any clinical signs or symptoms manifest. Screening methods may include asking questions, physical ..."
+        ]
+    },
+    "58": {
+        "Entity": "DNA modifications involving methyl group addition to cytosines",
+        "Snippet": [
+            "by LD Moore \u00b7 2012 \u00b7 Cited by 6177 \u2014 DNA methylation is an epigenetic mechanism involving the transfer of a methyl group onto the C5 position of the cytosine to form 5-methylcytosine.",
+            "by W \u0141ach \u00b7 2024 \u00b7 Cited by 3 \u2014 The main epigenetic modification is DNA methylation. This catalytic process of attaching methyl groups to nucleobases (mostly cytosine) is ...",
+            "DNA methylation is a biological process by which methyl groups are added to the DNA molecule. Methylation can change the activity of a DNA segment without ...",
+            "by VRB Liyanage \u00b7 2014 \u00b7 Cited by 222 \u2014 Cytosines are converted to 5-methylcytosine (5mC) by DNA methyltransferase (DNMT) enzymes through transfer of a methyl group from S-adenosyl methionine (SAM).",
+            "In eukaryotes, DNA methylation is the process of adding a methyl group, consisting of one carbon and three atoms of hydrogen, to the fifth carbon of a cytosine ...",
+            "Not all genes are active at all times. DNA methylation is one of several epigenetic mechanisms that cells use to control gene expression."
+        ]
+    },
+    "59": {
+        "Entity": "case-control study",
+        "Snippet": [
+            "Listen to pronunciation. (kays-kun-TROLE STUH-dee) A study that compares two groups of people: those with the disease or condition under study (cases) and a very similar group of people who do not have the disease or condition (controls).",
+            "A case-control study is a type of observational study commonly used to look at factors associated with diseases or outcomes.",
+            "A study that compares patients who have a disease or outcome of interest (cases) with patients who do not have the disease or outcome (controls), and looks ...",
+            "In a case-control study patients who have developed a disease are identified and their past exposure to suspected aetiological factors is compared with that of ...",
+            "A case-control study is an experimental design that compares a group of participants possessing a condition of interest to a very similar group lacking that ...",
+            "Case-control study designs are used to estimate the risk for a disease from a specific risk factor. The estimate is the odds ratio, which is a good estimate of ..."
+        ]
+    },
+    "60": {
+        "Entity": "case reporting",
+        "Snippet": [
+            "A case definition is a set of standard criteria for classifying whether a person has a particular disease, syndrome, or other health condition.",
+            "The purpose of case definitions is to ensure that cases are counted in a systematic and consistent manner to enable comparison and analysis of trends.",
+            "A case definition includes criteria for person, place, time, and clinical features. These should be specific to the outbreak under investigation.",
+            "Developing outbreak case definitions: A case definition includes criteria for person, place, time, and clinical features. These should be specific to the ...",
+            "We discuss outbreak characterization, which is the process by which investigators elucidate characteristics of an outbreak that are important for disease ...",
+            "Case definition, in epidemiology, set of criteria used in making a decision as to whether an individual has a disease or health event of interest."
+        ]
+    },
+    "61": {
+        "Entity": "Mendelian randomization",
+        "Snippet": [
+            "Definition. Mendelian randomization. Uses genetic variants as a proxy for an exposure and tests the causal effect of the variants (IV) on an outcome. Based on Mendel's principle of independent assortment, MR mimics randomized trials and minimizes some of the biases inherent in traditional epidemiologic studies.",
+            "Mendelian randomization (MR) is a method of studying the causal effects of modifiable exposures (ie, potential risk factors) on health, social, and economic ...",
+            "Mendelian randomization analysis is defined as an epidemiological method that utilizes genetic variants as instruments to infer causal relationships between ...",
+            "Mendelian randomisation uses genetic variation as a natural experiment to investigate the causal relations between potentially modifiable risk factors and ...",
+            "Mendelian randomization (commonly abbreviated to MR) is a method using measured variation in genes to examine the causal effect of an exposure on an outcome.",
+            "Mendelian randomization is a method of using measured variation in genes of known function to examine the causal effect of a modifiable exposure on disease."
+        ]
+    },
+    "62": {
+        "Entity": "Anopheles mosquitoes",
+        "Snippet": [
+            "Anopheles is a genus of mosquito first described by the German entomologist J. W. Meigen in 1818, and are known as nail mosquitoes and marsh mosquitoes.",
+            "Anopheles is defined as a genus of mosquitoes comprising approximately 530 species, of which 30\u201340 are capable of transmitting malaria to humans, ...",
+            "Anopheles mosquitoes are the vectors of Plasmodium, the etiological agent of malaria. In addition, Anopheles funestus and Anopheles gambiae are the main vectors ...",
+            "Adult female Anopheles mosquitoes lay eggs directly on water. \u00b7 Larvae hatch from mosquito eggs and live in water. \u00b7 Larvae develop into pupae.",
+            "Anopheles mosquitoes are typically smaller than other mosquitoes, with spotted coloring on the wings due to colored scales. The adults have a ...",
+            "Anopheles mosquitoes can be distinguished by their palps (sensory organs found near the proboscis), which are elongated and about as long as ..."
+        ]
+    },
+    "63": {
+        "Entity": "airborne-transmitted coronavirus",
+        "Snippet": [
+            "by TB Handiso \u00b7 2022 \u00b7 Cited by 19 \u2014 Airborne transmission is defined as the spread of an infectious agent caused by the dissemination of droplet nuclei (aerosols) that remain infectious when ...",
+            "Airborne transmission is different from droplet transmission as it refers to the presence of microbes within droplet nuclei, which are generally ...",
+            "by R Zhang \u00b7 2020 \u00b7 Cited by 1732 \u2014 Our results show that the airborne transmission route is highly virulent and dominant for the spread of COVID-19.",
+            "by L COVID \u00b7 Cited by 2 \u2014 COVID-19 most often causes respiratory symptoms that can feel much like a cold, the flu, or pneumonia.",
+            "The World Health Organization stated that SARS-CoV-2 was not transmitted through the air. That mistake and the prolonged process of correcting it sowed ...",
+            "by M Klompas \u00b7 2020 \u00b7 Cited by 633 \u2014 This Viewpoint discusses physical and epidemiological evidence supporting droplet vs aerosol transmission of severe acute respiratory syndrome coronavirus."
+        ]
+    },
+    "64": {
+        "Entity": "non-interventional design",
+        "Snippet": [
+            "[2] Non-interventional Study: A non-interventional study is a study type (EU and US regulatory definition) that does not involve any healthcare or treatment interventions imposed by researchers. It is often used as an umbrella term for studies that collect data in real-world settings, without manipulating variables.",
+            "Non-Interventional Studies (NIS) are studies that reflect actual patient behaviors and how medicinal products are used in daily medical practice.",
+            "a non-interventional study (also referred to as an observational study) is a type of study in which all participants receive routine clinical ...",
+            "It is important to note that these seven characteristics are inherently connected and impacted by similar study design features and analysis ...",
+            "A non interventional study (NIS) (also called a non interventional trial) is where a patient takes regular medicine, prescribed according to the label.",
+            "Epidemiologic studies are observational; the researcher does not manage any intervention. The most common epidemiological study designs are case-control ..."
+        ]
+    },
+    "65": {
+        "Entity": "hepatitis B vaccine",
+        "Snippet": [
+            "This chapter discusses pathogenesis, clinical features, epidemiology, vaccination, and surveillance of hepatitis B.",
+            "A birth dose for hepatitis B vaccine was introduced in 96 countries by 2014, and global coverage was estimated at 38%, reaching 80% in the western Pacific, but ...",
+            "The vaccine is usually given soon after birth with boosters a few weeks later. It offers nearly 100% protection against the virus. Hepatitis B ...",
+            "Hepatitis B virus (HBV) is an enveloped, partially double-stranded DNA virus that is transmitted via infected blood and bodily fluids.",
+            "More than 240 million people are chronically infected with the hepatitis B virus and are at risk for liver failure or liver cancer.",
+            "Hepatitis B vaccine refers to a vaccine developed to prevent hepatitis B viral infection, which can lead to chronic disease, cirrhosis, and liver cancer."
+        ]
+    },
+    "66": {
+        "Entity": "vaccine use",
+        "Snippet": [
+            "Vaccine epidemiology is the study of the interactions and effects of vaccines (and vaccination programs) on epidemiology of vaccine preventable diseases.",
+            "Vaccine epidemiology, the study of vaccine interactions and impacts on the epidemiology of vaccine-preventable diseases also has an impact on vaccine ...",
+            "Vaccine epidemiology is the study of how vaccines affect the distribution and determinants of health and disease conditions in populations.",
+            "Vaccine epidemiology is the study of the interactions and effects of vaccines (and vaccination programs) on epidemiology of vaccine preventable diseases.",
+            "A. Patricia Wodi, MD and Valerie Morelli, BA At a glance This chapter discusses general concepts and principles of vaccination and immunity.",
+            "When a vaccine became available, its introduction followed a common pattern, at first being most extensively used among middle- and upper-income groups in or ..."
+        ]
+    },
+    "67": {
+        "Entity": "systematic tracking of pathogen genome sequence changes",
+        "Snippet": [
+            "This review highlights the range of epidemiological questions that can be addressed from the combination of genome sequence and traditional 'line lists'.",
+            "Genomic surveillance is defined as the monitoring of mutations in the genetic material of organisms, which allows for the tracking of changes in various ...",
+            "By analyzing pathogen genomes, researchers can identify infection sources, track transmission pathways, and design more effective control ...",
+            "Genomic surveillance is the process of constantly monitoring pathogens and analyzing their genetic similarities and differences. Recognizing the need for global ...",
+            "A standard workflow for characterizing STEC involves determination of serotype, traditionally accomplished by means of a panel of antisera to ...",
+            "Pathogen genome sequences can help us detect or rule out linkages between cases. Similarly to how specific case definitions improve the sensitivity of ..."
+        ]
+    },
+    "68": {
+        "Entity": "infectious disease outbreaks with international dissemination, sudden emergence, and widespread susceptibility due to lack of prior exposure",
+        "Snippet": [
+            "by DL Church \u00b7 2005 \u00b7 Cited by 153 \u2014 Newly discovered infectious diseases include bacterial infections (eg, Helicobacter pylori, the causative agent of peptic ulcer disease and gastric carcinoma, ...",
+            "\"Emerging\" infectious diseases can be defined as infections that have newly appeared in a population or have existed but are rapidly increasing in incidence ...",
+            "A disease outbreak is the occurrence of cases of disease greater than what would normally be expected in a defined community, geographical area or season.",
+            "An infectious disease is a disease that is caused by the invasion of a host by agents whose activities harm the host's tissues (that is, they cause disease) and ...",
+            "Disease outbreaks refer to the occurrence of cases of a particular infectious disease in a population that exceeds what is normally expected in a specific ...",
+            "by J Soo \u00b7 2025 \u00b7 Cited by 1 \u2014 Introduction. An infectious disease outbreak is defined as an incidence of cases that is increased beyond what is expected in a given population ..."
+        ]
+    },
+    "69": {
+        "Entity": "non-interventional approach that follows a defined cohort over time with exposure assessed before outcome occurrence",
+        "Snippet": [
+            "This paper describes the prospective and retrospective cohort designs, examines the strengths and weaknesses, and discusses methods to report the results.",
+            "Cohort studies are defined by their focus on a group of individuals sharing a common characteristic, followed over time to assess health ...",
+            "In a cohort study, participants who do not have the outcome at baseline are followed over time to estimate the incidence of the outcome. In this type of design, ...",
+            "A cohort study is a particular form of longitudinal study that samples a cohort (a group of people who share a defining characteristic)",
+            "A Prospective Cohort Study observes a defined group of individuals over time to see how exposures relate to future health outcomes.",
+            "Cohort studies are defined as observational studies that enroll participants free of disease, assess baseline risk factors, and follow them over time to ..."
+        ]
+    },
+    "70": {
+        "Entity": "government-run health care financing system",
+        "Snippet": [
+            "In this paper, SHI financing refers to health expenditures channelled via SHI agencies, implying that a contribution is required to access services, ...",
+            "Health financing is a core function of health systems that can enable progress towards universal health coverage by improving effective service coverage and ...",
+            "Health care financing refers to the methods and sources of funding health services, including private financing through personal payments, insurance, and ...",
+            "The US healthcare delivery system is characterized by a complex mix of financing, insurance, delivery, and payment mechanisms.",
+            "It is the role of health financing to mobilize sufficient resources to make primary health care (PHC) effective and, given the shortfall in public funding ...",
+            "In this system, health care is provided and financed by the government through tax payments, just like the police force or the public library. Many, but not all ..."
+        ]
+    },
+    "71": {
+        "Entity": "epidemiological design",
+        "Snippet": [
+            "by S Munnangi \u00b7 2023 \u00b7 Cited by 145 \u2014 The key function of an epidemiology study design is to enable the researcher to address the research question with minimal ambiguity logically. Go to: Issues of ...",
+            "This chapter will present the key features of common epidemiology study designs, including their main characteristics, strengths, limitations, types of ...",
+            "This task, called descriptive epidemiology, answers the following questions about disease, injury, or environmental hazard occurrence.",
+            "By the end of this module, you should be able to: list the differences between descriptive and analytic epidemiology, describe the main types of epidemiologic ...",
+            "Epidemiology is the study of how often diseases occur in different groups of people and why. Epidemiological information is used to plan and evaluate ...",
+            "Epidemiology is the study of how diseases spread through populations and what factors influence health outcomes. Study design is the ..."
+        ]
+    },
+    "72": {
+        "Entity": "flexible statistical framework",
+        "Snippet": [
+            "We implement a flexible estimation approach that permits both surveillance of concerning increases in mortality rates and careful characterization of the ...",
+            "We present a model that accounts for these sources of variability and characterizes concerning increases in mortality rates with smooth functions of time that ...",
+            "Descriptive epidemiology covers time, place, and person. Compiling and analyzing data by time, place, and person is desirable for several reasons.",
+            "Here, we present a model that accounts for these sources of variability and characterizes concerning increases in mortality rates with smooth functions of time ...",
+            "Descriptive epidemiology describes the outbreak in terms of person, place and time. \u201cPerson\u201d refers to socio-demographic characteristics of cases.",
+            "In this paper, we propose a framework for thinking through the design and conduct of descriptive epidemiologic studies. A well-defined descriptive question aims ..."
+        ]
+    },
+    "73": {
+        "Entity": "Brazil's universal healthcare system",
+        "Snippet": [
+            "The country has a universal healthcare system that theoretically covers all citizens, and the government has made significant investments in ...",
+            "Brazil offers all residents and visitors universal health coverage through its tax-funded Unified Health System (Sistema \u00danico de Sa\u00fade).",
+            "2023 marks the 35th anniversary of Brazil's current Constitution (1988), where health was defined as a universal right and a State responsibility.",
+            "Brazil has made good progress towards achieving Universal Health Coverage (UHC) with improvements in population health, but shortages in public funding, ...",
+            "Brazil is the only country in the world with a population of more than 100 million to have a universal health care system. The SUS ...",
+            "The SUS aims to provide comprehensive, universal preventive and curative care through decentralised management and provision of health services, and promotes ..."
+        ]
+    },
+    "75": {
+        "Entity": "research design",
+        "Snippet": [
+            "The key function of an epidemiology study design is to enable the researcher to address the research question with minimal ambiguity logically. Go to: Issues of ...",
+            "This chapter will present the key features of common epidemiology study designs, including their main characteristics, strengths, limitations, types of ...",
+            "Epidemiologists use analytic epidemiology to quantify the association between exposures and outcomes and to test hypotheses about causal relationships.",
+            "Epidemiology is the study of how diseases spread through populations and what factors influence health outcomes. Study design is the ...",
+            "Epidemiology is the study of how often diseases occur in different groups of people and why. Epidemiological information is used to plan and evaluate ...",
+            "The study designs can be broadly classified as experimental or observational based on the approach used to assess whether exposure and an outcome are ..."
+        ]
+    },
+    "76": {
+        "Entity": "DNA methylation-based age estimate",
+        "Snippet": [
+            "Abstract. DNA methylation patterns change during human lifetime; thus, they can be used to estimate an individual's age.",
+            "DNA methylation varies with age, and the ability to predict the age of donor using DNA from evidence materials at a crime scene is of considerable value in ...",
+            "DNA methylation-based biomarkers, often referred to as \u201cepigenetic age\u201d or \"epigenetic clock\", are robust estimators of chronological age of an individual [1\u20134] ...",
+            "DNA methylation (DNAm) clock is widely used to measure biological age, helping to identify key biomarkers associated with aging, infer the ...",
+            "The findings indicate that DNA methylation offers a considerable advantage in biological age prediction and has much potential when combined ...",
+            "Numerous studies have demonstrated that epigenetic modifications, particularly DNA methylation (DNAm), correlate with aging and age-related diseases."
+        ]
+    },
+    "77": {
+        "Entity": "epidemiological design",
+        "Snippet": [
+            "The key function of an epidemiology study design is to enable the researcher to address the research question with minimal ambiguity logically. Go to: Issues of ...",
+            "This chapter will present the key features of common epidemiology study designs, including their main characteristics, strengths, limitations, types of ...",
+            "This task, called descriptive epidemiology, answers the following questions about disease, injury, or environmental hazard occurrence.",
+            "By the end of this module, you should be able to: list the differences between descriptive and analytic epidemiology, describe the main types of epidemiologic ...",
+            "Epidemiology is the study of how often diseases occur in different groups of people and why. Epidemiological information is used to plan and evaluate ...",
+            "Epidemiology is the study of how diseases spread through populations and what factors influence health outcomes. Study design is the ..."
+        ]
+    },
+    "78": {
+        "Entity": "repeated observation of the same individuals over extended periods",
+        "Snippet": [
+            "Longitudinal Study. A longitudinal study is an observational research design in which data are collected from the same individuals (or groups) repeatedly over a defined period of time.",
+            "Longitudinal studies employ continuous or repeated measures to follow particular individuals over prolonged periods of time\u2014often years or decades. They are ...",
+            "A longitudinal study is a research design that involves repeated observations of the same variables (e.g., people) over long periods of time (i.e., ...",
+            "Cohort studies are a type of research design. They are also called longitudinal studies because they follow groups of people over time.",
+            "Cohort studies are useful for estimating disease risk, incidence rates, and/or relative risks. Non-cases may be enrolled from a well-defined population.",
+            "A longitudinal study[1] is a research method that uses continuous or repeated tests to study the same individuals over an extended period."
+        ]
+    },
+    "79": {
+        "Entity": "observational research design",
+        "Snippet": [
+            "The key function of an epidemiology study design is to enable the researcher to address the research question with minimal ambiguity logically. Go to: Issues of ...",
+            "An observational study is when researchers are looking at the effect of some type of intervention, risk, a diagnostic test or treatment, without trying to ...",
+            "Observational epidemiology provides information about disease patterns or drug use problems by various characteristics of person, place, and time. This approach ...",
+            "Observational studies provide weaker empirical evidence than do experimental studies because of the potential for large confounding biases to be present.",
+            "In an observational study design setting, investigators observe subject characteristics including exposures, interventions, and behaviors, as well as patient.",
+            "The observational design is subdivided into descriptive, including cross-sectional, case report or case series, and correlational, and analytic."
+        ]
+    },
+    "81": {
+        "Entity": "epidemiological approach",
+        "Snippet": [
+            "Epidemiology utilizes an organized approach to problem solving by: (1) confirming the existence of an epidemic and verifying the diagnosis; (2) developing a case definition and collating data on cases; (3) analyzing data by time, place, and person; (4) developing a hypothesis; (5) conducting further studies if ...",
+            "Epidemiology is the study of the distribution and determinants of health-related states or events in specified populations.",
+            "Epidemiology is the study of how often diseases occur in different groups of people and why. Epidemiological information is used to plan and evaluate ...",
+            "Section 5: The Epidemiologic Approach ; Counts cases or health events, and describes them in terms of time, place, and person; ; Divides the number of cases by an ...",
+            "Epidemiology is \u201cthe study of disease in populations and of factors that determine its occurrence over time.\u201d The purpose is to describe and identify ...",
+            "Epidemiology is the study of the distribution and determinants of health-related states, conditions, or events in specified populations"
+        ]
+    },
+    "82": {
+        "Entity": "gastric cancer",
+        "Snippet": [
+            "Gastric cancer is the second most common cause of cancer-related deaths in the world, the epidemiology of which has changed within last decades.",
+            "Gastric cancer (GC) is one of the most common malignancies worldwide and it is the fourth leading cause of cancer-related death.",
+            "Gastric cancer is the fourth leading cause of cancer deaths worldwide and the fifth most frequently diagnosed cancer.[1] The incidence of ...",
+            "Lifetime Risk of Developing Cancer: Approximately 0.8 percent of men and women will be diagnosed with stomach cancer at some point during their lifetime, based ...",
+            "Gastric cancer is the sixth most common cancer and the fourth most common cause of cancer-related death in the world.",
+            "The large majority (approximately 90%) of gastric cancers are adenocarcinomas, which arise from the glands of the most superficial layer, or the mucosa, of the ..."
+        ]
+    },
+    "83": {
+        "Entity": "histopathologically defined condition characterized by epithelial cell proliferation confined within milk ducts without basement membrane invasion or spread to surrounding tissue",
+        "Snippet": [
+            "It is a noninvasive form of breast cancer, which is characterized by a neoplastic proliferation of epithelial cells that are surrounded by myoepithelial cells.",
+            "Ductal carcinoma in situ is a very early form of breast cancer. In ductal carcinoma in situ, the cancer cells are confined inside a milk duct in ...",
+            "DCIS is a non-invasive cancer where abnormal cells have been found in the lining of the breast milk ducts. Milk ducts are tiny tubes that carry ...",
+            "Ductal carcinoma in situ (DCIS) is a condition in which abnormal cells form in the lining of the milk ducts but have not broken out of the milk ...",
+            "One of the primary histopathological characteristics of DCIS is the proliferation of neoplastic epithelial cells confined within the mammary ducts (12). As ...",
+            "Ductal carcinoma in situ (DCIS) is an overgrowth of abnormal cells in the milk ducts of the breast. It starts with the proliferation of normal cells lining the ..."
+        ]
+    },
+    "84": {
+        "Entity": "epidemiological investigation",
+        "Snippet": [
+            "Epidemiology is \u201cthe study of the distribution and determinants of disease frequency in human populations.\u201d It is the collection and analysis of information to determine whether an association exists between one or more exposures to possible infection and the occurrence of disease.",
+            "Definitions. Epidemiology is the study of the determinants, occurrence, and distribution of health and disease in a defined population.",
+            "A case definition is a set of standard criteria for classifying whether a person has a particular disease, syndrome, or other health condition.",
+            "What is Epidemiology? A text book definition of epidemiology is the study of the distribution and determinants of disease frequency in human populations. It ...",
+            "Epidemic can be defined as the occurrence in a community or region of disease, clearly in excess of normal expectancy, and derived from a common source or from ...",
+            "Descriptive epidemiology describes the outbreak in terms of person, place and time. \u201cPerson\u201d refers to socio-demographic characteristics of cases."
+        ]
+    }
+}

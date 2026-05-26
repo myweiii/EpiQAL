@@ -1,0 +1,148 @@
+{
+    "Title": "Sustained excess all-cause mortality post COVID-19 in 21 countries: an ecological investigation",
+    "URL": "https://academic.oup.com/ije/article/54/3/dyaf075/8159616",
+    "DOI": "10.1093/ije/dyaf075",
+    "PMID": "40492564",
+    "Published": "2025/04/12",
+    "Volume": "54",
+    "Issue": "3",
+    "Journal": "International Journal of Epidemiology",
+    "Keywords": [
+        "COVID-19",
+        "excess mortality",
+        "vaccination",
+        "governmental control measures",
+        "indirect mortality",
+        "all-cause mortality"
+    ],
+    "Authors": {
+        "Pallari, Chryso Th": [
+            "Primary Care and Population Health, University of Nicosia Medical School, Nicosia, Cyprus"
+        ],
+        "Achilleos, Souzana": [
+            "Primary Care and Population Health, University of Nicosia Medical School, Nicosia, Cyprus"
+        ],
+        "Quattrocchi, Annalisa": [
+            "Primary Care and Population Health, University of Nicosia Medical School, Nicosia, Cyprus"
+        ],
+        "Rahmanian Haghighi, Mohammad R": [
+            "Primary Care and Population Health, University of Nicosia Medical School, Nicosia, Cyprus",
+            "Centre for Health Economics Research and Modelling Infectious Diseases, Vaccine and Infectious Disease Institute, University of Antwerp, Antwerpen, Belgium"
+        ],
+        "Phan, Minh Tam": [
+            "Primary Care and Population Health, University of Nicosia Medical School, Nicosia, Cyprus"
+        ],
+        "Artemiou, Andreas": [
+            "Information Technologies, University of Limassol, Nicosia, Cyprus"
+        ],
+        "Bennett, Catherine M": [
+            "Institute for Health Transformation, Deakin University, Burwood, Australia"
+        ],
+        "Cuthbertson, Joseph": [
+            "School of Medicine, University of Notre Dame, Notre Dame, IN, Australia"
+        ],
+        "Zimmermann, Claudia": [
+            "Department of Epidemiology, Center for Public Health, Medical University of Vienna, Vienna, Austria"
+        ],
+        "Schernhammer, Eva": [
+            "Department of Epidemiology, Center for Public Health, Medical University of Vienna, Vienna, Austria"
+        ],
+        "Vernemmen, Catharina": [
+            "Sciensano, Epidemiology of Infectious Diseases, Brussels, Belgium"
+        ],
+        "Nganda Mekogo, Serge": [
+            "Sciensano, Epidemiology of Infectious Diseases, Brussels, Belgium"
+        ],
+        "Lobato, Jackeline C P": [
+            "Department of Epidemiology and Biostatistics, Institute of Collective Health (ISC), Fluminense Federal University Niterói, Niterói, Brazil"
+        ],
+        "Macedo, Laylla": [
+            "Institute of Studies in Collective Health, Federal University of Rio de Janeiro, Rio de Janeiro, RJ, Brazil"
+        ],
+        "Athanasiadou, Maria": [
+            "Health Monitoring Unit, Government of the Republic of Cyprus Ministry of Health, Nicosia, Cyprus"
+        ],
+        "Mortensen, Laust H": [
+            "Department of Public Health, Section of Social Medicine, University of Copenhagen, Denmark"
+        ],
+        "Critchley, Julia A": [
+            "Population Health Research Institute, School of Medical and Health Sciences, City St George's, University of London, London, United Kingdom"
+        ],
+        "Goldsmith, Lucy P": [
+            "Division of Health Services Research and Management, School of Health and Psychological Sciences, City St George’s, University of London, London, United Kingdom"
+        ],
+        "Denissov, Gleb": [
+            "Department of Registers, National Institute for Health Development, Tallinn, Estonia"
+        ],
+        "Le Meur, Nolwenn": [
+            "University of Rennes, Ecole des Hautes Etudes en Sante Publique, CNRS, Inserm, Arènes, Rennes, Bretagne, France"
+        ],
+        "Kandelaki, Levan": [
+            "National Center for Disease Control and Public Health, Head of the Population Registry Division of Department of Medical Statistics, Tbilisi, Georgia"
+        ],
+        "Chikhladze, Nino": [
+            "Faculty of Medicine, Ivane Javakhishvili Tbilisi State University, Tbilisi, Georgia"
+        ],
+        "Athanasakis, Kostas": [
+            "Department of Public Health Policy, University of West Attica, Egaleo, Attica, Greece"
+        ],
+        "Binyaminy, Binyamin": [
+            "State of Israel Ministry of Health, Israel Center of Disease Control, Ramat Gan, Israel"
+        ],
+        "Maor, Tamar": [
+            "State of Israel Ministry of Health, Israel Center of Disease Control, Ramat Gan, Israel"
+        ],
+        "Caruso, Enza": [
+            "Department of Political Sciences, University of Perugia, Perugia, Umbria, Italy"
+        ],
+        "Ambrosio, Giuseppe": [
+            "Division of Cardiology and CERICLET, Department of Medicine, University of Perugia, Perugia, Umbria, Italy"
+        ],
+        "Martial, Cyndy": [
+            "Demography/Census Unit, Statistics Mauritius, Port Louis, Mauritius"
+        ],
+        "Chan Sun, Marie": [
+            "Faculty of Medicine and Health Sciences, Department of Medicine, University of Mauritius, Reduit, Moka, Mauritius"
+        ],
+        "Hagen, Terje P": [
+            "Institute of Health and Society, Department of Health Management and Health Economics, University of Oslo (UiO), Oslo, Norway"
+        ],
+        "Barron, Manuel": [
+            "Department of Economics, Universidad del Pacifico, Lima, Peru"
+        ],
+        "Chong, Mario": [
+            "Department of Engineering, Universidad del Pacifico, Lima, Peru"
+        ],
+        "Łyszczarz, Błażej": [
+            "Department of Health Economics, Nicolaus Copernicus University in Toruń, Bydgoszcz, Kujawsko-Pomorskie, Poland"
+        ],
+        "Erzen, Ivan": [
+            "Public Health School, National Institute of Public Health, Ljubljana, Slovenia"
+        ],
+        "Cernuda Martínez, José Antonio": [
+            "Faculty of Medicine and Health Sciences, Unit for Research in Emergency and Disaster, University of Oviedo, Oviedo, Asturias, Spain"
+        ],
+        "Arcos González, Pedro": [
+            "Faculty of Medicine and Health Sciences, Unit for Research in Emergency and Disaster, University of Oviedo, Oviedo, Asturias, Spain"
+        ],
+        "Burstrom, Bo": [
+            "Global Public Health, Karolinska Institute, Stockholm, Stockholm, Sweden"
+        ],
+        "Tao, Wenjing": [
+            "Global Public Health, Karolinska Institute, Stockholm, Stockholm, Sweden"
+        ],
+        "Huang, Qian": [
+            "Center for Rural Health and Research, East Tennessee State University, Johnson City, TN, United States"
+        ],
+        "Polemitis, Antonis": [
+            "University of Nicosia, Nicosia, Cyprus"
+        ],
+        "Charalambous, Andreas": [
+            "University of Nicosia Medical School, Nicosia, Cyprus"
+        ],
+        "Demetriou, Christiana A": [
+            "Primary Care and Population Health, University of Nicosia Medical School, Nicosia, Cyprus"
+        ]
+    },
+    "PDF_URL": "https://academic.oup.com/ije/article-pdf/54/3/dyaf075/63461820/dyaf075.pdf"
+}

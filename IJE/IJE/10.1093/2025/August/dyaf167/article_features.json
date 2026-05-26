@@ -1,0 +1,131 @@
+{
+    "Title": "Maternal prenatal infection and childhood leukaemia: a Childhood Cancer and Leukemia International Consortium (CLIC) meta-analysis",
+    "URL": "https://academic.oup.com/ije/article/54/5/dyaf167/8271068",
+    "DOI": "10.1093/ije/dyaf167",
+    "PMID": "41649948",
+    "Published": "2025/08/18",
+    "Volume": "54",
+    "Issue": "5",
+    "Journal": "International Journal of Epidemiology",
+    "Keywords": [
+        "childhood leukaemia risk",
+        "prenatal infection",
+        "case–control study",
+        "race and ethnicity",
+        "meta-analysis"
+    ],
+    "Authors": {
+        "Piedvache, Aurelie": [
+            "Department of Social Medicine, National Center for Child Health and Development, Tokyo, Japan"
+        ],
+        "Rashed, Wafaa M": [
+            "Pharmacy Practice Department, Faculty of Pharmacy, Ahram Canadian University, 6th of October city, Egypt",
+            "Computational Systems Biology Laboratory, USP, São Paulo, Brazil"
+        ],
+        "Petridou, Eleni Th": [
+            "Department of Hygiene, Epidemiology and Medical Statistics, Medical School, National and Kapodistrian University of Athens & Hellenic Society for Social Pediatrics and Health Promotion, Athens, Greece"
+        ],
+        "(on behalf of NARECHEM-ST)": [],
+        "Mueller, Beth A": [
+            "Public Health Sciences Division, Fred Hutchinson Cancer Center, Seattle, WA, United States"
+        ],
+        "Bonaventure, Audrey": [
+            "Epidemiology of Childhood and Adolescent Cancer Team, CRESS, University Paris Cité, Université Sorbonne Paris Nord, INSERM, INRAE, Villejuif, France"
+        ],
+        "Clavel, Jacqueline": [
+            "Epidemiology of Childhood and Adolescent Cancer Team, CRESS, University Paris Cité, Université Sorbonne Paris Nord, INSERM, INRAE, Villejuif, France & National Registry of Childhood Cancers, Hôpital Paul Brousse, Groupe Hospitalier Universitaire Paris-Sud, Assistance Publique Hôpitaux de Paris (AP-HP), Villejuif, France & Centre Hospitalier Régional Universitaire de Nancy, Vandoeuvre-lès-Nancy, France"
+        ],
+        "de Smith, Adam J": [
+            "Center for Genetic Epidemiology, Department of Population and Public Health Sciences, University of Southern California Keck School of Medicine, Los Angeles, CA, United States"
+        ],
+        "Scheurer, Michael E": [
+            "Department of Pediatrics, Division of Hematology-Oncology, Baylor College of Medicine, Houston, TX, United States",
+            "Cancer and Hematology Centers, Texas Children’s Hospital, Houston, TX, United States"
+        ],
+        "Dockerty, John D": [
+            "Department of Preventive and Social Medicine, Dunedin School of Medicine, University of Otago, Dunedin, New Zealand"
+        ],
+        "Metayer, Catherine": [
+            "School of Public Health, University of California Berkeley, Berkeley, CA, United States"
+        ],
+        "Wiemels, Joseph": [
+            "Center for Genetic Epidemiology, Department of Population and Public Health Sciences, University of Southern California Keck School of Medicine, Los Angeles, CA, United States"
+        ],
+        "Kang, Alice Y": [
+            "School of Public Health, University of California Berkeley, Berkeley, CA, United States"
+        ],
+        "Heck, Julia E": [
+            "College of Health and Public Service, University of North Texas, Denton, TX, United States"
+        ],
+        "Hansen, Johnni": [
+            "Diet, Genes, and Environment section, Danish Cancer Society Research Center, Copenhagen, Denmark"
+        ],
+        "Mejia-Arangure, Juan Manuel": [
+            "Facultad de Medicina, Universidad Nacional Autónoma de México (UNAM), Mexico City, Mexico & Laboratorio de Genómica Funcional del Cáncer, Instituto Nacional de Medicina Genómica, Mexico City, Mexico"
+        ],
+        "Sepúlveda-Robles, Omar Alejandro": [
+            "Unidad de Investigación Médica en Genética Humana, Unidad Médica de Alta Especialidad (UMAE), Hospital de Pediatría, Centro Médico Nacional (CMN) ‘Siglo XXI’, Instituto Mexicano del Seguro Social (IMSS), Mexico City, Mexico"
+        ],
+        "Pombo-de-Oliveira, Maria S": [
+            "Department of Research and Technology Innovation (CPQI), Instituto Nacional de Câncer, Rua André Cavalcanti, Rio de Janeiro, Brazil"
+        ],
+        "Infante-Rivard, Claire": [
+            "Department of Epidemiology, Biostatistics and Occupational Health, Faculty of Medicine, McGill University, Montreal, Quebec, Canada"
+        ],
+        "Roman, Eve": [
+            "Epidemiology and Cancer Statistics Group, Department of Health Sciences, University of York, York, United Kingdom"
+        ],
+        "Erdmann, Friederike": [
+            "Research Group Aetiology and Inequalities in Childhood Cancer, Division of Childhood Cancer Epidemiology, Institute of Medical Biostatistics, Epidemiology and Informatics (IMBEI), University Medical Center of the Johannes Gutenberg University Mainz, Mainz, Germany",
+            "Department of Prevention and Evaluation, Leibniz Institute for Prevention Research and Epidemiology—BIPS, Bremen, Germany"
+        ],
+        "Schüz, Joachim": [
+            "Environment and Lifestyle Epidemiology Branch, International Agency for Research on Cancer (IARC), World Health Organization, Lyon, France"
+        ],
+        "Hangai, Mayumi": [
+            "Department of Social Medicine, National Center for Child Health and Development, Tokyo, Japan"
+        ],
+        "Morisaki, Naho": [
+            "Department of Social Medicine, National Center for Child Health and Development, Tokyo, Japan"
+        ],
+        "Doody, David R": [
+            "Public Health Sciences Division, Fred Hutchinson Cancer Center, Seattle, WA, United States"
+        ],
+        "Flores-Lujano, Janet": [
+            "Unidad de Investigación Médica en Genética Humana, Unidad Médica de Alta Especialidad (UMAE), Hospital de Pediatría, Centro Médico Nacional (CMN) ‘Siglo XXI’, Instituto Mexicano del Seguro Social (IMSS), Mexico City, Mexico"
+        ],
+        "Chow, Eric J": [
+            "Public Health Sciences Division, Fred Hutchinson Cancer Center, Seattle, WA, United States"
+        ],
+        "Sergentanis, Theodoros N": [
+            "Department of Public Health Policy, School of Public Health, University of West Attica, Athens, Greece"
+        ],
+        "Polychronopoulou, Sophia": [
+            "Department of Pediatric Haematology-Oncology, A. Sophia Children’s Hospital, Athens, Greece"
+        ],
+        "Spector, Logan G": [
+            "Division of Epidemiology and Clinical Research, Department of Pediatrics, University of Minnesota, Minneapolis, MN, United States"
+        ],
+        "Urayama, Kevin Y": [
+            "Department of Social Medicine, National Center for Child Health and Development, Tokyo, Japan"
+        ],
+        "NARECHEM-ST ": [],
+        "Petridou, Eleni": [],
+        "Dessypris, Nick": [],
+        "Bouka, Evanthia": [],
+        "Baka, Margarita": [],
+        "Dana, Helen": [],
+        "Hatzipantelis, Emmanuel": [],
+        "Kalmanti, Maria": [],
+        "Koliouskas, Dimitris": [],
+        "Kosmidis, Helen": [],
+        "Kourti, Maria": [],
+        "Moschovi, Maria": [],
+        "Panagiotou, Ioannis": [],
+        "Papakonstantinou, Eugenia": [],
+        "Piperopoulou, Fani": [],
+        "Vassiliki, Sidi": [],
+        "Sergentanis, Theodoros": []
+    },
+    "PDF_URL": "https://academic.oup.com/ije/article-pdf/54/5/dyaf167/64473160/dyaf167.pdf"
+}

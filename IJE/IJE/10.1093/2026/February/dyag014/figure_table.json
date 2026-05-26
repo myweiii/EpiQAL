@@ -1,0 +1,22 @@
+{
+    "Figure 1": [
+        "Timeline of UK Biobank study assessments and flow diagram of repeat accelerometry sub-study participants. Differences in devices dispatched between repeat cycles are largely due to participants’ opting out. Differences between devices returned and data released within each repeat cycle are largely due to issues with reading the accelerometer data; however, the first cycle was additionally subject to device malfunction in 17% of the devices distributed.",
+        "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/ije/55/2/10.1093_ije_dyag014/3/m_dyag014f1.jpeg?Expires=1780742540&Signature=ZJPc9e7v44wweeBOGl4kv~kRRNYjLnXFlyD6vCkJOcZAl0U87eAHJ8yIIt~Rnyz1JScr31-GziIXrgRNbDBPjo4uDbo0b3RsqbdZcPM5bHfAQRaWXnlLelTlHsEMqS5Up4Bm0x40vPAkuB8bBS-zf43sfis0d6A17UF1l5bf3in9zh~axdLN-CX8G8hhyC3xXI1y~n6PXymibYwjVpxMwp52jc9vGjRfUkx3rXvNiFGLDGp4hvbf59wSGiT53XQu6PIkGgjRRTv5sm3RoMIW7B40juiySBWJp-P2neV9lj~RdZVP02Cnm0IbXVmLfxeVb0753kndDd7mbSo5VqFiFg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ],
+    "Table 1": [
+        "Baseline characteristics of all UK Biobank participants, those who participated in the main accelerometry sub-study, and those who had at least one valid repeat accelerometer measurement.",
+        ""
+    ],
+    "Table 2": [
+        "Accelerometer-derived phenotypes of physical activity and sleep across main and repeat accelerometry sub-studies.",
+        ""
+    ],
+    "Figure 2": [
+        "Changes in accelerometer-derived phenotypes of physical activity and sleep within fifths defined by the main accelerometer measurements. Analysis was performed in 3138 participants with valid accelerometer data from the main sub-study and at least one valid repeat measurement. Squares represent mean values initially and at subsequent repeat measurements for participants divided into fifths according to their main accelerometer measurement. The size of each square is proportional to the number of participants available. The mean values in the top and bottom groups and the absolute differences (ranges) between them are given at Years 0 and 4. PA, physical activity.",
+        "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/ije/55/2/10.1093_ije_dyag014/3/m_dyag014f2.jpeg?Expires=1780742540&Signature=m~mZCpggbb6uk29LtvOX65HKW8bAOi-WmbiD48V2ZyhEK-rKIAsgTjhxAbKRsHEAi-IjsZ8x1icnO-V5KNgWti9K1FmWoeGiPbece4n3KaR6jeB8KGfItWVYYfIZ-FLKILDsasiaA4J6XVn0vsB8xMfaEvEiCKh~~z~gj14qHElOZy4zDrD-Bhf24ddtgg1MbRQLXNB5DNCH5cIUSJmz72xZDFdz0-PFxTAUAwK1IUMXZAH5fLDDTilvJDYjfRm1SEL9wV9qIyTvIBu3NIKMaph1KphEuLPKAlGSoajPolVtspQ~sc-GW4e9r8OQD9~MMyEqTsjwD8RdNJN9SIJunQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ],
+    "Figure 3": [
+        "Illustrative example of the association between daily step count and incident CHD, before and after correction for regression dilution bias. Analysis was performed in 87 038 participants after excluding those with low-quality accelerometer data, prevalent atherosclerotic cardiovascular disease, or missing covariates. Cox models were undertaken by using age as the timescale, stratified by sex, and adjusted for season of accelerometer wear, ethnicity, geographical area, education, Townsend deprivation index, alcohol intake, smoking status, and fresh fruit and vegetable intake. For each step count group, the square represents the HR, with its value shown above and its size being inversely proportional to the variance of the group-specific log risk. Vertical lines represent group-specific 95% CIs. Diagonal lines illustrate the trend across groups based on inverse-variance-weighted regression. The HRs per 4000 steps reflect models in which the step count was treated as a continuous variable.",
+        "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/ije/55/2/10.1093_ije_dyag014/3/m_dyag014f3.jpeg?Expires=1780742540&Signature=v-ePN00ZSAdulrHFMc3DlxaOxhPbpCjlewsxRN0x4zFJxl0Ty8cfG48wYe4YeX-fUkpWLv1nYa7YDW2jXnMwjJwTlFOus8OXXTZp4RXkkc39V~5RoBFR-SR6l2Ys1ujWBad1ZzxYVt2vVMn5yiDbcvIL3b6RTaZd8lUrIaJ6AtXVqwpBD4pAacAgTwZhn8OtFRGb74WOEqCIZUXAkz1Vd5vqmMbjOSeYKiulY1LXp6JAMalyHrYm1f2LcSanPWwirz7R8Z0ktmsH59gK2wwd0yQnYM1K0Te6cYT9~oyGQbbS4jftvHzHgBIRWT0pR7LCgEIyYV53-pDCYxfvc2-oMA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+}

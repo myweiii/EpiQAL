@@ -1,0 +1,30 @@
+{
+    "Figure 1": [
+        "Hypothetical example showing the effect of incomplete specificity of the measurement of the endpoint in a vaccine trial on the estimated absolute risk difference (ARD) and estimated relative risk (RR). Bars represent the full study population for each trial arm, shaded areas the proportion positive on a test. The RR is biased towards 1, whereas the ARD is not affected. The vaccine’s efficacy is commonly interpreted as 1 − RR. FP, false positives; TP, true positives.",
+        "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/ije/55/2/10.1093_ije_dyag034/1/m_dyag034f1.jpeg?Expires=1779263736&Signature=i9Ra4ObIvRoRaT4LYlyd0b8y3rk~H9kqjGtTQ6jdT~K~dwAvM6oJNOZeTDcdt2V72X-0xyYv3r1x3MGxW4iuesefRCAKY-o8DRPEiSmVeD4zEmLwPFE5yuFL0EnyMCQX-vz69p9i~QfVU9Z061Aq5OMA2CH67dbHwbK3C3HTK23KjemAeK9z~~rObjkCHY2Z8LSPfOebXepY2k1733jGfUFsd0CYDS3yWjg6rOy59zLd~8QrmnrZ4by1WA4OVQwKHRCNX-jXtcRa2gb7itNKmCzhWB2CXDBHHiIZBBCKQn2UN5mw0Ixo2Ew4FSd6rmhu4dqDcfzh6j5gsbCtaB7AXA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ],
+    "Table 1": [
+        "Parameters for data generation.",
+        ""
+    ],
+    "Table 2": [
+        "Sensitivity and specificity combinations of tuberculosis infection markers used in data generation.",
+        ""
+    ],
+    "Figure 2": [
+        "Probability of falsely declaring non-inferiority (type I error) for different combinations of sensitivity and specificity of the measurement of the endpoint, and the cumulative infection incidence, in 2000 simulated tuberculosis vaccine trials with an infection endpoint for which true risk is 25% higher with the experimental vaccine than with the control. Horizontal bars: 95% Monte Carlo error bounds. Blue diamonds: combinations for which the observed type I error is consistent with 2.5% (intended type I error). Red diamonds: combinations for which the observed type I error is larger than 2.5%. At 100% (right margin) non-inferiority will be declared by default (in all trials).",
+        "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/ije/55/2/10.1093_ije_dyag034/1/m_dyag034f2.jpeg?Expires=1779263736&Signature=ojQmBpCQ7FLbw1~glA~tRQ56HToFVF0ccxNhS~7~Bo~4AaJkVNdOjtpWVFvzYFLYfYmE4vQG5-Rph0-uqI5WucjuWc~Etmhck1UG8f7FIxc-fYULFn4hp0j~KKi8BXwlj6Z9SofJwwzJzWpo6s2AFJfG71XefzFW-9Y1eQd5FF7o~oeVVONQ-lgdjmIq2BYhUvMGruTBk9Mdsvj89DY3nApQ3jFSMRGMqNfMMusLbGzjB7ngrenw~mDu-tByJHtsq3gx9PA3zjhF-t2v2OsSR49SpG4H04H~TcUOFD8eEvdmgSMCg9vjzPBVl5yFYTyPdc0F1kJd9xnGPb7hbtTe0A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ],
+    "Table 3": [
+        "Impact of imperfect sensitivity and specificity of tuberculosis infection outcome on type I error.",
+        ""
+    ],
+    "Figure 3": [
+        "Probability of correctly declaring non-inferiority (power) for different combinations of sensitivity and specificity of the measurement of the endpoint, and the cumulative infection incidence, in 2000 simulated tuberculosis vaccine trials with an infection endpoint for which true risk is 25% higher with the experimental vaccine than with the control. Horizontal bars: 95% Monte Carlo error bounds. Blue diamonds: combinations for which the observed power is consistent with 80% (intended power). Red diamonds: combinations for which the observed power deviates from 80%. At 100% (right margin) non-inferiority will be declared by default.",
+        "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/ije/55/2/10.1093_ije_dyag034/1/m_dyag034f3.jpeg?Expires=1779263736&Signature=YjhTwoXYCNgQcJlIRtOMMI98IdJ25xfv6sWTiBcrjF553N~Xa8IMw59Z-1A0Lf3pu~YWhRSi3tZZQsp-bjrOPYQfa2eJYvpEdbVwSqcoAemVS9la-9s6nJPU~waQhjfRgO3o978qAF6ggQ7UVhd5WaOnyZpYEBM8Z9Pu~QP0nIKUWlpnHSmfp5jNb0fsv-kVyiqlrEdG0nc4ERJaMsHwXZAFa7FvxLPfDBSiFPYaVJpou2VbhHZx2YrgivIAvVXBHWXxaSVtYWn2sNvtOtK~fujrU-X~zr-4DAhRXqPv3xYt3B8dwhT8H8rzn0LV6GXMlUhsrjN5gFWbTWj~fQWnUA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ],
+    "Table 4": [
+        "Impact of imperfect sensitivity and specificity of tuberculosis infection outcome on power.",
+        ""
+    ]
+}

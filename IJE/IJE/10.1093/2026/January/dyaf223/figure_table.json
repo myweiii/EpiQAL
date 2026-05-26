@@ -1,0 +1,26 @@
+{
+    "Figure 1.": [
+        "Overall flowchart of our workflow. Abbreviations: CAD: coronary artery disease, LDL-C: low-density lipoprotein cholesterol, HDL-C: high-density lipoprotein cholesterol, BMI: body mass index, TG: triglyceride, T2D: type 2 diabetes, HMGCR : 3-hydroxy-3-methyl-glutaryl-coenzyme A reductase.",
+        "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/ije/55/1/10.1093_ije_dyaf223/1/m_dyaf223f1.jpeg?Expires=1779238362&Signature=ULs4tJTAYa2KExSvx7NAUFi-vgoxntvthxqYptkI4BRUWL2yQoo81sJTazyDLqB4up2MSM5DZUOMJMJQjmtY8NsOBQ6N71vfQf8cCN66StmQ922dYsbZizaN3U7n81DG-ShupuwIemitzhed0JxDLGxQbG8v7EYPy5zIW1wjHDYfwX41M9U~63PujXrvyJBoUWYyol6vhoo1DgveqgYSMkDuxdeZF-yHwtDnpICbcrtvtWDIHp372sqdJfs-b22YPsK9PzN2yEgencVOHgmARyZPDKDJJC1Kvt6URsuU6fjfTG4oaQuq2jjlnesihr9vwilrCdtL8B9-QacGW0~YqQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ],
+    "Figure 2.": [
+        "Heatmap of colocalization results from proportional colocalization and coloc-SuSiE/coloc methods. Top-right quadrant displays results from the proportional colocalization method (prop-coloc-cond). Bars represent negative log 10 -transformed P values for the proportionality test (cyan) and the Lagrange multiplier (LM) test (green). Phenotypic heterogeneity is indicated when both tests reject the null hypothesis ( P < .05, equivalent to −log 10 P > 1.3, red horizontal line). Bottom-left quadrant displays results from coloc-SuSiE (orange-shaded box) or coloc methods. Coloc-SuSiE was used preferentially; coloc was used in cases where coloc-SuSiE did not find a credible set of causal variants. Bars represent posterior probability percentage divided by 10 (i.e. 10.0 represents 100%) for non-colocalization (H3, orange) or colocalization (H4, magenta). Phenotypic heterogeneity is indicated when the posterior probability for H3 is above 50% (red horizontal line). A black box indicates evidence for phenotypic heterogeneity from each method, and a red box indicates evidence from both methods. Only traits with evidence of rejecting at least one colocalization test are displayed.",
+        "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/ije/55/1/10.1093_ije_dyaf223/1/m_dyaf223f2.jpeg?Expires=1779238362&Signature=oSJgkFsaGMptLkh93~kBb3URNIJEADSFuckNjes1pMt9NXyhPaE2NGy6HFhb6mP3ZFxblYkzdOmsyCatE3W0QwhWuNy5RvzKVh7d5WwkE6HPKBUyQk753cuYc6Mu3tjGDpOTTfxV-fKwLh710hNFJ~JeoiYm2U09yg7dT~0IEAtQMYsYSUuJRo2DH5-pXJPJ2ahm046k6rNRXObRgsSyyI5dQTvpMoRLZcMbB8xyGFr~ceW7qVGuZpgWZpCljPbKpUhpUjD~064E4tGkrxe21FtPGbv1wn8BJf70YwVGYDjpVvl1BRLZlvkgnRNnKe606H4gn~pJB1TYGNIL7oTMiw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ],
+    "Figure 3.": [
+        "Multivariable Mendelian randomization results. Estimates represent mutually adjusted odds ratios for coronary artery disease (CAD, left) and type 2 diabetes (T2D, right) per 1 standard deviation increase in genetically predicted low-density lipoprotein cholesterol (LDL-C) or per 1 kg/m 2 increase in body mass index (BMI) from multivariable analyses restricted to genetic variants in the HMGCR locus.",
+        "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/ije/55/1/10.1093_ije_dyaf223/1/m_dyaf223f3.jpeg?Expires=1779238362&Signature=DgfHAZOvS-QFZ7UcQfeMcF9DCkzXIcBNjMnGRBLwq~J2AhKzEnBKU3eYYSsc9puHsRgHfGFEGjk0CCoYw5BRR0PKUIytcCF69LlkTgqCIKMeKvAo3JrvqUBOzguVrjqUdn34BqvJ2fhojqcAbuE0O7tKxaMJA1DGVNJDGMu6Zf~kEtd625fZcT16Ham25oIJgwNFIikao6zU2Axq~Q~ZJZbymmP0MEIBT3mNNcv0W4oyM8KU2lFTVSNBE65kyUqPmA4KG-hhUQ8dgcZr~h4etVIsV2OMfPgXrZ2kbkE2r1vEptm2BKeZ5gZI~VR8jvj5M9y~BsaSmSMGf2drmXHg4A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ],
+    "Table 1.": [
+        "Summary of results from colocalization analyses to validate Mendelian randomization.",
+        ""
+    ],
+    "Table 2.": [
+        "Top ranking models and risk factors from Mendelian randomization Bayesian model averaging (MR-BMA) method: risk factors showing phenotypic heterogeneity in Fig. 2 are used as inputs in this method.",
+        ""
+    ],
+    "Table 3.": [
+        "Top ranking risk factors from Bayesian variable selection method (MVMR-cML-SuSiE): risk factors showing phenotypic heterogeneity in Fig. 2 are used as inputs in this method.",
+        ""
+    ]
+}

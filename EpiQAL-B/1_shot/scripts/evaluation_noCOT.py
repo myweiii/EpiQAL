@@ -94,7 +94,7 @@ def evaluation(final_qa, mode="noCOT"):
                             valid_indices = []
                             valid_prompts = []
                             for pi, prompts in enumerate(evaluation_prompt_list):
-                                # 粗略估算 token 数（字符数/4）
+                                # Roughly estimate token count (chars / 4)
                                 total_chars = sum(len(m["content"]) for m in prompts)
                                 if total_chars / 4 > config.max_position_embeddings - 1000:
                                     current_idx = batch_final_qa[input_list[pi]]['idx']

@@ -1,0 +1,359 @@
+{
+    "0": {
+        "Cluster randomized trial": 8,
+        "Pilot or feasibility study": 9
+    },
+    "1": {
+        "Bayesian model averaging": 9,
+        "coloc-SuSiE": 9
+    },
+    "2": {
+        "1992": 9,
+        "1970s": 3
+    },
+    "3": {
+        "19.1% (18.0%\u201320.4%)": 9,
+        "4.7% (4.0%\u20135.5%)": 9
+    },
+    "4": {
+        "The proportion of deaths with missing date components": 9,
+        "The median absolute difference in months between reported and HDSS-recorded dates": 9
+    },
+    "5": {
+        "Chronic obstructive pulmonary disease (COPD)": 9,
+        "Coronary heart disease": 9,
+        "Dementia/Alzheimer\u2019s disease": 6,
+        "Dementia/Alzheimer's disease": 2
+    },
+    "6": {
+        "2%": 9,
+        "80%": 9
+    },
+    "7": {
+        "Seasonal average ambient UV, calculated by averaging satellite data over summer and winter months at each latitude/longitude": 9,
+        "Self-reported time outdoors in summer and winter, summed over different age spans": 8
+    },
+    "8": {
+        "Fetal growth restriction (FGR) and preterm birth": 9,
+        "Placental abruption and preterm birth": 5
+    },
+    "9": {
+        "Cumulative DDDs": 9,
+        "Time since cessation": 6
+    },
+    "10": {
+        "Weighted median method": 9,
+        "Multivariable MR (MVMR) analysis": 9
+    },
+    "11": {
+        "To assess the antimalarial efficacy of IPTp-SP compared to IPTp-DP": 8,
+        "To evaluate the impact of IPTp-SP on maternal nutrient absorption and inflammation": 8,
+        "To determine the optimal timing for vaginal swab collection during pregnancy": 3
+    },
+    "12": {
+        "A linear regression on the crude mortality rate": 6,
+        "A quasi-Poisson regression model fitted to monthly age-specific death counts": 3
+    },
+    "13": {
+        "Used ordinary least squares (OLS) regression": 9,
+        "Utilized data from the Health and Retirement Study (HRS) and English Longitudinal Study on Ageing (ELSA)": 7
+    },
+    "14": {
+        "Cox regression": 9,
+        "Two-sample MR approaches": 9
+    },
+    "15": {
+        "38%": 9,
+        "97%": 9
+    },
+    "16": {
+        "2.6%": 9,
+        "18.0%": 9
+    },
+    "17": {
+        "Oromia, Amhara, and South Ethiopia": 9,
+        "Harari, Dire Dawa, and Sidama": 7
+    },
+    "18": {
+        "To ensure a comparable length of follow-up and general time frame with the KLoSA data": 9,
+        "To enable direct comparison of loneliness measures between the HRS and KLoSA": 6
+    },
+    "19": {
+        "South region": 9,
+        "Center-West region": 9
+    },
+    "20": {
+        "Flexible parametric survival models": 8,
+        "Hazard ratios (HRs) and 95% confidence intervals (CIs)": 7
+    },
+    "21": {
+        "C-reactive protein": 5,
+        "Branched-chain amino acids": 9
+    },
+    "22": {
+        "Cox proportional-hazards regression models": 9,
+        "Random-effects meta-analysis": 9
+    },
+    "23": {
+        "Using the nearest monitor measurements to estimate personal exposure from outdoor sources": 7,
+        "Applying a random forest behaviour prediction model to predict whether a person was at home or not during the extrapolation period": 9,
+        "Using the nearest monitor measurements to estimate personal exposure from outdoor sources during the measurement period in the London exposure panel studies": 1,
+        "Using the nearest monitor measurements to estimate personal exposure from outdoor sources during the measurement period": 1
+    },
+    "24": {
+        "Cochran\u2019s Q statistic": 6,
+        "MR-Egger regression": 9,
+        "Weighted median approach": 9,
+        "Cochran's Q statistic": 3
+    },
+    "25": {
+        "Participants were asked about their usual frequency and quantity of consumption for beer, wine, and spirits during 10-year age periods starting at age 20, and intake was assessed using a 121-item food frequency questionnaire.": 5,
+        "Participants were asked about their usual frequency and quantity of consumption for beer, wine, and spirits during 10-year age periods starting at age 20, and intake was calculated as the sum of intake from the three beverage types in grams per day.": 4
+    },
+    "26": {
+        "Multivariable linear regression model": 9,
+        "Factorial MR analysis": 9
+    },
+    "27": {
+        "COPD": 7,
+        "Pulmonary tuberculosis": 5
+    },
+    "28": {
+        "\u22642 years": 7,
+        "\u22655/8": 4,
+        "\u22645/8": 2
+    },
+    "29": {
+        "2017 for Australia and 2016 for New Zealand": 9,
+        "2019 for Australia and 2018 for New Zealand": 9
+    },
+    "30": {
+        "0.56 to 0.76": 8,
+        "0.69 to 0.75": 8
+    },
+    "31": {
+        "The number of malaria diagnoses based on rapid diagnostic tests (RDTs)": 9,
+        "The monthly number of malaria diagnoses per 1000 overall non-COVID-19 diagnoses": 3
+    },
+    "32": {
+        "Logistic regression models": 7,
+        "Cubic spline interpolation": 4
+    },
+    "33": {
+        "1955 to 1992": 9,
+        "1966 to 1987": 9
+    },
+    "34": {
+        "To align with the 2020\u201322 study period": 4,
+        "To ensure consistency with data from the Oxford COVID-19 Government Response Tracker": 4
+    },
+    "35": {
+        "5.99/1000": 9,
+        "1.16/1000": 9
+    },
+    "36": {
+        "Separate Cox models for each trimester": 9,
+        "Distributed lag non-linear models (DLNMs) and survival analysis": 1
+    },
+    "37": {
+        "Kaplan\u2013Meier approach": 9,
+        "Test of scaled Schoenfeld\u2019s residuals": 8,
+        "Multiple imputations by chained equations": 9,
+        "Test of scaled Schoenfeld's residuals": 1
+    },
+    "38": {
+        "Monthly allocation of benefits": 8,
+        "Feast-or-famine cycle": 8,
+        "Perceived weight status": 9
+    },
+    "39": {
+        "Linear regression": 9,
+        "Difference-of-coefficients or product-of-coefficients methods": 9
+    },
+    "40": {
+        "July to September": 9,
+        "2015 and 2019": 7
+    },
+    "41": {
+        "Abdominal ultrasonography, metabolic indicators, and lifestyle factors": 7,
+        "Traffic-related pollutants such as nitrogen dioxide (NO 2 ) and carbon monoxide (CO)": 9
+    },
+    "42": {
+        "Weight measurements were excluded if they were outside 3 standard deviations from the cohort mean.": 9,
+        "Weight measurements were excluded if they were outside 3 standard deviations from the individual mean.": 5,
+        "Weight measurements were excluded if they were less than 48 inches or greater than 84 inches based on biological impossibility.": 4
+    },
+    "43": {
+        "Estonia": 6,
+        "Sweden": 8
+    },
+    "44": {
+        "Late 2020 to mid-2021": 8,
+        "Mid-2021 to early 2022": 9
+    },
+    "45": {
+        "7.1 years": 7,
+        "3 years": 9
+    },
+    "46": {
+        "More than fifteen fillings": 9,
+        "Six to ten fillings": 9
+    },
+    "47": {
+        "Using genetic variants to assess the robustness of evidence in MR studies": 6,
+        "Applying structured checklists to guide the conduct and reporting of MR studies": 7
+    },
+    "48": {
+        "0.82": 9,
+        "0.96": 9
+    },
+    "49": {
+        "SSQ score of \u226511": 9,
+        "GAD-7 score of \u226510": 9
+    },
+    "50": {
+        "Collecting information on self-test use prior to GP consultation": 8,
+        "Systematic selection of patients meeting the case definition for ARI": 7,
+        "Using a prospective or retrospective cohort study to obtain information on ARI, vaccination, and GP consultation": 8
+    },
+    "51": {
+        "15/19 and 10/11 weeks": 8,
+        "Two weeks": 3
+    },
+    "52": {
+        "2006": 9,
+        "2015": 9
+    },
+    "53": {
+        "Participants were asked about their commuting transport options and categorized into five groups: car/motor vehicle, walk, public transport, cycle, and mode other than those.": 6,
+        "Participants were categorized based on exclusive commuting modes: walking only, cycling only, public transport only, and car only.": 7
+    },
+    "54": {
+        "38.5 per 100,000": 9,
+        "27.2 per 100,000": 9
+    },
+    "55": {
+        "50.2%": 9,
+        "73%": 9
+    },
+    "56": {
+        "50%": 9,
+        "25%": 3
+    },
+    "57": {
+        "Difference-in-differences (DID) analysis": 6,
+        "Modified age-period-cohort (APC) analysis": 8
+    },
+    "58": {
+        "minfi R/Bioconductor package": 9,
+        "METAL software": 9
+    },
+    "59": {
+        "The proportion of green spaces in neighbourhoods": 9,
+        "Intersection density (nodes/km\u00b2)": 9,
+        "The proportion of the population aged \u226525 years who had completed secondary education or above": 3
+    },
+    "60": {
+        "Schools were disrupted in January 2022": 9,
+        "The Omicron wave caused a shortage of testing in some areas": 6
+    },
+    "61": {
+        "The method is subject to bias from horizontal pleiotropy through the offspring genome": 4,
+        "The approach requires genotyped mother\u2013offspring pairs to be available": 3
+    },
+    "62": {
+        "47.1%": 9,
+        "24.6%": 9
+    },
+    "63": {
+        "Black men with low education experienced a life expectancy loss of 4.7 years": 8,
+        "White women with low education experienced a life expectancy loss of 1.5 years": 5
+    },
+    "64": {
+        "Obesity": 9,
+        "Neighborhood walkability": 9
+    },
+    "65": {
+        "Open-label, cluster-randomized trial": 9,
+        "Pilot randomized trial": 8
+    },
+    "66": {
+        "Using the \"svyset\" command with census sector as the stratification variable and city as the primary sampling unit": 4,
+        "Using principal component analysis to calculate a wealth index based on household characteristics and assets": 3
+    },
+    "67": {
+        "PangoLEARN machine-learning model": 9,
+        "pangolin software tool": 9
+    },
+    "68": {
+        "1.19": 9,
+        "1.76": 9
+    },
+    "69": {
+        "150 ng/mL": 9,
+        "64.3 ng/mL": 9
+    },
+    "70": {
+        "Blue-collar occupations": 5,
+        "Outdoor working conditions": 3
+    },
+    "71": {
+        "Incident diabetes": 9,
+        "BMI": 9,
+        "Waist circumference": 3
+    },
+    "72": {
+        "Bayesian distributed lag interaction models (BDLIMs)": 9
+    },
+    "73": {
+        "Families with at least one member aged 60 or older": 9,
+        "Wealthier and more educated families": 9,
+        "Families with children or adolescents aged under 18": 3
+    },
+    "74": {
+        "As-started effect": 4,
+        "Average treatment effect of initiation in a given period": 2
+    },
+    "75": {
+        "Gestational diabetes mellitus": 9,
+        "Maternal hyperthyroidism": 9,
+        "Preeclampsia, eclampsia or Hemolysis, Elevated Liver enzyme, and Low Platelet syndrome": 9
+    },
+    "76": {
+        "The number of tropical cyclones or floods a participant was exposed to": 6,
+        "The time elapsed between exposure and blood draw": 7
+    },
+    "77": {
+        "13 g per standard drink": 9,
+        "39\u201373 years": 8,
+        "Less than 3 years": 8
+    },
+    "78": {
+        "The assessment centre was chosen based on sufficient proximity to highly populated regions": 9,
+        "The assessment centre served as a proxy for unobserved area-level characteristics linked with differential outdoor PM2.5 levels": 7
+    },
+    "79": {
+        "\u226410 years of age": 7,
+        ">15 years of age": 7
+    },
+    "80": {
+        "Temperature-related mortality": 7,
+        "Hospital admissions": 7
+    },
+    "81": {
+        "CRP": 9,
+        "ACE score": 8
+    },
+    "82": {
+        "1.28": 9,
+        "2.06": 9
+    },
+    "83": {
+        "17.0%": 9,
+        "4.0%": 9
+    },
+    "84": {
+        "2005 to 2009": 9,
+        "2014 to 2021": 9
+    }
+}

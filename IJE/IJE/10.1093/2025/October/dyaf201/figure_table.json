@@ -1,0 +1,22 @@
+{
+    "Table 1.": [
+        "Descriptive statistics of the overlap population",
+        ""
+    ],
+    "Table 2.": [
+        "Average treatment effects of retirement on cognitive function",
+        ""
+    ],
+    "Figure 1.": [
+        "Heterogeneity in sociodemographic characteristics. Q1 represents the group with the lowest conditional local average treatment effect on the overlap population (CLATO), whereas Q5 represents the group with the highest CLATO. Each tile indicates the mean value of a covariate within the group, with its standard deviation in parentheses. “Scaling” assigns 1 (green) to the maximum value and 0 (yellow) to the minimum value for each variable with a color gradient. Compared to the group with the lowest benefit from retirement (Q1), the group with the highest benefit (Q5) includes more older people (mean age: 65.5 vs. 63.0) and fewer men (% of men: 0.42 vs. 0.57). Asset and income are standardized to z-scores. P -values of F-statistics are adjusted using the Bonferroni method.",
+        "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/ije/54/6/10.1093_ije_dyaf201/1/m_dyaf201f1.jpeg?Expires=1779317143&Signature=2PyqpYtcFZ1W9F74aGfpV25sJmlJBhyv4EX59wHJjj2IJi2leV~H2NaZhHBD9M6ZeY3eVB47Y9XDOUEtihvdeqfNcWivg8op2wW20p16AwzpA0l-kiEbG-SrBZeWJyLSWY1j24h2TOK9EWED9Sm5pIidOW4oUYiXFRYvKbgzhmZj1Tg-cLn4Ov0E8xhgrBpGkM94mJR~HiCPVbx0u4NWm4K1nm3Qm6Q~7YDxDBAJRFUu-lun5s~zf2TDEXC2Wft1dy7015Nh1WFQVvS-yJsLdu2QLPlCpDRaW7ZjOEfQAR08vyuAUN35knf3LwWw1S2prw4pdFLzTch4FjQ-~dSpDQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ],
+    "Figure 2.": [
+        "Heterogeneity in health and behaviors. Q1 represents the group with the lowest conditional local average treatment effect on the overlap population (CLATO), whereas Q5 represents the group with the highest CLATO. Each tile indicates the mean value of a covariate within the group, with its standard deviation in parentheses. “Scaling” assigns 1 (green) to the maximum value and 0 (yellow) to the minimum value for each variable with a color gradient. Compared to the group with the lowest benefit from retirement (Q1), the group with the highest benefit (Q5) includes more people with higher self-rated health (mean score: 4.0 vs. 2.8) and fewer people with hypertension (% of having hypertension: 0.25 vs. 0.55). Depression and life satisfaction are standardized to z-scores. P -values of F-statistics are adjusted using the Bonferroni method.",
+        "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/ije/54/6/10.1093_ije_dyaf201/1/m_dyaf201f2.jpeg?Expires=1779317143&Signature=wEEvWqsIheMcvwDE4EyGPZbRhfIXEKqwHpW9nZZRxonagsT3VTDQWg7WoulbxGFoCpO4xFcxaHh~MUCaVdQFFfFvYVFavSm-ahPB3b9BbjGmaikCt24K1ej6CRiCaiQVZB~LJFHn44-Y~LfS7OOaWVRziMnY0bdd-v~DztNtL3XcrwRRkJNJXHAVvpTdGBoX3eg1~cVH8V6qUAsb5xoDYnXEGhYH5Wz8Hk1WLv-PXhviHj4R3f~SyI0uRJ0cJoxCT08QAlnri1SaPdjKa7jTBxjoHOwjtcetqeY3LGQuLfq5Y8Fmx~1v0IbFudp0ayLnq86GGEAUjPj-x9Xahh6TnQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ],
+    "Figure 3.": [
+        "Heterogeneity in countries. Q1 represents the group with the lowest conditional local average treatment effect on the overlap population (CLATO), whereas Q5 represents the group with the highest CLATO. Each tile indicates the mean value of a covariate within the group, with its standard deviation in parentheses. “Scaling” assigns 1 (green) to the maximum value and 0 (yellow) to the minimum value for each variable with a color gradient. Compared to the group with the lowest benefit from retirement (Q1), the group with the highest benefit (Q5) includes more people from Denmark (% of Danish: 0.11 vs. 0.02) and fewer people from France (% of French: 0.02 vs. 0.05). P -values of F-statistics are adjusted using the Bonferroni method.",
+        "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/ije/54/6/10.1093_ije_dyaf201/1/m_dyaf201f3.jpeg?Expires=1779317143&Signature=HdMvyNhcwjDrbUmOYf6r~jN18FjoYS96BXvtiDoT13D7wggXDcKuoMa8XtyYxRPmwt1HxZFSehmKCzI6ycOjguaKQbkADdpP-OIIVnbV2eYkBBJ4D2kq~UiTsiLbfSAlqt7LeiiBc7submfg~5SrcxYamxIazMzN58YjyVzLvwDeZK4VdDzLjaj4alrqjupTKbt6qutKlYq6ViR8Ukb-Jh6JjbgkiKk9lJDLsJkF9ZuMW6V73NhM0Uby8nborSL9gQOMBWeEplGDJaPo5X9-F5urc79C-5dPIkM8S-4VvMWOjQFSLE3WngF1rXew9NUE8Cf-SRlnjD~INTx9Y-YOIQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+}

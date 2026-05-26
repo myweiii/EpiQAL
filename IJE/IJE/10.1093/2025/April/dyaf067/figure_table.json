@@ -1,0 +1,34 @@
+{
+    "Table 1.": [
+        "Description of ECHO cohorts that met the inclusion criteria",
+        ""
+    ],
+    "Table 2.": [
+        "Descriptive characteristics of our analytic sample, by ECHO cohort",
+        ""
+    ],
+    "Table 3.": [
+        "Association between newborn blood DNA methylation levels, at probe cg24749470 ( CADM1 ), and later childhood asthma among participants born after 28 weeks of gestation",
+        ""
+    ],
+    "Figure 1.": [
+        "Sex-specific association between newborn DNA methylation (DNAm) level and childhood asthma at selected differentially methylated regions (DMRs) (6p21–6p22 locus) in participants born after 28 weeks of gestation. The two DMRs were selected as examples to visually demonstrate the difference in the association between DNAm and asthma between males and females. (A) The chr6:33 048 254–33 048 879 ( HLA-DPB1 ) region. (B) The chr6: 30 039 132–30 039 801 ( RNF39 ) region. The DMRs were identified by the comb-p method based on the sex-stratified meta-analysis results from four ECHO cohorts. The bottom panels show the effect size (%DNAm difference) for the association between DNAm (beta-value) at individual CpGs in the DMRs (highlighted by the rectangle shade in the background) and asthma among males and females, respectively. A %DNAm difference greater than 0 (pink area) represents hypermethylation in asthma cases compared with non-cases; a %DNAm difference less than 0 (blue area) represents hypomethylation in asthma cases compared with non-cases. Gene annotations were obtained from the UCSC Genome Browser (GRCh37/hg19). Abbreviations: DHS = DNase I hypersensitive sites; ECHO = Environmental Influences on Child Health Outcomes; TFBS = transcription factor binding site; UCSC = University of California, Santa Cruz, Genome Browser.",
+        "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/ije/54/3/10.1093_ije_dyaf067/2/m_dyaf067f1.jpeg?Expires=1779240382&Signature=3oHisq31Kea9VeMTVO8c0n02~JUbzipOGl51JDpQ40dMxtmQtBS3sDjmXH8RAhNOgYue7uzNwQZoHdIffeUSQTYV04HMkleeCGSrBAYeOuQqYDuikRGmrF-GXPG6~~8DS0CZcDXJTtaWrMOX9XfJwIa9M68u553FjjTBaNjNukxSxVZlWXnSDUFpHOq3UY-8aA3gNcCHcdZb02t1NREi6sZSRgWW~7EgL3NiJz8JsjsLTJHFylwmI5f5u8xccSo6l6Ys-6-x9ejVD1zvtTsRTY3AuNApHTqZZYxNiDoblx83-QzrzCJVR7qeEYC37mb8D~bxfcQg4xemXXednJWxCQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ],
+    "Table 4.": [
+        "Differentially methylated regions in newborn blood associated with childhood asthma among participants born after 28 weeks of gestation",
+        ""
+    ],
+    "Table 5.": [
+        "Sex-stratified association between newborn blood DNA methylation and later childhood asthma at differentially methylated positions cg03237868 ( SPATA18 ) and cg20681219 ( IRF2 )",
+        ""
+    ],
+    "Figure 2.": [
+        "Association between newborn DNA methylation (DNAm) level and childhood asthma at selected differentially methylated regions (DMRs) in participants born before 28 weeks of gestation. The two DMRs were selected as examples for visual demonstration. (A) The chr1: 223 566 447–223 567 002 ( CCDC185 ) region. (B) The chr1: 153 599 479–153 600 064 ( S100A13 ) region. The DMRs were identified by the comb-p method based on the EWAS analysis of all participants in the ELGAN cohort. The bottom panels show the effect size (%DNAm difference) for the association between DNAm (beta-value) at individual CpGs in the DMRs (highlighted by the rectangle shade in the background) and asthma. A %DNAm difference greater than 0 (pink area) represents hypermethylation in asthma cases compared with non-cases; a %DNAm difference less than 0 (blue area) represents hypomethylation in asthma cases compared with non-cases. Gene annotations were obtained from the UCSC Genome Browser (GRCh37/hg19). Abbreviations: DHS = DNase I hypersensitive sites; ECHO = Environmental Influences on Child Health Outcomes; ELGAN = Extremely Low Gestational Age Newborns; EWAS = epigenome-wide association study; TFBS = transcription factor binding site; UCSC = University of California, Santa Cruz, Genome Browser.",
+        "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/ije/54/3/10.1093_ije_dyaf067/2/m_dyaf067f2.jpeg?Expires=1779240382&Signature=IxpPR1aSjDGpcWh-lsxRXlG1z4X9ClW7SLPybDp9PmTA5XbJvuiIg73ZKAIVpV-FJjPCNc5znLRhrXZpG4YuoATH8-CMIxkVSxCL9M3vgcvHNkg30iSXAq0QvLw5lIXr~DVenUonP0w6T45ZUdbsRsYwwGEuDgMpf13dooGjJIjfnxgqLRe68-qXfzXFDeFNj~3EihNBP7ITcPAt9U7rD5dfTiJWwbLztR5cMj1TvBXn4Mm3JU7JSsdFgTtjomi7HmasWod5yeSgZ7PwTXGfxZQrmMdLhSjw~HXAH1~O7yrJbsi-aOI3uahxjIBcNWtKAZ-GTu-eGx5Zx86WlEMXeg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ],
+    "Table 6.": [
+        "Differentially methylated regions identified in newborn blood associated with asthma in childhood among participants born before 28 weeks of gestation",
+        ""
+    ]
+}

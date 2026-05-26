@@ -1,0 +1,22 @@
+{
+    "Figure 1.": [
+        "Schematic of the method used to estimate the PPV of clinical pneumonia as defined by the WHO. WHO-defined cases are classified into four groups that are defined by true pneumonia and malaria-slide result, with the proportion in each group denoted p i ( i = 0,1 , 2,3 ) ⁠ . The sum of the middle two bars ( ⁠ p 1 + p 2 ⁠ ) represents the proportion of WHO-defined clinical cases that are true cases of pneumonia (PPV), whereas the last bar ( ⁠ p 3 ⁠ ) represents the misdiagnosed proportion. Because true pneumonia status is unknown, the direct estimation of p i is not possible. Instead, we use three observable quantities: (i) the proportion, v ⁠ , of WHO cases that are malaria-slide-positive; (ii) the proportion, q ⁠ , of WHO cases that are both positive on CXR and malaria-slide-positive; and (iii) the proportion, r ⁠ , of WHO cases that are both CXR-positive and malaria-slide-negative. First, we estimate p 1 by assuming that the WHO pneumonia criteria are 100% specific among malaria-slide negatives. This implies that p 0 = 0 and p 1 = 1 - v ⁠ . Then, to estimate p 2 ⁠ , we divide q by an estimate of the sensitivity of CXR ( ⁠ r 1 - v ⁠ ) such that p 2 = q × ( 1 - v ) r ⁠ . Here, we assume that the sensitivity of CXR is independent of malaria parasitaemia. Finally, using the fact that the probabilities sum to one, p 3 can be estimated as p 3 = 1 - p 1 - p 2 ⁠ .",
+        "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/ije/54/2/10.1093_ije_dyaf040/1/m_dyaf040f1.jpeg?Expires=1779247628&Signature=Vy4bIz8CbmVvmvX3wHkulxRyvZ3ULIsVsEtgWcRAgc3z4HzjfP5dgVemR7lR~TWPt8wEjZG6ydFXbyzbAiU6gsnKCnZfayIjS9zlVl94062hr39madf2kfSaCA6MdsYhDgACo9yN7R-~7G3PeBGE~v25Rj-q4WmfyqUbyf~zOhyJ8ey6qsxKvTNJej2HKj5E9yGQSWuXSvKQ9djZiI-tsg0Ry~GWXOrF0n2itpteRKMWLum-zSxlPy~TaZqj8bjvP4S~l6pWERdulifDtRkBr1eMo1Hc-Dt2qtfjbzBEe4kkt~tW5AwQ9nE80Ih23xOxZzXDNu4dcSy3boZ2VMUYvg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ],
+    "Figure 2.": [
+        "Breakdown of children included in the analysis and reasons for exclusion.",
+        "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/ije/54/2/10.1093_ije_dyaf040/1/m_dyaf040f2.jpeg?Expires=1779247628&Signature=eBRlelq0zGFPyeRgSjR6VQd-UapCH3MJri1A3mQyEsJjFQZ-QfqS~O69YvXDvaXjW6C2tjIU0rVuwhFG4pVcOIZJs-QJdEZ9j64aJJxK2VSfrjTdSbUqt8DaWT0FoY8~pKsOBgZAQrQS4y77jtYqr8vi8nJbIRXuSID3G9ho3HpTs66ly1PKlo9rSe9~M63jiFkGqDSSwetBDzRIAFhSB6-aXXrOZUsQ4xnpgUkFsYCmIRr4MnBZLE0VM02OIJ0TKI0gdDhtVbdLD7Kz4yJI8hCgGpnrMe-Ko3L75saxoLoNALAMISxVEfICpdulgXKty7KOGlb3tRsc3r8tBXTgvw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ],
+    "Table 1.": [
+        "Characteristics of 1650 patients with clinically defined pneumonia and complete data on malaria slide and CXR results.",
+        ""
+    ],
+    "Table 2.": [
+        "PPV of clinical pneumonia, as defined by the WHO, in the Pneumonia Etiology Research for Child Health study.",
+        ""
+    ],
+    "Figure 3.": [
+        "Misclassification of clinical pneumonia cases, as defined by the WHO, as a function of the community prevalence of malaria parasitaemia in children aged 1–59 months. Cases are categorized as either: (i) malaria-slide-negative, (ii) coinfected and attributable to malaria, (iii) coinfected and not attributable to malaria, and (iv) misdiagnosed. The PPV of the WHO pneumonia definition corresponds to the proportion of cases that are either malaria-slide-negative or coinfected.",
+        "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/ije/54/2/10.1093_ije_dyaf040/1/m_dyaf040f3.jpeg?Expires=1779247628&Signature=FcbMsDkIgwjZJLWJyu5FSYl-00cnG-syulKVDWH6n1L53wq8A19fxyrf4ww7xlNkUns-atk5QEqPBwjxx1yir2cYY1t6dKHGPRtoaNNDT1XgnHKjD3n3azV-9TPPsmZjn8-mOLXkOtCt8zItoVTk~5j~ne11DrLdO3ejKURmbHFpzCLV5faCfo9pMmKU4YWJc0MjRf20XBzo0fV-z98TTdNiffwlCok1dgTPkDX6SlKK2OoG28INoIsVS7RBTg9OqqOR1Psf-2EvNURVO9qrD6uzkK8biXa1ATFwjvEdfBI9bOw9-GkW8mgl2uzI4nq-V7aIRByHn-YoOdjNaDZcdw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+}

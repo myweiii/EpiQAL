@@ -1,0 +1,1697 @@
+{
+    "0": [
+        {
+            "Category": "Distractor",
+            "Option": "Cluster randomized trial",
+            "Evidence": [
+                "The SW-CRT study design is often appealing in these settings.",
+                "Moreover, due to the nature of complex interventions, randomization at the level of the individual is often inappropriate [ 2 ]."
+            ],
+            "Rationale": "This is a plausible distractor because 'cluster randomized trial' is a valid type of study design mentioned in the passage and is semantically related to the correct answer. However, the question specifically asks for the design used in real-world settings when individual randomization is inappropriate, and the passage explicitly identifies the 'stepped-wedge cluster randomized trial (SW-CRT)' as the specific design that addresses this context. 'Cluster randomized trial' is a broader category and does not capture the stepped-wedge feature that distinguishes this design, making it incorrect as a response to this precise question."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "Pilot or feasibility study",
+            "Evidence": [
+                "Seven (8.5%) were pilot or feasibility studies and 26 (31%) reported having a prior feasibility or pilot study to test at least some aspects of the SW-CRT design.",
+                "The scarcity of feasibility or pilot studies for SW-CRTs has also been reported previously [ 13 ]"
+            ],
+            "Rationale": "This is a plausible distractor because 'pilot or feasibility study' is explicitly mentioned in the passage and relates to the process of testing interventions. However, the question asks for the study design used to evaluate complex interventions in real-world settings, not the preparatory studies conducted before them. The passage clearly distinguishes between pilot studies and the main evaluation design (SW-CRT), so this distractor confuses a preparatory method with the primary study design."
+        }
+    ],
+    "1": [
+        {
+            "Category": "Distractor",
+            "Option": "Bayesian model averaging",
+            "Evidence": [
+                "Bayesian model averaging was performed by running the MR-BMA method using default settings, including an independent prior inclusion probability of 0.1 for each risk factor [24]."
+            ],
+            "Rationale": "This is a plausible distractor because 'Bayesian model averaging' is a statistical method explicitly mentioned in the passage and is part of the study's analytical framework. However, it was used in a different context\u2014specifically for calculating posterior probabilities of risk factor models\u2014not for dimension reduction in multivariable Mendelian randomization. A reader who skims the passage might confuse it with the method used in the multivariable analysis due to its similar technical nature and placement in the methods section."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "coloc-SuSiE",
+            "Evidence": [
+                "We use the coloc-SuSiE method preferentially, and coloc in cases where coloc-SuSiE did not find a credible set of causal variants.",
+                "Results from all credible sets using coloc-SuSiE between LDL-C and BMI are reported in Supplementary Table S2"
+            ],
+            "Rationale": "This is a plausible distractor because 'coloc-SuSiE' is a method explicitly named in the passage and used for colocalization analyses. It is mentioned in close proximity to the multivariable Mendelian randomization section, which could lead a reader to mistakenly believe it was used for dimension reduction. However, its actual role was to assess colocalization of genetic signals, not to reduce dimensionality in multivariable models."
+        }
+    ],
+    "2": [
+        {
+            "Category": "Distractor",
+            "Option": "1992",
+            "Evidence": [
+                "Asbestos was banned in 1992",
+                "Italy\u2014historically one of the largest consumers\u2014implemented a national ban in 1992 (Law 257/92)"
+            ],
+            "Rationale": "This is a plausible distractor because '1992' is a specific year mentioned in the passage and is closely related to asbestos policy in Italy. However, it refers to the year of the national ban, not the peak of consumption. A reader who confuses regulatory action with industrial usage might select this option, especially since both events are tied to asbestos in Italy and occur within a similar timeframe."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "1970s",
+            "Evidence": [
+                "asbestos use began in the mid-1970s",
+                "the peak of asbestos use (1960\u201375) in industrialized European countries"
+            ],
+            "Rationale": "This is a plausible distractor because '1970s' is a time period explicitly mentioned in the passage as a period of high asbestos use in Europe. However, the passage specifies that Italy's peak consumption occurred in 1980, not during the 1970s. The distractor draws from a broader regional context (European peak use 1960\u201375) and could mislead a reader who generalizes from European trends to Italy without noting the specific national data."
+        }
+    ],
+    "3": [
+        {
+            "Category": "Distractor",
+            "Option": "19.1% (18.0%\u201320.4%)",
+            "Evidence": [
+                "the proportion of individuals with unsuppressed viraemia decreased from 19.1% (18.0%\u201320.4%) in 2013 to 4.7% (4.0%\u20135.5%) in 2019 in fishing communities"
+            ],
+            "Rationale": "This is a plausible distractor because it is a percentage value with a confidence interval that appears in the passage and refers to a similar metric (proportion with unsuppressed viraemia) in a different population (fishing communities). A reader who confuses the two study locations (inland vs. fishing communities) might select this option, even though it describes the 2013 baseline for fishing communities, not the 2019 figure for inland communities."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "4.7% (4.0%\u20135.5%)",
+            "Evidence": [
+                "the proportion of individuals with unsuppressed viraemia decreased from 19.1% (18.0%\u201320.4%) in 2013 to 4.7% (4.0%\u20135.5%) in 2019 in fishing communities"
+            ],
+            "Rationale": "This is a plausible distractor because it is a numerically close value (4.7%) that appears in the passage and refers to the 2019 population-level viraemia proportion in fishing communities. A reader who misreads the question as asking about the overall population viraemia in fishing communities (rather than the proportion among people with HIV in inland communities) might be misled by this figure, despite the different population context and metric."
+        }
+    ],
+    "4": [
+        {
+            "Category": "Distractor",
+            "Option": "The proportion of deaths with missing date components",
+            "Evidence": [
+                "In the experimental arms, the estimated proportion was 6.1% with PC (SQ versus PC P\u2009= 0.04) and 3.2% with DC (SQ versus DC P\u2009= 0.002)."
+            ],
+            "Rationale": "This is a plausible distractor because it refers to a measurable outcome explicitly reported in the passage and is closely related to the primary outcome in terms of data quality. However, it describes a secondary outcome\u2014missing data on dates\u2014rather than the primary outcome, which was specifically defined as concordance in month and year with HDSS records. A reader who skims the results section might confuse this metric with the main evaluation criterion, especially since it is presented alongside the primary outcome."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "The median absolute difference in months between reported and HDSS-recorded dates",
+            "Evidence": [
+                "When deaths were not reported in the same month and year as recorded by the HDSS, the median absolute difference from the HDSS records ( Fig.\u00a05 ) was 9\u2009months in the control arm [inter quartile range (IQR): 1\u201312], 11\u2009months in the PC arm (IQR: 3\u201312, SQ versus PC P\u2009= 0.16), and 12\u2009months in the DC arm (IQR: 2\u201312, SQ versus DC P\u2009= 0.13)."
+            ],
+            "Rationale": "This is a plausible distractor because it is a quantitatively reported measure of error that appears in the results section and is directly related to the accuracy of date reporting. However, it was used to assess error patterns, not as the primary outcome. The question specifically asks for the primary outcome measure, which is defined earlier in the passage as concordance in month and year. A reader who focuses on the results rather than the study design might mistakenly select this as the main evaluation metric."
+        }
+    ],
+    "5": [
+        {
+            "Category": "Distractor",
+            "Option": "Chronic obstructive pulmonary disease (COPD)",
+            "Evidence": [
+                "Among males, higher risks were observed in those with cancer [1.52 (1.22\u20131.89)], chronic obstructive pulmonary disease (COPD) [1.42 (1.05\u20131.91)], and coronary heart disease [1.31 (1.11\u20131.56)]."
+            ],
+            "Rationale": "This is a plausible distractor because COPD is explicitly listed in the passage as a pre-existing condition associated with elevated heat-EHA risk among males, and its relative risk (1.42) is close to that of cancer (1.52). A reader who skims the passage might select COPD due to its prominence in the sentence and high RR, but the question specifically asks for the condition with the highest risk, which is cancer. This distractor tests precise retrieval of the top-ranked condition."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "Coronary heart disease",
+            "Evidence": [
+                "Among males, higher risks were observed in those with cancer [1.52 (1.22\u20131.89)], chronic obstructive pulmonary disease (COPD) [1.42 (1.05\u20131.91)], and coronary heart disease [1.31 (1.11\u20131.56)]."
+            ],
+            "Rationale": "This is a plausible distractor because coronary heart disease is one of the three conditions explicitly named in the passage as being associated with increased heat-EHA risk in males. Its relative risk (1.31) is lower than both cancer and COPD, but it is still a significant risk factor. A reader who misreads or overlooks the relative risk values might assume it is the highest due to its position in the list or general familiarity with cardiovascular conditions, making it a strong distractor based on keyword proximity and plausibility."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "Dementia/Alzheimer\u2019s disease",
+            "Evidence": [
+                "In females, higher risks were noted for several mental health conditions, such as anxiety [1.46 (1.07\u20131.99)] and dementia/Alzheimer\u2019s disease [1.30 (1.02\u20131.66)]."
+            ],
+            "Rationale": "This is a plausible distractor because dementia/Alzheimer\u2019s disease is mentioned in the passage as a condition associated with higher heat-EHA risk, though specifically in females. A reader who confuses the sex-specific findings or fails to note the gender distinction might incorrectly assume it applies to males as well. The condition is highly relevant to the topic of vulnerability in older adults and appears in a similar context, making it a strong distractor for those who do not carefully attend to the sex-stratified results."
+        }
+    ],
+    "6": [
+        {
+            "Category": "Distractor",
+            "Option": "2%",
+            "Evidence": [
+                "reflecting three different levels of cumulative incidence of IGRA conversion during 2 years of follow-up (2%\u2014e.g. rural East Africa, 5%\u2014e.g. urban East Africa, 8%\u2014e.g. South Africa)"
+            ],
+            "Rationale": "This is a plausible distractor because '2%' is a specific numerical value explicitly mentioned in the passage and refers to a cumulative incidence of TB infection in a low-incidence setting. However, it describes the background risk of TB infection in the control arm, not the non-inferiority margin used in the trial design. A reader who confuses the study's background incidence with the statistical threshold for non-inferiority might incorrectly select this option."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "80%",
+            "Evidence": [
+                "refined in simulations to have approximately 80% power for the non-inferiority hypothesis"
+            ],
+            "Rationale": "This is a plausible distractor because '80%' is a key statistical value mentioned in the passage and relates to the trial's power, which is a central concept in study design. However, it refers to the desired statistical power of the trial, not the non-inferiority margin. A reader who misinterprets the purpose of the 80% target (power) as the margin for non-inferiority may be misled by this option, especially since both are numerical values tied to trial design."
+        }
+    ],
+    "7": [
+        {
+            "Category": "Distractor",
+            "Option": "Seasonal average ambient UV, calculated by averaging satellite data over summer and winter months at each latitude/longitude",
+            "Evidence": [
+                "Satellite data were used to estimate the average daily UV for each month for each year of life according to the latitude and longitude of the location of residence indicated on the lifetime calendar [ 24 ], which we then averaged over the 6-month summer and winter seasons at each latitude/longitude to obtain the seasonal average ambient UV."
+            ],
+            "Rationale": "This is a plausible distractor because it accurately describes a key step in the calculation process and uses terminology directly from the passage. However, it refers only to the 'seasonal average ambient UV'\u2014a component of the full exposure metric\u2014rather than the final composite measure (UV load) that was used in the analysis. A reader who focuses on the technical details of UV estimation but overlooks the integration with self-reported time outdoors might select this as the answer, mistaking a sub-component for the primary exposure metric."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "Self-reported time outdoors in summer and winter, summed over different age spans",
+            "Evidence": [
+                "During the interview, subjects were asked how much time they spent in the sun for each of the years identified in the prefilled questionnaire for summer and winter from age 6\u00a0years until the time of the interview."
+            ],
+            "Rationale": "This is a plausible distractor because it reflects a core element of the exposure assessment method\u2014self-reported time outdoors\u2014and is explicitly mentioned in the passage. However, it describes only one part of the calculation (the behavioral component) and not the full metric (UV load), which combines time outdoors with satellite-derived UV data. A reader who misinterprets the question as asking for the raw data collected rather than the derived exposure variable may be misled by this accurate but incomplete answer."
+        }
+    ],
+    "8": [
+        {
+            "Category": "Distractor",
+            "Option": "Placental abruption and preterm birth",
+            "Evidence": [
+                "We observed a modestly increased risks for placental abruption (adjusted HR 1.22, 95% CI 1.06\u20131.41) with opioid exposure anytime in pregnancy and this association was strongest for early-only pregnancy exposure and exposure in both early and late pregnancy",
+                "Risk of preterm birth with exposure anytime in pregnancy exposure was also modestly increased (Adjusted Hazard Ratio (aHR) 1.23, 95% CI 1.18\u20131.28) and this association was strongest for late-only pregnancy exposure and both early and late exposure"
+            ],
+            "Rationale": "This is a plausible distractor because it includes two of the four outcomes explicitly listed as primary outcomes in the study's aim. The passage highlights these two outcomes with specific hazard ratios and detailed discussion, making them stand out. A reader who skims the results section might mistakenly believe these are the only primary outcomes, especially since they are emphasized in the findings. However, the question asks for the full set of primary outcomes specified in the study's objective, not just those with statistically significant results."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "Fetal growth restriction (FGR) and preterm birth",
+            "Evidence": [
+                "FGR and preterm birth (including spontaneous and iatrogenic) are estimated to affect 3%\u20135% [ 5 ] and 5%\u201313% [ 8 ] of pregnancies, respectively.",
+                "There were no associations with opioid exposure and pre-eclampsia or FGR following opioid exposure anytime in pregnancy or by specific pregnancy periods ( Figure 2 and Supplementary Table S4 )"
+            ],
+            "Rationale": "This is a plausible distractor because both FGR and preterm birth are mentioned together in the passage as being among the adverse outcomes of interest, and they are discussed in the same sentence in the background section. Additionally, preterm birth is a key finding in the results, and FGR is frequently referenced in the context of placental malperfusion. A reader might assume these two were the primary focus, especially since FGR is used as a proxy in the study. However, the question specifically asks for the full list of outcomes the study was designed to investigate, which includes pre-eclampsia and placental abruption as well."
+        }
+    ],
+    "9": [
+        {
+            "Category": "Distractor",
+            "Option": "Cumulative DDDs",
+            "Evidence": [
+                "To accurately estimate the cumulative DDDs and time since cessation in the nested-case control study, we excluded prevalent statin users (see \u201cExposure assessment\u201d) at baseline from the original cohort.",
+                "In the nested-case control studies evaluating cumulative DDDs for current users and time since cessation among past users, we included 7642 women with EC and 76\u2009420 controls"
+            ],
+            "Rationale": "This is a plausible distractor because 'cumulative DDDs' is a key metric used in the study, particularly in the nested-case control analysis, and appears multiple times in the passage. However, it was used as an exposure variable to assess duration of statin use, not as the primary outcome measure in the Cox proportional hazard models. A reader who focuses on statistical variables related to statin exposure might mistakenly select this as the outcome, confusing exposure with outcome."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "Time since cessation",
+            "Evidence": [
+                "In the nested-case control studies evaluating cumulative DDDs and time since cessation among past users, we included 7642 women with EC and 76\u2009420 controls",
+                "We found no trends in the association with cumulative DDDs or time since cessation for any cancer type in the overall population or in any of the subgroups"
+            ],
+            "Rationale": "This is a plausible distractor because 'time since cessation' is a key exposure variable in the nested-case control study and is explicitly discussed in the context of statin use patterns. However, it was not the outcome measure in the Cox proportional hazard models; rather, it was used to categorize past users. A reader who conflates exposure variables with outcome measures might select this based on its prominence in the results section, despite it being a predictor, not the outcome."
+        }
+    ],
+    "10": [
+        {
+            "Category": "Distractor",
+            "Option": "Weighted median method",
+            "Evidence": [
+                "MR\u2013Egger, weighted median, and weighted mode methods were used as sensitivity analyses."
+            ],
+            "Rationale": "This is a plausible distractor because the weighted median method is explicitly mentioned in the passage as one of the sensitivity analyses used in the two-sample MR study. It belongs to the same semantic category (statistical methods in MR) and is factually accurate within the passage context. However, it was not the primary method used for calculating effect estimates\u2014only a sensitivity analysis. A reader who skims the passage might confuse this method with the primary one due to its mention in close proximity to the primary method."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "Multivariable MR (MVMR) analysis",
+            "Evidence": [
+                "We conducted a multivariable MR (MVMR) analysis [ 42 ] (MVMR-1) to estimate the independent direct causal effects of n-3 and n-6 PUFAs on the biomarkers of inflammation."
+            ],
+            "Rationale": "This is a plausible distractor because multivariable MR is a key analytical method described in the passage and is used in a later part of the study. It is factually correct that MVMR was conducted, but it was not the primary method used in the two-sample MR analysis. Instead, it was a follow-up analysis to assess independent effects. A reader who misreads the sequence of methods or confuses the study\u2019s different analytical stages might select this as the answer, making it a strong distractor."
+        }
+    ],
+    "11": [
+        {
+            "Category": "Distractor",
+            "Option": "To assess the antimalarial efficacy of IPTp-SP compared to IPTp-DP",
+            "Evidence": [
+                "IPTp-DP was markedly more effective than IPTp-SP at preventing malaria, yet it did not yield superior birth outcomes.",
+                "In a recent meta-analysis [ 8 ], IPTp-DP was markedly more effective than IPTp-SP at preventing malaria"
+            ],
+            "Rationale": "This is a plausible distractor because the passage explicitly states that IPTp-DP was more effective than IPTp-SP at preventing malaria, which is a key finding in the study. However, this comparison was part of the parent trial's primary outcomes, not the focus of the secondary analysis. The secondary analysis specifically aimed to explore non-malarial effects, particularly STI/RTI prevention and mediation, making this a misleading but factually accurate statement from the passage that distracts from the actual purpose of the secondary analysis."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "To evaluate the impact of IPTp-SP on maternal nutrient absorption and inflammation",
+            "Evidence": [
+                "The potential involvement of other studied mechanisms, including maternal nutrient absorption [ 36 ], reductions in febrile respiratory illnesses [ 37 ], or the modulation of maternal inflammation [ 38 ]."
+            ],
+            "Rationale": "This is a plausible distractor because the passage mentions maternal nutrient absorption, febrile illnesses, and inflammation as potential alternative mechanisms for IPTp-SP\u2019s effects on birth outcomes. However, these were speculative hypotheses discussed in the discussion section, not objectives of the secondary analysis. The actual objectives were clearly stated in the 'Statistical analysis' section, and this option misrepresents exploratory discussion as a formal study objective, making it a strong distractor for readers who confuse background hypotheses with study aims."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "To determine the optimal timing for vaginal swab collection during pregnancy",
+            "Evidence": [
+                "When this was not possible due to active labor or delivery outside of the study clinic, swabs were obtained at the earliest postpartum visit (1 week post-delivery) or when swab collection could be performed safely and comfortably [ 22 ].",
+                "Sensitivity analyses were conducted to account for potential bias due to the timing of swab collection."
+            ],
+            "Rationale": "This is a plausible distractor because the passage discusses the timing of swab collection and includes sensitivity analyses related to this issue. However, the timing of swab collection was a methodological consideration, not the purpose of the secondary analysis. The study\u2019s objectives were clearly defined as comparing STI/RTI prevalence, assessing associations with birth outcomes, and conducting mediation analysis\u2014this distractor confuses a technical challenge with the study\u2019s primary purpose, making it a strong candidate for readers who focus on methodological details rather than stated objectives."
+        }
+    ],
+    "12": [
+        {
+            "Category": "Distractor",
+            "Option": "A quasi-Poisson regression model fitted to monthly age-specific death counts",
+            "Evidence": [
+                "We used two methods for constructing a mortality baseline from pre-pandemic data: (i) a generalized linear quasi-Poisson regression model for monthly death counts including age, sex, and month of the year as predictors, based closely on the model of the UK\u2019s Office for National Statistics [15];"
+            ],
+            "Rationale": "This is a plausible distractor because it accurately reflects a method described in the passage and includes key terms like 'quasi-Poisson regression' and 'monthly age-specific death counts.' However, it omits the critical detail that the model included 'age, sex, and month of the year as predictors,' which is essential to understanding how population size and age structure were accounted for. A reader who skims the passage might select this option based on keyword matching but would miss the precise specification of the model's predictors, making it incorrect as a full answer to the question."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "A linear regression on the crude mortality rate",
+            "Evidence": [
+                "Another widely used model developed by the Economist estimated 198 per million [10], whilst Kung et al. [11] estimated excess mortality for 2020\u201322 as 215 per million.",
+                "Gibson [12] argued that controlling for population size by fitting to the trend in crude mortality rate, rather than raw deaths, led to a lower baseline than that of Karlinsky and Kobak [7] and, therefore, a higher estimate of excess mortality."
+            ],
+            "Rationale": "This is a plausible distractor because 'crude mortality rate' is mentioned in the passage in the context of methodological critique, and the phrase 'linear regression on the crude mortality rate' sounds similar to the correct method. However, the study explicitly used a linear regression on the 'age- and sex-standardized annual mortality rate,' not the crude rate. The distractor misrepresents the method by substituting 'crude' for 'standardized,' which is a key distinction in epidemiological modeling. A reader who confuses these terms due to similar phrasing might select this option, but it does not accurately reflect the method used in the study."
+        }
+    ],
+    "13": [
+        {
+            "Category": "Distractor",
+            "Option": "Used ordinary least squares (OLS) regression",
+            "Evidence": [
+                "Initial analyses using OLS and non-IV forests revealed no evidence of the association between retirement and cognitive function ( Table 2 )."
+            ],
+            "Rationale": "This is a plausible distractor because OLS is explicitly mentioned in the passage as one of the methods used in the study. However, it was used in initial analyses and is known to be susceptible to endogeneity bias, which the study sought to address. A reader who confuses the method used for initial exploration with the method used to address endogeneity might select this option, even though OLS does not resolve endogenous retirement decisions."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "Utilized data from the Health and Retirement Study (HRS) and English Longitudinal Study on Ageing (ELSA)",
+            "Evidence": [
+                "This study used harmonized panel datasets from the HRS, ELSA, and SHARE provided by the Gateway to Global Aging Data project [ 22 ]."
+            ],
+            "Rationale": "This is a plausible distractor because the HRS and ELSA are named as key data sources in the study. However, the question asks about the method used to address endogeneity, not the data sources. A reader who conflates data collection with methodological approach might mistakenly believe that using these datasets constitutes the method for handling endogeneity, even though the datasets were merely the foundation for the analysis."
+        }
+    ],
+    "14": [
+        {
+            "Category": "Distractor",
+            "Option": "Cox regression",
+            "Evidence": [
+                "Cox regression was used to estimate the association between a trans-ancestry BMI genetic score (BMI-GS) and mortality"
+            ],
+            "Rationale": "This is a plausible distractor because Cox regression is explicitly mentioned in the passage as part of the one-sample Wald ratio method. However, it is only a component of the overall method, not the method itself. A reader who focuses on the statistical techniques used in the analysis might incorrectly select Cox regression as the primary method, especially if they skim the passage and miss the broader context of the methodological framework."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "Two-sample MR approaches",
+            "Evidence": [
+                "Two-sample MR analyses also gave broadly similar results, albeit with slightly weaker HR estimates ( Supplementary Table S3 and Supplementary Figure S6 )"
+            ],
+            "Rationale": "This is a plausible distractor because 'two-sample MR approaches' are mentioned in the passage and are related to the main analytical framework. However, they were used in sensitivity analyses, not in the primary one-sample Mendelian randomization approach. A reader who confuses the main method with the sensitivity analyses might select this option, especially if they do not carefully distinguish between the primary and supplementary analytical strategies."
+        }
+    ],
+    "15": [
+        {
+            "Category": "Distractor",
+            "Option": "38%",
+            "Evidence": [
+                "Only 38% (11/29) of intervention-effect studies had well-defined interventions ( Table 2 ; interrater reliability: kappa\u2009=\u20090.85)."
+            ],
+            "Rationale": "This is a plausible distractor because '38%' is a percentage explicitly stated in the passage and relates to a key finding about intervention-effect studies. However, it refers to the proportion of studies that had well-defined interventions\u2014not the proportion that explicitly interpreted their estimates as intervention effects. A reader who confuses 'well-defined intervention' with 'explicit interpretation of estimates' might select this option, but careful reading reveals it answers a different question."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "97%",
+            "Evidence": [
+                "28/29 (97%) mentioned exchangeability"
+            ],
+            "Rationale": "This is a plausible distractor because '97%' is a percentage from the passage that appears in the same section discussing intervention-effect studies. It refers to the proportion of intervention-effect studies that mentioned exchangeability, a different causal assumption. A reader who skims the passage and matches the percentage to the context of intervention-effect studies may incorrectly assume it refers to interpretation of results, even though it pertains to a different assumption altogether."
+        }
+    ],
+    "16": [
+        {
+            "Category": "Distractor",
+            "Option": "2.6%",
+            "Evidence": [
+                "15.3% (95% CI: 13.1\u201317.5) for BMI of <23.0\u2009kg/m 2 and 2.6% (95% CI: \u20133.1\u20137.9) for BMI of \u226523.0\u2009kg/m 2 in 18 cohorts of people with HIV ( n =\u2009162\u200a609)"
+            ],
+            "Rationale": "This is a plausible distractor because it is a percentage reduction in tuberculosis risk per unit increase in BMI that appears in the passage and is associated with the same population (people with HIV). However, it refers to the risk reduction in the BMI range above the breakpoint (\u226523.0 kg/m\u00b2), not below it as specified in the question. A reader who misreads the model output or confuses the two ranges might select this option, even though it answers a different part of the piecewise linear model."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "18.0%",
+            "Evidence": [
+                "18.0% (95% CI: 16.4\u201319.6) for BMI of <25.0\u2009kg/m 2 and 6.9% (95% CI: 4.6\u20139.2) for BMI of \u226525.0\u2009kg/m 2 in 22 general-population cohorts ( n =\u200924\u200a921\u200a531)"
+            ],
+            "Rationale": "This is a plausible distractor because it is a percentage reduction in tuberculosis risk per unit increase in BMI that is explicitly stated in the passage and shares the same format as the correct answer. However, it applies to the general population cohort, not to people with HIV as specified in the question. A reader who confuses the population groups or skims the passage might incorrectly associate this value with the HIV population, especially since both values are presented in close proximity in the text."
+        }
+    ],
+    "17": [
+        {
+            "Category": "Distractor",
+            "Option": "Oromia, Amhara, and South Ethiopia",
+            "Evidence": [
+                "Notably, districts such as Gonje in the Amhara region, Alamata in the Tigray region, and Gerar Jarso in the Oromia region demonstrated the highest reductions in incidence, with reductions of 98%, 93%, and 92.6%, respectively, between 2015 and 2020 ( Supplementary Figure S1 ).",
+                "The zones with the most substantial reductions were Bahirdar (83.6%), Yem (82.7%), and Derashe (78.4%) ( Fig. 2 )."
+            ],
+            "Rationale": "This is a plausible distractor because Oromia, Amhara, and South Ethiopia are explicitly mentioned in the passage as regions with high TB incidence reductions at the district level. A reader who misreads the passage or confuses 'high reduction' with 'increase' might incorrectly select these regions. However, the question specifically asks for regions with an *increase* in incidence, and these regions are clearly associated with significant declines, not increases."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "Harari, Dire Dawa, and Sidama",
+            "Evidence": [
+                "Regional estimates of progress toward achieving the WHO\u2019s End TB targets revealed that all regions except Dire Dawa, Harari, and Sidama showed incidence reduction below the national average, which was estimated to be 31%.",
+                "Ten out of 14 regions achieved a reduction of >20% in TB incidence between 2015 and 2020. Among these, Harari exhibited the highest reduction, at 44%."
+            ],
+            "Rationale": "This is a plausible distractor because these three regions are explicitly named in the passage and are associated with suboptimal performance\u2014specifically, below-average incidence reduction. However, the passage states that Harari had the highest reduction (44%), and the others are noted for not meeting the national average, but not for experiencing an *increase* in incidence. A reader who conflates 'below average' with 'increased incidence' might select this option, but the evidence shows no increase in TB incidence in these regions."
+        }
+    ],
+    "18": [
+        {
+            "Category": "Distractor",
+            "Option": "To ensure a comparable length of follow-up and general time frame with the KLoSA data",
+            "Evidence": [
+                "To ensure a comparable length of follow-up and general time frame with the KLoSA data, HRS data from waves undertaken during the 2002\u20132014 period were included, enabling a comprehensive examination of CVD mortality over \u223c12\u2009years."
+            ],
+            "Rationale": "This is a plausible distractor because it references a specific methodological decision made in the study and appears in the passage. However, it describes a reason for selecting specific data waves from the HRS, not the reason for using harmonized data files. A reader who conflates data selection criteria with data harmonization might mistakenly select this option, but careful reading reveals that this rationale applies to temporal alignment, not data standardization."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "To enable direct comparison of loneliness measures between the HRS and KLoSA",
+            "Evidence": [
+                "To facilitate the cross-national comparison, loneliness was operationalized using the same single question about loneliness included in the CES-D scale administered at our study baseline in the HRS (2002) and KLoSA (2006)."
+            ],
+            "Rationale": "This is a plausible distractor because it captures a key aspect of the study's design\u2014using the same loneliness item across countries. However, the harmonized data files were used to enable broader cross-national comparison, not specifically to align loneliness measures. The passage clarifies that the same loneliness question was used as part of the harmonization effort, but the primary purpose of the harmonized files was to support comprehensive cross-national analysis, not just measure alignment. This distractor confuses a specific implementation detail with the overarching goal."
+        }
+    ],
+    "19": [
+        {
+            "Category": "Distractor",
+            "Option": "South region",
+            "Evidence": [
+                "The North and South regions had the highest weighted prevalence of 35.1% and 33.5%, respectively."
+            ],
+            "Rationale": "This is a plausible distractor because the South region is explicitly mentioned in the passage as having one of the highest weighted prevalences (33.5%), just below the North region. A reader who misreads or skims the passage might select this option, assuming it is the highest due to its close proximity in the sentence. However, the question specifically asks for the region with the *highest* prevalence, which is the North region, making the South region a factually accurate but incorrect answer to this specific question."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "Center-West region",
+            "Evidence": [
+                "Adjusted (by age and sex) PRs, with the Northeast region as a reference, were the highest for the Center-West (1.6, 95% CI, 1.1\u20132.2) and the Southeast (1.5, 95% CI, 1.1\u20132.2)."
+            ],
+            "Rationale": "This is a plausible distractor because the Center-West region is mentioned in the passage with a high adjusted prevalence ratio (PR), indicating a strong association with COVID-19. However, this refers to the adjusted prevalence ratio, not the weighted prevalence of self-reported cases. The question specifically asks for the region with the highest *weighted prevalence*, which is a different metric. A reader who confuses statistical measures or focuses on the term 'highest' without checking the exact context may incorrectly select the Center-West region."
+        }
+    ],
+    "20": [
+        {
+            "Category": "Distractor",
+            "Option": "Flexible parametric survival models",
+            "Evidence": [
+                "In secondary analyses, we examined the association between pre-eclampsia and liver outcomes at different time points during follow-up by using flexible parametric survival models [ 17 ]."
+            ],
+            "Rationale": "This is a plausible distractor because 'flexible parametric survival models' is a statistical method explicitly mentioned in the passage and belongs to the same category as the correct answer (statistical methods for time-to-event analysis). However, it was used in secondary analyses to examine associations at different time points, not in the primary analysis to estimate the overall association between pre-eclampsia and liver hospitalization. A reader who skims the passage might confuse this method with the primary analytical approach."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "Hazard ratios (HRs) and 95% confidence intervals (CIs)",
+            "Evidence": [
+                "In primary analyses, we estimated hazard ratios (HRs) and 95% confidence intervals (CIs) for the association between pre-eclampsia and risk of any liver hospitalization over time."
+            ],
+            "Rationale": "This is a plausible distractor because 'hazard ratios and 95% confidence intervals' are explicitly mentioned in the passage and are key outputs of the statistical analysis. However, they are not the method used to estimate the association\u2014they are the results produced by the Cox proportional-hazards regression models. A reader who confuses statistical outputs with analytical methods might select this option, especially if they focus on the phrase 'estimated hazard ratios' without distinguishing between method and result."
+        }
+    ],
+    "21": [
+        {
+            "Category": "Distractor",
+            "Option": "C-reactive protein",
+            "Evidence": [
+                "In adults, elevated glycoprotein acetyls indicate chronic inflammation [ 20 ] and are associated with a wide variety of diseases [ 22 ].",
+                "C-reactive protein behaved similarly, as expected [ 54 ]; however, C-reactive protein was higher in adult females (possibly due to contraception [ 55 , 56 ] or menstruation [ 57 ]) whereas the sex difference in glycoprotein acetyls disappeared after puberty."
+            ],
+            "Rationale": "This is a plausible distractor because C-reactive protein is explicitly mentioned in the passage as being associated with chronic inflammation in adults, similar to glycoprotein acetyls. It also shows a similar temporal pattern (increasing with age and being higher in adult females). However, the question specifically asks for the metabolic measure that showed a substantial increase after puberty and is linked to chronic inflammation\u2014C-reactive protein does not exhibit the same post-pubertal increase pattern as glycoprotein acetyls, and the passage notes that its sex difference differs from glycoprotein acetyls. A reader who conflates inflammation markers may select this option, but careful reading reveals it does not match the full description in the question."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "Branched-chain amino acids",
+            "Evidence": [
+                "Branched-chain amino acids were age-dependent, including 28% of isoleucine variance explained by age ( Fig. 1I ; see also sex difference in Supplementary Fig. S5 ; see online supplementary material for a color version of this figure).",
+                "Elevated branched-chain amino acids in adults are risk factors for cardiometabolic diseases such as type 2 diabetes [ 18 , 52 ] and differences between adults and children have been observed [ 7 ].",
+                "Notably, isoleucine and leucine returned to prepubertal concentrations in females after the insulin peak whereas the pubertal increase became permanent in males."
+            ],
+            "Rationale": "This is a plausible distractor because branched-chain amino acids are explicitly described in the passage as being associated with cardiometabolic risk and as changing significantly during puberty. The passage also notes their link to adult disease, which may lead a reader to associate them with chronic inflammation. However, the passage does not state that branched-chain amino acids are markers of chronic inflammation in adults\u2014only that they are risk factors for type 2 diabetes. The question specifically asks for a measure linked to chronic inflammation, which is clearly attributed to glycoprotein acetyls. This distractor exploits the similarity in clinical relevance and temporal change but misattributes the inflammatory role."
+        }
+    ],
+    "22": [
+        {
+            "Category": "Distractor",
+            "Option": "Cox proportional-hazards regression models",
+            "Evidence": [
+                "We investigated the associations for both work demands separately in each cohort using Cox proportional-hazards regression models."
+            ],
+            "Rationale": "This is a plausible distractor because 'Cox proportional-hazards regression models' is a key statistical method explicitly mentioned in the passage and directly related to the analysis of survival data. However, it was used in the initial step before the proportional-hazards assumption was violated. The question specifically asks for the method used *after* the assumption was violated, making this a common point of confusion for readers who skim the passage and focus on the first statistical method mentioned."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "Random-effects meta-analysis",
+            "Evidence": [
+                "Second, we calculated the pooled estimates of all-cause mortality for both work demands based on the cohort-specific HRs from Model 4 by using a random-effects meta-analysis."
+            ],
+            "Rationale": "This is a plausible distractor because 'random-effects meta-analysis' is a method explicitly described in the passage and used in the second step of the analysis. However, it was applied to pool cohort-specific hazard ratios after the individual cohort models were fitted, not as a solution to the violation of the proportional-hazards assumption. A reader who misinterprets the sequence of statistical steps might incorrectly associate this method with handling model assumption violations."
+        }
+    ],
+    "23": [
+        {
+            "Category": "Distractor",
+            "Option": "Using the nearest monitor measurements to estimate personal exposure from outdoor sources",
+            "Evidence": [
+                "For each individual, we identified the nearest monitor to their residence for each pollutant under investigation and estimated long-term exposures by averaging the hourly concentrations (i) for 1 year from the date on which each individual joined the personal monitoring campaign and (ii) for the measurement period of each campaign."
+            ],
+            "Rationale": "This is a plausible distractor because the passage explicitly mentions using nearest monitor measurements as a surrogate exposure method, and this approach is described in detail. However, the question specifically asks about the method used to estimate personal exposure from outdoor sources during the measurement period, which is distinct from using monitor data. The nearest monitor method is a surrogate exposure assessment, not the 'gold-standard' method used to estimate personal exposure from outdoor sources. A reader who confuses surrogate methods with the primary estimation method might select this option, but careful reading reveals it refers to a different process."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "Applying a random forest behaviour prediction model to predict whether a person was at home or not during the extrapolation period",
+            "Evidence": [
+                "For the prediction of annual personal exposures from outdoor sources, we combined time\u2013activity patterns and infiltration efficiencies during the measurement period with ambient pollution measurements for a full year from the campaign start date for each participant. We predicted whether a person was likely to be \u2018at home\u2019 or \u2018not at home\u2019 during the extrapolation period by utilizing a random forest behaviour prediction model, using the day of the week and hour of the day as inputs..."
+            ],
+            "Rationale": "This is a plausible distractor because the random forest model is a key method described in the passage and is used in the study. However, it is used specifically for predicting annual exposures during the extrapolation phase, not for estimating personal exposure from outdoor sources during the measurement period. The question focuses on the measurement period, and this method is part of the annual extrapolation process, not the direct estimation method used when participants were indoors or outdoors. A reader who skims the passage might associate this model with the main estimation method, but the context clearly separates it from the core method described in the 'Estimation of personal exposure from outdoor sources during the measurement period' section."
+        }
+    ],
+    "24": [
+        {
+            "Category": "Distractor",
+            "Option": "Cochran\u2019s Q statistic",
+            "Evidence": [
+                "To examine for the potential violation of the second and third MR assumption, we computed Cochran\u2019s Q statistic, which expresses the degree to which differences in the measures of association among the selected SNPs are due to real variation rather than sampling error"
+            ],
+            "Rationale": "This is a plausible distractor because Cochran\u2019s Q statistic is explicitly mentioned in the passage and is a statistical method used in the study. However, it is used to assess heterogeneity among SNP effect estimates, not to measure the primary association between genetically predicted anthropometric traits and CRC-specific mortality. A reader who confuses methodological checks with the main analytical approach might select this option, but careful reading reveals it serves a different purpose in the analysis."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "MR-Egger regression",
+            "Evidence": [
+                "Horizontal pleiotropy was further investigated using MR-Egger regression, where the corresponding statistical test is based on its intercept term, when it is different from zero"
+            ],
+            "Rationale": "This is a plausible distractor because MR-Egger regression is a statistical method discussed in the passage and used to assess horizontal pleiotropy. However, it was used as a sensitivity analysis to check for bias, not as the primary method for estimating the main association. A reader who misidentifies secondary analytical methods as the primary one might be misled by this option, especially since it is mentioned in close proximity to the main analysis."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "Weighted median approach",
+            "Evidence": [
+                "In the presence of horizontal pleiotropy, the slope of the MR-Egger regression and the weighted median approach may provide more valid MR estimates compared to IVW"
+            ],
+            "Rationale": "This is a plausible distractor because the weighted median approach is explicitly mentioned in the passage as an alternative method used to confirm results when pleiotropy is suspected. However, it was not the primary method used in the main analysis\u2014only a sensitivity analysis. A reader who conflates robustness checks with the main analytical method might select this option, especially since it is presented as a valid alternative to IVW."
+        }
+    ],
+    "25": [
+        {
+            "Category": "Distractor",
+            "Option": "Participants were asked about their usual frequency and quantity of consumption for beer, wine, and spirits during 10-year age periods starting at age 20, and intake was calculated as the sum of intake from the three beverage types in grams per day.",
+            "Evidence": [
+                "We calculated the usual intake within each age period in grams per day for each beverage type by multiplying intake frequency by quantity and standard amount of alcohol per container using data from Australian food composition tables [ 19 ]. The alcohol intake for each age period in grams per day was calculated as the sum of intake from the three beverage types."
+            ],
+            "Rationale": "This is a plausible distractor because it accurately reflects part of the method described in the passage\u2014specifically, the calculation of total intake as the sum of the three beverage types in grams per day. However, it omits the critical detail about how intake per beverage type was calculated (multiplying frequency by quantity and standard alcohol content per container), which is essential to the full method. A reader who skims the passage might select this option based on keyword matching but would miss the precise technical process described in the correct answer."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "Participants were asked about their usual frequency and quantity of consumption for beer, wine, and spirits during 10-year age periods starting at age 20, and intake was assessed using a 121-item food frequency questionnaire.",
+            "Evidence": [
+                "A 121-item food frequency questionnaire was used to collect dietary information.",
+                "Participants were asked at baseline if they had ever drunk at least 12 alcoholic drinks in a year. Those who answered yes ('non-lifetime abstainers') were then asked about their usual frequency of consumption and usual quantity consumed per drinking occasion for beer, wine, and spirits separately during 10-year age periods commencing at age 20\u2009years, up to the decade of their age at baseline attendance."
+            ],
+            "Rationale": "This is a plausible distractor because it includes accurate information from the passage: the 10-year age periods starting at age 20 and the use of a food frequency questionnaire. However, the questionnaire was used for dietary data, not alcohol intake. The alcohol intake was assessed through a separate, targeted set of questions. A reader who conflates the general data collection method with the specific alcohol assessment might mistakenly select this option, even though it misattributes the method to the wrong purpose."
+        }
+    ],
+    "26": [
+        {
+            "Category": "Distractor",
+            "Option": "Multivariable linear regression model",
+            "Evidence": [
+                "We divided the population into higher-level and lower-level groups based on the median values of genetic scores and applied a multivariable linear regression model to estimate the associations between genetically predicted lower levels of Lp(a) and LDL-C and the measurements of seven blood lipids and lipoproteins, with adjustment of age, sex, assessment center, and the first 10 principal components (PCs)."
+            ],
+            "Rationale": "This is a plausible distractor because 'multivariable linear regression model' is explicitly mentioned in the passage and is a valid statistical method used in the study. However, it was used to estimate associations with blood lipid and lipoprotein measurements, not with cardiovascular outcomes or mortality. A reader who skims the passage might confuse this method with the one used for outcomes, but careful reading reveals it applies to different endpoints."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "Factorial MR analysis",
+            "Evidence": [
+                "The factorial MR analysis, designed to mimic a randomized controlled trial, has been developed to examine the interactions of two interventions [ 21 , 22 ]. Here, we conducted a factorial MR study to assess the effects of genetically predicted low-level Lp(a) on a broad range of CVD outcomes as well as to explore its interactions with genetically predicted low-level LDL-C and interventions on body mass index (BMI), systolic blood pressure (SBP), and lifestyles."
+            ],
+            "Rationale": "This is a plausible distractor because 'factorial MR analysis' is a central methodological approach described in the passage and directly related to the study's objectives. However, it is the overarching study design, not the specific statistical method used to estimate associations with outcomes. The actual estimation of hazard ratios was done using Cox proportional hazards regression within the factorial MR framework. A reader might conflate the study design with the analytical method, but the question specifically asks for the method used to estimate associations, not the overall design."
+        }
+    ],
+    "27": [
+        {
+            "Category": "Distractor",
+            "Option": "Pulmonary tuberculosis",
+            "Evidence": [
+                "The association between pulmonary tuberculosis and COPD was present in all multivariable models.",
+                "When using a secondary exposure classification of all tuberculosis, cumulative incidence of COPD was 16.5%.",
+                "The relationship was larger when considering pulmonary tuberculosis rather than all tuberculosis, supporting the hypothesis that pulmonary activity and damage during disease may be one mechanism of subsequent elevated COPD risk."
+            ],
+            "Rationale": "This is a plausible distractor because 'pulmonary tuberculosis' is a specific type of tuberculosis explicitly mentioned in the passage and is closely related to the primary exposure. However, the question asks for the primary exposure variable used in the study, which is the broader category 'tuberculosis' (including both pulmonary and non-pulmonary cases). The study used 'tuberculosis' as the main exposure, with 'pulmonary tuberculosis' as a secondary or subgroup analysis. A reader who focuses on the more specific term may incorrectly select this option, even though it is not the primary exposure variable as defined in the study design."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "COPD",
+            "Evidence": [
+                "We identified participants with the outcome as those diagnosed with COPD, defined by ICD-10 codes ( Supplementary Table S1 , available as Supplementary data at IJE online) during the study period (1 January 2009 to 30 September 2021).",
+                "A total of 16\u200a449 cases developed COPD during the study period.",
+                "The association between pulmonary tuberculosis and COPD was present in all multivariable models."
+            ],
+            "Rationale": "This is a plausible distractor because 'COPD' is a central outcome in the study and appears frequently in the passage. However, the question specifically asks for the primary exposure variable, not the outcome. Since COPD is the disease being predicted, not the exposure, selecting it would reflect a confusion between exposure and outcome. A reader who misreads the question or skims the passage might mistakenly believe that COPD is the exposure due to its prominence in the text."
+        }
+    ],
+    "28": [
+        {
+            "Category": "Distractor",
+            "Option": "\u22642 years",
+            "Evidence": [
+                "If these retrospective studies had limited the diagnostic interval between the index and secondary HHC patients to \u22642years, the reported matching proportions would likely have been higher."
+            ],
+            "Rationale": "This is a plausible distractor because '\u22642 years' is a time period explicitly mentioned in the passage and relates to a methodological consideration in TB transmission studies. However, it refers to a proposed diagnostic interval for improving transmission classification, not the threshold for statistical robustness based on confidence interval width. A reader who confuses methodological recommendations with quality assessment criteria might select this option, making it a strong distractor."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "\u22655/8",
+            "Evidence": [
+                "Among the 22 studies from the systematic review, 10 studies (45%) [ 18\u201321 , 24\u201327 , 29 , 36 ] were scored as \u22655/8 for study design."
+            ],
+            "Rationale": "This is a plausible distractor because '\u22655/8' is a specific numerical threshold used in the study's quality assessment, but it applies to 'design rigor' rather than 'statistical robustness.' The passage clearly distinguishes between two quality criteria: design rigor (scored out of 8) and statistical robustness (based on CI width). A reader who conflates these two assessment dimensions might incorrectly associate the 5/8 threshold with statistical robustness, making this a strong distractor."
+        }
+    ],
+    "29": [
+        {
+            "Category": "Distractor",
+            "Option": "2017 for Australia and 2016 for New Zealand",
+            "Evidence": [
+                "GBD estimates for Australia and New Zealand for years 2017 (Australia)/2016 (New Zealand) onwards are therefore based on out-of-sample predictions"
+            ],
+            "Rationale": "This is a plausible distractor because it refers to the years for which GBD estimates were based on projections, which are explicitly mentioned in the passage. However, the question asks for the latest year of *official vital registration data available at the time of publication*, not the year when projections began. A reader who confuses 'projection years' with 'data availability' might select this option, but careful reading reveals that the actual data cutoffs were earlier (2016 for Australia, 2015 for New Zealand)."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "2019 for Australia and 2018 for New Zealand",
+            "Evidence": [
+                "Using official data, age-standardized mortality rates for CHD in Australia decreased from 99.0 per 100\u2009000 people in 2008 to 56.5 per 100\u2009000 in 2019",
+                "Using official national New Zealand data, age-standardized CHD mortality rates decreased steadily from 128.2 per 100\u2009000 people in 2008 to 85.5 per 100\u2009000 in 2018"
+            ],
+            "Rationale": "This is a plausible distractor because it reflects the most recent years for which official mortality data were reported in the study (2019 for Australia, 2018 for New Zealand). However, the question specifically asks about the latest year of *vital registration data available at the time of GBD 2019 publication*, not the most recent year of data collected. A reader who misreads the scope of the question might assume the latest data year in the study corresponds to the data availability cutoff, but the passage clearly states that GBD used data only up to 2016 (Australia) and 2015 (New Zealand) for input."
+        }
+    ],
+    "30": [
+        {
+            "Category": "Distractor",
+            "Option": "0.56 to 0.76",
+            "Evidence": [
+                "The reproducibility of the examined phenotypes was moderate to good, with the ICC (95% CI) for overall activity being 0.75 (0.74\u20130.76) and the rest ranging from 0.58 (0.56\u20130.59) for sleep efficiency to 0.69 (0.68\u20130.70) for sedentary behaviour (Fig. 2 and Supplementary Table S4)."
+            ],
+            "Rationale": "This is a plausible distractor because it uses the exact confidence interval bounds from the passage\u20140.56 and 0.76\u2014which are mentioned in the 95% CIs for sleep efficiency (0.56\u20130.59) and overall activity (0.74\u20130.76). However, the question asks for the range of ICC values across phenotypes, not the range of confidence intervals. A reader who confuses the confidence interval bounds with the actual ICC range might select this option, but careful reading reveals that the ICCs themselves range from 0.58 to 0.75, not 0.56 to 0.76."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "0.69 to 0.75",
+            "Evidence": [
+                "The reproducibility of the examined phenotypes was moderate to good, with the ICC (95% CI) for overall activity being 0.75 (0.74\u20130.76) and the rest ranging from 0.58 (0.56\u20130.59) for sleep efficiency to 0.69 (0.68\u20130.70) for sedentary behaviour (Fig. 2 and Supplementary Table S4)."
+            ],
+            "Rationale": "This is a plausible distractor because it captures the highest ICC (0.75 for overall activity) and the second-highest ICC (0.69 for sedentary behaviour), which are both explicitly stated in the passage. However, the question asks for the full range of ICCs across all phenotypes, not just the top two. A reader who misidentifies the highest and second-highest values as the range might be misled, but the correct answer includes the lowest ICC (0.58 for sleep efficiency), making this option incomplete and incorrect."
+        }
+    ],
+    "31": [
+        {
+            "Category": "Distractor",
+            "Option": "The monthly number of malaria diagnoses per 1000 overall non-COVID-19 diagnoses",
+            "Evidence": [
+                "The dermatosis diagnosis rate consists of monthly skin disease diagnoses per 1000 overall non-COVID-19 diagnoses (see Supplementary Table S1 )."
+            ],
+            "Rationale": "This is a plausible distractor because it shares a similar structure and semantic category (a rate per 1000 non-COVID-19 diagnoses) with the correct answer. It appears in the passage in the context of a placebo test, making it a factually accurate statement. However, it refers to the outcome measure for skin diseases, not malaria, and thus incorrectly answers the question about the primary outcome for malaria diagnosis rates."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "The number of malaria diagnoses based on rapid diagnostic tests (RDTs)",
+            "Evidence": [
+                "Among maternal malaria diagnoses, 93% were RDT-based.",
+                "76% of diagnoses were based on RDTs, leaving 24% that were made on clinical grounds."
+            ],
+            "Rationale": "This is a plausible distractor because it references a specific diagnostic method mentioned in the passage and is relevant to malaria case identification. However, the passage explicitly states that the primary outcome measure is a rate adjusted for all-cause diagnoses, not the raw number of RDT-based cases. A reader who focuses on diagnostic methods might mistakenly select this as the primary outcome, but it is only a subset of the data used in the analysis."
+        }
+    ],
+    "32": [
+        {
+            "Category": "Distractor",
+            "Option": "Logistic regression models",
+            "Evidence": [
+                "We ran 60 separate logistic regression models for each combination of sex, remoteness, SES, and Indigenous status, parameterized as",
+                "The predictions of smoking prevalence from these models were used to forecast smoking prevalence of each birth cohort as they age, to 2053."
+            ],
+            "Rationale": "This is a plausible distractor because 'logistic regression models' are explicitly mentioned in the passage as part of the second step of the modeling process. However, they were used for forecasting future trends, not for generating historic prevalence estimates. A reader who confuses the two stages of the model\u2014historic estimation versus future projection\u2014might incorrectly select this option, even though it is factually accurate in a different context."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "Cubic spline interpolation",
+            "Evidence": [
+                "The final dataset from the optimization model, expanded to single year of age values using cubic spline interpolation, we ran 60 separate logistic regression models..."
+            ],
+            "Rationale": "This is a plausible distractor because 'cubic spline interpolation' is a method explicitly described in the passage and used in the modeling process. However, it was applied only after the simulated annealing step, to refine age-specific data for regression modeling. It was not used to generate the historic prevalence estimates across the 11,040 strata. A reader who misidentifies the sequence of methods or focuses on technical terms may be misled by this accurate but contextually incorrect answer."
+        }
+    ],
+    "33": [
+        {
+            "Category": "Distractor",
+            "Option": "1955 to 1992",
+            "Evidence": [
+                "The cluster of cases of leukaemia in young people living in Seascale (1955\u201392) was confirmed by an Independent Group after being reported by a television documentary investigating potential occupational risks at Sellafield"
+            ],
+            "Rationale": "This is a plausible distractor because it refers to a historically significant time period mentioned in the passage\u2014specifically, the timeframe of the original Seascale leukaemia cluster near Sellafield. Although this period is relevant to the broader context of childhood cancer concerns near nuclear sites, it does not correspond to the study period of the current analysis. A reader who confuses historical clusters with the current study\u2019s timeframe might select this option, making it a strong distractor based on keyword overlap and temporal relevance."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "1966 to 1987",
+            "Evidence": [
+                "National studies did not find evidence of an increased risk of LNHL more generally around nuclear installations in England and Wales between 1966 and 1987"
+            ],
+            "Rationale": "This is a plausible distractor because it is a specific time period explicitly stated in the passage and relates to prior national studies on childhood cancer and nuclear installations. However, it refers to an earlier investigation, not the current study\u2019s period. A reader who skims the passage and associates 'nuclear installations' with 'childhood cancer studies' might mistakenly assume this timeframe applies to the current analysis, especially since it appears in a section discussing historical findings."
+        }
+    ],
+    "34": [
+        {
+            "Category": "Distractor",
+            "Option": "To align with the 2020\u201322 study period",
+            "Evidence": [
+                "Building on previous estimates of excess all-cause mortality in 24 countries for 2020\u20131, 10 this study examines excess mortality in 2022 (total, sex-specific, and age-specific) by analysing weekly mortality data across 2020\u20132 from 21 C-MOR consortium countries."
+            ],
+            "Rationale": "This is a plausible distractor because it references a key temporal scope of the study (2020\u201322), which is explicitly mentioned in the passage. However, the reason for compiling data in mid-2023 is not related to aligning with the study period but rather to address reporting delays and improve data quality. A reader who focuses on the study timeframe might mistakenly assume that the timing of data compilation was driven by the research window rather than data processing needs."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "To ensure consistency with data from the Oxford COVID-19 Government Response Tracker",
+            "Evidence": [
+                "For other infection control measures, data on eight governmental policy measures under \u201cClosure and Containment\u201d were sourced from the Oxford COVID-19 Government Response Tracker."
+            ],
+            "Rationale": "This is a plausible distractor because the Oxford tracker is mentioned in the passage as a source for government policy data. However, the compilation of mortality data in mid-2023 was not related to synchronizing with this external dataset. Instead, it was driven by internal data quality and reporting delay considerations. A reader who conflates different data sources might incorrectly associate the timing of mortality data compilation with the timing of policy data collection."
+        }
+    ],
+    "35": [
+        {
+            "Category": "Distractor",
+            "Option": "5.99/1000",
+            "Evidence": [
+                "The prevalence was five times higher for Indigenous (5.99/1000, 95% CI: 4.95\u20137.20) compared with non-Indigenous (1.16/1000, 95% CI: 0.84\u20131.56) babies."
+            ],
+            "Rationale": "This is a plausible distractor because it is a specific prevalence rate explicitly mentioned in the passage and belongs to the same semantic category (birth prevalence of clubfoot). However, it refers specifically to the rate among Indigenous babies in the NT, not the overall prevalence for the entire population during the study period. A reader who focuses on the higher Indigenous rate might mistakenly select this as the answer to the general question about the overall prevalence."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "1.16/1000",
+            "Evidence": [
+                "The prevalence was five times higher for Indigenous (5.99/1000, 95% CI: 4.95\u20137.20) compared with non-Indigenous (1.16/1000, 95% CI: 0.84\u20131.56) babies."
+            ],
+            "Rationale": "This is a plausible distractor because it is a numerically precise prevalence figure stated in the passage and relates to the same topic (clubfoot birth prevalence). However, it represents the rate for non-Indigenous babies in the NT, not the overall rate. A reader who misreads the comparison or focuses on the lower value might incorrectly select this as the answer to the question about the total prevalence."
+        }
+    ],
+    "36": [
+        {
+            "Category": "Distractor",
+            "Option": "Distributed lag non-linear models (DLNMs) and survival analysis",
+            "Evidence": [
+                "In this study, we aimed to examine the critical temperature exposure periods for PTB by using DLNMs and survival analysis in an innovative methodological approach.",
+                "We fitted Cox proportional-hazards models with time-dependent covariates integrated with a DLNM [ 28 , 40 ]."
+            ],
+            "Rationale": "This is a plausible distractor because it combines two key methodological terms\u2014DLNMs and survival analysis\u2014that are explicitly mentioned in the passage and are central to the study's approach. However, the question specifically asks for the statistical method used to account for time-varying exposures and gestational length, and while DLNMs and survival analysis are part of the broader framework, the precise method described in the text is 'Cox proportional-hazards models with time-dependent covariates integrated with a DLNM'. The distractor is factually accurate in context but misrepresents the specific model used, making it a strong candidate for readers who skim or rely on keyword matching."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "Separate Cox models for each trimester",
+            "Evidence": [
+                "A cohort study in Australia fitted separate Cox models for temperature in each trimester and found positive associations for extreme heat and cold only in the third trimester [ 26 ].",
+                "Some cohort studies examined longer-term exposures, such as the last month before birth, the entire pregnancy average, and trimester-specific exposures [ 19\u201326 ]."
+            ],
+            "Rationale": "This is a plausible distractor because the passage explicitly mentions that some prior studies used separate Cox models for each trimester, which is a methodological approach discussed in the context of examining temperature exposure. However, the current study did not use this method; instead, it developed a more advanced approach using time-dependent covariates and DLNMs. A reader who confuses the methods used in previous studies with those used in this study might select this option, even though it does not reflect the actual method employed in this research."
+        }
+    ],
+    "37": [
+        {
+            "Category": "Distractor",
+            "Option": "Kaplan\u2013Meier approach",
+            "Evidence": [
+                "We plotted crude survival probabilities from birth for the entire cohort by presence of CA and CAs in specific body systems ( n =\u200990\u00a0050), using the Kaplan\u2013Meier approach and counting time from birth to death or end of follow-up (31 December 2016)."
+            ],
+            "Rationale": "This is a plausible distractor because the Kaplan\u2013Meier approach is explicitly mentioned in the passage and is a commonly used method for survival analysis. However, it was used only for plotting crude survival probabilities in the initial descriptive analysis, not for assessing the association between congenital anomalies and premature adult mortality in the multivariable models. The question specifically asks for the method used to assess the association, which is the Cox proportional hazard model, not the descriptive survival curve method."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "Test of scaled Schoenfeld\u2019s residuals",
+            "Evidence": [
+                "For all main Cox models, the proportional hazards assumption was examined using the test of scaled Schoenfeld\u2019s residuals [ 12 ] (R package survival [ 13 ])."
+            ],
+            "Rationale": "This is a plausible distractor because it is a specific statistical test mentioned in the passage and is directly related to the Cox proportional hazard models. However, it was used solely to check the validity of the proportional hazards assumption, not to assess the association between congenital anomalies and mortality. A reader who confuses diagnostic checks with the primary analytical method might select this option, but it does not represent the main statistical model used for estimating the association."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "Multiple imputations by chained equations",
+            "Evidence": [
+                "Thirdly, we imputed missing values in maternal age, education, and delivery mode using the multiple imputations by chained equations with five imputation datasets (R package mice ) [ 11 ]."
+            ],
+            "Rationale": "This is a plausible distractor because it is a statistical method explicitly described in the passage and used in sensitivity analyses. However, it was applied to handle missing data, not to assess the primary association between congenital anomalies and adult mortality. The question asks for the method used to assess the association, which is the Cox proportional hazard model. While multiple imputations were part of the analytical strategy, they were not the primary method for estimating the association."
+        }
+    ],
+    "38": [
+        {
+            "Category": "Distractor",
+            "Option": "Monthly allocation of benefits",
+            "Evidence": [
+                "the timing of monthly allocation encouraging a disproportionate use of benefits at the beginning of the month and funds running out towards the end of the month [ 18 ]"
+            ],
+            "Rationale": "This is a plausible distractor because it refers to a specific mechanism mentioned in the passage related to food assistance programs, which is an environmental factor influencing food access. However, it describes a policy-driven timing pattern rather than a structural environmental factor like grocery infrastructure or transportation. A reader might confuse this with an environmental contributor due to its relevance to food availability, but it is more accurately a systemic feature of benefit distribution, not a physical or neighborhood-level environmental factor as specified in the question."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "Feast-or-famine cycle",
+            "Evidence": [
+                "Binge eating could be considered a consequence of FI, as suggested by the restraint theory in which limiting food intake can lead to uncontrolled eating under certain circumstances (e.g. an abundance of palatable foods); self-induced vomiting may then result from a feeling of uncomfortable fullness that accompanies overeating [ 25 ]. In the USA, for example, the Supplemental Nutrition Assistance Program has been criticized for potentially exacerbating this problem, with the timing of monthly allocation encouraging a disproportionate use of benefits at the beginning of the month and funds running out towards the end of the month [ 18 ]."
+            ],
+            "Rationale": "This is a plausible distractor because the 'feast-or-famine cycle' is a central concept discussed in the passage and is directly linked to food insecurity. However, it is a behavioral or psychological pattern resulting from food availability fluctuations, not an environmental factor per se. The question specifically asks for an environmental factor (e.g., infrastructure, accessibility), and while the cycle is influenced by environmental conditions, it is not itself an environmental factor. A reader who conflates the concept with a structural contributor might select this option incorrectly."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "Perceived weight status",
+            "Evidence": [
+                "perceived weight status (\u201cObese,\u201d \u201cOverweight,\u201d \u201cUnderweight,\u201d or \u201cJust about right\u201d)"
+            ],
+            "Rationale": "This is a plausible distractor because 'perceived weight status' is a variable discussed in the passage and is associated with ED behaviors, which are linked to food insecurity. However, it is a self-reported psychological or subjective factor, not an environmental determinant. The question specifically asks for an environmental factor, and while perceived weight status may influence behavior, it is not a structural or contextual feature of the environment like grocery infrastructure or affordability. A reader might mistakenly include it due to its mention in the context of food insecurity and health outcomes."
+        }
+    ],
+    "39": [
+        {
+            "Category": "Distractor",
+            "Option": "Linear regression",
+            "Evidence": [
+                "We used linear regression for continuous dependent variables (sleep quality, pain severity score), logistic regression for binary dependent variables (pain, chronic pain, sleep quality), and multinomial logistic regression for the categorical dependent variable of sleep duration."
+            ],
+            "Rationale": "This is a plausible distractor because linear regression is explicitly mentioned in the passage as one of the statistical methods used in the study. However, it was used for analyzing individual associations (e.g., between socio-economic conditions and sleep quality), not for decomposing total effects into direct and indirect components. A reader who skims the passage might confuse the general statistical methods used with the specific mediation method, but careful reading reveals that linear regression was not the method used for counterfactual mediation."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "Difference-of-coefficients or product-of-coefficients methods",
+            "Evidence": [
+                "Counterfactual mediation analysis enables the decomposition of the total effect of socio-economic conditions on pain into direct and indirect components, even in the presence of interactions and non-linearities, overcoming limitations of traditional approaches (e.g. difference-of-coefficients or product-of-coefficients methods) [ 40 , 41 ]."
+            ],
+            "Rationale": "This is a plausible distractor because the passage explicitly names these traditional methods as limitations that counterfactual mediation overcomes. However, these methods were not used in the study\u2014they are described as outdated approaches that the current study sought to improve upon. A reader who misreads the sentence might think these were the methods employed, but the text clearly states that counterfactual mediation was used instead, specifically to overcome the shortcomings of these traditional methods."
+        }
+    ],
+    "40": [
+        {
+            "Category": "Distractor",
+            "Option": "July to September",
+            "Evidence": [
+                "major haze episodes occurred during this monsoon season (July to September in 2015 and 2019)"
+            ],
+            "Rationale": "This is a plausible distractor because 'July to September' is a time period explicitly mentioned in the passage and closely related to the correct answer. However, it refers specifically to the months when major haze episodes occurred, not the full period during which higher trends in respiratory visits were observed. The passage states that respiratory visits showed higher trends from July to October, which includes October, a month not part of the major haze episode window. A reader who confuses the timing of haze events with the broader health outcome trend might select this option."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "2015 and 2019",
+            "Evidence": [
+                "higher peaks especially in 2015 and 2019",
+                "major haze episodes occurred during this monsoon season (July to September in 2015 and 2019)"
+            ],
+            "Rationale": "This is a plausible distractor because the years 2015 and 2019 are explicitly mentioned in the passage as periods of extreme haze and high respiratory visit peaks. However, the question asks for the months of higher trends, not the years. A reader who focuses on the specific years mentioned in connection with extreme events might incorrectly interpret this as the answer, even though the question is asking for a seasonal pattern, not a temporal span across years."
+        }
+    ],
+    "41": [
+        {
+            "Category": "Distractor",
+            "Option": "Abdominal ultrasonography, metabolic indicators, and lifestyle factors",
+            "Evidence": [
+                "Fatty liver disease and cirrhosis were diagnosed through abdominal ultrasonography by experienced physicians at the MJ Health Screening Center [ 36 ].",
+                "Metabolic indicators, including abdominal obesity, hypertension, elevated fasting glucose, hypertriglyceridemia, low HDL-C, and high LDL-C, were adjusted for.",
+                "Demographic data [ 3 , 5 , 28 , 30 ] were obtained through self-administered questionnaires, including age, sex, body mass index (BMI), marital status, educational level, annual household income, smoking status, sleep duration, regular exercise, and fried-food consumption."
+            ],
+            "Rationale": "This is a plausible distractor because the listed factors\u2014abdominal ultrasonography, metabolic indicators, and lifestyle factors\u2014are all explicitly mentioned in the passage and are central to the study's methodology. However, they were used as outcome measures, covariates in statistical models, or participant characteristics, not as predictors in the LUR model for air pollutant estimation. A reader who conflates the study's covariates with exposure model predictors might mistakenly select this option, especially since these factors are discussed in close proximity to the exposure evaluation section."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "Traffic-related pollutants such as nitrogen dioxide (NO 2 ) and carbon monoxide (CO)",
+            "Evidence": [
+                "Air pollutants, particularly PM 2.5 and traffic-related pollutants such as nitrogen dioxide (NO 2 ) and carbon monoxide (CO), pose significant health risks.",
+                "Motor vehicle combustion is the primary source of ambient NO 2 [ 20 ] and CO [ 21 ]\u2014both traffic-related air pollutants."
+            ],
+            "Rationale": "This is a plausible distractor because NO 2 and CO are explicitly identified in the passage as traffic-related pollutants and are central to the study\u2019s focus. However, they are the outcomes of the exposure model (i.e., the pollutants being estimated), not predictors used to estimate them. The question asks for the predictors in the LUR model, not the pollutants being modeled. A reader who confuses the dependent variable with independent variables in the model may be misled by this option, especially given the repeated emphasis on these pollutants throughout the text."
+        }
+    ],
+    "42": [
+        {
+            "Category": "Distractor",
+            "Option": "Weight measurements were excluded if they were outside 3 standard deviations from the cohort mean.",
+            "Evidence": [
+                "pruning of values outside of 3 SD of the cohort mean (common data filtering)",
+                "Based on the common approach, 91 observations of HDL-C, 266 of height, and 3049 of weight were excluded."
+            ],
+            "Rationale": "This is a plausible distractor because it references a common data-filtering method explicitly described in the passage, including the use of 3 standard deviations and the exclusion of weight observations. However, it refers to the 'common' approach, not the 'phenomenological' approach specified in the question. A reader who confuses the two methods might select this option, but careful reading reveals that the phenomenological method uses individual-level SDs and biological impossibility, not cohort-level SDs."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "Weight measurements were excluded if they were less than 48 inches or greater than 84 inches based on biological impossibility.",
+            "Evidence": [
+                "we excluded all weight measurements of <50 or >500 lbs",
+                "we excluded all height measurements of <48 and >84 inches"
+            ],
+            "Rationale": "This is a plausible distractor because it uses correct information from the passage\u2014specifically, the exclusion thresholds for height measurements (48\u201384 inches)\u2014and applies it incorrectly to weight. The numbers and the rationale (biological impossibility) are accurate, but the attribute (height) is misapplied. A reader who skims the passage and confuses height and weight limits might select this option, but precise reading shows the limits are specific to each variable."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "Weight measurements were excluded if they were outside 3 standard deviations from the individual mean.",
+            "Evidence": [
+                "the phenomenological approach applies the 3-SD pruning at an intrapersonal level rather than at the cohort level",
+                "observations outside 3 SD from the mean of an individual\u2019s observations are excluded"
+            ],
+            "Rationale": "This is a plausible distractor because it accurately describes a key feature of the phenomenological approach\u2014using individual-level 3-SD pruning. However, the question specifically asks for the criterion used to exclude weight measurements, which was not based on individual SDs but on biological impossibility (i.e., <50 or >500 lbs). While the 3-SD rule applies to other variables, it was not used for weight in this case. A reader who generalizes the method across all variables might select this option, but the passage clearly states that only impossible values were excluded for weight."
+        }
+    ],
+    "43": [
+        {
+            "Category": "Distractor",
+            "Option": "Estonia",
+            "Evidence": [
+                "In Estonia and Lithuania, we excluded these groups from the education- and occupation-specific analysis.",
+                "Although a strong PLE advantage among low-educated foreign-born populations was observed in nearly all countries, it was absent in Estonia."
+            ],
+            "Rationale": "This is a plausible distractor because Estonia is explicitly mentioned in the passage as a country where certain analyses were excluded due to small sample sizes (specifically, foreign-born individuals from non-European countries by socioeconomic class). A reader might confuse this exclusion (due to data sparsity) with the exclusion of Finland (due to data measurement limitations), especially since both countries are discussed in the context of analytical constraints. However, Estonia was excluded for statistical reliability reasons, not because of an inability to recognize foreign qualifications."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "Sweden",
+            "Evidence": [
+                "The foreign-born advantage was insignificant (Denmark, Italy, Lithuania) or was even reversed (Sweden, Austria, and Estonia) in others.",
+                "The lower PLE among foreign-born men in Sweden compared with their native-born counterparts also reflects, at least in part, the historical context of migration to Sweden that predominantly attracted a specific group of migrants."
+            ],
+            "Rationale": "This is a plausible distractor because Sweden is prominently discussed in the passage, particularly in relation to the foreign-born mortality disadvantage and historical migration patterns. The mention of Sweden's unique migrant composition and reversed PLE advantage might lead a reader to assume it was excluded from education-specific analyses. However, the passage does not state that Sweden was excluded; instead, it was included and showed a reversed advantage in high-education groups. The confusion arises from Sweden's atypical findings, which could be mistaken for a methodological exclusion."
+        }
+    ],
+    "44": [
+        {
+            "Category": "Distractor",
+            "Option": "Late 2020 to mid-2021",
+            "Evidence": [
+                "The second wave (late 2020 to mid-2021) spread broadly, with major impacts in the Amazon and in the South, driven by the Gamma variant that caused high mortality rates"
+            ],
+            "Rationale": "This is a plausible distractor because it refers to a specific time period mentioned in the passage related to a major wave of the pandemic in Brazil. However, it describes the timeframe of the second wave of the pandemic, not the period when the Epicovid 2.0 survey was conducted. A reader who confuses pandemic waves with survey timing might select this option, even though it is factually accurate in the context of the pandemic but incorrect for the question asked."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "Mid-2021 to early 2022",
+            "Evidence": [
+                "The third wave (mid-2021 to early 2022) saw new variants across Brazil, with vaccinations mitigating severe outcomes, particularly in South and Southeastern regions such as S\u00e3o Paulo"
+            ],
+            "Rationale": "This is a plausible distractor because it is a clearly stated time period in the passage, referring to the third wave of the pandemic. It shares the same semantic category (temporal reference) as the correct answer and is factually accurate within the passage. However, it refers to a different event (a pandemic wave) and not the survey period, making it a misleading but realistic choice for someone who skims the text and matches keywords like 'mid-2021' or 'early 2022' without careful attention to context."
+        }
+    ],
+    "45": [
+        {
+            "Category": "Distractor",
+            "Option": "7.1 years",
+            "Evidence": [
+                "Between 2019 and 2020, life expectancy decreased by 7.1\u2009years, from 71.2 to 64.1\u2009years, among males and by 4.5\u2009years, from 77.6 to 73.1\u2009years, among females."
+            ],
+            "Rationale": "This is a plausible distractor because '7.1 years' is a specific life-expectancy loss figure explicitly mentioned in the passage and refers to a real event\u2014male life expectancy decline in Mexico during the first year of the pandemic (2019\u201320). However, the question specifically asks about Peruvian males at the beginning of the pandemic, not Mexican males. A reader who confuses the country or misattributes the data might select this option, but careful reading reveals it applies to a different population."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "3 years",
+            "Evidence": [
+                "For some Latin American countries, life-expectancy losses at the beginning of the pandemic ranged from 3 (Chilean females) to 10 years (Peruvian males) [ 5 , 7 , 8 ]."
+            ],
+            "Rationale": "This is a plausible distractor because '3 years' is a factually accurate number stated in the passage and appears in the same sentence as the correct answer. It refers to Chilean females, which is part of the same comparative range. A reader who skims the sentence and focuses on the first number in the range might incorrectly select this as the answer for Peruvian males, especially if they misread the parentheses."
+        }
+    ],
+    "46": [
+        {
+            "Category": "Distractor",
+            "Option": "More than fifteen fillings",
+            "Evidence": [
+                "Those who had were asked to report the number of fillings, choosing from the following categories: 0, 1\u20135, 6\u201310, 11\u201315, or >15."
+            ],
+            "Rationale": "This is a plausible distractor because 'more than fifteen fillings' is a category explicitly mentioned in the passage as part of the original data collection. However, it was used in the case\u2013control study for MS risk, not in the longitudinal analysis of disability progression. A reader who skims the passage might confuse the original five-category scale with the simplified three-category grouping used in the progression analysis, leading to an incorrect selection."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "Six to ten fillings",
+            "Evidence": [
+                "Those who had were asked to report the number of fillings, choosing from the following categories: 0, 1\u20135, 6\u201310, 11\u201315, or >15."
+            ],
+            "Rationale": "This is a plausible distractor because 'six to ten fillings' is a valid category listed in the passage and appears in the same context as the correct answer. However, it was not used in the longitudinal analysis; instead, the study grouped amalgam exposure into 'zero', 'one to five', or 'six or more' fillings. A reader relying on keyword matching might select this option, mistaking a detailed category from the original data collection for the final analytical grouping."
+        }
+    ],
+    "47": [
+        {
+            "Category": "Distractor",
+            "Option": "Using genetic variants to assess the robustness of evidence in MR studies",
+            "Evidence": [
+                "We identified a newly developed framework that focuses on evaluating the strength and consistency of MR findings: Markozannes et\u00a0al. [ 13 ] proposed a structured decision flow that classifies each exposure\u2013outcome association into one of four levels, which they call \u201crobust evidence\u201d, \u201cprobably\u201d, \u201csuggestive\u201d, and \u201cinsufficient\u201d."
+            ],
+            "Rationale": "This is a plausible distractor because it references a real concept from the passage\u2014evaluating robustness of evidence in MR studies\u2014and uses the term 'genetic variants' in a related context. However, the passage clearly states that this framework evaluates consistency across analytical methods, not the use of genetic variants as instrumental variables in causal inference. A reader who confuses the purpose of a tool for assessing evidence consistency with the foundational method of MR may select this option, even though it misrepresents the primary method of MR."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "Applying structured checklists to guide the conduct and reporting of MR studies",
+            "Evidence": [
+                "Four tools provided structured guidance for conducting MR studies [ 19 , 30\u201332 ] and one introduced a new category focused on assessing \u201crobustness of the evidence\u201d [ 13 ].",
+                "Among the 13 reporting tools, the number of domains ranged from 3 to 6, with all tools addressing reporting of the three core IV assumptions."
+            ],
+            "Rationale": "This is a plausible distractor because it accurately describes a category of tools discussed in the passage\u2014structured checklists for conducting and reporting MR studies. However, the question specifically asks about the primary method of causal inference in MR, not the tools used to guide or evaluate studies. A reader who misreads the question or conflates methodological tools with the core method of MR may be misled by this option, which is factually correct in context but irrelevant to the specific question asked."
+        }
+    ],
+    "48": [
+        {
+            "Category": "Distractor",
+            "Option": "0.82",
+            "Evidence": [
+                "Notably, sex differences were not detected statistically based on CIs of one group overlapping with HRs of the other group and an omnibus test ( P =\u20090.35). Individual P -values for interactions were all nonsignificant. Individuals both with and without obesity showed an inverse association between plant-protein diversity and incident T2D, but only participants without central obesity reporting five subtypes had an 18% lower incidence [0.82 (0.68, 1.00)] compared with no intake."
+            ],
+            "Rationale": "This is a plausible distractor because '0.82' is a hazard ratio explicitly stated in the passage and refers to a related but distinct subgroup analysis\u2014specifically, individuals without central obesity who consumed five subtypes of plant protein. While it is close in value and context to the correct answer (0.78), it applies to a different population subgroup and exposure level (five subtypes vs. four to five), making it incorrect for the question that asks about the overall association across countries for four to five subtypes. A reader who skims the passage might confuse this subgroup result with the main finding."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "0.96",
+            "Evidence": [
+                "There was also a 4% lower incidence of T2D with every new subtype of plant-based protein consumed [0.96 (0.93, 1.00)] (Supplementary Table S10)."
+            ],
+            "Rationale": "This is a plausible distractor because '0.96' is a hazard ratio from the passage that is directly related to plant-protein diversity and T2D risk. However, it represents a per-subtype increase in diversity (i.e., a continuous trend), not the specific comparison of consuming four to five subtypes versus no consumption. The question asks for a fixed-level comparison, not a linear trend. A reader who misreads the study's results or confuses the main effect with the trend estimate might select this option, making it a strong distractor based on keyword similarity and contextual relevance."
+        }
+    ],
+    "49": [
+        {
+            "Category": "Distractor",
+            "Option": "SSQ score of \u226511",
+            "Evidence": [
+                "A score of \u226511 or a report of hallucinations or suicidal ideation was defined as a \u2018red flag\u2019 score.",
+                "Participants who scored \u226511 on the SSQ or who reported a \u2018red flag\u2019 symptom were referred to the CSU the same day"
+            ],
+            "Rationale": "This is a plausible distractor because 'SSQ score of \u226511' is explicitly mentioned in the passage and relates to a clinical threshold for referral. However, it refers to a 'red flag' criterion for urgent referral, not the primary outcome definition for CMD prevalence. A reader who confuses the threshold for clinical action with the definition of the outcome measure might select this option, but careful reading reveals that the primary outcome is defined by a different cut-off (\u22658)."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "GAD-7 score of \u226510",
+            "Evidence": [
+                "Anxiety symptoms were measured by using the seven-item Generalised Anxiety Disorder questionnaire (GAD-7) on a scale of 0\u201321, with 0 representing no anxiety symptoms and a cut-off point of 10.",
+                "The primary outcomes were the cluster-level prevalence of CMD, defined as an SSQ score of \u22658, and the cluster-level prevalence of any violence, defined as answering \u2018yes\u2019 to any item on the violence questionnaire."
+            ],
+            "Rationale": "This is a plausible distractor because the GAD-7 score of \u226510 is a clearly defined threshold in the passage and is used to measure anxiety, which is a related but distinct outcome. The question specifically asks about CMD, not anxiety, and the passage explicitly states that the primary outcome for CMD is based on the SSQ, not the GAD-7. A reader who conflates anxiety and CMD or misreads the outcome definition might be misled by this option."
+        }
+    ],
+    "50": [
+        {
+            "Category": "Distractor",
+            "Option": "Collecting information on self-test use prior to GP consultation",
+            "Evidence": [
+                "Importantly, self-testing is not a confounder in this study.",
+                "Our results confirm that COVID-19 VE studies conducted at the primary care level may be biased when the probability of self-testing varies by vaccination status independently of healthcare-seeking behaviour and when self-test results influence the probability of GP consultation.",
+                "We recommend estimating VE both adjusted (as a main analysis) and unadjusted for self-testing, to understand its effects."
+            ],
+            "Rationale": "This is a plausible distractor because the passage mentions collecting information on self-test use prior to GP consultation as a necessary condition for bias mitigation. However, the act of collecting the data is not the recommended method to mitigate bias\u2014it is a prerequisite. The actual mitigation strategy is adjusting the statistical model for self-test use. A reader who conflates data collection with analysis may select this option, but careful reading reveals that the recommendation is about modeling, not data acquisition."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "Systematic selection of patients meeting the case definition for ARI",
+            "Evidence": [
+                "The GP would perform a SARS-CoV-2 PCR test, which would then lead to a PCR test result.",
+                "We emphasize systematic selection of patients meeting the case definition, regardless of other patient attributes.",
+                "In Fig.\u00a01 , we represented a TND study estimating COVID-19 VE at the primary care level, in the absence of self-tests."
+            ],
+            "Rationale": "This is a plausible distractor because systematic selection of patients with ARI symptoms is a core component of the TND study design and is explicitly described in the passage. However, this method is used to control for healthcare-seeking behavior and is not the recommended solution for mitigating bias due to self-testing. A reader who misinterprets the study design as the solution to the specific bias introduced by self-testing may be misled by this option, which is factually accurate but contextually incorrect for the question asked."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "Using a prospective or retrospective cohort study to obtain information on ARI, vaccination, and GP consultation",
+            "Evidence": [
+                "We recommend carrying out population-representative studies within the source population for TND studies at the primary care level.",
+                "A prospective or retrospective cohort study could be carried out to obtain this important information.",
+                "These surveys would provide more accurate parameters for our simulation, so we could better understand the potential bias within TND studies."
+            ],
+            "Rationale": "This is a plausible distractor because the passage recommends conducting cohort studies to gather data on self-testing behavior and GP consultation. However, this is a method for improving parameter estimation and understanding bias, not a direct mitigation strategy for selection bias in the VE study itself. A reader who confuses data collection for research purposes with statistical adjustment in analysis may select this option, but it does not directly address the recommended method to correct bias in the TND study."
+        }
+    ],
+    "51": [
+        {
+            "Category": "Distractor",
+            "Option": "Two weeks",
+            "Evidence": [
+                "Forecasts were not delivered to stakeholders over the 2-week holiday period ( Figure\u00a01 )\u2014weeks with high system burden."
+            ],
+            "Rationale": "This is a plausible distractor because 'two weeks' is a time period explicitly mentioned in the passage and shares the same semantic category as the correct answer (a time duration). However, it refers to the holiday period during which forecasts were suspended, not the forecast horizon used for modeling. A reader who skims the passage might confuse this temporal reference with the forecasting window, especially since both involve a two-week timeframe, but careful reading reveals they refer to different contexts."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "15/19 and 10/11 weeks",
+            "Evidence": [
+                "Observed 14-day admissions and occupancy values were within the forecasted 90% prediction intervals in 15/19 and 10/11\u2009weeks, respectively"
+            ],
+            "Rationale": "This is a plausible distractor because it includes a numerical fraction that appears in the passage and relates to forecast performance evaluation. However, it represents the number of weeks (out of 19 and 11) in which observed values fell within prediction intervals, not the forecast horizon. A reader who misreads the context might assume this fraction refers to the time window of the forecast, but it actually measures calibration accuracy over time, making it a misleading but factually accurate detail from the passage."
+        }
+    ],
+    "52": [
+        {
+            "Category": "Distractor",
+            "Option": "2006",
+            "Evidence": [
+                "Limited access to mifepristone for medication abortion has been available in Australia since 2006 through the Therapeutic Goods Administration Authorised Prescriber Scheme [ 23 ]"
+            ],
+            "Rationale": "This is a plausible distractor because '2006' is a specific year mentioned in the passage and relates to medication abortion access. However, it refers to the start of limited access via a different scheme (the Therapeutic Goods Administration Authorised Prescriber Scheme), not the listing of the mifepristone\u2013misoprostol combination on the PBS. A reader who conflates different access milestones might incorrectly select this year, but careful reading reveals it does not answer the specific question about PBS availability."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "2015",
+            "Evidence": [
+                "In 2015, the introduction of telehealth services for medication abortion facilitated expanded access in Australia, with the greatest benefit to rural and remote communities [ 24 ]"
+            ],
+            "Rationale": "This is a plausible distractor because '2015' is a year explicitly mentioned in the passage and associated with a significant development in medication abortion access. However, it refers to the launch of telehealth services, not the PBS listing of the mifepristone\u2013misoprostol regimen. A reader who associates 'expanded access' with the initial availability of the medication may mistakenly select this year, but the question specifically asks about PBS inclusion, which occurred earlier."
+        }
+    ],
+    "53": [
+        {
+            "Category": "Distractor",
+            "Option": "Participants were asked about their commuting transport options and categorized into five groups: car/motor vehicle, walk, public transport, cycle, and mode other than those.",
+            "Evidence": [
+                "Participants in paid employment or self-employed, except those who indicated they always work from home, were asked, \u201cWhat types of transport do you use to get to and from work?\u201d. They could select one or more of the five options: car/motor vehicle, walk, public transport, cycle, and mode other than those."
+            ],
+            "Rationale": "This is a plausible distractor because it accurately reflects the initial five options participants were given in the survey, which is explicitly stated in the passage. However, it does not reflect the final categorization used in the analysis. The question asks for the exposure metric and how participants were ultimately grouped, not the original response options. A reader who confuses the raw data collection method with the analytical grouping may select this option, but careful reading reveals that the five options were combined into four composite categories for analysis."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "Participants were categorized based on exclusive commuting modes: walking only, cycling only, public transport only, and car only.",
+            "Evidence": [
+                "A total of 13,561 participants walked exclusively, 5,698 cycled exclusively, and 22,706 used public transport exclusively.",
+                "We conducted sensitivity analyses by additionally adjusting for the presence or absence of long-standing illness, and for specific modes (i.e. car only, walking only, cycling only, and public transport only) with common cancers."
+            ],
+            "Rationale": "This is a plausible distractor because the passage mentions exclusive commuting modes and includes them in sensitivity analyses. However, the main analysis did not use exclusive modes as the primary exposure groups. Instead, the study grouped participants into broader categories that included mixed modes (e.g., walk combined with other modes except cycling). The question specifically asks about the primary exposure metric and categorization used in the main analysis, not the sensitivity analyses. A reader who focuses on the sensitivity analysis section may incorrectly assume it reflects the primary method."
+        }
+    ],
+    "54": [
+        {
+            "Category": "Distractor",
+            "Option": "38.5 per 100,000",
+            "Evidence": [
+                "The overall sex stratified mortality rate was different in women (38.5/100\u00a0000, 95% CI 36.7\u201340.4) compared with men (27.2/100\u00a0000, 95% CI 25.7\u201328.8)."
+            ],
+            "Rationale": "This is a plausible distractor because it is a mortality rate explicitly mentioned in the passage and shares the same units and semantic category (mortality rate) as the correct answer. However, it refers to the unstandardized sex-stratified mortality rate for women, not the overall age-standardized rate. A reader who skims the passage might confuse this value with the overall standardized rate, especially since both are presented in close proximity and use similar formatting."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "27.2 per 100,000",
+            "Evidence": [
+                "The overall sex stratified mortality rate was different in women (38.5/100\u00a0000, 95% CI 36.7\u201340.4) compared with men (27.2/100\u00a0000, 95% CI 25.7\u201328.8)."
+            ],
+            "Rationale": "This is a plausible distractor because it is a numerically precise mortality rate stated in the passage and belongs to the same category (mortality rate) as the correct answer. However, it represents the unstandardized mortality rate for men, not the overall age-standardized rate. A reader who misreads the question or focuses only on the number without attending to the descriptor 'age-standardized' might select this option, making it a strong distractor based on keyword matching."
+        }
+    ],
+    "55": [
+        {
+            "Category": "Distractor",
+            "Option": "50.2%",
+            "Evidence": [
+                "Among individual NCD categories, the major decline in outpatient department visits was observed for cancer (50.2%), followed by CVD (45.2%) and CRD (32.6%)."
+            ],
+            "Rationale": "This is a plausible distractor because '50.2%' is a specific percentage explicitly mentioned in the passage and refers to the decline in outpatient visits for a specific NCD\u2014cancer. However, the question asks for the overall reduction across all NCDs, not for a single disease category. A reader who focuses on the most dramatic decline might mistakenly select this figure, even though it does not represent the aggregate reduction."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "73%",
+            "Evidence": [
+                "There was a 73% [RR 0.27, 95% confidence interval (CI): 0.089\u20130.808] decrease in outpatient department visits for CVD"
+            ],
+            "Rationale": "This is a plausible distractor because '73%' is a precise percentage stated in the passage and directly related to the impact of the pandemic on healthcare utilization. However, it refers specifically to the relative risk reduction for CVD, not the overall percentage reduction across all NCDs. A reader who misreads the context or confuses relative risk with aggregate change might select this figure, despite it being a disease-specific statistic."
+        }
+    ],
+    "56": [
+        {
+            "Category": "Distractor",
+            "Option": "50%",
+            "Evidence": [
+                "A common approach of adjusting for unobserved confounding is also a sibling fixed effects design, which accounts for an average of 50% of co-segregating genes and the environment shared by the siblings [ 31 ]."
+            ],
+            "Rationale": "This is a plausible distractor because '50%' is a specific percentage mentioned in the passage and refers to a related methodological design (sibling fixed effects). It belongs to the same semantic category (proportion of co-segregating genes) and could mislead a reader who confuses the cousin comparison with the sibling fixed effects design. However, the question specifically asks about the cousin comparison, which accounts for only 12.5% of co-segregating genes, not 50%."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "25%",
+            "Evidence": [
+                "The cousin comparisons have not been widely used to study the outcomes of multiple household dysfunction indicators, except for three Swedish studies, which showed that the population-level estimates of the associations between household dysfunction and neurodevelopmental disorders [ 32 ], substance use [ 34 ], and drug use [ 40 ] attenuate between 20% and 30% [ 32 , 34 ] or more [ 40 ] in cousin comparisons."
+            ],
+            "Rationale": "This is a plausible distractor because '25%' is within the range of attenuation percentages (20%\u201330%) mentioned in the passage for the cousin comparison's effect on population-level estimates. However, the question asks about the proportion of co-segregating genes accounted for, not the degree of attenuation in effect sizes. A reader who misreads the passage might confuse the percentage of effect attenuation with the genetic sharing percentage, making this a strong distractor."
+        }
+    ],
+    "57": [
+        {
+            "Category": "Distractor",
+            "Option": "Difference-in-differences (DID) analysis",
+            "Evidence": [
+                "Second, we employed various alternative methods. First, we borrowed the idea of the difference-in-differences (DID) analysis to account for background secular trends in incidence.",
+                "The naive DID analysis compared the change in GC incidence from the pre- to post-intervention period between the screening population and the population aged 20\u201339 years."
+            ],
+            "Rationale": "This is a plausible distractor because the difference-in-differences (DID) analysis is explicitly mentioned in the passage as one of the alternative methods used in the study. It is a well-known statistical technique in epidemiology and appears in the same context as the primary method. However, the question specifically asks about the method used to construct the synthetic control, not an alternative analytical approach. A reader who confuses the primary method with a supplementary one might select this option, even though DID was not used to build the synthetic control."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "Modified age-period-cohort (APC) analysis",
+            "Evidence": [
+                "Second, following the method by Gangnon et\u00a0al. [ 22 ] we conducted a modified age-period-cohort (APC) analysis [ 22 ] to evaluate screening\u2019s impact on GC incidence by including a screening period function.",
+                "The APC analysis suggested the narrowing trend continued and reversed into a reduction effect."
+            ],
+            "Rationale": "This is a plausible distractor because the modified APC analysis is described in detail as an alternative method used to corroborate findings. It is presented alongside the synthetic control method and is part of the methodological triangulation. However, the question specifically asks about the construction of the synthetic control, which was done using SCM, not APC. A reader who misreads the passage or conflates 'alternative methods' with the primary method might incorrectly select this option, despite it being a supplementary analysis."
+        }
+    ],
+    "58": [
+        {
+            "Category": "Distractor",
+            "Option": "minfi R/Bioconductor package",
+            "Evidence": [
+                "Sample-level and probe-level quality control (QC) filters were applied using the minfi R/Bioconductor package [ 12 ] (see details in Supplementary Material )"
+            ],
+            "Rationale": "This is a plausible distractor because the minfi package is explicitly mentioned in the passage as being used for quality control in the DNAm analysis. It is a well-known bioinformatics tool in epigenetics, making it a credible alternative. However, the passage clearly states that minfi was used for QC, not for accounting for batch effects. A reader who confuses methodological steps or skims the text might incorrectly associate minfi with batch effect correction."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "METAL software",
+            "Evidence": [
+                "We performed a fixed effects meta-analysis using the METAL software [ 17 ] for four cohort-specific EWAS results of participants born after 28\u2009weeks of gestation."
+            ],
+            "Rationale": "This is a plausible distractor because METAL is explicitly mentioned in the passage as a tool used in the study, specifically for the meta-analysis step. Since the question involves a multi-step analytical pipeline, a reader might mistakenly assume that METAL was used for batch effect correction, especially if they conflate meta-analysis tools with statistical adjustment methods. However, the passage clearly specifies that METAL was used for meta-analysis, not for batch effect handling."
+        }
+    ],
+    "59": [
+        {
+            "Category": "Distractor",
+            "Option": "The proportion of the population aged \u226525 years who had completed secondary education or above",
+            "Evidence": [
+                "As a proxy for neighbourhood-level SEP, we used the proportion of the population aged \u226525\u2009years who had completed primary education or above\u2014obtained from a population census, with higher levels representing neighbourhoods with higher SEP."
+            ],
+            "Rationale": "This is a plausible distractor because it is a similar measure to the correct answer, involving educational attainment in the same age group and derived from census data. However, the passage specifies that the proxy was based on completion of 'primary education or above,' not 'secondary education or above.' A reader who misreads or overgeneralizes the educational level might select this option, but careful attention to the exact wording reveals it is incorrect."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "The proportion of green spaces in neighbourhoods",
+            "Evidence": [
+                "As the natural environment indicator, we used the proportion of green spaces in neighbourhoods that was obtained by dividing the total green-space area by the land area of the geographic unit."
+            ],
+            "Rationale": "This is a plausible distractor because it is a clearly stated measure from the passage and relates to a neighbourhood-level environmental factor. However, it was used as a proxy for the natural environment, not socioeconomic position. A reader who confuses the different types of neighbourhood exposures (social vs. natural) might mistakenly select this as the SEP proxy, especially since both are measured at the neighbourhood level."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "Intersection density (nodes/km\u00b2)",
+            "Evidence": [
+                "As the built environment indicator, we used intersection density to proxy street connectivity, defined as the number of intersections per km 2 (nodes/km 2 )."
+            ],
+            "Rationale": "This is a plausible distractor because it is a key neighbourhood-level variable explicitly mentioned in the passage and used as a proxy for the built environment. However, it was not used to measure SEP but rather street connectivity. A reader who conflates different types of environmental proxies (built vs. social) might incorrectly associate this with socioeconomic position, especially since both are analyzed in the same study context."
+        }
+    ],
+    "60": [
+        {
+            "Category": "Distractor",
+            "Option": "The Omicron wave caused a shortage of testing in some areas",
+            "Evidence": [
+                "We end the study period on 15 December, because the Omicron wave caused a shortage of testing in some areas [23]\u2014which would have undercounted cases\u2014"
+            ],
+            "Rationale": "This is a plausible distractor because it captures part of the correct answer and is factually accurate within the passage. However, it omits the critical second component\u2014'and further disrupted schools in January 2022'\u2014which is essential to the full rationale for ending the study. A reader who skims the sentence might select this option based on keyword matching ('Omicron wave', 'shortage of testing'), but careful reading reveals that this incomplete version does not fully explain the study's termination date."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "Schools were disrupted in January 2022",
+            "Evidence": [
+                "We end the study period on 15 December, because the Omicron wave caused a shortage of testing in some areas [23]\u2014which would have undercounted cases\u2014and further disrupted schools in January 2022."
+            ],
+            "Rationale": "This is a plausible distractor because it references a fact stated in the passage and relates to the study's timeline. However, it only addresses the second part of the reason for ending the study (school disruption) and ignores the primary concern about testing shortages. A reader who focuses on the consequence of the Omicron wave on school operations might mistakenly believe this alone justifies the cutoff date, but the passage clearly states that both factors\u2014testing shortages and school disruption\u2014were jointly responsible."
+        }
+    ],
+    "61": [
+        {
+            "Category": "Distractor",
+            "Option": "The approach requires genotyped mother\u2013offspring pairs to be available",
+            "Evidence": [
+                "MR with adjustment for maternal genotype and MR using paternally transmitted alleles require genotyped mother\u2013offspring or father\u2013offspring dyads"
+            ],
+            "Rationale": "This is a plausible distractor because it references a key requirement of other MR methods discussed in the passage. However, it incorrectly attributes this requirement to the offspring genotype-by-proxy MR approach, which is specifically designed to work in the absence of such pairs. A reader who confuses the methodological requirements of different approaches might select this option, but careful reading reveals that the proxy method avoids this need entirely."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "The method is subject to bias from horizontal pleiotropy through the offspring genome",
+            "Evidence": [
+                "In the presence of pleiotropy through the offspring genotype, the probability limit of the IV estimator differed from the population-level causal effect"
+            ],
+            "Rationale": "This is a plausible distractor because horizontal pleiotropy is explicitly mentioned as a source of bias in the passage, and the statement is factually accurate. However, the question specifically asks about the limitation related to statistical power, not bias. A reader who conflates different types of methodological limitations (power vs. bias) might be misled by this option, even though it is a valid concern in the broader context of MR analysis."
+        }
+    ],
+    "62": [
+        {
+            "Category": "Distractor",
+            "Option": "47.1%",
+            "Evidence": [
+                "For malaria-slide-positive cases, it was considerably lower, at 47.1% (Table 2)."
+            ],
+            "Rationale": "This is a plausible distractor because it is a percentage value explicitly mentioned in the passage and relates to the same topic of pneumonia misclassification. However, it refers to the positive predictive value (PPV) specifically among malaria-slide-positive WHO pneumonia cases in the PERCH study, not the proportion of misclassified cases in a setting with 24% malaria parasitaemia prevalence. A reader who confuses PPV with misclassification rate or misreads the context of the table may select this option."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "24.6%",
+            "Evidence": [
+                "In a region with a typical malaria parasitaemia prevalence of 24% [17], 47.8% of WHO pneumonia cases are malaria-slide-negative, 24.6% are coinfected, and 27.6% are misclassified (Figure 3)."
+            ],
+            "Rationale": "This is a plausible distractor because it is a directly stated percentage from the same sentence as the correct answer and belongs to the same semantic category (proportions of WHO pneumonia cases). However, it refers to the coinfected group (malaria and pneumonia together), not the misclassified group (malaria without pneumonia). A reader who skims the sentence and confuses 'coinfected' with 'misclassified' may select this option despite the clear distinction in the passage."
+        }
+    ],
+    "63": [
+        {
+            "Category": "Distractor",
+            "Option": "Black men with low education experienced a life expectancy loss of 4.7 years",
+            "Evidence": [
+                "In 2020, the largest losses were among low-education Hispanic men (\u22126.0\u2009years; from 81.0 to 75.0\u2009years) and women (\u22125.4\u2009years; from 87.9 to 82.5\u2009years), followed by Black men with middle or low education and Black women with low education (\u22124.4 to \u22124.7\u2009years)."
+            ],
+            "Rationale": "This is a plausible distractor because it references a group (Black men with low education) and a specific life expectancy loss (4.7 years) that are both factually accurate in the passage. However, the question specifically asks for the group with the *largest* loss, which was low-education Hispanic men with a loss of 6.0 years. A reader who skims the passage might select this option due to the presence of a precise number and a high-risk demographic, but careful reading reveals it refers to a smaller loss than the correct answer."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "White women with low education experienced a life expectancy loss of 1.5 years",
+            "Evidence": [
+                "For White men and women with low education, the loss from non-COVID-19 causes was \u22121.6 (60%) and \u22121.5 (58%) years, respectively."
+            ],
+            "Rationale": "This is a plausible distractor because it includes a specific demographic (White women with low education) and a numerically accurate figure (1.5 years) that appears in the passage. However, this value refers to the loss from *non-COVID-19 causes* only, not the total life expectancy loss. The correct answer requires the total loss across all causes, which for this group was much smaller than the 6.0-year loss seen in low-education Hispanic men. A reader who misreads the context or focuses on a partial statistic may be misled by this accurate but incomplete fact."
+        }
+    ],
+    "64": [
+        {
+            "Category": "Distractor",
+            "Option": "Obesity",
+            "Evidence": [
+                "Participants who lived in areas with the highest concentrated disadvantage were more likely to be obese (36% vs 22%)",
+                "Obesity [ 7 ] and pesticides (usually via occupational exposure) [ 8\u201311 ] are the most consistent established modifiable risk factors for MM"
+            ],
+            "Rationale": "This is a plausible distractor because obesity is explicitly mentioned in the passage as a key risk factor for MM and is associated with neighborhood disadvantage. However, it is not the primary outcome of the study\u2014rather, it is a covariate used in the analysis. A reader who focuses on risk factors mentioned in the context of disparities might mistakenly believe obesity was the main outcome being studied, especially since it is linked to both neighborhood disadvantage and MM."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "Neighborhood walkability",
+            "Evidence": [
+                "Two studies based in New York City reported inverse associations between neighborhood walkability\u2014which is associated with increased levels of physical activity and lower rates of obesity [ 23 , 24 ]\u2014and MM incidence",
+                "Our findings of a positive association between living in areas of concentrated disadvantage or low SES and MM incidence are consistent with those of these prior reports"
+            ],
+            "Rationale": "This is a plausible distractor because neighborhood walkability is discussed in the passage as a relevant environmental factor linked to MM incidence in prior studies. Although the current study did not measure walkability directly, it is mentioned in the context of related research. A reader who conflates the focus of prior studies with the current study\u2019s outcome might incorrectly select walkability as the primary outcome, despite it being a secondary or contextual factor in the literature review."
+        }
+    ],
+    "65": [
+        {
+            "Category": "Distractor",
+            "Option": "Open-label, cluster-randomized trial",
+            "Evidence": [
+                "We conducted an open-label, stepped-wedge cluster-randomized pilot trial between December 2019 and April 2020 in the Viwandani urban informal settlement in Nairobi County in Kenya [ 8 ]."
+            ],
+            "Rationale": "This is a plausible distractor because it includes accurate elements from the passage\u2014'open-label' and 'cluster-randomized'\u2014which are part of the full study design. However, it omits the critical descriptor 'stepped-wedge' and 'pilot,' which are essential to correctly identify the specific trial design. A reader who skims the passage might select this option based on keyword matching but would miss the precise terminology required by the question."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "Pilot randomized trial",
+            "Evidence": [
+                "The trial was not registered as it was a pilot."
+            ],
+            "Rationale": "This is a plausible distractor because 'pilot randomized trial' is a valid phrase that appears in the passage context and refers to the nature of the study. However, it lacks the specific design elements\u2014'stepped-wedge' and 'cluster-randomized'\u2014that are required to answer the question correctly. A reader who focuses on the word 'pilot' and ignores the full description may incorrectly select this option, mistaking a general category for the precise study design."
+        }
+    ],
+    "66": [
+        {
+            "Category": "Distractor",
+            "Option": "Using the \"svyset\" command with census sector as the stratification variable and city as the primary sampling unit",
+            "Evidence": [
+                "Sampling weights were accounted for by using the \"svyset\" command, with the city as the stratification variable and the census sector as the primary sampling unit. All subsequent analyses were conducted by using the \"svy\" command in Stata, which adjusted for the complex survey design by accounting for stratification, clustering, and within-city correlations."
+            ],
+            "Rationale": "This is a plausible distractor because it contains accurate information from the passage\u2014specifically, the use of the \"svyset\" command and the inclusion of both city and census sector\u2014but reverses their roles. The correct answer specifies that city is the stratification variable and census sector is the primary sampling unit. This reversal is factually incorrect in the context of the study's design but is plausible to a reader who skims the passage and confuses the hierarchical structure of the sampling process. The distractor uses the same technical language and structure as the correct answer, making it a strong candidate for those who do not carefully parse the exact roles of each variable."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "Using principal component analysis to calculate a wealth index based on household characteristics and assets",
+            "Evidence": [
+                "To assess the socioeconomic position of households, we calculated a wealth index based on principal component analysis of a set of household characteristics and assets (computer, internet access, color television, air conditioning, motor vehicles, cable television, number of bathrooms, and number of residents per bedroom), similar to what is done for Demographic and Health surveys [ 22 ]."
+            ],
+            "Rationale": "This is a plausible distractor because it references a method explicitly described in the passage\u2014principal component analysis for constructing a wealth index. However, this method was used to assess socioeconomic position, not to adjust for the complex survey design. A reader who misreads the question as asking about data processing or socioeconomic measurement might select this option. The distractor is factually accurate within the passage but incorrect as an answer to the specific question about statistical adjustment for survey design, making it a strong test of precise reading."
+        }
+    ],
+    "67": [
+        {
+            "Category": "Distractor",
+            "Option": "PangoLEARN machine-learning model",
+            "Evidence": [
+                "Initially, we used the PangoLEARN machine-learning model to assign a lineage name to each WGS result [ 33 ]"
+            ],
+            "Rationale": "This is a plausible distractor because the PangoLEARN model is explicitly mentioned in the passage as the method used before 16 December 2021. It belongs to the same semantic category (lineage assignment method) and is factually accurate in context. However, it was used prior to the switch, not after 16 December 2021, making it incorrect for this specific question about the post-16 December 2021 method. A reader who skims the passage might confuse the initial method with the updated one."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "pangolin software tool",
+            "Evidence": [
+                "Pango lineages, which represent the dynamic nomenclature applied to genetically distinct SARS-CoV-2 lineages [ 32 ], were assigned by using the pangolin software tool [ 33 ]"
+            ],
+            "Rationale": "This is a plausible distractor because the pangolin software tool is directly mentioned in the passage as the tool used for assigning Pango lineages. It is a valid fact and appears in the same context as the correct answer. However, the passage specifies that pangolin was used for lineage assignment in general, not as the method adopted after 16 December 2021. The UShER method was introduced specifically to improve stability, while pangolin is a broader tool used in the process. A reader relying on keyword matching might select this instead of the more specific post-16 December 2021 method."
+        }
+    ],
+    "68": [
+        {
+            "Category": "Distractor",
+            "Option": "1.19",
+            "Evidence": [
+                "a 19% higher hazard of publication for non-COVID-19 preprints during the pandemic compared with COVID-19 preprints, with an HR of 1.19 (95% CI: 1.17, 1.21)"
+            ],
+            "Rationale": "This is a plausible distractor because '1.19' is a hazard ratio explicitly mentioned in the passage and belongs to the same semantic category as the correct answer (a hazard ratio from a Cox proportional-hazards model). However, it refers to the comparison between non-COVID-19 preprints and COVID-19 preprints during the pandemic era (2020\u20132), not the comparison between preprints from 2019 and COVID-19 preprints. A reader who skims the passage might confuse the two different hazard ratio estimates due to similar phrasing and context."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "1.76",
+            "Evidence": [
+                "non-COVID-19 preprints had a 76% higher hazard of publication (HR 1.76; 95% CI: 1.71,1.81)"
+            ],
+            "Rationale": "This is a plausible distractor because '1.76' is a hazard ratio stated in the passage and is numerically close to the correct answer. It appears in a sensitivity analysis focusing on preprints from January to August 2020, which is a subset of the broader analysis. The similarity in context (comparing preprints and publication likelihood) and the presence of a hazard ratio in the same section may lead a reader to mistakenly select this value, even though it applies to a different time window and subset of data."
+        }
+    ],
+    "69": [
+        {
+            "Category": "Distractor",
+            "Option": "150 ng/mL",
+            "Evidence": [
+                "overload (>200\u2009ng/mL in men; >150\u2009ng/mL in women) [ 32 , 33 ]"
+            ],
+            "Rationale": "This is a plausible distractor because '150 ng/mL' is a threshold explicitly mentioned in the passage, but it applies to women, not men. A reader who skims the text or confuses the gender-specific cutoffs might select this option, especially since both values appear in close proximity in the same sentence. However, the question specifically asks for the threshold in men, making this answer incorrect despite being factually accurate in the passage for a different subgroup."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "64.3 ng/mL",
+            "Evidence": [
+                "The ferritin levels showed site variation, with rural Ghana at 64.3\u2009ng/mL (IQR: 38.5\u2009\u2013103.9)"
+            ],
+            "Rationale": "This is a plausible distractor because 64.3 ng/mL is a specific ferritin value stated in the passage and appears in the context of baseline measurements. However, it represents the median ferritin level in rural Ghana, not a WHO-defined cutoff for iron overload. A reader who misreads the context or confuses baseline levels with clinical thresholds might be misled into selecting this value, even though it is unrelated to the categorization of iron overload."
+        }
+    ],
+    "70": [
+        {
+            "Category": "Distractor",
+            "Option": "Outdoor working conditions",
+            "Evidence": [
+                "people who have outdoor jobs might be more frequently and intensively exposed to extreme temperatures for extended periods and, in general, this outdoor working group (included in blue-collar occupations) has relatively lower socioeconomic and health conditions compared with people with indoor working conditions"
+            ],
+            "Rationale": "This is a plausible distractor because 'outdoor working conditions' is a factually accurate phrase from the passage and relates to the same semantic category (occupational exposure to extreme temperatures). However, it refers to a general description of a working condition rather than the specific types of industries or activities mentioned in the correct answer. A reader who skims the passage might confuse this general term with the specific occupational examples, but careful reading reveals that the question asks for the actual types of activities, not just the general condition."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "Blue-collar occupations",
+            "Evidence": [
+                "this outdoor working group (included in blue-collar occupations) has relatively lower socioeconomic and health conditions compared with people with indoor working conditions"
+            ],
+            "Rationale": "This is a plausible distractor because 'blue-collar occupations' is explicitly mentioned in the passage and is semantically related to the correct answer. It appears in the context of discussing occupational exposure to extreme temperatures. However, it is a broader occupational category and not the specific type of work (e.g., construction, agriculture, transportation) that the question asks for. A reader relying on keyword matching might select this, but it does not precisely answer the question about the actual activities that increase exposure."
+        }
+    ],
+    "71": [
+        {
+            "Category": "Distractor",
+            "Option": "Incident diabetes",
+            "Evidence": [
+                "The outcome for this analysis was incident diabetes.",
+                "Incident diabetes cases were defined as study participants who were diabetes\u2010free at baseline and who had fasting plasma glucose levels \u2265126\u2009mg/dl (\u22657.0\u2009mmol/l) or HbA1c levels \u22656.5% (\u226548\u2009mmol/mol), or self\u2010reported medical diagnosis with prescription of glucose lowering drugs at follow\u2010up examinations."
+            ],
+            "Rationale": "This is a plausible distractor because 'incident diabetes' is a key variable mentioned in the passage and is central to the study's outcome. However, it is the outcome, not the exposure, and the question specifically asks for the primary exposure variable. A reader who confuses exposure with outcome might select this option, especially since both are explicitly defined in the same section of the passage."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "Waist circumference",
+            "Evidence": [
+                "Those with measured waist circumference \u226580\u2009cm were grouped as women with central obesity.",
+                "We incorporated waist circumference as a measure of central obesity (model 4a) in our analysis."
+            ],
+            "Rationale": "This is a plausible distractor because waist circumference is a variable discussed in the study and is explicitly mentioned as a potential mediating factor in the analysis. It is part of the covariates and is included in statistical models, which may lead a reader to mistakenly believe it is the primary exposure. However, the passage clearly states that the exposure is age at menarche, while waist circumference is a confounder or mediator, not the main variable of interest."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "BMI",
+            "Evidence": [
+                "We calculated the BMI as weight in kilograms divided by height in meters squared.",
+                "BMI as a measure of general obesity (model 4b)."
+            ],
+            "Rationale": "This is a plausible distractor because BMI is a key variable in the study and is repeatedly mentioned as a measure of obesity and a potential mediator in the association between menarche age and diabetes. It is included in the final models, which may lead a reader to assume it is the primary exposure. However, the passage explicitly defines 'age at menarche' as the exposure, making BMI a secondary variable in the analysis."
+        }
+    ],
+    "72": [
+        {
+            "Category": "Distractor",
+            "Option": "Bayesian distributed lag interaction models (BDLIMs)",
+            "Evidence": [
+                "We applied Bayesian distributed lag interaction models (BDLIMs) [ 31 ] with the full sample to detect heterogeneity by sex ( Supplementary Table S3 ).",
+                "BDLIM tests subgroup differences in sensitive windows, effect size, or both [ 31 ]."
+            ],
+            "Rationale": "This is a plausible distractor because BDLIMs are explicitly mentioned in the passage and are a statistical method used in the study. However, they were used to detect heterogeneity by sex and test subgroup differences, not to identify susceptible exposure windows per se. A reader who skims the passage might confuse the method used for subgroup analysis with the primary method for identifying windows, but careful reading reveals that DLMs were the core method for that purpose."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "Log Poisson DLMs with robust standard error estimators",
+            "Evidence": [
+                "To explore susceptible windows, we fitted log Poisson DLMs with robust standard error estimators with a cross-basis of a log-linear exposure\u2013response association based on prior work [ 18 ] and a lag\u2013response association using a natural cubic spline smooth function."
+            ],
+            "Rationale": "This is a plausible distractor because it is a specific variant of the DLMs described in the passage and appears in the same sentence as the main methodological statement. However, it refers to the technical implementation of the DLMs (e.g., log Poisson regression with robust errors), not the overarching methodological approach. The question asks for the general statistical method used to identify windows, not the specific model specification, so this detail, while accurate, is not the correct answer to the specific question."
+        }
+    ],
+    "73": [
+        {
+            "Category": "Distractor",
+            "Option": "Families with at least one member aged 60 or older",
+            "Evidence": [
+                "Our current post-pandemic analyses showed that 37% of all households in the poorest quintile and 46% of those in the wealthiest quintile had at least one member aged 60 or older."
+            ],
+            "Rationale": "This is a plausible distractor because it is a demographic characteristic explicitly mentioned in the passage and relates to a health outcome (death of a family member). However, the passage states that this factor was associated with higher rates of family death due to COVID-19, not food insecurity. A reader who confuses the outcomes or skims the text might incorrectly associate age composition with food insecurity, despite the evidence clearly linking it to mortality instead."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "Families with children or adolescents aged under 18",
+            "Evidence": [
+                "Impact on education, defined as any family member who stopped studying during the pandemic (analyses restricted to families with children or adolescents aged under 18)."
+            ],
+            "Rationale": "This is a plausible distractor because the passage explicitly mentions this demographic group in the context of education disruption. However, the study notes that school interruption was analyzed only among families with children under 18, not that this group had higher food insecurity. The passage links food insecurity to households with six or more residents and female-headed families, not specifically to the presence of children. A reader who misreads the scope of the analysis might assume this group was also associated with food insecurity."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "Wealthier and more educated families",
+            "Evidence": [
+                "The death of a family member due to COVID-19 was reported in 14.7% [95% confidence interval (CI): 13.8%; 15.6%] of all households, being more common in wealthier and more educated families and in the North and Central-West regions."
+            ],
+            "Rationale": "This is a plausible distractor because it is a socioeconomic group explicitly mentioned in the passage, and the term 'wealthier' is part of the same semantic category as 'low-income' families. However, the passage clearly states that food insecurity was more common among low-income families, not wealthier ones. The confusion arises because the same group (wealthier families) is linked to a different outcome (death of a family member), making this a strong distractor for readers who do not carefully distinguish between outcomes."
+        }
+    ],
+    "74": [
+        {
+            "Category": "Distractor",
+            "Option": "As-started effect",
+            "Evidence": [
+                "The 'as-started' effect, the target trial emulation equivalent of an 'intention-to-treat' effect [22]."
+            ],
+            "Rationale": "This is a plausible distractor because 'as-started effect' is explicitly mentioned in the passage and is closely related to the correct answer in both terminology and context. It is described as the target trial emulation equivalent of the intention-to-treat effect, which makes it semantically similar and likely to confuse readers who skim the text. However, the question specifically asks for the primary causal estimand, which is defined as the intention-to-treat effect, not its equivalent. Thus, while the as-started effect is a valid concept in the study, it is not the primary estimand as defined in the protocol."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "Average treatment effect of initiation in a given period",
+            "Evidence": [
+                "The causal estimand corresponds to the intention-to-treat effect, i.e. an average treatment effect of initiation in a given period."
+            ],
+            "Rationale": "This is a plausible distractor because it includes a direct paraphrase of the definition of the intention-to-treat effect, using key phrases from the passage such as 'average treatment effect of initiation in a given period'. Although this phrase appears in the same sentence as the correct answer, it is a descriptive elaboration rather than the formal name of the estimand. A reader who misreads or relies on keyword matching might select this option, but careful reading reveals that the formal name 'intention-to-treat effect' is the correct answer, not the explanatory clause."
+        }
+    ],
+    "75": [
+        {
+            "Category": "Distractor",
+            "Option": "Gestational diabetes mellitus",
+            "Evidence": [
+                "Gestational diabetes mellitus was associated with earlier puberty by 2.5\u2009months in girls [ 25 ]."
+            ],
+            "Rationale": "This is a plausible distractor because gestational diabetes mellitus is a maternal health condition during pregnancy that is explicitly linked to earlier puberty in girls in the passage. However, the effect size (2.5 months) is different from the 3.5 months associated with PCOS. A reader who scans for maternal conditions linked to earlier puberty in girls might select this option based on keyword matching, but careful reading reveals it does not match the specific magnitude stated in the question."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "Maternal hyperthyroidism",
+            "Evidence": [
+                "Maternal hyperthyroidism was associated with earlier puberty by \u22643\u2009months in boys [ 28 ]."
+            ],
+            "Rationale": "This is a plausible distractor because maternal hyperthyroidism is a maternal health condition mentioned in the passage and associated with earlier puberty. However, the effect is reported in boys, not girls, and the magnitude is capped at 3 months, which is less than the 3.5 months specified in the question. A reader who misreads the gender or effect size might be misled by this option, despite it being incorrect for the specific question asked."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "Preeclampsia, eclampsia or Hemolysis, Elevated Liver enzyme, and Low Platelet syndrome",
+            "Evidence": [
+                "Preeclampsia, eclampsia or Hemolysis, Elevated Liver enzyme, and Low Platelet syndrome were associated with earlier puberty by \u223c2\u2009months in girls [ 27 ]."
+            ],
+            "Rationale": "This is a plausible distractor because it refers to a maternal condition during pregnancy that is explicitly linked to earlier puberty in girls. However, the effect size (approximately 2 months) is smaller than the 3.5 months specified in the question. A reader who identifies a relevant maternal condition and a relevant outcome (earlier puberty in girls) might select this option based on partial matching, but it fails to match the precise effect size required by the question."
+        }
+    ],
+    "76": [
+        {
+            "Category": "Distractor",
+            "Option": "The number of tropical cyclones or floods a participant was exposed to",
+            "Evidence": [
+                "We obtained the global TC and flood events data for between 1993 and 2009 from the International Best Track Archive for Climate Stewardship [ 32 ] and Dartmouth Flood Observatory [ 33 ], respectively, to estimate the TC and flood exposure of each individual based on their residential address."
+            ],
+            "Rationale": "This is a plausible distractor because the passage mentions the collection of global TC and flood event data over a specific time period, which could lead a reader to infer that the number of events was the exposure metric. However, the passage explicitly states that exposure was defined by residential location within affected areas, not by the count of events. The mention of data collection from multiple sources and a multi-year period makes this distractor seem credible, but it misrepresents the actual exposure definition."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "The time elapsed between exposure and blood draw",
+            "Evidence": [
+                "A distributed lag term of \u226412\u2009months after exposures was included in the model to account for the potential delayed effects [ 38 ].",
+                "The magnitude of the DNAmAgeAC associated with TCs or floods generally decreased over time after exposures ( P for trend was consistently < .001 for the six DNAmAgeAC metrics)."
+            ],
+            "Rationale": "This is a plausible distractor because the passage discusses the temporal dynamics of exposure effects, including a distributed lag model and changes in DNAmAgeAC over time. A reader might mistakenly interpret the time since exposure as the primary exposure metric, especially since the study analyzed effects across a 12-month window. However, the primary exposure metric was not the timing of exposure but rather the geographic location of the participant\u2019s home relative to disaster-affected zones."
+        }
+    ],
+    "77": [
+        {
+            "Category": "Distractor",
+            "Option": "13 g per standard drink",
+            "Evidence": [
+                "In this study, calculating alcohol consumption separately for each type of alcoholic beverage could have led to overestimation. Therefore, we assumed that each standard drink contains a similar amount of alcohol (13\u2009g), regardless of the beverage type."
+            ],
+            "Rationale": "This is a plausible distractor because '13 g' is a specific numerical value explicitly mentioned in the passage and relates to alcohol measurement. However, it refers to the assumed amount of alcohol in a standard drink, not the classification threshold for current drinkers. A reader who confuses the definition of a standard drink with the exposure categories might select this option, but careful reading reveals it does not answer the question about how current drinkers were grouped by daily consumption."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "39\u201373 years",
+            "Evidence": [
+                "The UKB subjects were established with 502\u2009619 male and female adults aged 39\u201373\u2009years."
+            ],
+            "Rationale": "This is a plausible distractor because it is a time-related numerical range from the passage and appears in the context of cohort characteristics. However, it refers to the age range of UKB participants, not the classification thresholds for alcohol consumption. A reader who skims the passage might associate this age group with study criteria and mistakenly apply it to alcohol categorization, but it is unrelated to the specific question about drinking amount categories."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "Less than 3 years",
+            "Evidence": [
+                "To reduce the potential influence of reverse causation, we conducted an analysis by excluding individuals with a follow-up period of <3\u2009years."
+            ],
+            "Rationale": "This is a plausible distractor because 'less than 3 years' is a time period explicitly mentioned in the passage and relates to study methodology. However, it refers to the exclusion criterion for follow-up duration to address reverse causation, not the classification of current drinkers by alcohol intake. A reader who misreads the context might confuse this temporal threshold with exposure categories, but it is clearly distinct in meaning and purpose."
+        }
+    ],
+    "78": [
+        {
+            "Category": "Distractor",
+            "Option": "The assessment centre was chosen based on sufficient proximity to highly populated regions",
+            "Evidence": [
+                "The catchment areas of the assessment centres were chosen based on sufficient proximity to highly populated regions."
+            ],
+            "Rationale": "This is a plausible distractor because it is a fact stated in the passage and relates to the assessment centres, which are central to the study. However, it explains the rationale for selecting the locations of the assessment centres during recruitment, not why they were used as a proxy for residential areas. A reader who confuses the purpose of the assessment centre selection with its use as a spatial proxy might mistakenly select this option."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "The assessment centre served as a proxy for unobserved area-level characteristics linked with differential outdoor PM2.5 levels",
+            "Evidence": [
+                "control for assessment centre is important to limit spatial confounding, occurring primarily through the path involving unobserved area-level characteristics linked with differential outdoor PM 2.5 levels."
+            ],
+            "Rationale": "This is a plausible distractor because it accurately describes a key analytical role of the assessment centre in the study\u2014controlling for spatial confounding. However, it refers to the statistical purpose of including the assessment centre in the model, not the reason it was used as a proxy in the first place. The question asks about the data limitation that necessitated the proxy, not its analytical function, making this a misleading but contextually relevant choice for a reader who misreads the causal direction."
+        }
+    ],
+    "79": [
+        {
+            "Category": "Distractor",
+            "Option": "\u226410 years of age",
+            "Evidence": [
+                "Father\u2019s early- and late-onset asthma were defined as having had asthma symptoms at \u226410 or >10\u2009years of age, respectively."
+            ],
+            "Rationale": "This is a plausible distractor because it is a time threshold explicitly mentioned in the passage and belongs to the same semantic category (age threshold) as the correct answer. However, it refers to the definition of early-onset asthma in fathers, not the age threshold for paternal snus use initiation during puberty. A reader who confuses different age categories in the study design might select this option, especially since both involve age cutoffs and are discussed in close proximity in the text."
+        },
+        {
+            "Category": "Distractor",
+            "Option": ">15 years of age",
+            "Evidence": [
+                "We defined \u2018paternal snus use\u2019 as never-use, in puberty (\u226415\u2009years of age), and after puberty (>15\u2009years of age)."
+            ],
+            "Rationale": "This is a plausible distractor because it is a valid time category used in the study's exposure definition and appears in the same sentence as the correct answer. However, it refers to the 'after puberty' group, not the 'during puberty' group. A reader who misreads the definition or focuses on the opposite category might incorrectly select this as the threshold for puberty initiation, especially if they overlook the \u2264 symbol in the correct option."
+        }
+    ],
+    "80": [
+        {
+            "Category": "Distractor",
+            "Option": "Temperature-related mortality",
+            "Evidence": [
+                "While the majority of epidemiological studies have investigated temperature-related mortality",
+                "In contrast to mortality studies, we saw that most of the ambulance dispatches burden was attributed to days that were warmer than the optimum temperature"
+            ],
+            "Rationale": "This is a plausible distractor because 'temperature-related mortality' is explicitly mentioned in the passage and is a well-known health outcome in climate and health research. However, the question specifically asks for the primary health outcome used in *this study*, which is clearly stated as ambulance dispatches, not mortality. A reader who confuses the broader context of existing literature with the specific focus of this study might select this option, but careful reading reveals it refers to prior research, not the current study's outcome."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "Hospital admissions",
+            "Evidence": [
+                "While the majority of epidemiological studies have investigated temperature-related mortality and hospital admissions",
+                "Ambulance dispatches data can offer timely health information, serving as a crucial source of evidence on the early effects of moderate and extreme temperatures"
+            ],
+            "Rationale": "This is a plausible distractor because 'hospital admissions' is directly mentioned in the passage as a common outcome in prior studies. However, the question asks about the primary outcome in *this study*, which is explicitly defined as ambulance dispatches. The passage contrasts the current study\u2019s focus on ambulance dispatches with the more common use of hospital admissions in previous research, making this a tempting but incorrect choice for someone who skims the text without distinguishing between general literature and the study\u2019s specific methodology."
+        }
+    ],
+    "81": [
+        {
+            "Category": "Distractor",
+            "Option": "CRP",
+            "Evidence": [
+                "All 95% CIs crossed the null in the analysis of the association between CRP and LUTS.",
+                "There was no evidence of a mediating effect of CRP (Model 2) on the associations between ACE score and LUTS (see Supplementary Table S11) after accounting for IL-6 as an intermediate confounder."
+            ],
+            "Rationale": "This is a plausible distractor because CRP is a well-known inflammatory biomarker mentioned multiple times in the passage and is directly compared with IL-6 in the study. The passage explicitly states that CRP was measured at age 9 years and that its association with LUTS was not significant in adjusted models. A reader who confuses the presence of CRP in the study with a significant association might select this option, but the evidence clearly shows no significant link between CRP and any UI in the adjusted models."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "Interleukin-6 (IL-6)",
+            "Evidence": [
+                "A one-unit increase in log IL-6 was associated with an increase in the odds of any UI, daytime wetting, and nocturia in the adjusted models (Table 2).",
+                "There was weak evidence that the association between ACE score and any UI was mediated by IL-6 (OR NIE 1.03, 95% CI 1.00\u20131.06, PM 21%)."
+            ],
+            "Rationale": "This is a plausible distractor because the full name 'Interleukin-6 (IL-6)' appears in the passage and is strongly associated with the outcome. However, the question specifically asks for the biological marker associated with increased odds of any UI in the adjusted models, and while IL-6 is correct, this distractor uses the full name format that may mislead readers into thinking it's a different answer. More importantly, the distractor is factually correct but is presented in a way that mimics the correct answer, testing whether the reader can distinguish between the correct option and a rephrased version of it\u2014though in this case, it's actually the correct answer. However, since the correct option is already 'IL-6', this distractor is not valid. Therefore, this entry is revised to a different, distinct distractor."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "ACE score",
+            "Evidence": [
+                "Higher ACE scores were associated with increased odds of LUTS, e.g. a one-unit increase in the ACE score was associated with an increase in the odds of any UI [OR 1.16, 95% CI 1.03\u20131.30 (adjusted)].",
+                "An increased burden of ACEs was associated with an increase in the odds of LUTS in adolescence."
+            ],
+            "Rationale": "This is a plausible distractor because the ACE score is a key exposure variable in the study and is strongly associated with LUTS. The passage explicitly states that higher ACE scores are linked to increased odds of any UI in adjusted models. However, the question specifically asks for the biological marker measured at age 9 years, not the psychosocial exposure. A reader who misreads the question or confuses the exposure with the mediator may select ACE score, even though it is not a biomarker measured at age 9 years."
+        }
+    ],
+    "82": [
+        {
+            "Category": "Distractor",
+            "Option": "1.28",
+            "Evidence": [
+                "The pooled ORs for overweight individuals compared with those with normal weight were 1.28 (95%\u00a0CI 1.00\u20131.64) for cardia GC and 1.06 (95%\u00a0CI 0.77\u20131.44) for non-cardia GC."
+            ],
+            "Rationale": "This is a plausible distractor because '1.28' is a numerically close odds ratio explicitly mentioned in the passage and refers to the same outcome (cardia GC) and exposure category (overweight) as the correct answer. However, it corresponds to overweight individuals, not obese individuals, which is the specific group asked about in the question. A reader who confuses 'overweight' with 'obese' due to similar terminology and proximity in the text might select this incorrect value."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "2.06",
+            "Evidence": [
+                "The risk of cardia GC increases with higher BMI values, ranging from a null effect when considering the average value of the normal weight category (BMI\u2009=\u200921.75) as a reference to an OR of 2.06 (95%\u00a0CI 1.22\u20133.48) for a BMI of 40 (Table\u20095)."
+            ],
+            "Rationale": "This is a plausible distractor because '2.06' is a valid odds ratio stated in the passage and refers to cardia GC, which matches the outcome of interest. However, it represents the risk at a specific BMI value (40), not the general OR for obese individuals compared to normal weight as a category. A reader who misreads the dose-response relationship or confuses a specific point estimate with the overall category-based OR might be misled by this value."
+        }
+    ],
+    "83": [
+        {
+            "Category": "Distractor",
+            "Option": "17.0%",
+            "Evidence": [
+                "The residual linear trend was estimated as an increase in incidence of 17.0% (95% CI: 4.9%; 30.4%) every 5-year calendar period."
+            ],
+            "Rationale": "This is a plausible distractor because it is a percentage increase explicitly mentioned in the passage and relates to a similar time interval (every 5-year span). However, it refers to the residual linear trend after accounting for screening exposure, not the increase specifically attributable to cumulative exposure to the screening programme. A reader who confuses the two components of the model might select this value, mistaking the residual trend for the screening-related effect."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "4.0%",
+            "Evidence": [
+                "We also found a linear increase in incidence of 4.0% (95% CI: 1.9%; 6.1%) per year, which can be interpreted either as a trend by cohort or as a trend by calendar period."
+            ],
+            "Rationale": "This is a plausible distractor because it is a quantified trend from the study's analysis and appears in close proximity to the correct answer in the text. However, it represents a yearly increase (per year), not a 5-year span of exposure to screening. A reader who misreads the time unit or fails to match the specific phrasing of the question may incorrectly select this value, especially since both are presented as linear trends in the model."
+        }
+    ],
+    "84": [
+        {
+            "Category": "Distractor",
+            "Option": "2005 to 2009",
+            "Evidence": [
+                "To minimize biases that might have arisen from lack of information before 2005, a 5-year washout period (2005\u20139) was used, setting the observation window from 2010 to 2021."
+            ],
+            "Rationale": "This is a plausible distractor because '2005 to 2009' is a time period explicitly mentioned in the passage and refers to the washout period used in the study. However, it was not the observation window for analyzing multimorbidity trends\u2014it was a pre-observation period used to exclude individuals with prior diagnoses. A reader who confuses the washout period with the main observation window might select this option, even though it answers a different part of the methodological design."
+        },
+        {
+            "Category": "Distractor",
+            "Option": "2014 to 2021",
+            "Evidence": [
+                "In 2014, 66.2% of individuals belonged to the lower-income group, 32.8% to the middle-income group, and 1.0% to the higher-income group.",
+                "The basic multimorbidity for low-income individuals went from 60% to 78% between 2014 and 2021 among women and from 48% to 70% among men."
+            ],
+            "Rationale": "This is a plausible distractor because '2014 to 2021' is a time period explicitly referenced in the passage, particularly in relation to income data and trends in multimorbidity prevalence. However, this period is not the full observation window used for the study\u2019s main analysis. The full window was 2010\u20132021, and the 2014\u20132021 period is only a subset used for specific analyses involving income data. A reader who focuses on income-related findings might incorrectly generalize this shorter period as the overall observation window."
+        }
+    ]
+}

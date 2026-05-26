@@ -1,0 +1,40 @@
+{
+    "Title": "Comparative GWAS using global and Indian Reference Panels reveals non-coding drivers of COVID-19 severity and mortality",
+    "URL": "https://doi.org/10.1371/journal.pntd.0014020",
+    "Published": "March 3, 2026",
+    "Subject_Areas": [
+        "COVID 19",
+        "Genome-wide association studies",
+        "Genomics",
+        "Genetic loci",
+        "Population genetics",
+        "Principal component analysis",
+        "Single nucleotide polymorphisms",
+        "Genetics of disease"
+    ],
+    "Authors": {
+        "Aastha Kaushik": [
+            "Division of Infectious Disease Biology, INtegrative GENomics of HOst-PathogEn (INGEN-HOPE) laboratory, CSIR-Institute of Genomics and Integrative Biology (CSIR-IGIB), Delhi, India"
+        ],
+        "Ramakant Mohite": [
+            "Division of Infectious Disease Biology, INtegrative GENomics of HOst-PathogEn (INGEN-HOPE) laboratory, CSIR-Institute of Genomics and Integrative Biology (CSIR-IGIB), Delhi, India"
+        ],
+        "Ranjeet Maurya": [
+            "Division of Infectious Disease Biology, INtegrative GENomics of HOst-PathogEn (INGEN-HOPE) laboratory, CSIR-Institute of Genomics and Integrative Biology (CSIR-IGIB), Delhi, India",
+            "Academy of Scientific and Innovative Research (AcSIR), Ghaziabad, India"
+        ],
+        "Bansidhar Tarai": [
+            "Max Super Speciality Hospital (A Unit of Devki Devi Foundation), Max Healthcare, Delhi, India"
+        ],
+        "Sandeep Budhiraja": [
+            "Max Super Speciality Hospital (A Unit of Devki Devi Foundation), Max Healthcare, Delhi, India"
+        ],
+        "Uzma Shamim": [
+            "Division of Infectious Disease Biology, INtegrative GENomics of HOst-PathogEn (INGEN-HOPE) laboratory, CSIR-Institute of Genomics and Integrative Biology (CSIR-IGIB), Delhi, India"
+        ],
+        "Rajesh Pandey": [
+            "Division of Infectious Disease Biology, INtegrative GENomics of HOst-PathogEn (INGEN-HOPE) laboratory, CSIR-Institute of Genomics and Integrative Biology (CSIR-IGIB), Delhi, India",
+            "Academy of Scientific and Innovative Research (AcSIR), Ghaziabad, India"
+        ]
+    }
+}

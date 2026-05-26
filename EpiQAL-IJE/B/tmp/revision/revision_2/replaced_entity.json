@@ -1,0 +1,318 @@
+{
+    "0": [
+        "stepped-wedge cluster randomized trial",
+        "crossover cluster randomized trial"
+    ],
+    "1": [
+        "HMGCR inhibition",
+        "pharmacological blockade of the rate-limiting enzyme in the mevalonate pathway"
+    ],
+    "2": [
+        "pleural mesothelioma",
+        "aggressive neoplasm arising from mesothelial cells of the pleura"
+    ],
+    "3": [
+        "HIV treatment programs",
+        "long-term antiretroviral therapy regimens"
+    ],
+    "4": [
+        "calendar tools",
+        "date reporting accuracy"
+    ],
+    "6": [
+        "non-inferiority trial",
+        "non-inferiority"
+    ],
+    "7": [
+        "PBC",
+        "autoimmune cholestatic liver disease characterized by immune-mediated destruction of small intrahepatic bile ducts and presence of antimitochondrial antibodies"
+    ],
+    "8": [
+        "placental abruption",
+        "preterm birth"
+    ],
+    "9": [
+        "cohort study",
+        "longitudinal observational study"
+    ],
+    "10": [
+        "n-6 and n-3 polyunsaturated fatty acids",
+        "omega-6 and omega-3 fatty acids"
+    ],
+    "11": [
+        "IPTp-SP",
+        "intermittent preventive treatment in pregnancy with sulfadoxine-pyrimethamine"
+    ],
+    "12": [
+        "excess mortality",
+        "non-crisis mortality rates"
+    ],
+    "13": [
+        "instrumental variable approach",
+        "instrumental variable"
+    ],
+    "14": [
+        "lifelong differences in BMI",
+        "longitudinal variation in body mass index"
+    ],
+    "15": [
+        "hypothetical intervention",
+        "counterfactual scenario"
+    ],
+    "16": [
+        "tuberculosis",
+        "Mycobacterium tuberculosis"
+    ],
+    "17": [
+        "Ethiopia",
+        "TB"
+    ],
+    "18": [
+        "cross-national study",
+        "study design"
+    ],
+    "19": [
+        "COVID-19",
+        "SARS-CoV-2"
+    ],
+    "20": [
+        "cohort study",
+        "pre-eclampsia"
+    ],
+    "21": [
+        "multi-cohort study",
+        "longitudinal observational design"
+    ],
+    "23": [
+        "cohort study",
+        "longitudinal observational design"
+    ],
+    "24": [
+        "Mendelian randomization study",
+        "genetic epidemiological technique"
+    ],
+    "25": [
+        "cohort study",
+        "longitudinal observational design"
+    ],
+    "26": [
+        "genetically predicted Lp(a) lowering",
+        "Mendelian randomization"
+    ],
+    "27": [
+        "cohort study",
+        "longitudinal observational study"
+    ],
+    "28": [
+        "molecular genotyping",
+        "genetic characterization of pathogens using DNA sequence analysis"
+    ],
+    "29": [
+        "global burden of disease estimates",
+        "cardiovascular disease"
+    ],
+    "31": [
+        "pandemic-related disruptions in control measures",
+        "case-control study"
+    ],
+    "32": [
+        "tobacco control policies",
+        "WHO Framework Convention on Tobacco Control"
+    ],
+    "33": [
+        "ecological study",
+        "group-based observational study"
+    ],
+    "34": [
+        "ecological study",
+        "observational study"
+    ],
+    "35": [
+        "clubfoot",
+        "congenital musculoskeletal deformity characterized by plantarflexion, supination, and adduction of the foot at birth"
+    ],
+    "36": [
+        "time-varying confounders",
+        "longitudinal studies"
+    ],
+    "37": [
+        "cohort study",
+        "observational study"
+    ],
+    "38": [
+        "self-induced vomiting",
+        "purging behavior"
+    ],
+    "39": [
+        "prospective cohort study",
+        "observational study design"
+    ],
+    "40": [
+        "haze-day definition",
+        "PM\u2082.\u2085"
+    ],
+    "41": [
+        "cohort study",
+        "observational study"
+    ],
+    "42": [
+        "electronic health records",
+        "longitudinal collection of individual health and treatment history"
+    ],
+    "43": [
+        "life expectancy advantage",
+        "population-level summary measure of mortality that reflects average years of life remaining at a given age, standardized across age groups"
+    ],
+    "45": [
+        "older adults",
+        "first wave"
+    ],
+    "46": [
+        "dental amalgam exposure",
+        "multiple sclerosis (MS)"
+    ],
+    "47": [
+        "Mendelian randomization study",
+        "genetic epidemiological technique"
+    ],
+    "48": [
+        "type 2 diabetes",
+        "metabolic disorder characterized by insulin resistance and progressive beta-cell dysfunction leading to chronic hyperglycemia"
+    ],
+    "49": [
+        "trial",
+        "clinical research study"
+    ],
+    "50": [
+        "test-negative design",
+        "case-control approach"
+    ],
+    "51": [
+        "forecasting system",
+        "epidemiological model-based framework"
+    ],
+    "52": [
+        "abortion method use",
+        "nationally representative surveys and surveillance data"
+    ],
+    "53": [
+        "commuting modes",
+        "case-control study"
+    ],
+    "54": [
+        "stroke epidemiology",
+        "hospital discharge rates"
+    ],
+    "55": [
+        "national lockdown",
+        "exogenous government-imposed restriction policy"
+    ],
+    "56": [
+        "childhood household dysfunction",
+        "case-control study"
+    ],
+    "57": [
+        "nationwide cancer screening program",
+        "asymptomatic testing"
+    ],
+    "58": [
+        "epigenetic markers",
+        "methylation differences"
+    ],
+    "59": [
+        "multi-country study",
+        "neighbourhood characteristics"
+    ],
+    "60": [
+        "pediatric COVID-19 case rates",
+        "SARS-CoV-2"
+    ],
+    "61": [
+        "genetic data",
+        "Mendelian randomization"
+    ],
+    "62": [
+        "malaria",
+        "malaria"
+    ],
+    "63": [
+        "COVID-19",
+        "SARS-CoV-2"
+    ],
+    "64": [
+        "cohort study",
+        "observational study"
+    ],
+    "65": [
+        "birth dose vaccine administration",
+        "hepatitis B vaccine"
+    ],
+    "66": [
+        "national survey",
+        "vaccination pattern"
+    ],
+    "67": [
+        "genomic surveillance",
+        "continuous monitoring of pathogen genetic variations"
+    ],
+    "68": [
+        "pandemic-related research",
+        "disease events characterized by global spread, novelty, and minimal population immunity"
+    ],
+    "69": [
+        "prospective cohort study",
+        "observational study design"
+    ],
+    "70": [
+        "Medical Aid beneficiaries",
+        "publicly funded health insurance programs"
+    ],
+    "71": [
+        "cohort study",
+        "observational study"
+    ],
+    "72": [
+        "distributed lag models with a cross-basis structure",
+        "bi-dimensional basis functions"
+    ],
+    "73": [
+        "nationwide survey",
+        "descriptive epidemiological study"
+    ],
+    "75": [
+        "cohort study",
+        "observational study"
+    ],
+    "76": [
+        "biological aging acceleration",
+        "epigenetic deviation from chronological age"
+    ],
+    "77": [
+        "comparative cohort study",
+        "observational study"
+    ],
+    "78": [
+        "cohort study",
+        "longitudinal observational design"
+    ],
+    "79": [
+        "multigenerational cohort study",
+        "longitudinal study"
+    ],
+    "81": [
+        "prospective cohort study",
+        "observational study design"
+    ],
+    "82": [
+        "gastric cancer",
+        "adenocarcinoma arising from the mucosal glands of the stomach"
+    ],
+    "83": [
+        "DCIS",
+        "non-invasive breast cancer"
+    ],
+    "84": [
+        "multimorbidity",
+        "population-based study"
+    ]
+}

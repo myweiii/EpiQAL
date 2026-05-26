@@ -1,0 +1,437 @@
+{
+    "0": {
+        "Entity": "multibacillary leprosy",
+        "Rationale": "The entity 'multibacillary leprosy' is a specific disease classification (Priority 1) and is central to the question\u2019s epidemiological reasoning. The question focuses on factors influencing cure in a defined patient population\u2014specifically those with multibacillary leprosy. This condition determines the clinical and epidemiological context, as outcomes like treatment response and cure likelihood vary significantly by leprosy type. While 'cohort study' (Priority 5) is a methodological element, the core of the question hinges on the disease entity, which shapes the population, prognosis, and potential confounders. Therefore, 'multibacillary leprosy' is the most central and specific entity to extract, as replacing it with a descriptive phrase would increase difficulty by requiring deeper understanding of disease-specific pathophysiology and treatment outcomes.",
+        "Query": "definition characteristic multibacillary leprosy epidemiology"
+    },
+    "1": {
+        "Entity": "dengue",
+        "Rationale": "Dengue is a specific disease (Priority 1) and the central epidemiological entity in the question. The entire inquiry revolves around how variations in outbreak timing\u2014driven by geographic and climatic differences\u2014relate to dengue transmission dynamics. While 'provinces' (Priority 4) and 'public health interventions' (Priority 2) are relevant, the question\u2019s core logic depends on understanding dengue\u2019s epidemiology, including its seasonality, vector ecology (Aedes mosquitoes), and environmental drivers. Replacing 'dengue' with a descriptive phrase (e.g., 'a mosquito-borne viral disease') would increase difficulty by requiring the test-taker to infer the disease from context, while preserving the question\u2019s focus on spatial-temporal patterns and intervention design.",
+        "Query": "definition characteristic dengue epidemiology"
+    },
+    "2": {
+        "Entity": "brucellosis",
+        "Rationale": "Brucellosis is a specific disease (Priority 1) and is the central epidemiological entity in the question. The entire query revolves around identifying the animal reservoir responsible for human cases of brucellosis, with methodological considerations (time delay, limited surveillance) serving as constraints. While 'animal reservoir' (Priority 3) is also important, the disease itself is the primary focus of the investigation. Replacing 'brucellosis' with a descriptive phrase (e.g., 'a zoonotic bacterial infection causing fever and joint pain') would increase difficulty by obscuring the specific condition under study, making it harder to apply targeted analytical strategies. The disease name is specific, searchable, and essential to the reasoning, justifying its selection over other entities even though it is not the only relevant one.",
+        "Query": "definition characteristic brucellosis epidemiology"
+    },
+    "3": {
+        "Entity": "visceral leishmaniasis",
+        "Rationale": "The entity 'visceral leishmaniasis' is a specific disease (Priority 1) and is the central focus of the question. The entire inference being asked\u2014about the role of a captive wild mammal species in transmission\u2014depends on understanding the epidemiological context of this disease. While 'molecular detection', 'vector presence', and 'ecological context' are important methodological and contextual elements (Priority 3 and 5), they serve as tools to evaluate the disease's transmission dynamics. The disease itself is the primary epidemiological entity driving the reasoning. Replacing 'visceral leishmaniasis' with a descriptive phrase (e.g., 'a parasitic disease transmitted by sandflies in urban settings') would increase question difficulty by requiring deeper conceptual understanding of the disease's transmission ecology.",
+        "Query": "definition characteristic visceral leishmaniasis epidemiology"
+    },
+    "4": {
+        "Entity": "paediatric snakebites",
+        "Rationale": "The entity 'paediatric snakebites' is the highest-priority epidemiological entity in the question, classified under Priority 1 (specific diseases/syndromes). It is the central condition being studied and defines the population and health issue at hand. The question hinges on understanding the risk factors associated with this specific syndrome in a defined population (children in rural Sri Lanka). While 'rural Sri Lanka' (Priority 4) and 'pre-hospital care' (Priority 2) are relevant, the core of the question\u2014assessing risk differentials in the context of a specific health event\u2014depends on the disease entity itself. Replacing 'paediatric snakebites' with a descriptive phrase (e.g., 'a common cause of injury among children in rural South Asia') would increase difficulty by requiring the test-taker to infer the condition from context, while preserving the epidemiological focus on risk stratification.",
+        "Query": "definition characteristic paediatric snakebites epidemiology"
+    },
+    "5": {
+        "Entity": "seroprevalence study",
+        "Rationale": "The entity 'seroprevalence study' is the most central to the question's reasoning, as the entire inquiry hinges on interpreting seropositivity rates within the context of a specific study design. While 'blood donors' and 'previously reported patient populations' (Priority 4) are important population groups, and 'immunity' and 'risk of severe disease' (Priority 1) are key epidemiological outcomes, the analytical interpretation depends critically on the methodological framework of a seroprevalence study. This design determines how seropositivity is measured, how samples are selected, and how results can be generalized. Replacing 'seroprevalence study' with a descriptive phrase (e.g., 'a study measuring antibody prevalence in a representative sample') would increase difficulty by requiring the test-taker to infer the methodological implications, which is essential for interpreting differences in seropositivity rates and their public health implications.",
+        "Query": "definition characteristic seroprevalence study epidemiology"
+    },
+    "7": {
+        "Entity": "rTsSPc vaccination",
+        "Rationale": "The entity 'rTsSPc vaccination' is a specific vaccine (a recombinant protein vaccine targeting a particular antigen, likely from a pathogen such as *Plasmodium* or another infectious agent). It is a Priority 2 entity (intervention/vaccine) and is the most central to the question\u2019s reasoning. The question hinges on interpreting immune response data in relation to a specific vaccine to infer sustained protection. Replacing 'rTsSPc vaccination' with a descriptive phrase (e.g., 'a recombinant subunit vaccine targeting a specific parasite antigen') would increase difficulty by requiring the test-taker to infer the nature of the intervention from context, while preserving the core epidemiological logic. No higher-priority entity (e.g., disease, pathogen, or syndrome) is explicitly mentioned, so the vaccine remains the most critical and specific entity to extract.",
+        "Query": "definition characteristic rTsSPc vaccination epidemiology"
+    },
+    "8": {
+        "Entity": "field study",
+        "Rationale": "While 'parasitic infections' (Priority 1) and 'diagnostic platform' (Priority 2) are specific entities, the core of the question hinges on the study design's ability to mitigate systematic error in a comparison between two diagnostic methods. The term 'field study' is the most central to the reasoning because it defines the context in which systematic error (e.g., bias due to environmental variability, operator differences, or test conditions) can arise. The design feature that mitigates such error\u2014such as blinding, randomization, or standardized protocols\u2014must be evaluated within the constraints and characteristics of a field study. Thus, even though 'field study' is a lower-priority entity (Priority 5), it is the most critical to the question\u2019s logic and would yield the greatest increase in difficulty if replaced with a descriptive phrase (e.g., 'a real-world observational study conducted in resource-limited settings').",
+        "Query": "definition characteristic field study epidemiology"
+    },
+    "9": {
+        "Entity": "ZIKV",
+        "Rationale": "ZIKV (Zika virus) is a specific pathogen (Priority 1) and the central focus of the question, as the entire inquiry revolves around its transmission dynamics and potential for long-term persistence in bat populations. The observed cellular responses in bat species are directly tied to ZIKV infection, making this the most critical and specific epidemiological entity. While 'bat populations' (Priority 4) and 'cellular responses' (Priority 3) are relevant, they are secondary to the pathogen driving the biological and epidemiological reasoning. Replacing 'ZIKV' with a descriptive phrase (e.g., 'a mosquito-borne flavivirus') would increase question difficulty by requiring deeper contextual inference, while preserving the core epidemiological logic.",
+        "Query": "definition characteristic ZIKV epidemiology"
+    },
+    "10": {
+        "Entity": "abattoir settings",
+        "Rationale": "While 'zoonotic disease transmission' (Priority 1) and 'animal reservoirs' (Priority 3) are high-priority entities, the question specifically focuses on the *context* in which amplification and spillover occur\u2014namely, 'abattoir settings'. This entity is the most central to the reasoning because the question asks which factor most directly contributes to pathogen spillover *in this specific environment*. The analytical focus hinges on understanding the unique biological, operational, and environmental conditions of abattoirs. Replacing 'abattoir settings' with a descriptive phrase (e.g., 'high-risk animal processing facilities') would increase difficulty by requiring the test-taker to infer the epidemiological significance of this specific setting, making it the most valuable entity to extract.",
+        "Query": "definition characteristic abattoir settings epidemiology"
+    },
+    "11": {
+        "Entity": "Aedes aegypti",
+        "Rationale": "The entity 'Aedes aegypti' is a vector (Priority 3) and is the most central to the question's reasoning. The entire inquiry hinges on understanding the role of this specific mosquito species in maintaining dengue transmission, particularly in relation to viral circulation independent of human case reporting. While 'dengue transmission dynamics' (Priority 1) is also a key concept, it is a broader epidemiological process that depends on the specific vector. 'Aedes aegypti' is a precise, searchable, and specific entity that directly determines the biological mechanism under investigation. Its replacement with a descriptive phrase (e.g., 'the primary mosquito vector') would increase question difficulty while preserving the core epidemiological reasoning.",
+        "Query": "definition characteristic Aedes aegypti epidemiology"
+    },
+    "12": {
+        "Entity": "dengue transmission dynamics",
+        "Rationale": "The entity 'dengue transmission dynamics' is the most central to the question's reasoning, as it defines the core epidemiological process being modeled. While 'spatial heterogeneity', 'climatic factors', and 'overdispersed count data' are important methodological considerations, the question hinges on how to model the underlying biological and environmental processes of dengue spread. The analytical approach must be tailored to this specific disease system, making 'dengue transmission dynamics' the highest-priority and most essential entity. It is a specific, searchable epidemiological concept and directly determines the type of model (e.g., spatiotemporal, dynamic transmission model) that would be appropriate. Although 'case reporting' and 'climatic factors' are relevant, they are secondary to the central disease process being studied.",
+        "Query": "definition characteristic dengue transmission dynamics epidemiology"
+    },
+    "13": {
+        "Entity": "seroprevalence estimates",
+        "Rationale": "The entity 'seroprevalence estimates' is the most central to the question's reasoning, as the entire query revolves around how rapid diagnostic tests (RDTs) affect the accuracy and interpretation of these estimates. Seroprevalence is a core epidemiological measure that reflects the proportion of a population with detectable antibodies, and the question hinges on how RDTs\u2014particularly their sensitivity, specificity, and timing of use\u2014may bias these estimates. While 'dengue' and 'chikungunya' (Priority 1) are specific pathogens, and 'long-term immunity' (Priority 4) is a key concept, the analytical focus is on the validity of seroprevalence as a metric. Thus, 'seroprevalence estimates' is the most critical entity to extract, as replacing it with a descriptive phrase (e.g., 'the proportion of individuals with detectable antibodies in a population') would significantly increase the question's difficulty by requiring deeper conceptual understanding of surveillance and measurement bias.",
+        "Query": "definition characteristic seroprevalence estimates epidemiology"
+    },
+    "14": {
+        "Entity": "pediatric meningitis",
+        "Rationale": "The entity 'pediatric meningitis' is classified as a syndrome (Priority 1), which takes precedence over other categories. It is the central epidemiological entity in the question, as the entire reasoning hinges on comparing two infections within this condition. The question seeks to determine what factor supports a difference in pathophysiology between two infections in the same clinical syndrome. Replacing 'pediatric meningitis' with a descriptive phrase (e.g., 'a group of severe brain infections in children') would increase difficulty by obscuring the specific condition under investigation, while still preserving the core epidemiological reasoning. No lower-priority entity is more central to the question\u2019s logic.",
+        "Query": "definition characteristic pediatric meningitis epidemiology"
+    },
+    "15": {
+        "Entity": "T. gondii",
+        "Rationale": "T. gondii is a specific pathogen (Priority 1) and is the central biological agent driving the host-pathogen interaction in the question. The question hinges on explaining why two rodent hosts (M. fortis and KM mice) have different outcomes despite being exposed to the same pathogen. The differential outcome is directly attributable to host-pathogen dynamics involving T. gondii, making it the most critical and specific entity. While 'M. fortis' and 'KM mice' are specific population groups (Priority 4), they are secondary to the pathogen, which is the primary driver of the biological phenomenon under investigation. Replacing 'T. gondii' with a descriptive phrase (e.g., 'a protozoan parasite') would increase difficulty by requiring deeper inference about the pathogen's identity and role.",
+        "Query": "definition characteristic T. gondii epidemiology"
+    },
+    "16": {
+        "Entity": "A. cantonensis",
+        "Rationale": "The entity 'A. cantonensis' is a specific pathogen (Priority 1) and is the central focus of the question's causal inference. The question hinges on determining whether the geographic distribution of this particular parasite in gastropods is driven by host-specific ecological and biological traits rather than random environmental factors. While 'gastropods' (Priority 3) is also relevant, the pathogen is more central because the entire argument revolves around the infection dynamics of A. cantonensis. Replacing 'A. cantonensis' with a descriptive phrase (e.g., 'the parasitic nematode causing rat lungworm disease') would increase difficulty by requiring recognition of the pathogen\u2019s identity and its ecological implications, without altering the core reasoning of the question.",
+        "Query": "definition characteristic A. cantonensis epidemiology"
+    },
+    "17": {
+        "Entity": "plague",
+        "Rationale": "The entity 'plague' is a specific disease (Priority 1) and is the central focus of the question, as the entire inquiry revolves around its incidence patterns and the factors driving regional divergence. While 'Republic of China era' (a time period) and 'climatic trends' (a contextual factor) are mentioned, the core epidemiological reasoning hinges on understanding plague dynamics. The question seeks to explain differences in plague incidence, making 'plague' the most essential and specific entity to extract. Its replacement with a descriptive phrase (e.g., 'a historically significant infectious disease') would increase difficulty by requiring deeper contextual inference without altering the core subject.",
+        "Query": "definition characteristic plague epidemiology"
+    },
+    "18": {
+        "Entity": "Brucella",
+        "Rationale": "Brucella is a specific pathogen (Priority 1) and the central focus of the question, as the entire inquiry revolves around its transmission dynamics. The question seeks to distinguish between two etiological mechanisms\u2014persistent animal reservoir vs. sporadic environmental contamination\u2014both of which are directly tied to the biological and epidemiological behavior of Brucella. Replacing 'Brucella' with a descriptive phrase (e.g., 'a zoonotic bacterium causing abortion in livestock') would increase difficulty by requiring the test-taker to infer the pathogen\u2019s characteristics and transmission patterns, which is essential for evaluating the strength of evidence for a reservoir. Although 'animal reservoir' (Priority 3) is also relevant, the reasoning hinges on the specific pathogen\u2019s known ecology, making Brucella the most central and analytically critical entity to extract.",
+        "Query": "definition characteristic Brucella epidemiology"
+    },
+    "19": {
+        "Entity": "rickettsial pathogens",
+        "Rationale": "The entity 'rickettsial pathogens' is prioritized as a specific disease/pathogen (Priority 1) and is the central focus of the question\u2019s reasoning. The question hinges on interpreting antibody titer patterns in relation to cross-reactivity and immune interference\u2014phenomena that are directly dependent on the biological and immunological characteristics of rickettsial pathogens. While 'serological study' (Priority 5) and 'dogs' (Priority 4) are mentioned, they serve as context rather than the core subject of the inquiry. The analytical interpretation of cross-reactivity and immune interference is fundamentally tied to the nature of the pathogens involved. Therefore, replacing 'rickettsial pathogens' with a descriptive phrase (e.g., 'a group of tick-borne bacterial agents with antigenic similarities') would significantly increase the difficulty by requiring deeper domain knowledge to infer the correct entity.",
+        "Query": "definition characteristic rickettsial pathogens epidemiology"
+    },
+    "20": {
+        "Entity": "digital surveillance study",
+        "Rationale": "While 'public attention to a disease' (Priority 4) and 'acute, episodic events' (Priority 3) are relevant, the core of the question hinges on the methodological context\u2014specifically, how data from a digital surveillance study is interpreted. The analytical inference about the nature of public attention (episodic vs. endemic) depends critically on the type of study design and data source. 'Digital surveillance study' is the most central entity because it defines the framework for interpreting online discourse patterns. Replacing it with a descriptive phrase (e.g., 'a real-time monitoring system using internet data') would increase difficulty by requiring the test-taker to reason about the implications of the study design before identifying the correct pattern of discourse.",
+        "Query": "definition characteristic digital surveillance study epidemiology"
+    },
+    "21": {
+        "Entity": "cholera epidemics",
+        "Rationale": "The entity 'cholera epidemics' is prioritized as a specific disease (Priority 1) and is the central focus of the question\u2019s epidemiological inquiry. The study\u2019s objective\u2014identifying indirect causal pathways through which socioeconomic development influences epidemic intensity\u2014depends fundamentally on the disease being studied. While 'socioeconomic development' (Priority 4) and 'environmental and demographic factors' (Priority 3) are important, they serve as explanatory variables within the context of cholera epidemics. The methodological choice (e.g., mediation analysis, structural equation modeling) is designed to uncover causal mechanisms *specific to cholera epidemics*. Thus, 'cholera epidemics' is the most central and specific entity, and replacing it with a descriptive phrase would significantly increase the difficulty by requiring deeper contextual reasoning about disease-specific causal pathways.",
+        "Query": "definition characteristic cholera epidemics epidemiology"
+    },
+    "22": {
+        "Entity": "snakebite management",
+        "Rationale": "The entity 'snakebite management' is the most central to the question's reasoning, as it defines the entire epidemiological and clinical context. The question hinges on identifying a factor that suggests a need for targeted intervention within this specific domain. While 'healthcare workers' (Priority 4) is a relevant population, the core focus is on the practices and knowledge related to managing snakebites. 'Snakebite management' is a specific, searchable epidemiological domain that directly shapes the interpretation of knowledge and practice patterns. It is prioritized over 'healthcare workers' because the question is not about the population per se, but about the quality and impact of interventions within a defined clinical context. Thus, replacing 'snakebite management' with a descriptive phrase would significantly increase the difficulty by requiring deeper contextual understanding.",
+        "Query": "definition characteristic snakebite management epidemiology"
+    },
+    "23": {
+        "Entity": "RPA assay",
+        "Rationale": "The entity 'RPA assay' (Priority 2: intervention/technique) is the most central to the question\u2019s reasoning, as the entire query hinges on how this specific methodological choice mitigates measurement error in a particular context. While 'Paracoccidioides' (Priority 1: pathogen) is a key component, the question is not about the disease itself but about the assay\u2019s design features that reduce error. The RPA assay is a specific molecular diagnostic tool, and its methodological attributes\u2014such as isothermal amplification, minimal equipment needs, and rapid processing\u2014are directly relevant to reducing variability in low-resource settings. Thus, replacing 'RPA assay' with a descriptive phrase (e.g., 'a rapid, isothermal nucleic acid amplification test') would increase difficulty by requiring deeper understanding of assay-specific advantages, making it the most appropriate entity to extract.",
+        "Query": "definition characteristic RPA assay epidemiology"
+    },
+    "24": {
+        "Entity": "host immune response",
+        "Rationale": "The entity 'host immune response' is classified as a Priority 1 entity (specific disease-related biological process) and is the most central to the question's reasoning. The question hinges on distinguishing between causation and correlation\u2014specifically, whether the immune response drives disease severity or is merely a passive marker of parasite burden. This distinction is fundamentally about the role of the host immune response in pathogenesis. No other entity in the question (e.g., 'disease severity' or 'parasite burden') is as directly central to the causal inference being evaluated. Therefore, 'host immune response' is the most appropriate and specific entity to extract, as it is both highly relevant and searchable in epidemiological and immunological literature.",
+        "Query": "definition characteristic host immune response epidemiology"
+    },
+    "25": {
+        "Entity": "chikungunya virus infection",
+        "Rationale": "The entity 'chikungunya virus infection' is the highest-priority entity (Priority 1: specific disease/pathogen) and is the central focus of the question. The entire reasoning of the question hinges on evaluating whether neurological outcomes in this specific infection are linked to viral replication in the CNS. Replacing this entity with a descriptive phrase (e.g., 'a viral infection in children with neurological symptoms') would increase difficulty while preserving the core epidemiological reasoning. Although 'neurological outcomes' (Priority 1) is also relevant, the question is specifically about the etiological interpretation of those outcomes in the context of chikungunya virus, making the pathogen the most central and replaceable entity.",
+        "Query": "definition characteristic chikungunya virus infection epidemiology"
+    },
+    "26": {
+        "Entity": "zoonotic trypanosomatids",
+        "Rationale": "The entity 'zoonotic trypanosomatids' is the highest-priority epidemiological entity in the question (Priority 1: specific pathogens). It is the central focus of the entire inquiry\u2014whether sustained transmission cycles exist in a given environment. The question hinges on interpreting evidence (e.g., seroprevalence, host infection patterns, ecological data) specifically related to this group of pathogens. While 'fragmented urban forest' (Priority 4) and 'vector infection data' (Priority 3) are contextually important, they are secondary to the pathogen group under investigation. Replacing 'zoonotic trypanosomatids' with a descriptive phrase (e.g., 'a group of parasitic protozoa transmitted from animals to humans') would significantly increase the difficulty by requiring the test-taker to infer the pathogen class from its biological and epidemiological characteristics.",
+        "Query": "definition characteristic zoonotic trypanosomatids epidemiology"
+    },
+    "27": {
+        "Entity": "Trypanosoma cruzi genotypes",
+        "Rationale": "The question centers on understanding the spatial spread of distinct genetic variants of the pathogen, Trypanosoma cruzi, in relation to triatomine movement and landscape fragmentation. While 'Chagas disease' (Priority 1) and 'triatomine movement' (Priority 3) are important, the core of the hypothesis hinges on the genetic differentiation of the pathogen itself. The term 'Trypanosoma cruzi genotypes' is a specific, searchable epidemiological entity that directly determines the biological mechanism under investigation. Replacing this entity with a descriptive phrase (e.g., 'genetic variants of the parasite causing Chagas disease') would increase question difficulty while preserving the scientific precision of the inquiry. Although 'ecological factor' (Priority 5) is a methodological term, the central reasoning depends on the pathogen's genetic diversity, making 'Trypanosoma cruzi genotypes' the most critical entity to extract.",
+        "Query": "definition characteristic Trypanosoma cruzi genotypes epidemiology"
+    },
+    "28": {
+        "Entity": "tick species",
+        "Rationale": "The entity 'tick species' is classified as a vector (Priority 3), which is central to the question's reasoning. The hypothesis concerns the role of specific tick species as reservoirs for zoonotic pathogens, making the identity and characteristics of these species critical to evaluating the evidence. While 'zoonotic pathogens' (Priority 1) is also relevant, the question focuses on the potential reservoir role of particular tick species, making 'tick species' the most central entity. Replacing 'tick species' with a descriptive phrase (e.g., 'arthropod vectors in rural ecosystems') would increase difficulty by requiring deeper contextual inference, while preserving the core epidemiological logic of vector-reservoir relationships.",
+        "Query": "definition characteristic tick species epidemiology"
+    },
+    "29": {
+        "Entity": "acute Chagas disease",
+        "Rationale": "The entity 'acute Chagas disease' is the most central to the question's reasoning, as the entire hypothesis revolves around the temporal sequence of autonomic nervous system dysfunction and structural cardiac damage specifically in the context of acute Chagas disease. While 'autonomic nervous system dysfunction' (Priority 1) and 'structural cardiac damage' (Priority 1) are also key entities, the question is framed within the specific disease context of acute Chagas disease, which defines the population and pathophysiological framework. The hypothesis cannot be evaluated without reference to this disease. Therefore, despite the high priority of the other entities, 'acute Chagas disease' is the most essential and specific entity to extract, as it anchors the epidemiological and clinical context of the study.",
+        "Query": "definition characteristic acute Chagas disease epidemiology"
+    },
+    "30": {
+        "Entity": "ENL classification",
+        "Rationale": "ENL classification (Erythema Nodosum Leprosum classification) is a specific, well-defined clinical and epidemiological framework used to categorize disease manifestations in leprosy. It is the most central entity in the question, as the entire query hinges on how this classification system influences the interpretation of disease episodes versus treatment flares. While 'treatment-related flare' and 'new episode' are clinically significant, they are defined in relation to the ENL classification. The classification system is both specific and searchable, and replacing it with a descriptive phrase (e.g., 'the leprosy disease activity classification system') would substantially increase question difficulty by requiring deeper conceptual understanding of the framework\u2019s role in clinical decision-making and research validity.",
+        "Query": "definition characteristic ENL classification epidemiology"
+    },
+    "31": {
+        "Entity": "leprosy",
+        "Rationale": "The entity 'leprosy' is the highest-priority epidemiological entity in the question, classified under Priority 1 (specific disease). It is the central condition under which the clinical scenario unfolds. The question focuses on adverse outcomes following corticosteroid use specifically in the context of leprosy, making the disease the foundational element for understanding the risk factors, pathophysiology, and clinical patterns. While 'corticosteroid initiation' (Priority 2) is also significant, the question's reasoning is anchored in the disease context\u2014leprosy\u2014because adverse events like lepra reactions are uniquely tied to this condition. Thus, leprosy is both the most specific and most central entity, and replacing it with a descriptive phrase (e.g., 'a chronic infectious disease of the peripheral nerves') would substantially increase the difficulty of the question without altering its core epidemiological logic.",
+        "Query": "definition characteristic leprosy epidemiology"
+    },
+    "32": {
+        "Entity": "H. ducreyi-only infections",
+        "Rationale": "This entity is prioritized as a specific pathogen (Priority 1) and is the central focus of the question\u2019s reasoning. The question hinges on how the clinical presentation of ulcers in children with *H. ducreyi*-only infections\u2014distinct from other treponemal infections like yaws\u2014impacts two key aspects: treatment response interpretation and case classification accuracy. The presence of *H. ducreyi* alone introduces diagnostic ambiguity during yaws eradication, where distinguishing true yaws cases from chancroid (caused by *H. ducreyi*) is critical. Replacing 'H. ducreyi-only infections' with a descriptive phrase (e.g., 'non-yaws treponemal infections with ulcerative presentation') would increase difficulty by requiring deeper understanding of differential diagnosis and epidemiological specificity, while preserving the core challenge of misclassification in eradication programs.",
+        "Query": "definition characteristic H. ducreyi-only infections epidemiology"
+    },
+    "33": {
+        "Entity": "HFRS",
+        "Rationale": "HFRS (Hemorrhagic Fever with Renal Syndrome) is a specific disease (Priority 1) and the central epidemiological entity in the question. The entire context\u2014study population, disease progression, and biomarker identification\u2014is defined by this condition. While 'biomarker' and 'disease phases' are relevant, they are secondary to the specific disease being studied. Replacing 'HFRS' with a descriptive phrase (e.g., 'a viral hemorrhagic fever with renal involvement') would increase question difficulty by requiring the test-taker to infer the disease context before applying analytical reasoning. The choice of analytical strategy is inherently tied to the natural history and clinical features of HFRS, making it the most critical entity to extract.",
+        "Query": "definition characteristic HFRS epidemiology"
+    },
+    "34": {
+        "Entity": "climatic data",
+        "Rationale": "While 'socio-economic and health covariates' (Priority 4) and 'transmission dynamics' (Priority 1) are significant, the central analytical question revolves around how the inclusion of climatic data improves the model\u2019s inference. The core reasoning hinges on the role of environmental factors\u2014specifically climatic data\u2014in enhancing predictive or explanatory power across regions. This makes 'climatic data' the most central entity to the question\u2019s logic. It is a specific, searchable epidemiological variable that directly influences model performance and is critical to understanding spatiotemporal transmission patterns. Replacing it with a descriptive phrase would increase difficulty by requiring deeper conceptual understanding of environmental determinants in infectious disease modeling.",
+        "Query": "definition characteristic climatic data epidemiology"
+    },
+    "35": {
+        "Entity": "analytical approach",
+        "Rationale": "While 'diagnostic test performance' (Priority 3) and 'regional prevalence estimates' (Priority 4) are important entities, the core of the question hinges on how the analytical approach is designed to handle methodological heterogeneity across studies. The question is fundamentally about the choice and justification of a statistical or methodological strategy to mitigate bias due to inconsistent testing. Therefore, 'analytical approach'\u2014though lower in priority ranking\u2014is the most central entity to the reasoning. Replacing it with a descriptive phrase (e.g., 'the statistical method used to combine data') would increase difficulty by requiring deeper understanding of meta-analytic or harmonization techniques, making it the most appropriate target for obfuscation.",
+        "Query": "definition characteristic analytical approach epidemiology"
+    },
+    "36": {
+        "Entity": "Japanese encephalitis virus",
+        "Rationale": "The question centers on identifying the primary determinant of spatial and temporal transmission patterns for a specific disease. 'Japanese encephalitis virus' (Priority 1: specific pathogen) is the most central entity because the entire analytical framework\u2014integration of ecological and environmental data\u2014is directed toward understanding the transmission dynamics of this particular pathogen. While 'Australia' (Priority 4: population/geographic group) and 'transmission risk' (Priority 3: transmission-related entity) are relevant, the core of the question hinges on the biological agent driving the risk pattern. Replacing 'Japanese encephalitis virus' with a descriptive phrase (e.g., 'a mosquito-borne flavivirus of public health concern') would increase difficulty by requiring deeper contextual reasoning about pathogen-specific transmission ecology.",
+        "Query": "definition characteristic Japanese encephalitis virus epidemiology"
+    },
+    "37": {
+        "Entity": "liver fluke",
+        "Rationale": "The entity 'liver fluke' is a specific parasite (a priority 1 entity: pathogen) and is the central subject of the entire question. The question revolves around developing an in vitro model for its development, with a focus on sexual maturation in cultured juveniles. The factor influencing this outcome is inherently tied to the biology of the liver fluke itself. While 'in vitro model' (Priority 5) and 'sexual maturation' (Priority 1) are also relevant, the question's core depends on the organism being studied\u2014liver fluke\u2014making it the most critical and specific entity to extract. Replacing 'liver fluke' with a descriptive phrase (e.g., 'a parasitic flatworm of the genus Fasciola') would increase difficulty by requiring domain-specific knowledge of parasitology without altering the question's fundamental logic.",
+        "Query": "definition characteristic liver fluke epidemiology"
+    },
+    "38": {
+        "Entity": "A. ceylanicum",
+        "Rationale": "A. ceylanicum is a specific parasitic pathogen (Priority 1) and the central focus of the question. The question hinges on evaluating evidence for zoonotic transmission and sustained human transmission, which requires understanding the biological and epidemiological characteristics of this particular organism. While 'host characteristic' (Priority 4) is relevant, it is secondary to the pathogen itself, as the entire question is framed around assessing A. ceylanicum\u2019s zoonotic potential. Replacing 'A. ceylanicum' with a descriptive phrase (e.g., 'a parasitic worm found in both animals and humans') would increase difficulty by requiring the test-taker to infer the pathogen from context, making it the most impactful entity to extract.",
+        "Query": "definition characteristic A. ceylanicum epidemiology"
+    },
+    "39": {
+        "Entity": "N. kaouthia",
+        "Rationale": "While 'recombinant antivenom' (Priority 2) and 'monospecific and bispecific antibody constructs' (Priority 2) are important, the central focus of the question is on the interpretation of protective efficacy in the context of a specific snake species. 'N. kaouthia' is the most specific and critical entity because the biological and immunological properties of this particular species\u2014such as venom composition, antigenic profile, and neutralization requirements\u2014directly determine how efficacy is assessed and interpreted. Without reference to this specific pathogen, the entire context of the study collapses. Thus, despite being a lower-priority entity (Priority 1: disease/pathogen), it is the most central to the question\u2019s reasoning and must be extracted to increase difficulty meaningfully.",
+        "Query": "definition characteristic N. kaouthia epidemiology"
+    },
+    "40": {
+        "Entity": "quilombola communities",
+        "Rationale": "While 'spatial data' and 'socioenvironmental variables' are important components, the entity 'quilombola communities' is the most central to the question's epidemiological reasoning. This specific population group is not only a key demographic focus but also carries unique historical, social, and structural determinants of health that define the context of the study. The question hinges on how integrating data enhances risk identification specifically within this marginalized population. Replacing 'quilombola communities' with a descriptive phrase (e.g., 'historically marginalized rural populations in Brazil') increases difficulty by requiring deeper contextual knowledge, while preserving the core epidemiological focus on health disparities in a defined, vulnerable group.",
+        "Query": "definition characteristic quilombola communities epidemiology"
+    },
+    "42": {
+        "Entity": "Rift Valley fever",
+        "Rationale": "Rift Valley fever is a specific disease (Priority 1) and the central epidemiological entity in the question. The entire query revolves around its transmission dynamics and the implications of its absence in human cases. While 'silent or undetected transmission cycle' (Priority 3) is a key concept, it is a general epidemiological phenomenon that depends on the specific pathogen context. The question's reasoning hinges on understanding Rift Valley fever\u2019s known transmission patterns, reservoirs, and potential for asymptomatic spread. Therefore, replacing 'Rift Valley fever' with a descriptive phrase (e.g., 'a mosquito-borne viral disease with zoonotic potential') would significantly increase difficulty by requiring deeper contextual knowledge of the disease\u2019s ecology and epidemiology.",
+        "Query": "definition characteristic Rift Valley fever epidemiology"
+    },
+    "43": {
+        "Entity": "arboviruses",
+        "Rationale": "The entity 'arboviruses' is the highest-priority epidemiological entity in the question, classified under Priority 1 (specific diseases, pathogens, or syndromes). It is the central subject of the inquiry\u2014specifically, how the integration of vector niche models and virus presence data informs transmission dynamics. While 'vector niche models' (Priority 3) and 'virus presence data' are methodologically important, the question's core focus is on transmission dynamics of arboviruses in Africa. Replacing 'arboviruses' with a descriptive phrase (e.g., 'mosquito-borne viral pathogens') would increase difficulty by requiring deeper domain knowledge to infer the scope of the question, without altering the fundamental epidemiological reasoning. Thus, 'arboviruses' is both the most specific, searchable, and central entity to the question\u2019s logic.",
+        "Query": "definition characteristic arboviruses epidemiology"
+    },
+    "44": {
+        "Entity": "HCoV-OC43",
+        "Rationale": "HCoV-OC43 is a specific coronavirus pathogen (Priority 1), and the entire question hinges on understanding its evolutionary dynamics in response to the SARS-CoV-2 pandemic. The mechanism of genotype shift is directly tied to this pathogen\u2019s behavior under immune pressure and long-term circulation. While 'SARS-CoV-2' is also a high-priority entity, the question focuses on the change in HCoV-OC43 genotypes, making it the central epidemiological entity. Replacing 'HCoV-OC43' with a descriptive phrase (e.g., 'a common human coronavirus') would increase difficulty by requiring the test-taker to infer the specific pathogen from context, which is essential for identifying the correct evolutionary mechanism.",
+        "Query": "definition characteristic HCoV-OC43 epidemiology"
+    },
+    "46": {
+        "Entity": "cystic echinococcosis",
+        "Rationale": "Cystic echinococcosis is a Priority 1 entity (specific disease) and is the central focus of the question. The entire query revolves around explaining geographic disparities in its prevalence, making the disease itself the most critical and specific epidemiological entity. Replacing 'cystic echinococcosis' with a descriptive phrase (e.g., 'a parasitic disease caused by Echinococcus granulosus') would increase difficulty while preserving the question\u2019s core epidemiological reasoning. Although 'southern and insular regions' and 'northern regions' are specific population/geographic groups (Priority 4), they are secondary to the disease entity, which drives the causal and explanatory framework of the question.",
+        "Query": "definition characteristic cystic echinococcosis epidemiology"
+    },
+    "47": {
+        "Entity": "placental schistosomiasis",
+        "Rationale": "The entity 'placental schistosomiasis' is a specific pathological condition (Priority 1: syndrome/disease) and is the central focus of the hypothesis being evaluated. The question asks for evidence supporting a causal role of this condition in adverse birth outcomes, independent of maternal infection. While 'maternal infection' is also a key entity, the primary hypothesis centers on the unique contribution of placental schistosomiasis. Therefore, this entity is both the highest-priority and most central to the reasoning. Its replacement with a descriptive phrase would significantly increase the difficulty by requiring interpretation of a specific pathological entity in the context of birth outcomes.",
+        "Query": "definition characteristic placental schistosomiasis epidemiology"
+    },
+    "48": {
+        "Entity": "chronic condition",
+        "Rationale": "The entity 'chronic condition' is the most central to the question's reasoning, as it defines the epidemiological and clinical context in which self-management strategies are developed. While 'self-management strategies' (Priority 2) and 'personal health and social consequences' (Priority 4) are relevant, the entire question hinges on the nature of a condition that is long-term and non-curative\u2014this is precisely what 'chronic condition' specifies. It is a specific, searchable epidemiological term that directly shapes the development of health behaviors and interventions. Replacing it with a descriptive phrase (e.g., 'a long-term illness without a cure') would increase difficulty while preserving the core logic of the question.",
+        "Query": "definition characteristic chronic condition epidemiology"
+    },
+    "49": {
+        "Entity": "Fasciola hepatica",
+        "Rationale": "While 'serotonin signaling' (Priority 1: pathogen-related biological mechanism) and 'therapeutic strategy' (Priority 2: intervention) are important, the central focus of the question is on the durability of the biological effect in the context of a specific parasite. 'Fasciola hepatica' is the primary biological target and the organism whose biology, life cycle, and potential for resistance or adaptation would most critically influence how long the intervention remains effective. Its unique physiology and host-parasite interactions directly determine the feasibility and longevity of targeting serotonin signaling. Thus, despite being a Priority 1 entity (pathogen), it is selected not just by priority but by centrality to the question\u2019s core reasoning about durability.",
+        "Query": "definition characteristic Fasciola hepatica epidemiology"
+    },
+    "50": {
+        "Entity": "onchocerciasis",
+        "Rationale": "The entity 'onchocerciasis' is a specific disease (Priority 1) and is the central focus of the question. The entire inquiry revolves around its transmission dynamics, surveillance, and intervention strategies in Nigeria, particularly in border regions. The observed increase in spatial scale of transmission is a disease-specific phenomenon tied to onchocerciasis epidemiology. While 'Nigeria' and 'border regions' are relevant, they are contextual rather than central to the core epidemiological reasoning. Replacing 'onchocerciasis' with a descriptive phrase (e.g., 'a parasitic disease transmitted by blackflies') would increase question difficulty by requiring recognition of the disease\u2019s unique transmission and elimination challenges, without which the implications for surveillance and intervention cannot be properly assessed.",
+        "Query": "definition characteristic onchocerciasis epidemiology"
+    },
+    "51": {
+        "Entity": "Salmonella spp.",
+        "Rationale": "While 'sensitivity and specificity' (Priority 2) and 'reference standard' (Priority 3) are important, the central focus of the question is on how the performance of a diagnostic assay for a specific pathogen\u2014Salmonella spp.\u2014is interpreted in light of reference standard limitations. The pathogen is the core subject of the diagnostic evaluation, and its biological and epidemiological characteristics (e.g., strain diversity, detection challenges) directly influence assay performance and the interpretation of test metrics. Replacing 'Salmonella spp.' with a descriptive phrase (e.g., 'a bacterial pathogen causing foodborne illness') increases difficulty by requiring the test-taker to infer the context from the description, while preserving the question\u2019s focus on the interplay between assay performance and reference standard validity.",
+        "Query": "definition characteristic Salmonella spp. epidemiology"
+    },
+    "52": {
+        "Entity": "vector distribution",
+        "Rationale": "The entity 'vector distribution' is the most central to the question's reasoning, as the entire query revolves around predicting how vectors (e.g., mosquitoes, ticks) are spatially and temporally distributed in response to climate and human-driven changes. While 'climate variability' and 'human-driven environmental changes' are important factors, they are inputs to the modeling process rather than the core subject. 'Vector distribution' is a specific, searchable epidemiological entity (e.g., the geographic spread of disease-carrying organisms) and directly determines the focus of the modeling approach. Replacing it with a descriptive phrase (e.g., 'the spatial spread of disease-transmitting arthropods') would increase question difficulty while preserving the core epidemiological reasoning.",
+        "Query": "definition characteristic vector distribution epidemiology"
+    },
+    "53": {
+        "Entity": "dengue",
+        "Rationale": "The entity 'dengue' is a specific disease (Priority 1) and is the central focus of the question. The entire inquiry revolves around how drone surveillance for dengue control is affected by environmental and behavioral factors. While 'drone surveillance' (Priority 2) and 'urban settings' (Priority 4) are relevant, the question's core is about dengue transmission dynamics and control. The interplay between environment and behavior is meaningful only in the context of dengue, making it the most central and specific epidemiological entity. Replacing 'dengue' with a descriptive phrase (e.g., 'a mosquito-borne viral disease') would increase difficulty while preserving the question's epidemiological essence.",
+        "Query": "definition characteristic dengue epidemiology"
+    },
+    "54": {
+        "Entity": "fungal lectin",
+        "Rationale": "The entity 'fungal lectin' is a specific pathogen-related molecule (Priority 1) and is the central biological agent under investigation in the question. The entire inference hinges on understanding the role, function, and variation of this molecule across host species. While 'ecological and evolutionary significance' (Priority 5) is a key conceptual focus, the reasoning depends on the properties and behavior of the fungal lectin. Replacing 'fungal lectin' with a descriptive phrase (e.g., 'a specific fungal protein involved in host recognition') would increase difficulty by requiring the test-taker to infer the identity and functional relevance of the molecule from context, making it a more challenging and precise epidemiological/evolutionary reasoning task.",
+        "Query": "definition characteristic fungal lectin epidemiology"
+    },
+    "55": {
+        "Entity": "Trypanosoma sp.",
+        "Rationale": "The entity 'Trypanosoma sp.' is a specific pathogen (Priority 1) and is the central focus of the association being evaluated in the question. The question asks about the factor that most critically influences the interpretation of the observed association between blood-fed status and the detection of this pathogen in tsetse flies. The presence or absence of Trypanosoma sp. is the outcome of interest, and any confounding, bias, or effect modification in interpreting this association hinges on the biological and epidemiological characteristics of the pathogen itself\u2014such as its transmission dynamics, persistence in the vector, or detection sensitivity. While 'tsetse flies' (Priority 3) and 'blood-fed status' (Priority 4) are relevant, the pathogen is the most central entity because the entire analytical interpretation revolves around its detection and relationship to feeding behavior. Therefore, it is the most appropriate entity to extract for increasing question difficulty.",
+        "Query": "definition characteristic Trypanosoma sp. epidemiology"
+    },
+    "56": {
+        "Entity": "giardiasis",
+        "Rationale": "The entity 'giardiasis' is a specific disease (Priority 1) and is the central focus of the question\u2019s reasoning. The entire hypothesis revolves around the role of parasite-derived molecules in causing intestinal epithelial damage specifically in the context of giardiasis. While 'parasite-derived molecules' (Priority 3) is also relevant, the disease context defines the biological system and the clinical outcome (intestinal epithelial damage). Without 'giardiasis', the question loses its epidemiological and clinical grounding. Therefore, 'giardiasis' is the most central and specific entity to extract, as replacing it with a descriptive phrase would significantly increase the difficulty by requiring the test-taker to infer the disease context from the mechanism described.",
+        "Query": "definition characteristic giardiasis epidemiology"
+    },
+    "57": {
+        "Entity": "modeling techniques",
+        "Rationale": "The entity 'modeling techniques' is classified under Priority 2 (interventions, vaccines, drugs, or treatments) in the context of epidemiological methods, though it is not a biological agent. However, in this question, the central reasoning hinges on the methodological choice that enables causal inference. While 'hepatic echinococcosis' (Priority 1) and 'mice' (Priority 4) are specific entities, the question is not about the disease or population per se, but about the validity of causal inference based on the modeling approach. The core of the question revolves around how the choice of modeling technique affects causal interpretation. Therefore, 'modeling techniques' is the most central entity to the question\u2019s logic, even though it is lower in priority. It is also specific and searchable, making it the optimal candidate for replacement to increase question difficulty.",
+        "Query": "definition characteristic modeling techniques epidemiology"
+    },
+    "58": {
+        "Entity": "in vitro conditions",
+        "Rationale": "The entity 'in vitro conditions' is a Priority 3 (transmission-related or experimental environment) but is the most central to the question's reasoning. The question hinges on the validity of comparing laboratory-based (in vitro) results to real-world biological systems (the host environment). The core challenge\u2014potential bias or misinterpretation due to differences between controlled lab settings and complex living systems\u2014depends entirely on this contrast. While 'host environment' is also relevant, 'in vitro conditions' is the more specific and analytically critical component, as it represents the controlled experimental condition that must be carefully interpreted in relation to biological reality. Replacing 'in vitro conditions' with a descriptive phrase (e.g., 'laboratory-based experimental systems') would increase difficulty by requiring deeper conceptual understanding of experimental validity in translational research.",
+        "Query": "definition characteristic in vitro conditions epidemiology"
+    },
+    "59": {
+        "Entity": "soil-transmitted helminths",
+        "Rationale": "The question centers on the long-term transmission potential of helminths in the context of coinfection with malaria, with a focus on how host factors influence parasite life history traits. While 'malaria' (Priority 1) and 'soil-transmitted helminths' (Priority 1) are both specific pathogens, the core of the question is about the transmission dynamics and life history evolution of the helminths. The host factor's influence is specifically tied to the helminth's transmission potential, making 'soil-transmitted helminths' the most central entity. Although both pathogens are of equal priority, the question's focus on helminth life history traits and transmission makes this entity the most critical to preserve for accurate interpretation. Thus, it is selected for extraction despite the equal priority, due to its centrality in the causal reasoning.",
+        "Query": "definition characteristic soil-transmitted helminths epidemiology"
+    },
+    "60": {
+        "Entity": "mass drug administration",
+        "Rationale": "While 'NTDs' (neglected tropical diseases) and 'Kenya' are specific entities, the central focus of the question is on the intervention being evaluated\u2014mass drug administration (MDA). The question hinges on how the effectiveness of this specific public health intervention is interpreted in light of data bias. The validity of model predictions depends critically on the accuracy of data related to the intervention's implementation and impact. Since MDA is the primary intervention under scrutiny and its real-world effectiveness is the core outcome, it is the most central and analytically significant entity. It is also a specific, searchable epidemiological term. Although 'NTDs' is a higher-priority entity (Priority 1), the question's reasoning is fundamentally about the interpretation of MDA's effectiveness, making MDA the most critical entity to extract for increasing question difficulty.",
+        "Query": "definition characteristic mass drug administration epidemiology"
+    },
+    "61": {
+        "Entity": "visceral leishmaniasis",
+        "Rationale": "The entity 'visceral leishmaniasis' is a specific disease (Priority 1) and is the central focus of the question. The entire inquiry revolves around the durability of protection in treated animals with this disease, particularly in the context of immune reprogramming. While 'novel combination therapy' (Priority 2) is also important, the disease itself defines the biological and epidemiological context\u2014without it, the question about protection durability would lack specificity. The disease is both highly specific and essential to the reasoning, making it the most critical entity to extract. Replacing it with a descriptive phrase (e.g., 'a parasitic disease affecting internal organs') would increase difficulty by requiring deeper contextual understanding.",
+        "Query": "definition characteristic visceral leishmaniasis epidemiology"
+    },
+    "62": {
+        "Entity": "transmission model",
+        "Rationale": "The entity 'transmission model' is the most central to the question's reasoning, as the entire inquiry hinges on how the structure of this model\u2014specifically its assumptions about reporting and hospitalization rates\u2014affects the interpretation of vaccine impact. While 'serotype-dominant scenarios' (Priority 3: transmission-related entities) is also significant, the model itself is the foundational framework through which these assumptions are operationalized. The question's logic depends on understanding how model structure shapes inference, making 'transmission model' the most critical and replaceable entity. It is specific, searchable, and directly tied to the methodological core of the question.",
+        "Query": "definition characteristic transmission model epidemiology"
+    },
+    "63": {
+        "Entity": "CLIQ",
+        "Rationale": "The entity 'CLIQ' is a specific, searchable instrument (likely a clinical or psychological questionnaire), and it is the central focus of the question's reasoning. The question hinges on interpreting the responsiveness of this particular tool to change, even when statistical significance is present. While 'statistical significance' (Priority 5) is mentioned, it is a methodological concept that serves as a context rather than the core subject. The validity of the interpretation depends on the properties of the CLIQ itself\u2014its sensitivity, reliability, and clinical relevance. Therefore, despite being a lower-priority entity (Priority 5), 'CLIQ' is the most central to the question and should be extracted to increase difficulty by requiring the test-taker to reason about a specific measurement instrument.",
+        "Query": "definition characteristic CLIQ epidemiology"
+    },
+    "64": {
+        "Entity": "T. gondii",
+        "Rationale": "The entity 'T. gondii' (Priority 1: pathogen) is the most central to the question's reasoning. The question seeks to identify the primary factor influencing anxiety-like behavior in mice post-infection, and the entire causal inquiry hinges on the role of this specific pathogen. While 'anxiety-like behavior' (Priority 1: syndrome) and 'chronic infection' (Priority 1: condition) are also relevant, the pathogen 'T. gondii' is the key exposure under investigation. Its specificity and direct causal link to the outcome make it the most critical entity to extract. Replacing it with a descriptive phrase (e.g., 'a parasitic infection') would increase difficulty by requiring deeper inference about the pathogen's identity and biological role.",
+        "Query": "definition characteristic T. gondii epidemiology"
+    },
+    "65": {
+        "Entity": "Cm-p5",
+        "Rationale": "While 'T. cruzi' (Priority 1: pathogen) and 'peptide concentration' (Priority 2: intervention) are significant, the central entity driving the question\u2019s reasoning is 'Cm-p5'\u2014the specific peptide under evaluation. The question hinges on how the biological activity of this particular compound (Cm-p5) varies across parasite life stages, making it the most critical factor in interpreting the concentration-effect relationship. Replacing 'Cm-p5' with a descriptive phrase (e.g., 'the experimental peptide') increases difficulty by requiring the reader to infer the specific agent being studied, which is essential for accurate interpretation of the dose-response dynamics across life stages.",
+        "Query": "definition characteristic Cm-p5 epidemiology"
+    },
+    "66": {
+        "Entity": "Brucella",
+        "Rationale": "Brucella is a specific pathogen (Priority 1) and the central focus of the question, as the entire inquiry revolves around its zoonotic spillover. While 'human-animal-environment interface' (Priority 3) is a key conceptual framework, the question hinges on identifying which factor most directly reflects this interface *in the context of Brucella transmission*. The pathogen itself is the most specific and searchable entity, and replacing it with a descriptive phrase (e.g., 'a bacterial pathogen causing zoonotic infections') would increase difficulty by requiring the test-taker to infer the pathogen\u2019s role in spillover dynamics. The significance of the interface is evaluated *in relation to Brucella*, making it the most central entity to the question\u2019s reasoning.",
+        "Query": "definition characteristic Brucella epidemiology"
+    },
+    "67": {
+        "Entity": "school-based preventive chemotherapy program",
+        "Rationale": "The entity 'school-based preventive chemotherapy program' is the most central to the question's reasoning, as the entire query revolves around interpreting the effectiveness of this specific intervention across geographic areas. While 'geographic areas' (Priority 4) is a population-related entity, the core of the question lies in how the program's design and implementation influence outcome interpretation. This intervention is a specific, searchable epidemiological entity (a type of public health intervention), and replacing it with a descriptive phrase (e.g., 'a targeted deworming initiative in educational settings') would increase difficulty by requiring deeper contextual understanding. Although it falls under Priority 2 (interventions), its centrality to the causal interpretation of effectiveness justifies its selection over other entities, even if lower in priority.",
+        "Query": "definition characteristic school-based preventive chemotherapy program epidemiology"
+    },
+    "68": {
+        "Entity": "MALDI-TOF MS",
+        "Rationale": "MALDI-TOF MS is a specific diagnostic technology (Priority 2: intervention/technology) and is the central focus of the question, as the entire query revolves around its performance differences between two species. While 'Biomphalaria species' (Priority 3: vectors/reservoirs) is also relevant, the question specifically asks about the factor explaining differences in the *performance* of MALDI-TOF MS, making the technology itself the most critical entity. The reasoning hinges on understanding how MALDI-TOF MS functions and its potential limitations or variations across species. Therefore, MALDI-TOF MS is the most central and specific entity to extract, and replacing it with a descriptive phrase would increase difficulty by requiring deeper understanding of the technology\u2019s biological and technical constraints.",
+        "Query": "definition characteristic MALDI-TOF MS epidemiology"
+    },
+    "69": {
+        "Entity": "immune response",
+        "Rationale": "The entity 'immune response' is classified as a specific biological process with clear epidemiological and immunological significance (Priority 1: Specific diseases, pathogens, or syndromes\u2014though not a disease itself, it is a core biological mechanism directly tied to host-pathogen interaction and disease modulation). It is the most central entity in the question because the entire query hinges on determining whether this response is actively shaping the local tissue environment. The question's logic depends on interpreting evidence of local immune activity, making 'immune response' the most critical and replaceable entity. No lower-priority entity (e.g., 'skin' or 'systemic disease stage') is more central to the reasoning, and 'immune response' is specific, searchable, and fundamental to the epidemiological and immunological inference being made.",
+        "Query": "definition characteristic immune response epidemiology"
+    },
+    "70": {
+        "Entity": "yaws",
+        "Rationale": "While 'district-level laboratories' (Priority 4) and 'low-resource settings' (Priority 4) are relevant population/contextual entities, the disease 'yaws' is the most central epidemiological entity to the question's reasoning. The reliability of diagnostic data in evaluating program performance is fundamentally tied to the specific characteristics of yaws\u2014its clinical presentation, diagnostic challenges (e.g., cross-reactivity with other treponematoses), and the need for accurate case identification in eradication efforts. The question hinges on how yaws' epidemiological and diagnostic features affect data quality, making it the most critical and specific entity to extract. It is also a precise, searchable term with well-defined epidemiological significance.",
+        "Query": "definition characteristic yaws epidemiology"
+    },
+    "71": {
+        "Entity": "zoonotic threats",
+        "Rationale": "The entity 'zoonotic threats' is the highest-priority epidemiological entity in the question, classified under Priority 1 (specific diseases, pathogens, or syndromes). It is the central focus of the question, as the entire inquiry revolves around the factors influencing spillover from wildlife reservoirs to humans. While 'Amazonian ecosystems' (Priority 4) and 'wildlife reservoirs' (Priority 3) are relevant, the core of the question\u2014what drives spillover in the absence of direct contact\u2014depends on the nature and characteristics of zoonotic threats. Replacing 'zoonotic threats' with a descriptive phrase (e.g., 'infectious diseases that jump from animals to humans') would increase difficulty by requiring deeper conceptual understanding of spillover dynamics, making it the most impactful entity to extract.",
+        "Query": "definition characteristic zoonotic threats epidemiology"
+    },
+    "72": {
+        "Entity": "Anuradhapura district",
+        "Rationale": "While 'snakebite incidence' (Priority 1: disease/syndrome) and 'times and locations' (Priority 4: population groups or spatial-temporal factors) are relevant, the most central entity to the question\u2019s reasoning is 'Anuradhapura district'. This specific geographic location is the focal point of the observed pattern, and the question hinges on explaining why snakebites are concentrated there during certain periods. The district\u2019s unique environmental, agricultural, and demographic characteristics are likely key to the explanation. Replacing 'Anuradhapura district' with a descriptive phrase (e.g., 'a rural district in Sri Lanka with high agricultural activity') would increase difficulty by requiring the test-taker to infer the context from indirect clues, while preserving the core epidemiological reasoning about spatial-temporal clustering.",
+        "Query": "definition characteristic Anuradhapura district epidemiology"
+    },
+    "74": {
+        "Entity": "E. multilocularis",
+        "Rationale": "E. multilocularis is a specific pathogen (Priority 1) and the central subject of the question. The entire reasoning of the question hinges on evaluating evidence for the establishment of a self-sustaining transmission cycle of this particular organism. While 'western Washington' (Priority 4) is a specific population/geographic group, the conclusion about transmission dynamics is fundamentally about the pathogen's behavior and spread. Replacing 'E. multilocularis' with a descriptive phrase (e.g., 'a parasitic tapeworm') would increase difficulty by requiring the test-taker to recognize the pathogen's epidemiological significance, making it the most impactful entity to extract.",
+        "Query": "definition characteristic E. multilocularis epidemiology"
+    },
+    "75": {
+        "Entity": "Bacillus anthracis",
+        "Rationale": "The question centers on comparing the persistence and transmission dynamics of two closely related organisms: Bacillus anthracis and Bacillus cereus biovar anthracis. While both are pathogens (Priority 1), the question specifically asks which environmental factor most likely influences the differential behavior between them. The core of the reasoning hinges on the unique ecological and pathogenic characteristics of Bacillus anthracis, which is the primary driver of the comparison. Although 'Bacillus cereus biovar anthracis' is also a high-priority entity, it is a variant of B. anthracis and its role is secondary to the central focus on B. anthracis as the reference pathogen. Therefore, 'Bacillus anthracis' is the most central and specific entity to extract, as replacing it with a descriptive phrase would significantly increase the difficulty by requiring deeper understanding of the ecological distinctions between the two organisms.",
+        "Query": "definition characteristic Bacillus anthracis epidemiology"
+    },
+    "76": {
+        "Entity": "paracoccidioidomycosis",
+        "Rationale": "The entity 'paracoccidioidomycosis' is a specific disease (Priority 1) and is the central focus of the question. The entire reasoning of the question hinges on the epidemiological and genetic context of this disease\u2014specifically, how mischaracterization of controls in relation to prior exposure affects association studies. While 'single nucleotide variants' (Priority 1) is also a high-priority entity, the question is framed within the context of a particular disease, and the validity of genetic associations is being evaluated specifically in relation to this condition. Therefore, 'paracoccidioidomycosis' is the most central entity, as the implications of control group mischaracterization are disease-specific. Replacing it with a descriptive phrase (e.g., 'a fungal infection endemic to Latin America') would increase difficulty by requiring deeper contextual knowledge without altering the core analytical reasoning.",
+        "Query": "definition characteristic paracoccidioidomycosis epidemiology"
+    },
+    "77": {
+        "Entity": "deworming program",
+        "Rationale": "The entity 'deworming program' is a Priority 2 entity (intervention) and is the most central to the question's reasoning. The question seeks to explain why infection risk varies among schoolchildren despite the implementation of this specific intervention. The core of the inquiry revolves around the effectiveness or limitations of the deworming program in the face of other factors, making it the most critical element to extract. Replacing 'deworming program' with a descriptive phrase (e.g., 'a nationwide public health intervention targeting parasitic worms') would increase difficulty by requiring the test-taker to infer the nature and scope of the intervention from context, while preserving the epidemiological logic of the question.",
+        "Query": "definition characteristic deworming program epidemiology"
+    },
+    "78": {
+        "Entity": "rabies transmission dynamics",
+        "Rationale": "The entity 'rabies transmission dynamics' is the most central to the question's reasoning, as the entire query hinges on understanding how rabies spreads within a population\u2014specifically in the context of a refugee settlement. While 'rabies' (Priority 1) is a high-priority disease entity, the phrase 'transmission dynamics' captures the core epidemiological process under investigation: the mechanisms and patterns of spread that determine whether interruption of dog-to-dog transmission is feasible. This concept directly informs the feasibility of control measures and prevention of human cases. Although 'refugee settlement' (Priority 4) is contextually important, it serves as a setting rather than the central analytical focus. Therefore, 'rabies transmission dynamics' is selected as the most critical and replaceable entity, as it is specific, searchable, and pivotal to the epidemiological reasoning.",
+        "Query": "definition characteristic rabies transmission dynamics epidemiology"
+    },
+    "79": {
+        "Entity": "Plasmodium vivax",
+        "Rationale": "The entity 'Plasmodium vivax' is a specific pathogen (Priority 1) and is the central focus of the question, as the entire inquiry revolves around its transmission dynamics, clinical outcomes (symptomatic episodes), and the interplay with host factors. While 'genetic factors affecting drug metabolism' (Priority 4) is relevant, it is secondary to the primary pathogen under investigation. The question's core logic\u2014how timing of initial infection with P. vivax influences long-term disease risk\u2014depends critically on the biological and epidemiological characteristics of this specific parasite. Therefore, 'Plasmodium vivax' is the most central and specific entity to extract, and replacing it with a descriptive phrase (e.g., 'the causative agent of relapsing malaria') would significantly increase question difficulty while preserving scientific precision.",
+        "Query": "definition characteristic Plasmodium vivax epidemiology"
+    },
+    "81": {
+        "Entity": "Echinococcus granulosus",
+        "Rationale": "The entity 'Echinococcus granulosus' is a specific pathogen (Priority 1) and is the central focus of the question, as the entire inquiry revolves around its transmission dynamics. The question seeks to distinguish between transmission routes\u2014environmental contamination versus direct contact with dogs\u2014specifically for this parasite. Replacing 'Echinococcus granulosus' with a descriptive phrase (e.g., 'the parasitic organism causing hydatid disease') would increase the difficulty significantly, as it would require the test-taker to infer the pathogen\u2019s identity and transmission characteristics from context. Its specificity and centrality to the epidemiological reasoning justify its selection over other entities like 'domestic dogs' (Priority 3) or 'environmental contamination' (Priority 3), which are secondary to the pathogen in question.",
+        "Query": "definition characteristic Echinococcus granulosus epidemiology"
+    },
+    "82": {
+        "Entity": "Leptospira strains",
+        "Rationale": "The entity 'Leptospira strains' is the most central to the question's reasoning, as the hypothesis hinges on biological characteristics of these specific pathogens. While 'bats' (Priority 4) and 'Wavulgalge Cave' (geographic location) are relevant, the key evidence for reservoir status depends on the genetic, serological, or phenotypic traits of the detected Leptospira strains. The question asks which factor most strongly supports the reservoir hypothesis, and that factor must be derived from the characteristics of the strains themselves. This entity is specific, searchable, and directly tied to the core epidemiological inference. Although 'bats' is a reservoir-related entity (Priority 3), the reasoning depends on the strain data, making 'Leptospira strains' the most critical entity to extract.",
+        "Query": "definition characteristic Leptospira strains epidemiology"
+    },
+    "83": {
+        "Entity": "vector dispersal",
+        "Rationale": "The entity 'vector dispersal' is the most central to the question's reasoning, as the entire query hinges on understanding how and why vectors (e.g., mosquitoes) spread during the epidemic. The question seeks evidence that environmental conditions\u2014not just proximity to the source\u2014drove this dispersal. While '1857 Lisbon yellow fever epidemic' (Priority 1: specific disease) and 'environmental conditions' (Priority 3: transmission-related) are important, the core of the question revolves around the mechanism of vector dispersal. Replacing 'vector dispersal' with a descriptive phrase (e.g., 'the movement of disease-carrying organisms') would increase difficulty by forcing the test-taker to infer the key biological process under investigation, making it the most impactful entity to extract.",
+        "Query": "definition characteristic vector dispersal epidemiology"
+    },
+    "84": {
+        "Entity": "dengue vaccine development",
+        "Rationale": "While 'dengue vaccine development' is not a disease or pathogen (Priority 1), it is the overarching context that defines the entire epidemiological and immunological reasoning of the question. The question hinges on interpreting immune response data in the context of vaccine efficacy and safety, particularly in seropositive individuals. The core challenge\u2014understanding why clinical disease is absent despite immune responses\u2014depends critically on the specific context of vaccine development, including factors like immune enhancement, strain-specific immunity, and correlates of protection. Although 'dengue' (a pathogen, Priority 1) is present, the question is not about the disease itself but about the implications of vaccine-induced immunity. Thus, 'dengue vaccine development' is the most central entity, as it frames the entire analytical and interpretive framework. It is also specific and searchable, making it ideal for replacement to increase question difficulty.",
+        "Query": "definition characteristic dengue vaccine development epidemiology"
+    },
+    "85": {
+        "Entity": "Giardia",
+        "Rationale": "Giardia is a specific pathogen (Priority 1) and the central focus of the question, as the entire inquiry revolves around its transmission, persistence, and spread. While 'human and animal populations' (Priority 4) and 'diverse environments' (implied context) are relevant, they are secondary to the pathogen itself. The question's core logic depends on understanding Giardia\u2019s epidemiological behavior, making it the most critical and specific entity to extract. Its replacement with a descriptive phrase (e.g., 'a protozoan parasite') would increase difficulty without altering the question\u2019s fundamental epidemiological reasoning.",
+        "Query": "definition characteristic Giardia epidemiology"
+    },
+    "86": {
+        "Entity": "T. gondii",
+        "Rationale": "The entity 'T. gondii' is a specific pathogen (Priority 1) and is the central focus of the question. The entire query revolves around its infection dynamics, particularly in relation to host factors influencing inflammation and tissue damage. While 'systemic inflammation' and 'tissue damage' are relevant biological processes, they are secondary to the pathogen itself, which defines the epidemiological and immunological context. Replacing 'T. gondii' with a descriptive phrase (e.g., 'a protozoan parasite causing acute infection') would increase question difficulty by requiring the test-taker to infer the pathogen from its clinical and immunological effects, thereby emphasizing the need for precise pathogen recognition in epidemiological reasoning.",
+        "Query": "definition characteristic T. gondii epidemiology"
+    },
+    "88": {
+        "Entity": "West Nile virus transmission risk",
+        "Rationale": "While 'bird community composition' (Priority 4) and 'ecological factor' (Priority 3) are relevant, the central focus of the question is on interpreting the relationship between bird community composition and West Nile virus transmission risk. The entity 'West Nile virus transmission risk' is the outcome of interest and the primary subject of interpretation. Its inclusion as the dependent variable makes it the most central to the question\u2019s reasoning. Replacing this specific outcome with a descriptive phrase would increase difficulty by requiring the test-taker to infer the key epidemiological endpoint, thereby emphasizing the causal or associative relationship under investigation.",
+        "Query": "definition characteristic West Nile virus transmission risk epidemiology"
+    },
+    "89": {
+        "Entity": "bubonic plague",
+        "Rationale": "The entity 'bubonic plague' is a specific disease (Priority 1) and is the central focus of the question. The entire reasoning of the question hinges on the clinical and epidemiological characteristics of bubonic plague\u2014particularly the nature of lymphadenopathy and its progression\u2014which directly affects the reliability of physical examination as a measure. While 'lymph node size' (a clinical sign) is relevant, it is a consequence of the disease rather than the core entity driving the question. Replacing 'bubonic plague' with a descriptive phrase (e.g., 'a severe bacterial infection characterized by swollen lymph nodes') would increase difficulty by requiring deeper contextual understanding of the disease\u2019s pathophysiology and diagnostic challenges, making it the most impactful entity to extract.",
+        "Query": "definition characteristic bubonic plague epidemiology"
+    },
+    "90": {
+        "Entity": "hantavirus",
+        "Rationale": "The entity 'hantavirus' is a specific pathogen (Priority 1) and is the central focus of the question's reasoning. The question seeks to identify factors that amplify spillover risk, and the entire inquiry hinges on the epidemiological dynamics of hantavirus transmission. While 'geographic and ecological conditions' (Priority 3) are important, they are contextual variables that influence hantavirus spillover, not the core subject. Replacing 'hantavirus' with a descriptive phrase (e.g., 'a rodent-borne viral disease') would increase difficulty by requiring the test-taker to infer the pathogen\u2019s identity and transmission characteristics, making it the most impactful entity to extract.",
+        "Query": "definition characteristic hantavirus epidemiology"
+    },
+    "91": {
+        "Entity": "echinococcosis",
+        "Rationale": "Echinococcosis is a specific disease (Priority 1) and the central focus of the question. The query asks about a pattern in disease occurrence that indicates a shift in epidemiological dynamics, which directly relates to the behavior, transmission, or burden of echinococcosis. While 'Kyrgyzstan' (Priority 4) is a specific population/geographic entity, the core reasoning hinges on interpreting disease trends\u2014specifically, whether annual incidence rates are sufficient to capture changes in echinococcosis dynamics. Thus, echinococcosis is the most central and specific entity to extract, as replacing it with a descriptive phrase (e.g., 'a parasitic zoonotic disease') would increase difficulty while preserving the question\u2019s epidemiological intent.",
+        "Query": "definition characteristic echinococcosis epidemiology"
+    },
+    "92": {
+        "Entity": "arbovirus",
+        "Rationale": "The entity 'arbovirus' is the most central to the question's reasoning, as the entire query revolves around the absence of detections of this specific class of pathogens in samples. While 'dengue' (a specific arbovirus) is mentioned in the context, the question refers to 'arbovirus detections' broadly, making 'arbovirus' the most precise and relevant entity. It is a specific, searchable epidemiological term (a group of viruses transmitted by arthropods) and directly tied to the core issue: why these viruses were not detected despite prior circulation. Although 'dengue' is a higher-priority entity (Priority 1: specific disease/pathogen), the question is not about dengue alone but about the broader category of arboviruses, which includes dengue and others. Thus, 'arbovirus' is the most appropriate and central entity to extract, as replacing it would increase the difficulty by requiring the test-taker to reason about the broader group of pathogens rather than a single one.",
+        "Query": "definition characteristic arbovirus epidemiology"
+    }
+}

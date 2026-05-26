@@ -1,0 +1,2108 @@
+{
+    "0": {
+        "gpt-5-mini": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "deepseek-reasoner": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "microsoft/Phi-4-mini-instruct": {
+            "f1": 0.6666666666666666,
+            "exact_match": 0
+        },
+        "Qwen/Qwen3-32B": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "Average": {
+            "f1": 0.9166666666666666,
+            "exact_match": 0.75
+        },
+        "Variance": {
+            "f1": 0.020833333333333336,
+            "exact_match": 0.1875
+        },
+        "Diff Score": 0.20000000000000018
+    },
+    "1": {
+        "gpt-5-mini": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "deepseek-reasoner": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "microsoft/Phi-4-mini-instruct": {
+            "f1": 0.6666666666666666,
+            "exact_match": 0
+        },
+        "Qwen/Qwen3-32B": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "Average": {
+            "f1": 0.9166666666666666,
+            "exact_match": 0.75
+        },
+        "Variance": {
+            "f1": 0.020833333333333336,
+            "exact_match": 0.1875
+        },
+        "Diff Score": 0.20000000000000018
+    },
+    "2": {
+        "gpt-5-mini": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "deepseek-reasoner": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "microsoft/Phi-4-mini-instruct": {
+            "f1": 0.6666666666666666,
+            "exact_match": 0
+        },
+        "Qwen/Qwen3-32B": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "Average": {
+            "f1": 0.9166666666666666,
+            "exact_match": 0.75
+        },
+        "Variance": {
+            "f1": 0.020833333333333336,
+            "exact_match": 0.1875
+        },
+        "Diff Score": 0.20000000000000018
+    },
+    "3": {
+        "gpt-5-mini": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "deepseek-reasoner": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "microsoft/Phi-4-mini-instruct": {
+            "f1": 0,
+            "exact_match": 0
+        },
+        "Qwen/Qwen3-32B": {
+            "f1": 0.6666666666666666,
+            "exact_match": 0
+        },
+        "Average": {
+            "f1": 0.6666666666666666,
+            "exact_match": 0.5
+        },
+        "Variance": {
+            "f1": 0.16666666666666669,
+            "exact_match": 0.25
+        },
+        "Diff Score": 0.45000000000000007
+    },
+    "4": {
+        "gpt-5-mini": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "deepseek-reasoner": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "microsoft/Phi-4-mini-instruct": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "Qwen/Qwen3-32B": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "Average": {
+            "f1": 1.0,
+            "exact_match": 1.0
+        },
+        "Variance": {
+            "f1": 0.0,
+            "exact_match": 0.0
+        },
+        "Diff Score": 0.0
+    },
+    "5": {
+        "gpt-5-mini": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "deepseek-reasoner": {
+            "f1": 0,
+            "exact_match": 0
+        },
+        "microsoft/Phi-4-mini-instruct": {
+            "f1": 0,
+            "exact_match": 0
+        },
+        "Qwen/Qwen3-32B": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "Average": {
+            "f1": 0.5,
+            "exact_match": 0.5
+        },
+        "Variance": {
+            "f1": 0.25,
+            "exact_match": 0.25
+        },
+        "Diff Score": 0.5
+    },
+    "6": {
+        "gpt-5-mini": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "deepseek-reasoner": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "microsoft/Phi-4-mini-instruct": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "Qwen/Qwen3-32B": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "Average": {
+            "f1": 1.0,
+            "exact_match": 1.0
+        },
+        "Variance": {
+            "f1": 0.0,
+            "exact_match": 0.0
+        },
+        "Diff Score": 0.0
+    },
+    "7": {
+        "gpt-5-mini": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "deepseek-reasoner": {
+            "f1": 0.6666666666666666,
+            "exact_match": 0
+        },
+        "microsoft/Phi-4-mini-instruct": {
+            "f1": 0.5,
+            "exact_match": 0
+        },
+        "Qwen/Qwen3-32B": {
+            "f1": 0.6666666666666666,
+            "exact_match": 0
+        },
+        "Average": {
+            "f1": 0.7083333333333333,
+            "exact_match": 0.25
+        },
+        "Variance": {
+            "f1": 0.03298611111111111,
+            "exact_match": 0.1875
+        },
+        "Diff Score": 0.6125
+    },
+    "9": {
+        "gpt-5-mini": {
+            "f1": 0.6666666666666666,
+            "exact_match": 0
+        },
+        "deepseek-reasoner": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "microsoft/Phi-4-mini-instruct": {
+            "f1": 0.6666666666666666,
+            "exact_match": 0
+        },
+        "Qwen/Qwen3-32B": {
+            "f1": 0.6666666666666666,
+            "exact_match": 0
+        },
+        "Average": {
+            "f1": 0.7499999999999999,
+            "exact_match": 0.25
+        },
+        "Variance": {
+            "f1": 0.02083333333333334,
+            "exact_match": 0.1875
+        },
+        "Diff Score": 0.6000000000000001
+    },
+    "10": {
+        "gpt-5-mini": {
+            "f1": 0.6666666666666666,
+            "exact_match": 0
+        },
+        "deepseek-reasoner": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "microsoft/Phi-4-mini-instruct": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "Qwen/Qwen3-32B": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "Average": {
+            "f1": 0.9166666666666666,
+            "exact_match": 0.75
+        },
+        "Variance": {
+            "f1": 0.020833333333333336,
+            "exact_match": 0.1875
+        },
+        "Diff Score": 0.20000000000000018
+    },
+    "11": {
+        "gpt-5-mini": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "deepseek-reasoner": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "microsoft/Phi-4-mini-instruct": {
+            "f1": 0.6666666666666666,
+            "exact_match": 0
+        },
+        "Qwen/Qwen3-32B": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "Average": {
+            "f1": 0.9166666666666666,
+            "exact_match": 0.75
+        },
+        "Variance": {
+            "f1": 0.020833333333333336,
+            "exact_match": 0.1875
+        },
+        "Diff Score": 0.20000000000000018
+    },
+    "12": {
+        "gpt-5-mini": {
+            "f1": 0.6666666666666666,
+            "exact_match": 0
+        },
+        "deepseek-reasoner": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "microsoft/Phi-4-mini-instruct": {
+            "f1": 0,
+            "exact_match": 0
+        },
+        "Qwen/Qwen3-32B": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "Average": {
+            "f1": 0.6666666666666666,
+            "exact_match": 0.5
+        },
+        "Variance": {
+            "f1": 0.16666666666666669,
+            "exact_match": 0.25
+        },
+        "Diff Score": 0.45000000000000007
+    },
+    "14": {
+        "gpt-5-mini": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "deepseek-reasoner": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "microsoft/Phi-4-mini-instruct": {
+            "f1": 0.6666666666666666,
+            "exact_match": 0
+        },
+        "Qwen/Qwen3-32B": {
+            "f1": 0.6666666666666666,
+            "exact_match": 0
+        },
+        "Average": {
+            "f1": 0.8333333333333333,
+            "exact_match": 0.5
+        },
+        "Variance": {
+            "f1": 0.027777777777777783,
+            "exact_match": 0.25
+        },
+        "Diff Score": 0.4
+    },
+    "15": {
+        "gpt-5-mini": {
+            "f1": 0.5,
+            "exact_match": 0
+        },
+        "deepseek-reasoner": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "microsoft/Phi-4-mini-instruct": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "Qwen/Qwen3-32B": {
+            "f1": 0.5,
+            "exact_match": 0
+        },
+        "Average": {
+            "f1": 0.75,
+            "exact_match": 0.5
+        },
+        "Variance": {
+            "f1": 0.0625,
+            "exact_match": 0.25
+        },
+        "Diff Score": 0.42500000000000004
+    },
+    "16": {
+        "gpt-5-mini": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "deepseek-reasoner": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "microsoft/Phi-4-mini-instruct": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "Qwen/Qwen3-32B": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "Average": {
+            "f1": 1.0,
+            "exact_match": 1.0
+        },
+        "Variance": {
+            "f1": 0.0,
+            "exact_match": 0.0
+        },
+        "Diff Score": 0.0
+    },
+    "17": {
+        "gpt-5-mini": {
+            "f1": 0.6666666666666666,
+            "exact_match": 0
+        },
+        "deepseek-reasoner": {
+            "f1": 0.6666666666666666,
+            "exact_match": 0
+        },
+        "microsoft/Phi-4-mini-instruct": {
+            "f1": 0,
+            "exact_match": 0
+        },
+        "Qwen/Qwen3-32B": {
+            "f1": 0.6666666666666666,
+            "exact_match": 0
+        },
+        "Average": {
+            "f1": 0.5,
+            "exact_match": 0.0
+        },
+        "Variance": {
+            "f1": 0.08333333333333333,
+            "exact_match": 0.0
+        },
+        "Diff Score": 0.85
+    },
+    "18": {
+        "gpt-5-mini": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "deepseek-reasoner": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "microsoft/Phi-4-mini-instruct": {
+            "f1": 0.6666666666666666,
+            "exact_match": 0
+        },
+        "Qwen/Qwen3-32B": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "Average": {
+            "f1": 0.9166666666666666,
+            "exact_match": 0.75
+        },
+        "Variance": {
+            "f1": 0.020833333333333336,
+            "exact_match": 0.1875
+        },
+        "Diff Score": 0.20000000000000018
+    },
+    "19": {
+        "gpt-5-mini": {
+            "f1": 0,
+            "exact_match": 0
+        },
+        "deepseek-reasoner": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "microsoft/Phi-4-mini-instruct": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "Qwen/Qwen3-32B": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "Average": {
+            "f1": 0.75,
+            "exact_match": 0.75
+        },
+        "Variance": {
+            "f1": 0.1875,
+            "exact_match": 0.1875
+        },
+        "Diff Score": 0.2500000000000001
+    },
+    "20": {
+        "gpt-5-mini": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "deepseek-reasoner": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "microsoft/Phi-4-mini-instruct": {
+            "f1": 0.6666666666666666,
+            "exact_match": 0
+        },
+        "Qwen/Qwen3-32B": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "Average": {
+            "f1": 0.9166666666666666,
+            "exact_match": 0.75
+        },
+        "Variance": {
+            "f1": 0.020833333333333336,
+            "exact_match": 0.1875
+        },
+        "Diff Score": 0.20000000000000018
+    },
+    "21": {
+        "gpt-5-mini": {
+            "f1": 0,
+            "exact_match": 0
+        },
+        "deepseek-reasoner": {
+            "f1": 0,
+            "exact_match": 0
+        },
+        "microsoft/Phi-4-mini-instruct": {
+            "f1": 0.6666666666666666,
+            "exact_match": 0
+        },
+        "Qwen/Qwen3-32B": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "Average": {
+            "f1": 0.41666666666666663,
+            "exact_match": 0.25
+        },
+        "Variance": {
+            "f1": 0.1875,
+            "exact_match": 0.1875
+        },
+        "Diff Score": 0.7
+    },
+    "22": {
+        "gpt-5-mini": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "deepseek-reasoner": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "microsoft/Phi-4-mini-instruct": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "Qwen/Qwen3-32B": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "Average": {
+            "f1": 1.0,
+            "exact_match": 1.0
+        },
+        "Variance": {
+            "f1": 0.0,
+            "exact_match": 0.0
+        },
+        "Diff Score": 0.0
+    },
+    "23": {
+        "gpt-5-mini": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "deepseek-reasoner": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "microsoft/Phi-4-mini-instruct": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "Qwen/Qwen3-32B": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "Average": {
+            "f1": 1.0,
+            "exact_match": 1.0
+        },
+        "Variance": {
+            "f1": 0.0,
+            "exact_match": 0.0
+        },
+        "Diff Score": 0.0
+    },
+    "24": {
+        "gpt-5-mini": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "deepseek-reasoner": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "microsoft/Phi-4-mini-instruct": {
+            "f1": 0.6666666666666666,
+            "exact_match": 0
+        },
+        "Qwen/Qwen3-32B": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "Average": {
+            "f1": 0.9166666666666666,
+            "exact_match": 0.75
+        },
+        "Variance": {
+            "f1": 0.020833333333333336,
+            "exact_match": 0.1875
+        },
+        "Diff Score": 0.20000000000000018
+    },
+    "25": {
+        "gpt-5-mini": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "deepseek-reasoner": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "microsoft/Phi-4-mini-instruct": {
+            "f1": 0,
+            "exact_match": 0
+        },
+        "Qwen/Qwen3-32B": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "Average": {
+            "f1": 0.75,
+            "exact_match": 0.75
+        },
+        "Variance": {
+            "f1": 0.1875,
+            "exact_match": 0.1875
+        },
+        "Diff Score": 0.2500000000000001
+    },
+    "27": {
+        "gpt-5-mini": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "deepseek-reasoner": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "microsoft/Phi-4-mini-instruct": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "Qwen/Qwen3-32B": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "Average": {
+            "f1": 1.0,
+            "exact_match": 1.0
+        },
+        "Variance": {
+            "f1": 0.0,
+            "exact_match": 0.0
+        },
+        "Diff Score": 0.0
+    },
+    "28": {
+        "gpt-5-mini": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "deepseek-reasoner": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "microsoft/Phi-4-mini-instruct": {
+            "f1": 0,
+            "exact_match": 0
+        },
+        "Qwen/Qwen3-32B": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "Average": {
+            "f1": 0.75,
+            "exact_match": 0.75
+        },
+        "Variance": {
+            "f1": 0.1875,
+            "exact_match": 0.1875
+        },
+        "Diff Score": 0.2500000000000001
+    },
+    "29": {
+        "gpt-5-mini": {
+            "f1": 0.6666666666666666,
+            "exact_match": 0
+        },
+        "deepseek-reasoner": {
+            "f1": 0.6666666666666666,
+            "exact_match": 0
+        },
+        "microsoft/Phi-4-mini-instruct": {
+            "f1": 0,
+            "exact_match": 0
+        },
+        "Qwen/Qwen3-32B": {
+            "f1": 0.6666666666666666,
+            "exact_match": 0
+        },
+        "Average": {
+            "f1": 0.5,
+            "exact_match": 0.0
+        },
+        "Variance": {
+            "f1": 0.08333333333333333,
+            "exact_match": 0.0
+        },
+        "Diff Score": 0.85
+    },
+    "30": {
+        "gpt-5-mini": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "deepseek-reasoner": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "microsoft/Phi-4-mini-instruct": {
+            "f1": -1,
+            "exact_match": -1
+        },
+        "Qwen/Qwen3-32B": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "Average": {
+            "f1": 1.0,
+            "exact_match": 1.0
+        },
+        "Variance": {
+            "f1": 0.0,
+            "exact_match": 0.0
+        },
+        "Diff Score": 0.0
+    },
+    "31": {
+        "gpt-5-mini": {
+            "f1": 0.6666666666666666,
+            "exact_match": 0
+        },
+        "deepseek-reasoner": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "microsoft/Phi-4-mini-instruct": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "Qwen/Qwen3-32B": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "Average": {
+            "f1": 0.9166666666666666,
+            "exact_match": 0.75
+        },
+        "Variance": {
+            "f1": 0.020833333333333336,
+            "exact_match": 0.1875
+        },
+        "Diff Score": 0.20000000000000018
+    },
+    "32": {
+        "gpt-5-mini": {
+            "f1": 0.6666666666666666,
+            "exact_match": 0
+        },
+        "deepseek-reasoner": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "microsoft/Phi-4-mini-instruct": {
+            "f1": 0.6666666666666666,
+            "exact_match": 0
+        },
+        "Qwen/Qwen3-32B": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "Average": {
+            "f1": 0.8333333333333333,
+            "exact_match": 0.5
+        },
+        "Variance": {
+            "f1": 0.027777777777777783,
+            "exact_match": 0.25
+        },
+        "Diff Score": 0.4
+    },
+    "33": {
+        "gpt-5-mini": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "deepseek-reasoner": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "microsoft/Phi-4-mini-instruct": {
+            "f1": 0,
+            "exact_match": 0
+        },
+        "Qwen/Qwen3-32B": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "Average": {
+            "f1": 0.75,
+            "exact_match": 0.75
+        },
+        "Variance": {
+            "f1": 0.1875,
+            "exact_match": 0.1875
+        },
+        "Diff Score": 0.2500000000000001
+    },
+    "34": {
+        "gpt-5-mini": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "deepseek-reasoner": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "microsoft/Phi-4-mini-instruct": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "Qwen/Qwen3-32B": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "Average": {
+            "f1": 1.0,
+            "exact_match": 1.0
+        },
+        "Variance": {
+            "f1": 0.0,
+            "exact_match": 0.0
+        },
+        "Diff Score": 0.0
+    },
+    "35": {
+        "gpt-5-mini": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "deepseek-reasoner": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "microsoft/Phi-4-mini-instruct": {
+            "f1": 0.6666666666666666,
+            "exact_match": 0
+        },
+        "Qwen/Qwen3-32B": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "Average": {
+            "f1": 0.9166666666666666,
+            "exact_match": 0.75
+        },
+        "Variance": {
+            "f1": 0.020833333333333336,
+            "exact_match": 0.1875
+        },
+        "Diff Score": 0.20000000000000018
+    },
+    "36": {
+        "gpt-5-mini": {
+            "f1": 0,
+            "exact_match": 0
+        },
+        "deepseek-reasoner": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "microsoft/Phi-4-mini-instruct": {
+            "f1": 0,
+            "exact_match": 0
+        },
+        "Qwen/Qwen3-32B": {
+            "f1": 0,
+            "exact_match": 0
+        },
+        "Average": {
+            "f1": 0.25,
+            "exact_match": 0.25
+        },
+        "Variance": {
+            "f1": 0.1875,
+            "exact_match": 0.1875
+        },
+        "Diff Score": 0.75
+    },
+    "37": {
+        "gpt-5-mini": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "deepseek-reasoner": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "microsoft/Phi-4-mini-instruct": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "Qwen/Qwen3-32B": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "Average": {
+            "f1": 1.0,
+            "exact_match": 1.0
+        },
+        "Variance": {
+            "f1": 0.0,
+            "exact_match": 0.0
+        },
+        "Diff Score": 0.0
+    },
+    "38": {
+        "gpt-5-mini": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "deepseek-reasoner": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "microsoft/Phi-4-mini-instruct": {
+            "f1": 0,
+            "exact_match": 0
+        },
+        "Qwen/Qwen3-32B": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "Average": {
+            "f1": 0.75,
+            "exact_match": 0.75
+        },
+        "Variance": {
+            "f1": 0.1875,
+            "exact_match": 0.1875
+        },
+        "Diff Score": 0.2500000000000001
+    },
+    "39": {
+        "gpt-5-mini": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "deepseek-reasoner": {
+            "f1": 0,
+            "exact_match": 0
+        },
+        "microsoft/Phi-4-mini-instruct": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "Qwen/Qwen3-32B": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "Average": {
+            "f1": 0.75,
+            "exact_match": 0.75
+        },
+        "Variance": {
+            "f1": 0.1875,
+            "exact_match": 0.1875
+        },
+        "Diff Score": 0.2500000000000001
+    },
+    "40": {
+        "gpt-5-mini": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "deepseek-reasoner": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "microsoft/Phi-4-mini-instruct": {
+            "f1": 0.6666666666666666,
+            "exact_match": 0
+        },
+        "Qwen/Qwen3-32B": {
+            "f1": 0.6666666666666666,
+            "exact_match": 0
+        },
+        "Average": {
+            "f1": 0.8333333333333333,
+            "exact_match": 0.5
+        },
+        "Variance": {
+            "f1": 0.027777777777777783,
+            "exact_match": 0.25
+        },
+        "Diff Score": 0.4
+    },
+    "41": {
+        "gpt-5-mini": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "deepseek-reasoner": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "microsoft/Phi-4-mini-instruct": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "Qwen/Qwen3-32B": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "Average": {
+            "f1": 1.0,
+            "exact_match": 1.0
+        },
+        "Variance": {
+            "f1": 0.0,
+            "exact_match": 0.0
+        },
+        "Diff Score": 0.0
+    },
+    "42": {
+        "gpt-5-mini": {
+            "f1": 0.6666666666666666,
+            "exact_match": 0
+        },
+        "deepseek-reasoner": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "microsoft/Phi-4-mini-instruct": {
+            "f1": 0,
+            "exact_match": 0
+        },
+        "Qwen/Qwen3-32B": {
+            "f1": 0,
+            "exact_match": 0
+        },
+        "Average": {
+            "f1": 0.41666666666666663,
+            "exact_match": 0.25
+        },
+        "Variance": {
+            "f1": 0.1875,
+            "exact_match": 0.1875
+        },
+        "Diff Score": 0.7
+    },
+    "43": {
+        "gpt-5-mini": {
+            "f1": 0.5,
+            "exact_match": 0
+        },
+        "deepseek-reasoner": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "microsoft/Phi-4-mini-instruct": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "Qwen/Qwen3-32B": {
+            "f1": 0,
+            "exact_match": 0
+        },
+        "Average": {
+            "f1": 0.625,
+            "exact_match": 0.5
+        },
+        "Variance": {
+            "f1": 0.171875,
+            "exact_match": 0.25
+        },
+        "Diff Score": 0.4625
+    },
+    "44": {
+        "gpt-5-mini": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "deepseek-reasoner": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "microsoft/Phi-4-mini-instruct": {
+            "f1": 0.6666666666666666,
+            "exact_match": 0
+        },
+        "Qwen/Qwen3-32B": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "Average": {
+            "f1": 0.9166666666666666,
+            "exact_match": 0.75
+        },
+        "Variance": {
+            "f1": 0.020833333333333336,
+            "exact_match": 0.1875
+        },
+        "Diff Score": 0.20000000000000018
+    },
+    "45": {
+        "gpt-5-mini": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "deepseek-reasoner": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "microsoft/Phi-4-mini-instruct": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "Qwen/Qwen3-32B": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "Average": {
+            "f1": 1.0,
+            "exact_match": 1.0
+        },
+        "Variance": {
+            "f1": 0.0,
+            "exact_match": 0.0
+        },
+        "Diff Score": 0.0
+    },
+    "46": {
+        "gpt-5-mini": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "deepseek-reasoner": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "microsoft/Phi-4-mini-instruct": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "Qwen/Qwen3-32B": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "Average": {
+            "f1": 1.0,
+            "exact_match": 1.0
+        },
+        "Variance": {
+            "f1": 0.0,
+            "exact_match": 0.0
+        },
+        "Diff Score": 0.0
+    },
+    "47": {
+        "gpt-5-mini": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "deepseek-reasoner": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "microsoft/Phi-4-mini-instruct": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "Qwen/Qwen3-32B": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "Average": {
+            "f1": 1.0,
+            "exact_match": 1.0
+        },
+        "Variance": {
+            "f1": 0.0,
+            "exact_match": 0.0
+        },
+        "Diff Score": 0.0
+    },
+    "48": {
+        "gpt-5-mini": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "deepseek-reasoner": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "microsoft/Phi-4-mini-instruct": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "Qwen/Qwen3-32B": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "Average": {
+            "f1": 1.0,
+            "exact_match": 1.0
+        },
+        "Variance": {
+            "f1": 0.0,
+            "exact_match": 0.0
+        },
+        "Diff Score": 0.0
+    },
+    "49": {
+        "gpt-5-mini": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "deepseek-reasoner": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "microsoft/Phi-4-mini-instruct": {
+            "f1": 0.6666666666666666,
+            "exact_match": 0
+        },
+        "Qwen/Qwen3-32B": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "Average": {
+            "f1": 0.9166666666666666,
+            "exact_match": 0.75
+        },
+        "Variance": {
+            "f1": 0.020833333333333336,
+            "exact_match": 0.1875
+        },
+        "Diff Score": 0.20000000000000018
+    },
+    "50": {
+        "gpt-5-mini": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "deepseek-reasoner": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "microsoft/Phi-4-mini-instruct": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "Qwen/Qwen3-32B": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "Average": {
+            "f1": 1.0,
+            "exact_match": 1.0
+        },
+        "Variance": {
+            "f1": 0.0,
+            "exact_match": 0.0
+        },
+        "Diff Score": 0.0
+    },
+    "51": {
+        "gpt-5-mini": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "deepseek-reasoner": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "microsoft/Phi-4-mini-instruct": {
+            "f1": 0,
+            "exact_match": 0
+        },
+        "Qwen/Qwen3-32B": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "Average": {
+            "f1": 0.75,
+            "exact_match": 0.75
+        },
+        "Variance": {
+            "f1": 0.1875,
+            "exact_match": 0.1875
+        },
+        "Diff Score": 0.2500000000000001
+    },
+    "52": {
+        "gpt-5-mini": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "deepseek-reasoner": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "microsoft/Phi-4-mini-instruct": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "Qwen/Qwen3-32B": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "Average": {
+            "f1": 1.0,
+            "exact_match": 1.0
+        },
+        "Variance": {
+            "f1": 0.0,
+            "exact_match": 0.0
+        },
+        "Diff Score": 0.0
+    },
+    "54": {
+        "gpt-5-mini": {
+            "f1": 0,
+            "exact_match": 0
+        },
+        "deepseek-reasoner": {
+            "f1": 0,
+            "exact_match": 0
+        },
+        "microsoft/Phi-4-mini-instruct": {
+            "f1": 0.6666666666666666,
+            "exact_match": 0
+        },
+        "Qwen/Qwen3-32B": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "Average": {
+            "f1": 0.41666666666666663,
+            "exact_match": 0.25
+        },
+        "Variance": {
+            "f1": 0.1875,
+            "exact_match": 0.1875
+        },
+        "Diff Score": 0.7
+    },
+    "55": {
+        "gpt-5-mini": {
+            "f1": 0,
+            "exact_match": 0
+        },
+        "deepseek-reasoner": {
+            "f1": 0,
+            "exact_match": 0
+        },
+        "microsoft/Phi-4-mini-instruct": {
+            "f1": 0.6666666666666666,
+            "exact_match": 0
+        },
+        "Qwen/Qwen3-32B": {
+            "f1": 0.6666666666666666,
+            "exact_match": 0
+        },
+        "Average": {
+            "f1": 0.3333333333333333,
+            "exact_match": 0.0
+        },
+        "Variance": {
+            "f1": 0.1111111111111111,
+            "exact_match": 0.0
+        },
+        "Diff Score": 0.9
+    },
+    "56": {
+        "gpt-5-mini": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "deepseek-reasoner": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "microsoft/Phi-4-mini-instruct": {
+            "f1": 0,
+            "exact_match": 0
+        },
+        "Qwen/Qwen3-32B": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "Average": {
+            "f1": 0.75,
+            "exact_match": 0.75
+        },
+        "Variance": {
+            "f1": 0.1875,
+            "exact_match": 0.1875
+        },
+        "Diff Score": 0.2500000000000001
+    },
+    "57": {
+        "gpt-5-mini": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "deepseek-reasoner": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "microsoft/Phi-4-mini-instruct": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "Qwen/Qwen3-32B": {
+            "f1": 0.6666666666666666,
+            "exact_match": 0
+        },
+        "Average": {
+            "f1": 0.9166666666666666,
+            "exact_match": 0.75
+        },
+        "Variance": {
+            "f1": 0.02083333333333334,
+            "exact_match": 0.1875
+        },
+        "Diff Score": 0.20000000000000018
+    },
+    "58": {
+        "gpt-5-mini": {
+            "f1": 0.6666666666666666,
+            "exact_match": 0
+        },
+        "deepseek-reasoner": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "microsoft/Phi-4-mini-instruct": {
+            "f1": 0,
+            "exact_match": 0
+        },
+        "Qwen/Qwen3-32B": {
+            "f1": 0,
+            "exact_match": 0
+        },
+        "Average": {
+            "f1": 0.41666666666666663,
+            "exact_match": 0.25
+        },
+        "Variance": {
+            "f1": 0.1875,
+            "exact_match": 0.1875
+        },
+        "Diff Score": 0.7
+    },
+    "59": {
+        "gpt-5-mini": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "deepseek-reasoner": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "microsoft/Phi-4-mini-instruct": {
+            "f1": 0.6666666666666666,
+            "exact_match": 0
+        },
+        "Qwen/Qwen3-32B": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "Average": {
+            "f1": 0.9166666666666666,
+            "exact_match": 0.75
+        },
+        "Variance": {
+            "f1": 0.020833333333333336,
+            "exact_match": 0.1875
+        },
+        "Diff Score": 0.20000000000000018
+    },
+    "61": {
+        "gpt-5-mini": {
+            "f1": 0.6666666666666666,
+            "exact_match": 0
+        },
+        "deepseek-reasoner": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "microsoft/Phi-4-mini-instruct": {
+            "f1": 0.6666666666666666,
+            "exact_match": 0
+        },
+        "Qwen/Qwen3-32B": {
+            "f1": 0.6666666666666666,
+            "exact_match": 0
+        },
+        "Average": {
+            "f1": 0.7499999999999999,
+            "exact_match": 0.25
+        },
+        "Variance": {
+            "f1": 0.02083333333333334,
+            "exact_match": 0.1875
+        },
+        "Diff Score": 0.6000000000000001
+    },
+    "62": {
+        "gpt-5-mini": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "deepseek-reasoner": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "microsoft/Phi-4-mini-instruct": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "Qwen/Qwen3-32B": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "Average": {
+            "f1": 1.0,
+            "exact_match": 1.0
+        },
+        "Variance": {
+            "f1": 0.0,
+            "exact_match": 0.0
+        },
+        "Diff Score": 0.0
+    },
+    "63": {
+        "gpt-5-mini": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "deepseek-reasoner": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "microsoft/Phi-4-mini-instruct": {
+            "f1": 0,
+            "exact_match": 0
+        },
+        "Qwen/Qwen3-32B": {
+            "f1": 0.6666666666666666,
+            "exact_match": 0
+        },
+        "Average": {
+            "f1": 0.6666666666666666,
+            "exact_match": 0.5
+        },
+        "Variance": {
+            "f1": 0.16666666666666669,
+            "exact_match": 0.25
+        },
+        "Diff Score": 0.45000000000000007
+    },
+    "64": {
+        "gpt-5-mini": {
+            "f1": 0,
+            "exact_match": 0
+        },
+        "deepseek-reasoner": {
+            "f1": 0.6666666666666666,
+            "exact_match": 0
+        },
+        "microsoft/Phi-4-mini-instruct": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "Qwen/Qwen3-32B": {
+            "f1": 0,
+            "exact_match": 0
+        },
+        "Average": {
+            "f1": 0.41666666666666663,
+            "exact_match": 0.25
+        },
+        "Variance": {
+            "f1": 0.1875,
+            "exact_match": 0.1875
+        },
+        "Diff Score": 0.7
+    },
+    "65": {
+        "gpt-5-mini": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "deepseek-reasoner": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "microsoft/Phi-4-mini-instruct": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "Qwen/Qwen3-32B": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "Average": {
+            "f1": 1.0,
+            "exact_match": 1.0
+        },
+        "Variance": {
+            "f1": 0.0,
+            "exact_match": 0.0
+        },
+        "Diff Score": 0.0
+    },
+    "66": {
+        "gpt-5-mini": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "deepseek-reasoner": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "microsoft/Phi-4-mini-instruct": {
+            "f1": 0,
+            "exact_match": 0
+        },
+        "Qwen/Qwen3-32B": {
+            "f1": 0.6666666666666666,
+            "exact_match": 0
+        },
+        "Average": {
+            "f1": 0.6666666666666666,
+            "exact_match": 0.5
+        },
+        "Variance": {
+            "f1": 0.16666666666666669,
+            "exact_match": 0.25
+        },
+        "Diff Score": 0.45000000000000007
+    },
+    "67": {
+        "gpt-5-mini": {
+            "f1": 0.6666666666666666,
+            "exact_match": 0
+        },
+        "deepseek-reasoner": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "microsoft/Phi-4-mini-instruct": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "Qwen/Qwen3-32B": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "Average": {
+            "f1": 0.9166666666666666,
+            "exact_match": 0.75
+        },
+        "Variance": {
+            "f1": 0.020833333333333336,
+            "exact_match": 0.1875
+        },
+        "Diff Score": 0.20000000000000018
+    },
+    "68": {
+        "gpt-5-mini": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "deepseek-reasoner": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "microsoft/Phi-4-mini-instruct": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "Qwen/Qwen3-32B": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "Average": {
+            "f1": 1.0,
+            "exact_match": 1.0
+        },
+        "Variance": {
+            "f1": 0.0,
+            "exact_match": 0.0
+        },
+        "Diff Score": 0.0
+    },
+    "69": {
+        "gpt-5-mini": {
+            "f1": 0.6666666666666666,
+            "exact_match": 0
+        },
+        "deepseek-reasoner": {
+            "f1": 0.6666666666666666,
+            "exact_match": 0
+        },
+        "microsoft/Phi-4-mini-instruct": {
+            "f1": 0.4,
+            "exact_match": 0
+        },
+        "Qwen/Qwen3-32B": {
+            "f1": 0.5,
+            "exact_match": 0
+        },
+        "Average": {
+            "f1": 0.5583333333333333,
+            "exact_match": 0.0
+        },
+        "Variance": {
+            "f1": 0.012986111111111106,
+            "exact_match": 0.0
+        },
+        "Diff Score": 0.8325
+    },
+    "70": {
+        "gpt-5-mini": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "deepseek-reasoner": {
+            "f1": 0,
+            "exact_match": 0
+        },
+        "microsoft/Phi-4-mini-instruct": {
+            "f1": 0.6666666666666666,
+            "exact_match": 0
+        },
+        "Qwen/Qwen3-32B": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "Average": {
+            "f1": 0.6666666666666666,
+            "exact_match": 0.5
+        },
+        "Variance": {
+            "f1": 0.16666666666666669,
+            "exact_match": 0.25
+        },
+        "Diff Score": 0.45000000000000007
+    },
+    "71": {
+        "gpt-5-mini": {
+            "f1": 0.6666666666666666,
+            "exact_match": 0
+        },
+        "deepseek-reasoner": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "microsoft/Phi-4-mini-instruct": {
+            "f1": 0.6666666666666666,
+            "exact_match": 0
+        },
+        "Qwen/Qwen3-32B": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "Average": {
+            "f1": 0.8333333333333333,
+            "exact_match": 0.5
+        },
+        "Variance": {
+            "f1": 0.027777777777777783,
+            "exact_match": 0.25
+        },
+        "Diff Score": 0.4
+    },
+    "72": {
+        "gpt-5-mini": {
+            "f1": 0,
+            "exact_match": 0
+        },
+        "deepseek-reasoner": {
+            "f1": 0.6666666666666666,
+            "exact_match": 0
+        },
+        "microsoft/Phi-4-mini-instruct": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "Qwen/Qwen3-32B": {
+            "f1": 0.6666666666666666,
+            "exact_match": 0
+        },
+        "Average": {
+            "f1": 0.5833333333333333,
+            "exact_match": 0.25
+        },
+        "Variance": {
+            "f1": 0.13194444444444442,
+            "exact_match": 0.1875
+        },
+        "Diff Score": 0.65
+    },
+    "74": {
+        "gpt-5-mini": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "deepseek-reasoner": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "microsoft/Phi-4-mini-instruct": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "Qwen/Qwen3-32B": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "Average": {
+            "f1": 1.0,
+            "exact_match": 1.0
+        },
+        "Variance": {
+            "f1": 0.0,
+            "exact_match": 0.0
+        },
+        "Diff Score": 0.0
+    },
+    "76": {
+        "gpt-5-mini": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "deepseek-reasoner": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "microsoft/Phi-4-mini-instruct": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "Qwen/Qwen3-32B": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "Average": {
+            "f1": 1.0,
+            "exact_match": 1.0
+        },
+        "Variance": {
+            "f1": 0.0,
+            "exact_match": 0.0
+        },
+        "Diff Score": 0.0
+    },
+    "77": {
+        "gpt-5-mini": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "deepseek-reasoner": {
+            "f1": 0,
+            "exact_match": 0
+        },
+        "microsoft/Phi-4-mini-instruct": {
+            "f1": 0,
+            "exact_match": 0
+        },
+        "Qwen/Qwen3-32B": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "Average": {
+            "f1": 0.5,
+            "exact_match": 0.5
+        },
+        "Variance": {
+            "f1": 0.25,
+            "exact_match": 0.25
+        },
+        "Diff Score": 0.5
+    },
+    "78": {
+        "gpt-5-mini": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "deepseek-reasoner": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "microsoft/Phi-4-mini-instruct": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "Qwen/Qwen3-32B": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "Average": {
+            "f1": 1.0,
+            "exact_match": 1.0
+        },
+        "Variance": {
+            "f1": 0.0,
+            "exact_match": 0.0
+        },
+        "Diff Score": 0.0
+    },
+    "79": {
+        "gpt-5-mini": {
+            "f1": 0.6666666666666666,
+            "exact_match": 0
+        },
+        "deepseek-reasoner": {
+            "f1": 0.6666666666666666,
+            "exact_match": 0
+        },
+        "microsoft/Phi-4-mini-instruct": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "Qwen/Qwen3-32B": {
+            "f1": 0.6666666666666666,
+            "exact_match": 0
+        },
+        "Average": {
+            "f1": 0.7499999999999999,
+            "exact_match": 0.25
+        },
+        "Variance": {
+            "f1": 0.02083333333333334,
+            "exact_match": 0.1875
+        },
+        "Diff Score": 0.6000000000000001
+    },
+    "80": {
+        "gpt-5-mini": {
+            "f1": 0,
+            "exact_match": 0
+        },
+        "deepseek-reasoner": {
+            "f1": 0,
+            "exact_match": 0
+        },
+        "microsoft/Phi-4-mini-instruct": {
+            "f1": 0.5,
+            "exact_match": 0
+        },
+        "Qwen/Qwen3-32B": {
+            "f1": 0,
+            "exact_match": 0
+        },
+        "Average": {
+            "f1": 0.125,
+            "exact_match": 0.0
+        },
+        "Variance": {
+            "f1": 0.046875,
+            "exact_match": 0.0
+        },
+        "Diff Score": 0.9625
+    },
+    "81": {
+        "gpt-5-mini": {
+            "f1": 0,
+            "exact_match": 0
+        },
+        "deepseek-reasoner": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "microsoft/Phi-4-mini-instruct": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "Qwen/Qwen3-32B": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "Average": {
+            "f1": 0.75,
+            "exact_match": 0.75
+        },
+        "Variance": {
+            "f1": 0.1875,
+            "exact_match": 0.1875
+        },
+        "Diff Score": 0.2500000000000001
+    },
+    "82": {
+        "gpt-5-mini": {
+            "f1": 0.6666666666666666,
+            "exact_match": 0
+        },
+        "deepseek-reasoner": {
+            "f1": 0.6666666666666666,
+            "exact_match": 0
+        },
+        "microsoft/Phi-4-mini-instruct": {
+            "f1": 0.6666666666666666,
+            "exact_match": 0
+        },
+        "Qwen/Qwen3-32B": {
+            "f1": 0.6666666666666666,
+            "exact_match": 0
+        },
+        "Average": {
+            "f1": 0.6666666666666666,
+            "exact_match": 0.0
+        },
+        "Variance": {
+            "f1": 0.0,
+            "exact_match": 0.0
+        },
+        "Diff Score": 0.8
+    },
+    "83": {
+        "gpt-5-mini": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "deepseek-reasoner": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "microsoft/Phi-4-mini-instruct": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "Qwen/Qwen3-32B": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "Average": {
+            "f1": 1.0,
+            "exact_match": 1.0
+        },
+        "Variance": {
+            "f1": 0.0,
+            "exact_match": 0.0
+        },
+        "Diff Score": 0.0
+    },
+    "84": {
+        "gpt-5-mini": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "deepseek-reasoner": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "microsoft/Phi-4-mini-instruct": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "Qwen/Qwen3-32B": {
+            "f1": 1.0,
+            "exact_match": 1
+        },
+        "Average": {
+            "f1": 1.0,
+            "exact_match": 1.0
+        },
+        "Variance": {
+            "f1": 0.0,
+            "exact_match": 0.0
+        },
+        "Diff Score": 0.0
+    }
+}

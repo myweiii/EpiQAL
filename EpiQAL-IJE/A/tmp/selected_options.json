@@ -1,0 +1,1146 @@
+{
+    "0": [
+        {
+            "Index": 0,
+            "Option": "Pilot or feasibility study"
+        },
+        {
+            "Index": 1,
+            "Option": "Stepped-wedge cluster randomized trial (SW-CRT)"
+        },
+        {
+            "Index": 2,
+            "Option": "Cluster randomized trial"
+        }
+    ],
+    "1": [
+        {
+            "Index": 0,
+            "Option": "Multivariable principal component generalized method of moments (MV-PC-GMM)"
+        },
+        {
+            "Index": 1,
+            "Option": "Bayesian model averaging"
+        },
+        {
+            "Index": 2,
+            "Option": "coloc-SuSiE"
+        }
+    ],
+    "2": [
+        {
+            "Index": 0,
+            "Option": "1992"
+        },
+        {
+            "Index": 1,
+            "Option": "1980"
+        }
+    ],
+    "3": [
+        {
+            "Index": 0,
+            "Option": "4.7% (4.0%\u20135.5%)"
+        },
+        {
+            "Index": 1,
+            "Option": "19.1% (18.0%\u201320.4%)"
+        },
+        {
+            "Index": 2,
+            "Option": "17.6% (15.8%\u201319.6%)"
+        }
+    ],
+    "4": [
+        {
+            "Index": 0,
+            "Option": "The proportion of deaths reported to have occurred in the same month and year as indicated by the HDSS"
+        },
+        {
+            "Index": 1,
+            "Option": "The proportion of deaths with missing date components"
+        },
+        {
+            "Index": 2,
+            "Option": "The median absolute difference in months between reported and HDSS-recorded dates"
+        }
+    ],
+    "5": [
+        {
+            "Index": 0,
+            "Option": "Dementia/Alzheimer\u2019s disease"
+        },
+        {
+            "Index": 1,
+            "Option": "Cancer"
+        },
+        {
+            "Index": 2,
+            "Option": "Chronic obstructive pulmonary disease (COPD)"
+        },
+        {
+            "Index": 3,
+            "Option": "Coronary heart disease"
+        }
+    ],
+    "6": [
+        {
+            "Index": 0,
+            "Option": "2%"
+        },
+        {
+            "Index": 1,
+            "Option": "80%"
+        },
+        {
+            "Index": 2,
+            "Option": "1.25"
+        }
+    ],
+    "7": [
+        {
+            "Index": 0,
+            "Option": "UV load, calculated by multiplying seasonal average ambient UV by self-reported time outdoors and summing over age spans"
+        },
+        {
+            "Index": 1,
+            "Option": "Seasonal average ambient UV, calculated by averaging satellite data over summer and winter months at each latitude/longitude"
+        },
+        {
+            "Index": 2,
+            "Option": "Self-reported time outdoors in summer and winter, summed over different age spans"
+        }
+    ],
+    "8": [
+        {
+            "Index": 0,
+            "Option": "Fetal growth restriction (FGR) and preterm birth"
+        },
+        {
+            "Index": 1,
+            "Option": "Pre-eclampsia, placental abruption, fetal growth restriction (FGR), and preterm birth"
+        }
+    ],
+    "9": [
+        {
+            "Index": 0,
+            "Option": "Cumulative DDDs"
+        },
+        {
+            "Index": 1,
+            "Option": "Time since cessation"
+        },
+        {
+            "Index": 2,
+            "Option": "Hazard ratios (HRs)"
+        }
+    ],
+    "10": [
+        {
+            "Index": 0,
+            "Option": "Weighted median method"
+        },
+        {
+            "Index": 1,
+            "Option": "Multivariable MR (MVMR) analysis"
+        },
+        {
+            "Index": 2,
+            "Option": "Inverse-variance weighted method"
+        }
+    ],
+    "12": [
+        {
+            "Index": 0,
+            "Option": "A generalized linear quasi-Poisson regression model including age, sex, and month of the year as predictors"
+        },
+        {
+            "Index": 1,
+            "Option": "A linear regression on the crude mortality rate"
+        },
+        {
+            "Index": 2,
+            "Option": "A linear regression fitted to the age- and sex-standardized annual mortality rate"
+        }
+    ],
+    "13": [
+        {
+            "Index": 0,
+            "Option": "Used ordinary least squares (OLS) regression"
+        },
+        {
+            "Index": 1,
+            "Option": "Employed state pension age as an instrumental variable"
+        },
+        {
+            "Index": 2,
+            "Option": "Applied instrumental variable causal forests (IV forests)"
+        },
+        {
+            "Index": 3,
+            "Option": "Utilized data from the Health and Retirement Study (HRS) and English Longitudinal Study on Ageing (ELSA)"
+        }
+    ],
+    "14": [
+        {
+            "Index": 0,
+            "Option": "The one-sample Wald ratio method"
+        },
+        {
+            "Index": 1,
+            "Option": "Two-sample MR approaches"
+        },
+        {
+            "Index": 2,
+            "Option": "Cox regression"
+        }
+    ],
+    "15": [
+        {
+            "Index": 0,
+            "Option": "45%"
+        },
+        {
+            "Index": 1,
+            "Option": "38%"
+        },
+        {
+            "Index": 2,
+            "Option": "97%"
+        }
+    ],
+    "16": [
+        {
+            "Index": 0,
+            "Option": "2.6%"
+        },
+        {
+            "Index": 1,
+            "Option": "15.3%"
+        },
+        {
+            "Index": 2,
+            "Option": "18.0%"
+        }
+    ],
+    "17": [
+        {
+            "Index": 0,
+            "Option": "Oromia, Amhara, and South Ethiopia"
+        },
+        {
+            "Index": 1,
+            "Option": "Harari, Dire Dawa, and Sidama"
+        },
+        {
+            "Index": 2,
+            "Option": "Afar, Somali, and Benishangul-Gumuz"
+        }
+    ],
+    "18": [
+        {
+            "Index": 0,
+            "Option": "To ensure a comparable length of follow-up and general time frame with the KLoSA data"
+        },
+        {
+            "Index": 1,
+            "Option": "To enable direct comparison of loneliness measures between the HRS and KLoSA"
+        },
+        {
+            "Index": 2,
+            "Option": "To facilitate cross-national comparison"
+        }
+    ],
+    "19": [
+        {
+            "Index": 0,
+            "Option": "South region"
+        },
+        {
+            "Index": 1,
+            "Option": "North region"
+        },
+        {
+            "Index": 2,
+            "Option": "Center-West region"
+        }
+    ],
+    "20": [
+        {
+            "Index": 0,
+            "Option": "Cox proportional-hazards regression models"
+        },
+        {
+            "Index": 1,
+            "Option": "Hazard ratios (HRs) and 95% confidence intervals (CIs)"
+        },
+        {
+            "Index": 2,
+            "Option": "Flexible parametric survival models"
+        }
+    ],
+    "21": [
+        {
+            "Index": 0,
+            "Option": "Glycoprotein acetyls"
+        },
+        {
+            "Index": 1,
+            "Option": "Branched-chain amino acids"
+        }
+    ],
+    "22": [
+        {
+            "Index": 0,
+            "Option": "Weibull distribution"
+        },
+        {
+            "Index": 1,
+            "Option": "Random-effects meta-analysis"
+        },
+        {
+            "Index": 2,
+            "Option": "Cox proportional-hazards regression models"
+        }
+    ],
+    "23": [
+        {
+            "Index": 0,
+            "Option": "Calculating the proportion of ambient levels infiltrating into the home using infiltration efficiencies when indoors, and equating it to measured personal exposure when outdoors"
+        },
+        {
+            "Index": 1,
+            "Option": "Applying a random forest behaviour prediction model to predict whether a person was at home or not during the extrapolation period"
+        },
+        {
+            "Index": 2,
+            "Option": "Using the nearest monitor measurements to estimate personal exposure from outdoor sources"
+        }
+    ],
+    "24": [
+        {
+            "Index": 0,
+            "Option": "Weighted median approach"
+        },
+        {
+            "Index": 1,
+            "Option": "Random-effects inverse variance weighted (IVW) method"
+        },
+        {
+            "Index": 2,
+            "Option": "MR-Egger regression"
+        },
+        {
+            "Index": 3,
+            "Option": "Cochran\u2019s Q statistic"
+        }
+    ],
+    "25": [
+        {
+            "Index": 0,
+            "Option": "Participants were asked about their usual frequency and quantity of consumption for beer, wine, and spirits during 10-year age periods starting at age 20, and intake was calculated by multiplying frequency by quantity and standard alcohol content per container."
+        }
+    ],
+    "26": [
+        {
+            "Index": 0,
+            "Option": "Cox proportional hazards regression analysis"
+        },
+        {
+            "Index": 1,
+            "Option": "Factorial MR analysis"
+        },
+        {
+            "Index": 2,
+            "Option": "Multivariable linear regression model"
+        }
+    ],
+    "27": [
+        {
+            "Index": 0,
+            "Option": "COPD"
+        },
+        {
+            "Index": 1,
+            "Option": "Tuberculosis"
+        }
+    ],
+    "28": [
+        {
+            "Index": 0,
+            "Option": "<40%"
+        },
+        {
+            "Index": 1,
+            "Option": "\u22642 years"
+        }
+    ],
+    "29": [
+        {
+            "Index": 0,
+            "Option": "2016 for Australia and 2015 for New Zealand"
+        },
+        {
+            "Index": 1,
+            "Option": "2017 for Australia and 2016 for New Zealand"
+        },
+        {
+            "Index": 2,
+            "Option": "2019 for Australia and 2018 for New Zealand"
+        }
+    ],
+    "30": [
+        {
+            "Index": 0,
+            "Option": "0.58 to 0.75"
+        },
+        {
+            "Index": 1,
+            "Option": "0.56 to 0.76"
+        },
+        {
+            "Index": 2,
+            "Option": "0.69 to 0.75"
+        }
+    ],
+    "31": [
+        {
+            "Index": 0,
+            "Option": "The number of malaria diagnoses based on rapid diagnostic tests (RDTs)"
+        },
+        {
+            "Index": 1,
+            "Option": "The monthly number of malaria diagnoses per 1000 all-cause diagnoses across all wards in both hospitals, including malaria and excluding COVID-19 diagnoses"
+        }
+    ],
+    "32": [
+        {
+            "Index": 0,
+            "Option": "Logistic regression models"
+        },
+        {
+            "Index": 1,
+            "Option": "Simulated annealing approach"
+        }
+    ],
+    "33": [
+        {
+            "Index": 0,
+            "Option": "1995 to 2016"
+        },
+        {
+            "Index": 1,
+            "Option": "01 January 1995 to 31 December 2016"
+        },
+        {
+            "Index": 2,
+            "Option": "1955 to 1992"
+        },
+        {
+            "Index": 3,
+            "Option": "1966 to 1987"
+        }
+    ],
+    "34": [
+        {
+            "Index": 0,
+            "Option": "To allow reporting authorities sufficient time to consolidate and enhance data quality"
+        },
+        {
+            "Index": 1,
+            "Option": "To account for reporting delays"
+        }
+    ],
+    "35": [
+        {
+            "Index": 0,
+            "Option": "1.16/1000"
+        },
+        {
+            "Index": 1,
+            "Option": "5.99/1000"
+        },
+        {
+            "Index": 2,
+            "Option": "2.80/1000"
+        }
+    ],
+    "36": [
+        {
+            "Index": 0,
+            "Option": "Separate Cox models for each trimester"
+        },
+        {
+            "Index": 1,
+            "Option": "Cox proportional-hazards models with time-dependent covariates integrated with a DLNM"
+        }
+    ],
+    "37": [
+        {
+            "Index": 0,
+            "Option": "Cox proportional hazard models"
+        },
+        {
+            "Index": 1,
+            "Option": "Test of scaled Schoenfeld\u2019s residuals"
+        },
+        {
+            "Index": 2,
+            "Option": "Multiple imputations by chained equations"
+        },
+        {
+            "Index": 3,
+            "Option": "Kaplan\u2013Meier approach"
+        },
+        {
+            "Index": 4,
+            "Option": "Sibling fixed-effects analysis"
+        }
+    ],
+    "38": [
+        {
+            "Index": 0,
+            "Option": "Feast-or-famine cycle"
+        },
+        {
+            "Index": 1,
+            "Option": "Accessibility of quality foods"
+        },
+        {
+            "Index": 2,
+            "Option": "Affordability of foods"
+        },
+        {
+            "Index": 3,
+            "Option": "Monthly allocation of benefits"
+        },
+        {
+            "Index": 4,
+            "Option": "Perceived weight status"
+        },
+        {
+            "Index": 5,
+            "Option": "Grocery infrastructure"
+        }
+    ],
+    "39": [
+        {
+            "Index": 0,
+            "Option": "Linear regression"
+        },
+        {
+            "Index": 1,
+            "Option": "Difference-of-coefficients or product-of-coefficients methods"
+        },
+        {
+            "Index": 2,
+            "Option": "Counterfactual mediation methods"
+        },
+        {
+            "Index": 3,
+            "Option": "Enables decomposition of total effect into direct and indirect components even in the presence of interactions and non-linearities, overcoming limitations of traditional approaches"
+        }
+    ],
+    "40": [
+        {
+            "Index": 0,
+            "Option": "July to September"
+        },
+        {
+            "Index": 1,
+            "Option": "July to October"
+        },
+        {
+            "Index": 2,
+            "Option": "2015 and 2019"
+        }
+    ],
+    "41": [
+        {
+            "Index": 0,
+            "Option": "Meteorological variables, greenness, culture-specific emissions (e.g. temples, Chinese restaurants), proximity to the nearest power plant, garbage incinerators, and industrial parks"
+        },
+        {
+            "Index": 1,
+            "Option": "Abdominal ultrasonography, metabolic indicators, and lifestyle factors"
+        },
+        {
+            "Index": 2,
+            "Option": "Traffic-related pollutants such as nitrogen dioxide (NO 2 ) and carbon monoxide (CO)"
+        }
+    ],
+    "42": [
+        {
+            "Index": 0,
+            "Option": "Weight measurements were excluded if they were outside 3 standard deviations from the cohort mean."
+        },
+        {
+            "Index": 1,
+            "Option": "Weight measurements were excluded if they were less than 50 lbs or greater than 500 lbs based on biological impossibility."
+        }
+    ],
+    "43": [
+        {
+            "Index": 0,
+            "Option": "Sweden"
+        },
+        {
+            "Index": 1,
+            "Option": "Finland"
+        },
+        {
+            "Index": 2,
+            "Option": "Estonia"
+        }
+    ],
+    "44": [
+        {
+            "Index": 0,
+            "Option": "Mid-2021 to early 2022"
+        },
+        {
+            "Index": 1,
+            "Option": "March and June 2024"
+        },
+        {
+            "Index": 2,
+            "Option": "Late 2020 to mid-2021"
+        }
+    ],
+    "45": [
+        {
+            "Index": 0,
+            "Option": "3 years"
+        },
+        {
+            "Index": 1,
+            "Option": "10 years"
+        },
+        {
+            "Index": 2,
+            "Option": "7.1 years"
+        }
+    ],
+    "46": [
+        {
+            "Index": 0,
+            "Option": "Six or more fillings"
+        },
+        {
+            "Index": 1,
+            "Option": "Six to ten fillings"
+        },
+        {
+            "Index": 2,
+            "Option": "More than fifteen fillings"
+        }
+    ],
+    "47": [
+        {
+            "Index": 0,
+            "Option": "Leveraging genetic variants as instrumental variables (IVs)"
+        },
+        {
+            "Index": 1,
+            "Option": "Genetic variants serve as instrumental variables (IVs) to reduce biases from confounding and reverse causation"
+        },
+        {
+            "Index": 2,
+            "Option": "Using genetic variants to assess the robustness of evidence in MR studies"
+        },
+        {
+            "Index": 3,
+            "Option": "Applying structured checklists to guide the conduct and reporting of MR studies"
+        }
+    ],
+    "48": [
+        {
+            "Index": 0,
+            "Option": "0.96"
+        },
+        {
+            "Index": 1,
+            "Option": "0.78"
+        },
+        {
+            "Index": 2,
+            "Option": "0.82"
+        }
+    ],
+    "49": [
+        {
+            "Index": 0,
+            "Option": "GAD-7 score of \u226510"
+        },
+        {
+            "Index": 1,
+            "Option": "SSQ score of \u22658"
+        },
+        {
+            "Index": 2,
+            "Option": "SSQ score of \u226511"
+        }
+    ],
+    "50": [
+        {
+            "Index": 0,
+            "Option": "Adjusting the logistic regression model by self-test use (yes/no)"
+        },
+        {
+            "Index": 1,
+            "Option": "Systematic selection of patients meeting the case definition for ARI"
+        },
+        {
+            "Index": 2,
+            "Option": "Using a prospective or retrospective cohort study to obtain information on ARI, vaccination, and GP consultation"
+        },
+        {
+            "Index": 3,
+            "Option": "Collecting information on self-test use prior to GP consultation"
+        },
+        {
+            "Index": 4,
+            "Option": "Adjusting for self-testing at the analysis stage to close a non-causal path opened by conditioning on GP consultation"
+        },
+        {
+            "Index": 5,
+            "Option": "Estimating VE both adjusted and unadjusted for self-testing to understand its effects"
+        }
+    ],
+    "51": [
+        {
+            "Index": 0,
+            "Option": "15/19 and 10/11 weeks"
+        },
+        {
+            "Index": 1,
+            "Option": "14-day horizon"
+        }
+    ],
+    "53": [
+        {
+            "Index": 0,
+            "Option": "Participants were categorized based on exclusive commuting modes: walking only, cycling only, public transport only, and car only."
+        },
+        {
+            "Index": 1,
+            "Option": "Participants were asked about their commuting transport options and categorized into four groups: car/motor vehicle only, walk (walk only or combined with other modes except cycling), cycle (cycle only or combined with any other modes), and public transport (public transport only or combined with car)."
+        },
+        {
+            "Index": 2,
+            "Option": "Participants were asked about their commuting transport options and categorized into five groups: car/motor vehicle, walk, public transport, cycle, and mode other than those."
+        }
+    ],
+    "54": [
+        {
+            "Index": 0,
+            "Option": "27.2 per 100,000"
+        },
+        {
+            "Index": 1,
+            "Option": "38.5 per 100,000"
+        },
+        {
+            "Index": 2,
+            "Option": "33.7 per 100,000"
+        }
+    ],
+    "55": [
+        {
+            "Index": 0,
+            "Option": "31.1%"
+        },
+        {
+            "Index": 1,
+            "Option": "50.2%"
+        },
+        {
+            "Index": 2,
+            "Option": "73%"
+        }
+    ],
+    "56": [
+        {
+            "Index": 0,
+            "Option": "50%"
+        },
+        {
+            "Index": 1,
+            "Option": "12.5%"
+        }
+    ],
+    "57": [
+        {
+            "Index": 0,
+            "Option": "Synthetic control method (SCM)"
+        },
+        {
+            "Index": 1,
+            "Option": "Difference-in-differences (DID) analysis"
+        },
+        {
+            "Index": 2,
+            "Option": "Flexible SCM approach developed by Bonander"
+        },
+        {
+            "Index": 3,
+            "Option": "Modified age-period-cohort (APC) analysis"
+        }
+    ],
+    "58": [
+        {
+            "Index": 0,
+            "Option": "METAL software"
+        },
+        {
+            "Index": 1,
+            "Option": "minfi R/Bioconductor package"
+        },
+        {
+            "Index": 2,
+            "Option": "Surrogate variable analysis (SVA)"
+        }
+    ],
+    "59": [
+        {
+            "Index": 0,
+            "Option": "The proportion of green spaces in neighbourhoods"
+        },
+        {
+            "Index": 1,
+            "Option": "Intersection density (nodes/km\u00b2)"
+        },
+        {
+            "Index": 2,
+            "Option": "The proportion of the population aged \u226525 years who had completed primary education or above"
+        }
+    ],
+    "60": [
+        {
+            "Index": 0,
+            "Option": "Schools were disrupted in January 2022"
+        },
+        {
+            "Index": 1,
+            "Option": "The Omicron wave caused a shortage of testing and disrupted schools"
+        },
+        {
+            "Index": 2,
+            "Option": "The Omicron wave caused a shortage of testing in some areas"
+        }
+    ],
+    "61": [
+        {
+            "Index": 0,
+            "Option": "The approach is less powerful than MR approaches using genotyped mother\u2013offspring pairs"
+        },
+        {
+            "Index": 1,
+            "Option": "The proportion of variation in the offspring exposure explained by the paternal genotype is reduced by a factor of 0.25 relative to that explained by the offspring\u2019s own genotype"
+        }
+    ],
+    "62": [
+        {
+            "Index": 0,
+            "Option": "27.6%"
+        },
+        {
+            "Index": 1,
+            "Option": "24.6%"
+        },
+        {
+            "Index": 2,
+            "Option": "47.1%"
+        }
+    ],
+    "63": [
+        {
+            "Index": 0,
+            "Option": "Black men with low education experienced a life expectancy loss of 4.7 years"
+        },
+        {
+            "Index": 1,
+            "Option": "Low-education Hispanic men experienced a life expectancy loss of 6.0 years"
+        }
+    ],
+    "64": [
+        {
+            "Index": 0,
+            "Option": "Obesity"
+        },
+        {
+            "Index": 1,
+            "Option": "Neighborhood walkability"
+        },
+        {
+            "Index": 2,
+            "Option": "Incident multiple myeloma (MM)"
+        }
+    ],
+    "65": [
+        {
+            "Index": 0,
+            "Option": "Pilot randomized trial"
+        },
+        {
+            "Index": 1,
+            "Option": "Open-label, cluster-randomized trial"
+        },
+        {
+            "Index": 2,
+            "Option": "Stepped-wedge cluster-randomized pilot trial"
+        }
+    ],
+    "66": [
+        {
+            "Index": 0,
+            "Option": "Using the \"svyset\" command with city as the stratification variable and census sector as the primary sampling unit, followed by the \"svy\" command in Stata"
+        }
+    ],
+    "67": [
+        {
+            "Index": 0,
+            "Option": "PangoLEARN machine-learning model"
+        },
+        {
+            "Index": 1,
+            "Option": "pangolin software tool"
+        },
+        {
+            "Index": 2,
+            "Option": "UShER method"
+        }
+    ],
+    "68": [
+        {
+            "Index": 0,
+            "Option": "1.19"
+        },
+        {
+            "Index": 1,
+            "Option": "1.62"
+        },
+        {
+            "Index": 2,
+            "Option": "1.76"
+        }
+    ],
+    "69": [
+        {
+            "Index": 0,
+            "Option": "150 ng/mL"
+        },
+        {
+            "Index": 1,
+            "Option": "200 ng/mL"
+        },
+        {
+            "Index": 2,
+            "Option": "64.3 ng/mL"
+        }
+    ],
+    "70": [
+        {
+            "Index": 0,
+            "Option": "Occupational and outdoor activities"
+        }
+    ],
+    "71": [
+        {
+            "Index": 0,
+            "Option": "Age at menarche, in years"
+        },
+        {
+            "Index": 1,
+            "Option": "BMI"
+        },
+        {
+            "Index": 2,
+            "Option": "Incident diabetes"
+        },
+        {
+            "Index": 3,
+            "Option": "Age at first menstrual period"
+        }
+    ],
+    "72": [
+        {
+            "Index": 0,
+            "Option": "Data-driven distributed lag models (DLMs)"
+        },
+        {
+            "Index": 1,
+            "Option": "Bayesian distributed lag interaction models (BDLIMs)"
+        }
+    ],
+    "73": [
+        {
+            "Index": 0,
+            "Option": "Families earning one minimum wage or less"
+        },
+        {
+            "Index": 1,
+            "Option": "Households led by women"
+        },
+        {
+            "Index": 2,
+            "Option": "Households with six or more residents"
+        },
+        {
+            "Index": 3,
+            "Option": "Indigenous populations"
+        },
+        {
+            "Index": 4,
+            "Option": "Wealthier and more educated families"
+        },
+        {
+            "Index": 5,
+            "Option": "Families with at least one member aged 60 or older"
+        }
+    ],
+    "74": [
+        {
+            "Index": 0,
+            "Option": "Intention-to-treat effect"
+        }
+    ],
+    "75": [
+        {
+            "Index": 0,
+            "Option": "Preeclampsia, eclampsia or Hemolysis, Elevated Liver enzyme, and Low Platelet syndrome"
+        },
+        {
+            "Index": 1,
+            "Option": "Gestational diabetes mellitus"
+        },
+        {
+            "Index": 2,
+            "Option": "Polycystic ovarian syndrome (PCOS)"
+        },
+        {
+            "Index": 3,
+            "Option": "Maternal hyperthyroidism"
+        }
+    ],
+    "76": [
+        {
+            "Index": 0,
+            "Option": "The time elapsed between exposure and blood draw"
+        },
+        {
+            "Index": 1,
+            "Option": "The number of tropical cyclones or floods a participant was exposed to"
+        },
+        {
+            "Index": 2,
+            "Option": "Whether the participant's home was located within the affected areas of tropical cyclones or floods"
+        }
+    ],
+    "77": [
+        {
+            "Index": 0,
+            "Option": "<12.5, 12.5\u201324.9, 25\u201349.9, and \u226550 g/day"
+        },
+        {
+            "Index": 1,
+            "Option": "13 g per standard drink"
+        },
+        {
+            "Index": 2,
+            "Option": "39\u201373 years"
+        },
+        {
+            "Index": 3,
+            "Option": "Less than 3 years"
+        }
+    ],
+    "78": [
+        {
+            "Index": 0,
+            "Option": "The assessment centre served as a proxy for unobserved area-level characteristics linked with differential outdoor PM2.5 levels"
+        },
+        {
+            "Index": 1,
+            "Option": "The residential locations of the subjects were not made available to the users"
+        },
+        {
+            "Index": 2,
+            "Option": "The assessment centre was chosen based on sufficient proximity to highly populated regions"
+        }
+    ],
+    "80": [
+        {
+            "Index": 0,
+            "Option": "Hospital admissions"
+        },
+        {
+            "Index": 1,
+            "Option": "All-cause, cardiovascular, and respiratory ambulance dispatches"
+        },
+        {
+            "Index": 2,
+            "Option": "Temperature-related mortality"
+        }
+    ],
+    "81": [
+        {
+            "Index": 0,
+            "Option": "IL-6"
+        },
+        {
+            "Index": 1,
+            "Option": "ACE score"
+        },
+        {
+            "Index": 2,
+            "Option": "CRP"
+        }
+    ],
+    "82": [
+        {
+            "Index": 0,
+            "Option": "2.06"
+        },
+        {
+            "Index": 1,
+            "Option": "1.57"
+        },
+        {
+            "Index": 2,
+            "Option": "1.28"
+        }
+    ],
+    "83": [
+        {
+            "Index": 0,
+            "Option": "4.0%"
+        },
+        {
+            "Index": 1,
+            "Option": "17.0%"
+        },
+        {
+            "Index": 2,
+            "Option": "8.9%"
+        }
+    ],
+    "84": [
+        {
+            "Index": 0,
+            "Option": "To minimize bias from incomplete data before 2005"
+        },
+        {
+            "Index": 1,
+            "Option": "2014 to 2021"
+        },
+        {
+            "Index": 2,
+            "Option": "2010 to 2021"
+        },
+        {
+            "Index": 3,
+            "Option": "2005 to 2009"
+        }
+    ]
+}

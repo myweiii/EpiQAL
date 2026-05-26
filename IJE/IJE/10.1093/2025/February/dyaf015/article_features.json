@@ -1,0 +1,34 @@
+{
+    "Title": "Inconsistent consistency: evaluating the well-defined intervention assumption in applied epidemiological research",
+    "URL": "https://academic.oup.com/ije/article/54/2/dyaf015/8051310",
+    "DOI": "10.1093/ije/dyaf015",
+    "PMID": "40037557",
+    "Published": "2025/02/16",
+    "Volume": "54",
+    "Issue": "2",
+    "Journal": "International Journal of Epidemiology",
+    "Keywords": [
+        "Consistency",
+        "well-defined intervention",
+        "causal inference",
+        "potential outcomes",
+        "stable unit treatment value assumption",
+        "treatment variation irrelevance"
+    ],
+    "Authors": {
+        "Eisenberg-Guyot, Jerzy": [
+            "Division of Epidemiology, NYU Grossman School of Medicine, New York, NY, USA"
+        ],
+        "Kezios, Katrina L": [
+            "Department of Epidemiology, Mailman School of Public Health, Columbia University, New York, NY, USA"
+        ],
+        "Prins, Seth J": [
+            "Department of Epidemiology, Mailman School of Public Health, Columbia University, New York, NY, USA",
+            "Department of Sociomedical Sciences, Mailman School of Public Health, Columbia University, New York, NY, USA"
+        ],
+        "Schwartz, Sharon": [
+            "Department of Epidemiology, Mailman School of Public Health, Columbia University, New York, NY, USA"
+        ]
+    },
+    "PDF_URL": "https://academic.oup.com/ije/article-pdf/54/2/dyaf015/62245547/dyaf015.pdf"
+}

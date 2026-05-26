@@ -1,0 +1,1 @@
+This analysis used data or information from: the Harmonized SHARE dataset and Codebook, Version F as of June 2022; the Harmonized ELSA dataset and Codebook, Version G.2 as of July 2021; RAND HRS Longitudinal File 2018 (V2); and the Harmonized HRS dataset and Codebook, Version C as of January 2022.

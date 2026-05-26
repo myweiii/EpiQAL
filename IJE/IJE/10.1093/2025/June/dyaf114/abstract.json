@@ -1,0 +1,6 @@
+{
+    "Background": "The propensity score (PS) is the probability of exposure given the confounders and the disease risk score (DRS) is the probability of disease given confounders and the exposure, setting the exposure to a fixed value. PS and DRS are balancing scores and frequently used for confounding adjustment, especially in the presence of high-dimensional confounding.",
+    "Methods": "Here, we use causal diagrams to present the role of PS and DRS in confounding adjustment.",
+    "Results": "We graphically show the balancing properties of theoretical PS and DRS: conditional on PS, the exposure is independent of the confounders, and conditional on DRS, the potential outcome under no exposure is independent of the confounders. Moreover, we illustrate how PS and DRS can be used in the analysis for confounding adjustment.",
+    "Conclusion": "Causal diagrams can help researchers to better understand confounding adjustment by using PS and DRS."
+}

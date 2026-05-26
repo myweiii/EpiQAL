@@ -1,0 +1,22 @@
+{
+    "Figure 1.": [
+        "Cumulative excess age-standardized mortality rate for total population for 2020, 2021, and 2022. Plot letters correspond to the age groups in which countries have provided data and therefore the age groups used for age standardization: (A) age groups <15, 15–44, 45–64, 65+years; (B) age groups <20, 20–49, 50–69, 70+ years; (C) age groups <45, 45–64, 65+years; (D) age groups <15, 15–64, 65+years. The magnitude of excess mortality is not directly comparable between countries reporting mortality data in different age groups.",
+        "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/ije/54/3/10.1093_ije_dyaf075/1/m_dyaf075f1.jpeg?Expires=1780586184&Signature=tGZssZ6WyQrq5I4KGHXSQtAgfV31OK8gpWfFdAE4w4OMDcoolrAh1FQcvV-dQiwrlD1RWJ61POMa4490yAAokt2HQyAgAmzarZoHjOjHfLSWwgPQ5dMZMOBhYS4Afh-eD-EgzqKeGBFcTdeVyQpcT4StKEf7EqJbBDBrHQXpo8BgVg06SjVoXStSqRu8eZAjZZ2nQp9P-~sQaYfpCDrVP3ljG40DAM22VJwKlDvQW1I78-MTBs0yeYjNXlaY2dLjj~27L6W06hwkZ-2DI48Zlm1h7Rso8xQSllyFW7p5uWlC08Hva~~atlki271ZyjU8khIA6IwZeqT8tQk2k7TLWw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ],
+    "Figure 2.": [
+        "Male-to-female cumulative excess age-standardized mortality rate ratios for 2021 and 2022. The 2021 rate ratio for Belgium is 13.4, which is beyond the x -axis limit and therefore is not depicted. Values of >1 denote a higher excess mortality in males compared with females.",
+        "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/ije/54/3/10.1093_ije_dyaf075/1/m_dyaf075f2.jpeg?Expires=1780586184&Signature=sCavkU8VWGuqKlnpjUhffZG3QwSOkRS4BUrs8dhOSASUiNwpl-QY74LdKPMTSG9Yv9Hbv9HWa0jXaIULD9HQYKt-YEQcY0lmYDwYZb-ztbzyrrkBYatpriVWeqKQ8AQTbOAG7vbH8XdmtuYjjTSQbDdKRFOCjx2UH7NDCuqcePf-hoGeaD8TF~n5A7jV4xUjS~sprLCHJ6WJMaFy3CYam8Buum-UnBPacCwuglhmNuI64uUwwRm-CvX2RWnXD3rbrD56Aeil7eu0RzHG9XR-ninr-zl9Zr~AibSBLSQet3ztRe9YL0j1EEanAFFwVcGmK2xbYqSBr9lkWBMQeAllHQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ],
+    "Figure 3.": [
+        "Country-specific overall CMRs for 2020–2, separated as other causes of death vs COVID-19 deaths. The lighter-colored portion of each bar illustrates COVID-19 deaths. Vertical lines show country-specific baseline (expected) mortality calculated as the average of crude all-cause death rates between years 2015 and 2019.",
+        "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/ije/54/3/10.1093_ije_dyaf075/1/m_dyaf075f3.jpeg?Expires=1780586184&Signature=ttxHN1LlHsv98kkB2MThorFwhSDkHf6AZIEgKuZTiznhPCJ9fjp2iXshlpCU5OKn4UCRHdr98SAfYHeyOqsaj9zRQyur8JWtMwQi-5iEgojrLGH33Qs1-YTMmjH1w0NlLyBawZP59r-fDDbarFxmhm8TH3BcKUc85Pou~ibJiS3e6jr2bDdnTcuKMnqE6Adx~uf2KwYNXCPRlYjtFSfLUUgZrTTA1M5FWhbI-iEgUTwkaU3Io7nDgiaEvu-nzRUFsOEaQzGogk7Ot91ufSkWEc9DBi6ol6KKu3wBDrhvmG4eZXBaRD4uot3nYwsaKeItypTOiApvajM8PsOgsoSoSA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ],
+    "Table 1.": [
+        "Multilevel model results on the association between pandemic-related variables and weekly excess mortality (z-scores) during 2021 and 2022",
+        ""
+    ],
+    "Figure 4.": [
+        "Multilevel model results on the relationship between individual governmental control policies (3-week lag) and excess mortality z-score in (A) 2021 and (B) 2022. Multilevel models included country as a random effect and categorical governmental control measures as fixed effects, adjusting for total vaccinations and non-COVID-19 mortality. A separate model was built for each governmental control measure. Each point represents the regressioncoefficient for each control measure level and whiskers represent the 95% CIs. Lack of regression coefficients for particular control measure levels indicates that that level was not implemented in the respective year analysed.",
+        "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/ije/54/3/10.1093_ije_dyaf075/1/m_dyaf075f4.jpeg?Expires=1780586184&Signature=fvYvRBAqscZDshXZKrEeKf6GPUHmCKZ~uwLruISGiXKUtM8xSW7B9v9rwcKQY14YGCm0814Jpl3wvkC7QBh5Ld6GL5c4XFSbq-mhqAmWTiXtwkzHjvh0bedCLX1dLk8MP1sDRsri6Bp-8GqGZC27sR70AhQsQaav-pPh7AR9Ddu2l~nDPl4D0Vp4JHjGYyGTAE4Ds73b~HQ0CyciCABfZ2jQX5PJHSg1AWXoOvGfRYh0lDlSYfo9Xa0nImPWdGLnxU5HoadOBrwgmEHj2KscIM-BWTgsX5OzzAm6sWaRdxQtyR-12cF8qZMHG-IkdSXfDNl1d9QnnLv9gjJrzITbpg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+}

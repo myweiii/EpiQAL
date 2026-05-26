@@ -1,0 +1,61 @@
+{
+    "Title": "An artificial intelligence-powered digital pathology platform to support large-scale deworming programs against soil-transmitted helminthiasis and intestinal schistosomiasis in resource-limited settings",
+    "URL": "https://doi.org/10.1371/journal.pntd.0013432",
+    "Published": "March 18, 2026",
+    "Subject_Areas": [
+        "Eggs",
+        "Artificial intelligence",
+        "Helminths",
+        "Computer software",
+        "Technicians",
+        "Hookworms",
+        "Gastrointestinal tract",
+        "Neglected tropical diseases"
+    ],
+    "Authors": {
+        "Peter K. Ward": [
+            "Department of Translational Physiology, Infectiology and Public Health, Ghent University, Merelbeke, Belgium",
+            "IDLab, Ghent University - Imec, Zwijnaarde, Belgium",
+            "Enaiblers AB, Uppsala, Sweden"
+        ],
+        "Mohammed Aliy Mohammed": [
+            "IDLab, Ghent University - Imec, Zwijnaarde, Belgium"
+        ],
+        "Mio Ayana Heda": [
+            "Institute of Health, Jimma University, Jimma, Ethiopia"
+        ],
+        "Lindsay A. Broadfield": [
+            "Enaiblers AB, Uppsala, Sweden"
+        ],
+        "Peter Dahlberg": [
+            "Enaiblers AB, Uppsala, Sweden"
+        ],
+        "Daniel Dana": [
+            "Institute of Health, Jimma University, Jimma, Ethiopia"
+        ],
+        "Gemechu Tadesse Leta": [
+            "Ethiopian Public Health Institute, Addis Ababa, Ethiopia"
+        ],
+        "Zeleke Mekonnen": [
+            "Institute of Health, Jimma University, Jimma, Ethiopia"
+        ],
+        "Betty Nabatte": [
+            "Division of Vector Borne and Neglected Tropical Diseases and Ministry of Health, Kampala, Uganda"
+        ],
+        "Narcis Kabatereine": [
+            "Division of Vector Borne and Neglected Tropical Diseases and Ministry of Health, Kampala, Uganda"
+        ],
+        "Kristina M. Orrling": [
+            "Lygature, Utrecht, The Netherlands"
+        ],
+        "Sofie Van Hoecke": [
+            "IDLab, Ghent University - Imec, Zwijnaarde, Belgium"
+        ],
+        "Bruno Levecke": [
+            "Department of Translational Physiology, Infectiology and Public Health, Ghent University, Merelbeke, Belgium"
+        ],
+        "Lieven J. Stuyver": [
+            "Steering Committee Leader for AI4NTD Consortium, Beerse, Belgium"
+        ]
+    }
+}

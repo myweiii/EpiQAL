@@ -1,0 +1,42 @@
+{
+    "Title": "From tests to truth: A misclassification-aware machine learning framework for estimating brucellosis seroprevalence in wild canids",
+    "URL": "https://doi.org/10.1371/journal.pntd.0014029",
+    "Published": "March 6, 2026",
+    "Subject_Areas": [
+        "Brucella",
+        "Serodiagnosis",
+        "Foxes",
+        "Wolves",
+        "Serology",
+        "Coyotes",
+        "Veterinary diagnostics",
+        "Wildlife"
+    ],
+    "Authors": {
+        "Nahal Sarvestani": [
+            "Faculty of Veterinary Medicine, Science and Research Branch, Islamic Azad University, Tehran, Iran"
+        ],
+        "Farzane Shams": [
+            "Division of Neurological Sciences, Vetsuisse Faculty, University of Bern, Bern, Switzerland"
+        ],
+        "Armin Mirshahi": [
+            "Faculty of Veterinary Medicine, Garmsar Branch, Islamic Azad University, Semnan, Iran"
+        ],
+        "Mobina Pato": [
+            "Faculty of Veterinary Medicine, Science and Research Branch, Islamic Azad University, Tehran, Iran"
+        ],
+        "Aria Javani Farbod": [
+            "Faculty of Veterinary Medicine, Urmia Branch, Islamic Azad University, Urmia, Iran"
+        ],
+        "Armina Khayatderafshi": [
+            "Veterinary Practice Manager, North Care Animal Hospital, North Vancouver, British Columbia, Canada"
+        ],
+        "Mobina Payami": [
+            "Faculty of Veterinary Medicine, Karaj Branch, Islamic Azad University, Karaj, Iran"
+        ],
+        "Arman Abdous": [
+            "Faculty of Veterinary Medicine, Karaj Branch, Islamic Azad University, Karaj, Iran",
+            "School of Public Health, Tehran University of Medical Sciences, Tehran, Iran"
+        ]
+    }
+}

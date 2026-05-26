@@ -1,0 +1,13 @@
+We thank the Ministry of Health vector-control teams, research teams, field technicians, school administrators, and community leaders in Ethiopia and Uganda for their support in implementing and evaluating the AI-DP platform. We are also grateful to all study participants and their families for their cooperation.
+Additionally, we would like to acknowledge all AI4NTD consortium members who contributed to the project. The AI4NTD consortium consisted of Johnson & Johnson (formerly Janssen Pharmaceutica N.V. division of Johnson & Johnson Global Public Health Research & Development; hereafter J&J), Merck KGaA (Merck), Stitching Lygature (Lygature), Bridges to Development (Bridges), Ghent University (UGent), Jimma University (JU), Ethiopian Public Health Institute (EPHI), Etteplan Sweden AB (Etteplan), Division of Vector Borne and Neglected Tropical Diseases and Ministry of Health, Uganda (VB&NTD). J&J provided in-kind support on scientific matters.
+Etteplan was the work package lead for development and production of the system and technology. Jimma University was the work package lead for the evaluation of the AI-DP platform against TPPs. EPHI and VB&NTD were the work package leads for field evaluation of the AI-DP platform in Ethiopia and Uganda programmatic settings. Bridges was the work package lead for preparing for policy, access and integration into data and country-health systems. Lygature was the consortium coordinator and work package lead for project management and communication. The consortium partners worked across work packages in order to develop and validate the platform in field.
+Consortium Members:
+• Bridges to Development: Alan Brooks, Julie Jacobson, Anastasia Pantelias, Kayla Hendrickson
+• Ethiopian Public Health Institute: Gemechu Leta, Kalkidan Begashaw
+• Etteplan Sweden AB: Peter Ward, August Tynong, Joel Larsson, Gustav Jonsson-Glans, Mattias Adolfsson, Anders Kaplan, Hannes F. Kuchelmeister, Maija Persson, Matthias Zumpe, Peter Dahlberg
+• Ghent University: Bruno Levecke, Mieke Kennis, Sofie Van Hoecke, Mohammed Ali Mohammed
+• Janssen Pharmaceutica NV: Ole Lagatie, Christof Steyaert, Angelo Trotta
+• Jimma University: Mio Ayana, Abebaw Tiruneh, Hundaol Girma, Daniel Dana, Zeleke Mekonnen
+• Merck KGaA: Mireille Gomes, Béatrice Greco
+• Stitching Lygature: Kristina Orrling, Karin de Ruiter
+• Division of Vector Borne and Neglected Tropical Diseases and Ministry of Health, Uganda: Betty Nabatte, Semakula Moses, Bogere Ronald, Chris Opio, Narcis Kabatereine

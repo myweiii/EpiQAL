@@ -1,0 +1,1 @@
+We gratefully acknowledge use of the E-OBS data set from the EU-FP6 project UERRA ( http://www.uerra.eu ) and thank the data providers in the ECA&D project ( https://www.ecad.eu ). We would like to thank Hana Kučerová and Jiří Jarkovský from the Institute of Health Information and Statistics of the Czech Republic for the contribution to the provision of health data.

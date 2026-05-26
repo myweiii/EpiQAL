@@ -1,0 +1,73 @@
+{
+    "Title": "Reproducibility and associated regression dilution bias of accelerometer-derived physical activity and sleep in UK Biobank",
+    "URL": "https://academic.oup.com/ije/article/55/2/dyag014/8493003",
+    "DOI": "10.1093/ije/dyag014",
+    "PMID": "41718664",
+    "Published": "2026/02/18",
+    "Volume": "55",
+    "Issue": "2",
+    "Journal": "International Journal of Epidemiology",
+    "Keywords": [
+        "wearables",
+        "measurement error",
+        "within-person variation",
+        "intra-individual variability",
+        "cardiovascular disease"
+    ],
+    "Authors": {
+        "Zisou, Charilaos": [
+            "Nuffield Department of Population Health, University of Oxford, Oxford, United Kingdom",
+            "Big Data Institute, Li Ka Shing Centre for Health Information and Discovery, University of Oxford, Oxford, United Kingdom"
+        ],
+        "Calvin, Catherine": [
+            "Nuffield Department of Population Health, University of Oxford, Oxford, United Kingdom",
+            "UK Biobank, Stockport, United Kingdom"
+        ],
+        "Taylor, Hannah": [
+            "Nuffield Department of Population Health, University of Oxford, Oxford, United Kingdom",
+            "UK Biobank, Stockport, United Kingdom"
+        ],
+        "Lacey, Ben": [
+            "Nuffield Department of Population Health, University of Oxford, Oxford, United Kingdom",
+            "UK Biobank, Stockport, United Kingdom"
+        ],
+        "Hammami, Imen": [
+            "Nuffield Department of Population Health, University of Oxford, Oxford, United Kingdom"
+        ],
+        "Walmsley, Rosemary": [
+            "Nuffield Department of Population Health, University of Oxford, Oxford, United Kingdom",
+            "Big Data Institute, Li Ka Shing Centre for Health Information and Discovery, University of Oxford, Oxford, United Kingdom"
+        ],
+        "Strain, Tessa": [
+            "Physical Activity for Health Research Centre, University of Edinburgh, Edinburgh, United Kingdom",
+            "MRC Epidemiology Unit, University of Cambridge, Cambridge, United Kingdom"
+        ],
+        "Wijndaele, Katrien": [
+            "MRC Epidemiology Unit, University of Cambridge, Cambridge, United Kingdom"
+        ],
+        "Wareham, Nicholas": [
+            "MRC Epidemiology Unit, University of Cambridge, Cambridge, United Kingdom"
+        ],
+        "Brage, Soren": [
+            "MRC Epidemiology Unit, University of Cambridge, Cambridge, United Kingdom"
+        ],
+        "Smith-Byrne, Karl": [
+            "Nuffield Department of Population Health, University of Oxford, Oxford, United Kingdom"
+        ],
+        "Bennett, Derrick": [
+            "Nuffield Department of Population Health, University of Oxford, Oxford, United Kingdom"
+        ],
+        "Lewington, Sarah": [
+            "Nuffield Department of Population Health, University of Oxford, Oxford, United Kingdom",
+            "Health Data Research UK, University of Oxford (HDRUK-Oxford), Oxford, United Kingdom"
+        ],
+        "Hopewell, Jemma C": [
+            "Nuffield Department of Population Health, University of Oxford, Oxford, United Kingdom"
+        ],
+        "Doherty, Aiden": [
+            "Nuffield Department of Population Health, University of Oxford, Oxford, United Kingdom",
+            "Big Data Institute, Li Ka Shing Centre for Health Information and Discovery, University of Oxford, Oxford, United Kingdom"
+        ]
+    },
+    "PDF_URL": "https://academic.oup.com/ije/article-pdf/55/2/dyag014/67016111/dyag014.pdf"
+}

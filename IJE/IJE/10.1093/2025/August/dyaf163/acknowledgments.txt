@@ -1,0 +1,3 @@
+This research has been conducted using the UK Biobank Resource under application number 56431. This work was part of a PhD project supported by the Nagasaki University WISE Programme.
+
+The writing of this manuscript was supported in part by the use of AI-based tools (ChatGPT), which were employed to check grammar and enhance clarity and readability.

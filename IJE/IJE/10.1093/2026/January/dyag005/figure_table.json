@@ -1,0 +1,26 @@
+{
+    "Figure 1": [
+        "DAG of the presumed relationship between intermittent preventive treatment in pregnancy regimens, STIs/RTIs, and adverse birth outcomes. ‘C’ indicates the vector of the measured covariates that we assumed were confounders of the STI/RTI–birth outcome relationship. ‘E’ includes the vector of covariates that do not meet the definitions of a confounder (i.e. common cause of the exposure and outcome), but were important prognostic variables of the outcome. We expect that the inclusion of these baseline covariates will not bias our effect estimates, but may improve statistical precision. Grey dashed lines indicate potential causal pathways of how unmeasured variables (U) may confound the STI/RTI–birth outcome relationship.",
+        "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/ije/55/1/10.1093_ije_dyag005/2/m_dyag005f1.jpeg?Expires=1780050107&Signature=kzX6oFWB2R1SE1NUmzcyhrzOthd-PmU2bcl7nzfOWFbbV0261DWglfGIYmrkzFvSG07CeaBLyatqFd1JdUJsfrwg4lQXqLdIoF41FIAJOL7nbRj30ThzqZN0zuUbzCuPTQnRz3osr7pl1-r0vOP~nsnwxkwli1xf02RGUrsRSjc9y0nmINrYmzyg9RVv10x0SC-eocm3ubSiOLJ8Itp9bwe33YtqESPFMfVHBXX1l1d6gN539X75kI4plz3UmZ7nB-UCDee9nFb-MepLKFyJ-SXaXnevAJzrnhqthZXp5kZGYUKWxBHIDorTnYrG2SX0oIr27GEIsmF3cbctr66Tcg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ],
+    "Figure 2": [
+        "Study participant flowchart.",
+        "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/ije/55/1/10.1093_ije_dyag005/2/m_dyag005f2.jpeg?Expires=1780050107&Signature=epgOTh8H92Dtn8EgmerifBhtvScidP-PCprVYAzcFmhU2vgsWtGXpwgu98DeeN9U2NBf4MZKPVkNmK7U1kRECXEjzm6j-jlmYmmCtcEvTVLvm1HNOddKp1-rBSvTYOFn3Pp3InaCJ8-NpXVlBxapNi4cSXJq8TPZ8Vxquh6OTKRlIt6r3yyvPhoAUG9GKQkk~FaJ95dNF-DHxvRCohj2T6xLstBl58-yAIZC2ojXAn4sLBdjfNawMPIiFDnZsaGBspgsxUKz2gxDJa9Vfj-Q09kWF2mqxA-9Mr0S3hKx9Si3PhcFaHlgISr2rajHDhthkM6o79LG67g5llq8zPqANA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ],
+    "Table 1": [
+        "Baseline characteristics of trial participants included in the final analytic sample ( n = 2265).",
+        ""
+    ],
+    "Figure 3": [
+        "Effect of intermittent preventive treatment in pregnancy regimens on the prevalence of sexually transmitted or reproductive tract infections. Analyses were conducted by using unadjusted log-binomial regression models.",
+        "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/ije/55/1/10.1093_ije_dyag005/2/m_dyag005f3.jpeg?Expires=1780050107&Signature=UbIAD04t~lueCe7KR1oMeyEXoVIxuNKRp8mHGpgfgD1LH-X2vJeTOZsWR0Bt9ytaHm-bCCW18vmRAbq7TGfxWOSr3tQibHAttNRouiHUF0yWInw5A2n4JDyaeeciPwJu8CV1pbY7t7Qhd7RLj5vv0mVpVrEjgb1XF7JdgnqPhqXStMqvBKKs3Yn1UK67OexvnjV8yAYICXnCubol0OFHBpU9wLj~X0TV9nTRsDst-IMnbrSMZXV-cnn4XHawdOUD1Ez0dCJmM~BeUCRbOfDGC3QT3K67OuXk0ZpBAAEQMPXPdNnoMlaGwejF0QFFrUBVMXKTSHD9uqkwgFsm5Y3EZA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ],
+    "Figure 4": [
+        "Associations between sexually transmitted or reproductive tract infections and adverse birth outcomes. Analyses were conducted by using multivariable Poisson regression with robust standard errors, adjusting for randomized treatment arm, household wealth, maternal age, weight, MUAC, education, current/recent alcohol use, history of adverse delivery outcome, and gravidity.",
+        "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/ije/55/1/10.1093_ije_dyag005/2/m_dyag005f4.jpeg?Expires=1780050107&Signature=Es-8E2T6d1JEcXKfUXhFtqSEmZ34YJalbOMFmkP4Af~G8jASlRiFizA9zQy0rxg3~KEX3CMS47L6w8Ma5YPDAz7mHbj8-iJuEPi1RuUHSGf6URCloYbjigJM0hk9iAGJgmYA7O3vKaTGh6F3JJfi5201iIzvSIVzGVgGzs4IAK3pox-S0fEQ3IZzY-UPpXNeruv-lJlnvbxYl9iQx-p9BGuVMf46n5l3-r2Hr2MHQUq4akCBXc~w1NLRnZVFyDbft0lb-Z2GltUrc6bvZrgH97vSIOr8BvRcAKycQEtgBMCUQKq7w21lsa3q0XixcdPV2TAEaFG7lpzx6KEpQX5clg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ],
+    "Table 2": [
+        "Total, indirect, and direct effects a of IPTp with SP versus DP on birth outcomes mediated by STIs or RTIs.",
+        ""
+    ]
+}

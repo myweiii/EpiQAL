@@ -1,0 +1,655 @@
+{
+    "0": {
+        "Question": "What type of study design was used to evaluate complex interventions in real-world settings, particularly when individual-level randomization is inappropriate?",
+        "Evidence": [
+            "The stepped-wedge cluster randomized trial (SW-CRT) has become increasingly popular in health and social care in recent years [ 1 ].",
+            "The SW-CRT study design is often appealing in these settings.",
+            "Moreover, due to the nature of complex interventions, randomization at the level of the individual is often inappropriate [ 2 ]."
+        ],
+        "Rationale": "This is a good retrieval-based question because it targets a specific factual claim about the study design used for evaluating complex interventions in real-world contexts, particularly when individual randomization is unsuitable. The answer\u2014'stepped-wedge cluster randomized trial (SW-CRT)'\u2014is explicitly stated in the passage and can be located through direct reference to the first paragraph. The question avoids copying exact phrases from the text, is grammatically complete, and focuses on a precise piece of information tied to the topic of study design and causal effects. It cannot be answered using general knowledge alone, as the specific design name and its context are required."
+    },
+    "1": {
+        "Question": "Which statistical method was used to perform dimension reduction in the multivariable Mendelian randomization analyses?",
+        "Evidence": [
+            "The method is implemented in the mr_mvpcgmm function in the MendelianRandomization package with the random effects option. We used a threshold of 99% of variance in the matrix of genetic associations with the exposure for selecting principal components, allowing for random-effects heterogeneity, and using variant correlation estimates obtained from 367,703 European ancestry UK Biobank participants.",
+            "Multivariable Mendelian randomization analyses were implemented using the multivariable principal component generalized method of moments (MV-PC-GMM), which performs dimension reduction to reduce a large number of correlated variants to a manageable number of orthogonal principal components."
+        ],
+        "Rationale": "This is a good retrieval-based question because it targets a specific methodological detail\u2014dimension reduction technique\u2014used in the multivariable Mendelian randomization analysis, which is explicitly stated in the passage. The answer, 'multivariable principal component generalized method of moments (MV-PC-GMM)', is directly mentioned in the text and is not inferable from general knowledge. The question avoids copying phrases verbatim from the passage (e.g., it does not ask 'what method performs dimension reduction?' but instead asks which method was used), and it is grammatically complete and focused. The evidence is clearly locatable in two sentences that describe the method and its implementation, making this a strong example of a retrieval-based question aligned with the topic of study design and causal effects."
+    },
+    "2": {
+        "Question": "What was the peak period of asbestos consumption in Italy, and in which year did it occur?",
+        "Evidence": [
+            "our country reached the peak of consumption in 1980, at >180\u00a0000 metric tons"
+        ],
+        "Rationale": "This is a strong retrieval-based question because it targets a specific temporal fact\u2014both the peak period and the exact year of peak asbestos consumption in Italy\u2014that is explicitly stated in the passage. The question focuses on a key element of time-place-person patterns by addressing temporal trends in industrial exposure, which is central to the topic. The answer ('1980') is directly locatable in the text and cannot be inferred from general knowledge. The phrasing avoids copying exact phrases from the passage (e.g., 'peak of consumption' is rephrased as 'peak period'), ensuring the question requires reading and locating the specific information rather than recognizing a verbatim match."
+    },
+    "3": {
+        "Question": "What was the proportion of people with HIV exhibiting viraemia in inland communities by 2019, according to the study?",
+        "Evidence": [
+            "the proportion of people with HIV exhibiting viraemia decreased from 40.6% (38.4%\u201342.8%) in 2013 to 17.6% (15.8%\u201319.6%) in 2019 in inland communities"
+        ],
+        "Rationale": "This is a strong retrieval-based question because it targets a specific, quantifiable metric\u2014viraemia prevalence among people with HIV\u2014in a defined population (inland communities) and time period (2019). The answer (17.6%) is explicitly stated in the passage with a confidence interval, making it directly locatable. The question avoids copying phrases verbatim from the passage, focuses on a precise factual detail relevant to program performance evaluation, and cannot be answered using general knowledge. It aligns with the topic by assessing real-world effectiveness and monitoring program impact over time through surveillance data."
+    },
+    "4": {
+        "Question": "What was the primary outcome measure used to evaluate the effectiveness of the calendars in the trial?",
+        "Evidence": [
+            "The main study outcome was the proportion of deaths reported to have occurred in the same month and year as indicated by the HDSS."
+        ],
+        "Rationale": "This is a strong retrieval-based question because it targets a specific, explicitly stated primary outcome from the passage, which is central to the study's objective. The question focuses on a key methodological element\u2014outcome measurement\u2014within the topic of measurement and bias handling. The answer is directly and unambiguously stated in the passage, requiring the reader to locate the exact definition of the primary outcome without inference. The phrasing avoids copying verbatim from the passage, ensuring the question is not trivial, and the answer is not general knowledge but strictly dependent on reading the passage."
+    },
+    "5": {
+        "Question": "Which pre-existing health condition was associated with the highest heat-EHA risk among males in the study?",
+        "Evidence": [
+            "Among males, higher risks were observed in those with cancer [1.52 (1.22\u20131.89)], chronic obstructive pulmonary disease (COPD) [1.42 (1.05\u20131.91)], and coronary heart disease [1.31 (1.11\u20131.56)]."
+        ],
+        "Rationale": "This is a strong retrieval-based question because it targets a specific, quantifiable fact from the passage: the pre-existing health condition with the highest heat-EHA risk among males. The answer\u2014cancer\u2014is explicitly stated with a relative risk (RR) of 1.52, which is the highest among the listed conditions for males. The question avoids copying phrases directly from the passage (e.g., not asking 'which condition had the highest risk?'), and the answer is unambiguously locatable in the text. It aligns with the topic of susceptibility stratification by focusing on individual clinical traits that modulate risk, and cannot be answered using general knowledge alone without consulting the passage."
+    },
+    "6": {
+        "Question": "What is the non-inferiority margin used in the simulated non-inferiority trials to assess the efficacy of new TB vaccines compared to BCG?",
+        "Evidence": [
+            "We selected this non-inferiority margin assuming that a vaccine 1.25 times less efficacious than BCG in protecting neonates and infants against TB infection would not be considered non-inferior regardless of possible advantages with regard to safety or cost."
+        ],
+        "Rationale": "This is a good retrieval-based question because it targets a specific, explicitly stated numerical value (1.25) that defines the non-inferiority margin in the study design. The question focuses on a key element of causal effect estimation\u2014effect measure definition\u2014within the context of non-inferiority trial design. The answer is directly locatable in the passage and cannot be inferred from general knowledge. The phrasing avoids copying exact phrases from the text (e.g., '1.25 times less efficacious'), ensuring the question requires reading and locating the specific value rather than recognizing a repeated phrase. This aligns with the topic of study design and causal effects by focusing on a critical design parameter used to define the hypothesis test."
+    },
+    "7": {
+        "Question": "What was the primary exposure metric used to assess sun exposure in the lifetime calendar method, and how was it calculated for each individual?",
+        "Evidence": [
+            "Satellite data were used to estimate the average daily UV for each month for each year of life according to the latitude and longitude of the location of residence indicated on the lifetime calendar [ 24 ], which we then averaged over the 6-month summer and winter seasons at each latitude/longitude to obtain the seasonal average ambient UV. We then multiplied each seasonal average ambient UV by the self-reported time outdoors in summer/winter in each year of life and summated this over different age spans to calculate the total summer and winter UV exposures for each individual, hereafter referred to as the UV load."
+        ],
+        "Rationale": "This is a strong retrieval-based question because it targets a specific, explicitly stated exposure metric (UV load) and its calculation method using the lifetime calendar. The question focuses on the technical details of how exposure was quantified\u2014specifically, the integration of satellite-derived UV data with self-reported time outdoors\u2014without relying on general knowledge. The answer is directly extractable from a single, clear passage segment that describes the step-by-step computation of UV load. The question avoids copying phrases verbatim from the passage, is grammatically complete, and requires the reader to locate and interpret a specific procedural detail, making it ideal for testing precise comprehension of the exposure-response methodology."
+    },
+    "8": {
+        "Question": "What was the primary outcome of interest in the study regarding the association between in utero opioid exposure and adverse pregnancy outcomes?",
+        "Evidence": [
+            "We aimed to investigate whether in utero exposure to prescription opioid analgesics increases the risk of adverse pregnancy outcomes related to placental malperfusion. Specifically, we aimed to identify whether in utero exposure to any prescription opioid analgesic or specific opioids codeine and oxycodone in early- and/or late-pregnancy results in an increased risk of pre-eclampsia, placental abruption, FGR, and preterm birth."
+        ],
+        "Rationale": "This is a strong retrieval-based question because it targets a specific, explicitly stated primary objective from the passage\u2014namely, the four key adverse pregnancy outcomes (pre-eclampsia, placental abruption, fetal growth restriction [FGR], and preterm birth) that the study was designed to investigate. The question focuses on the study's primary outcome of interest without referencing the topic name directly. The answer is unambiguously located in the passage and cannot be inferred from general knowledge. The phrasing avoids copying exact phrases from the text, ensuring the question requires direct retrieval rather than recognition of verbatim language."
+    },
+    "9": {
+        "Question": "What was the primary outcome measure used in the Cox proportional hazard models to assess the association between statin use and gynecological cancer risk?",
+        "Evidence": [
+            "Cox proportional hazard models were used to estimate hazard ratios (HRs) with 95% confidence intervals (CIs) in the cohort design.",
+            "The outcomes were diagnoses of EC (ICD-10: C54), EOC (including fallopian tube and primary peritoneal cancers) (C48.2, C56, C57.0\u2013C57.4), or CC (C53)."
+        ],
+        "Rationale": "This is a strong retrieval-based question because it targets a specific methodological detail\u2014namely, the primary outcome measure in the statistical analysis\u2014directly stated in the passage. The answer, hazard ratios (HRs), is explicitly mentioned in the context of the Cox proportional hazard models, which are the primary analytical method used. The question focuses on a precise element of study design and causal estimation, aligning with the topic. The answer is unambiguous and can only be retrieved from the passage, not inferred from general knowledge. The evidence is drawn from two key sentences that together confirm both the statistical method and the outcomes it was applied to."
+    },
+    "10": {
+        "Question": "Which statistical method was used as the primary analysis in the two-sample Mendelian randomization (MR) study to calculate effect estimates?",
+        "Evidence": [
+            "The inverse-variance weighted [ 41 ] method was the primary analysis used to calculate the effect estimates."
+        ],
+        "Rationale": "This is a good retrieval-based question because it targets a specific methodological detail (the primary MR analysis method) explicitly stated in the passage. The question focuses on a key component of study design and causal inference\u2014specifically, the analytical approach used in the MR framework. The answer ('inverse-variance weighted method') is directly and unambiguously stated in the text, requiring the reader to locate this specific phrase. It cannot be inferred from general knowledge about MR, and the phrasing of the question avoids copying the exact wording from the passage, thus meeting the criteria for a high-quality retrieval-based question."
+    },
+    "11": {
+        "Question": "What was the primary purpose of the secondary analysis conducted in the randomized\u2013controlled trial comparing IPTp regimens?",
+        "Evidence": [
+            "To evaluate this, we conducted a secondary analysis of a randomized\u2013controlled trial of pregnant women that compared IPTp with SP, DP, or a combination of DP and SP.",
+            "This study had three objectives: (i) to compare the prevalence of STIs/RTIs between IPTp arms, (ii) to estimate associations between STIs/RTIs and adverse birth outcomes, and (iii) for STIs/RTIs associated with both IPTp-SP and adverse birth outcomes, quantify the extent to which the effects of IPTp-SP on birth outcomes are mediated through STI/RTI prevention."
+        ],
+        "Rationale": "This is a strong retrieval-based question because it targets specific, explicitly stated objectives of the secondary analysis within the study design. The question focuses on the purpose of the analysis (not the primary trial), requiring the reader to locate and extract the three stated objectives from the passage. The answer is unambiguous and directly supported by verbatim text in the 'Study population and design' and 'Statistical analysis' sections. The question avoids copying phrases directly from the passage (e.g., not asking 'What were the objectives of the study?' verbatim), and is grammatically complete. It aligns with the topic of 'Study design & causal effects' by focusing on the analytical goals and causal estimation strategies used in the study."
+    },
+    "12": {
+        "Question": "What method did the study use to account for changes in population size and age structure when estimating excess mortality in New Zealand?",
+        "Evidence": [
+            "Both methods account for changes in population size and age structure, which means they provide more reliable estimates of excess mortality than methods that do not.",
+            "We used two methods for constructing a mortality baseline from pre-pandemic data: (i) a generalized linear quasi-Poisson regression model for monthly death counts including age, sex, and month of the year as predictors, based closely on the model of the UK\u2019s Office for National Statistics [15]; (ii) a linear regression fitted to the age- and sex-standardized annual mortality rate."
+        ],
+        "Rationale": "This is a good retrieval-based question because it targets a specific methodological detail\u2014how the study handled population size and age structure\u2014directly stated in the passage. The answer is explicitly provided in two parts: the use of a quasi-Poisson regression model with age, sex, and month as predictors, and the use of age- and sex-standardized annual mortality rates. The question avoids copying phrases verbatim from the passage, focuses on a precise technical aspect of bias handling, and requires the reader to locate and retrieve the specific methodological approach described in the text. The answer cannot be inferred from general knowledge and is unambiguously supported by the passage."
+    },
+    "13": {
+        "Question": "What method did the study use to address the endogenous nature of retirement decisions in estimating the causal effect of retirement on cognitive function?",
+        "Evidence": [
+            "To address potential endogenous retirement decision bias, we employed the SPA as an IV for retirement ( Supplementary Table S3 ).",
+            "The IV forests method combines the generalized method of moments for IV estimation with random forests to identify similar treatment effects ( Supplementary Method S2 )."
+        ],
+        "Rationale": "This is a strong retrieval-based question because it targets a specific methodological choice (instrumental variable approach using state pension age) explicitly described in the passage to address endogeneity. The question focuses on the causal inference strategy, directly aligning with the topic 'Study design & causal effects'. The answer is unambiguously stated in two distinct parts of the passage: the use of SPA as an instrumental variable and the application of IV forests. The phrasing avoids copying exact phrases from the text, preventing the answer from being obvious, and requires the reader to locate and retrieve the specific method used. The answer cannot be deduced from general knowledge alone, ensuring the question is dependent on passage content."
+    },
+    "14": {
+        "Question": "What statistical method was used to estimate the causal effect of genetically predicted BMI on mortality in the one-sample Mendelian randomization approach?",
+        "Evidence": [
+            "The one-sample Wald ratio method was used to assess the causal relevance of BMI to cause-specific mortality [ 14 ], in which Cox regression was used to estimate the association between a trans-ancestry BMI genetic score (BMI-GS) and mortality, and linear regression was used to estimate the association between the BMI-GS and BMI."
+        ],
+        "Rationale": "This is a strong retrieval-based question because it targets a specific methodological detail\u2014namely, the statistical method used in the one-sample Mendelian randomization analysis\u2014that is explicitly stated in the passage. The question focuses on the 'one-sample Wald ratio method' as the primary analytical strategy, which is directly mentioned in the text. The answer is unambiguous and can only be retrieved from the passage, not inferred from general knowledge. The question avoids copying exact phrases from the passage (e.g., it does not ask 'what method was used?' verbatim), and it is grammatically complete and focused on a precise component of the study design, making it ideal for testing direct information retrieval."
+    },
+    "15": {
+        "Question": "What percentage of intervention-effect studies in the review explicitly interpreted their estimates as corresponding to the effects of a hypothetical intervention?",
+        "Evidence": [
+            "authors explicitly interpreted their estimates as corresponding to hypothetical intervention effects in 45% (13/29) of intervention-effect studies."
+        ],
+        "Rationale": "This is a strong retrieval-based question because it targets a specific, quantifiable fact from the passage\u2014namely, the percentage of intervention-effect studies that explicitly interpreted their results as intervention effects. The answer (45%) is directly stated in the text and can only be retrieved by locating this exact statistic in the Results/Discussion section. The question avoids copying phrases verbatim from the passage (e.g., it does not ask 'what percentage of intervention-effect studies...'), and it focuses on a precise, measurable outcome tied to the topic of study design and causal effects. The information is not general knowledge and requires reading the passage to identify the correct figure."
+    },
+    "16": {
+        "Question": "What was the percentage reduction in tuberculosis risk per one-unit increase in BMI for individuals with HIV in the BMI range below the breakpoint identified in the piecewise linear model?",
+        "Evidence": [
+            "15.3% (95% CI: 13.1\u201317.5) for BMI of <23.0\u2009kg/m 2 and 2.6% (95% CI: \u20133.1\u20137.9) for BMI of \u226523.0\u2009kg/m 2 in 18 cohorts of people with HIV ( n =\u2009162\u200a609)"
+        ],
+        "Rationale": "This is a strong retrieval-based question because it targets a specific, quantifiable exposure-response relationship from the passage\u2014namely, the percentage reduction in tuberculosis risk per unit increase in BMI within a defined range (below the breakpoint) for a specific population (people with HIV). The answer (15.3%) is explicitly stated in the text and directly tied to the piecewise linear model results. The question avoids copying phrases verbatim from the passage, focuses on a precise numerical output from the analysis, and requires the reader to locate and extract the correct value from a detailed statistical summary. It aligns with the topic of exposure-response interpretation by focusing on how changes in BMI (the exposure metric) are associated with changes in tuberculosis risk (outcome), including thresholds and nonlinearity. The answer cannot be inferred from general knowledge and must be retrieved from the passage."
+    },
+    "17": {
+        "Question": "Which regions in Ethiopia experienced an increase in TB incidence between 2015 and 2020 according to the regional-level progress analysis?",
+        "Evidence": [
+            "the Afar, Somali, and Benishangul-Gumuz regions experienced an increase in incidence during the same period ( Fig. 1 )",
+            "The observed spatial clustering of low reductions in TB incidence highlights that, while country-level estimates are valuable for international comparisons, they may obscure local geographic variations in progress towards achieving the WHO\u2019s End TB targets."
+        ],
+        "Rationale": "This is a good retrieval-based question because it targets specific spatial data (regions with increased TB incidence) explicitly stated in the passage. The question focuses on a clear factual detail from the regional-level progress section, requiring the reader to locate and retrieve the names of the three regions that saw an increase in TB incidence between 2015 and 2020. The answer is directly stated in the text and cannot be inferred from general knowledge. The question avoids copying exact phrases from the passage, is grammatically complete, and aligns with the topic of spatial distribution and clustering by emphasizing geographic patterns in disease trends."
+    },
+    "18": {
+        "Question": "What was the primary reason for using harmonized data files from the Gateway to Global Aging Data in this study?",
+        "Evidence": [
+            "Data from the Health and Retirement Study (HRS) and the Korean Longitudinal Study of Aging (KLoSA) were obtained from harmonized data files in the Gateway to Global Aging Data [25].",
+            "To facilitate the cross-national comparison, loneliness was operationalized using the same single question about loneliness included in the CES-D scale administered at our study baseline in the HRS (2002) and KLoSA (2006)."
+        ],
+        "Rationale": "This is a good retrieval-based question because it targets a specific factual detail\u2014why harmonized data were used\u2014directly stated in the passage. The answer is explicitly supported by two key sentences: one confirming the source of the data and another explaining the purpose of harmonization (to enable cross-national comparison). The question avoids copying phrases verbatim from the passage, focuses on a clear, specific aspect of contextual determinants (i.e., data standardization enabling valid cross-cultural analysis), and requires the reader to locate and synthesize information from the passage. The answer ('to facilitate cross-national comparison') is unambiguous and directly retrievable, making it ideal for a retrieval-based question within the topic of contextual determinants of exposure."
+    },
+    "19": {
+        "Question": "Which Brazilian region had the highest weighted prevalence of self-reported COVID-19 cases in the EPICOVID 2.0 survey?",
+        "Evidence": [
+            "The North and South regions had the highest weighted prevalence of 35.1% and 33.5%, respectively."
+        ],
+        "Rationale": "This is a strong retrieval-based question because it targets a specific spatial (regional) distribution of disease burden explicitly stated in the passage. The question focuses on a clearly defined fact\u2014regional prevalence\u2014without requiring inference or external knowledge. The answer ('North region') is directly supported by a verbatim sentence in the passage, making it locatable and unambiguous. The question aligns with the topic of 'time-place-person patterns' by emphasizing spatial distribution (place) in the context of population surveillance, and it avoids copying exact phrases from the text (e.g., 'highest weighted prevalence') to prevent answer leakage. The evidence is a direct quote that contains the answer, fulfilling the criteria for a high-quality retrieval question."
+    },
+    "20": {
+        "Question": "What statistical method was used to estimate the association between pre-eclampsia and the risk of liver hospitalization over time?",
+        "Evidence": [
+            "We used Cox proportional-hazards regression models adjusted for age, multiple birth, comorbidity, socio-economic disadvantage, and time period.",
+            "We used the number of days since the first delivery as the timescale and censored women who died or were never hospitalized for liver disease by the end of the study."
+        ],
+        "Rationale": "This is a good retrieval-based question because it targets a specific methodological detail\u2014Cox proportional-hazards regression\u2014used in the study to estimate the causal effect of pre-eclampsia on liver hospitalization. The answer is explicitly stated in the passage and can be located directly in the 'Data analysis' section. The question avoids copying phrases verbatim (e.g., not asking 'What model was used?' directly), and focuses on a precise component of the study design. The answer is unambiguous and cannot be inferred from general knowledge about epidemiological methods without reading the passage. It aligns with the topic of 'Study design & causal effects' by focusing on the analytical approach used to estimate causal associations."
+    },
+    "21": {
+        "Question": "Which metabolic measure showed a substantial increase in concentration after puberty and was associated with chronic inflammation in adults?",
+        "Evidence": [
+            "Elevated glycoprotein acetyls in adults are risk factors for cardiometabolic diseases such as type 2 diabetes [ 18 , 52 ] and differences between adults and children have been observed [ 7 ].",
+            "Our study revealed that glycoprotein acetyls were stable before puberty (higher in girls), then increased by 40%, and then remained elevated in adults.",
+            "In adults, elevated glycoprotein acetyls indicate chronic inflammation [ 20 ] and are associated with a wide variety of diseases [ 22 ]."
+        ],
+        "Rationale": "This is a good retrieval-based question because it targets a specific, explicitly stated fact about the temporal trajectory and clinical significance of glycoprotein acetyls. The question focuses on a key feature of the passage: the post-pubertal increase in glycoprotein acetyls and their established link to chronic inflammation in adults. The answer is directly supported by multiple verbatim statements in the passage, making it unambiguous and locatable. The question avoids copying phrases directly from the text, requires reading the passage to identify the correct metabolic measure, and is not answerable by general knowledge alone. It aligns with the topic of transmission modeling & inference by focusing on the inference of biological patterns (in this case, metabolic changes over time) that may inform public health risk assessment."
+    },
+    "22": {
+        "Question": "What statistical method was used to model the hazard function after the proportional-hazards assumption was violated in the fully adjusted models?",
+        "Evidence": [
+            "Because the assumption was violated, we used Weibull distribution to model the hazard function."
+        ],
+        "Rationale": "This is a good retrieval-based question because it targets a specific methodological detail\u2014 the use of the Weibull distribution\u2014 that is explicitly stated in the passage in response to a technical issue (violation of the proportional-hazards assumption). The question focuses on a key aspect of study design and causal estimation, particularly in survival analysis, and requires the reader to locate a precise technical decision made in the statistical analysis. The answer is unambiguously present in the text and cannot be inferred from general knowledge. The question avoids copying phrases directly from the passage (e.g., it does not ask 'what distribution was used?' verbatim) and is grammatically complete and focused."
+    },
+    "23": {
+        "Question": "What was the primary method used to estimate personal exposure from outdoor sources during the measurement period in the London exposure panel studies?",
+        "Evidence": [
+            "To estimate it during the measurement period, we calculated the proportion of ambient levels infiltrating into the home by using the infiltration efficiencies described above when participants were indoors. When they were outdoors or in other indoor environments, i.e. \u2018not at home\u2019, assuming no indoor sources, personal exposure from outdoor sources was equal to the measured personal exposure."
+        ],
+        "Rationale": "This is a strong retrieval-based question because it targets a specific methodological detail\u2014how personal exposure from outdoor sources was estimated during the measurement period\u2014that is explicitly described in the passage. The answer is directly locatable in the text and requires reading the 'Estimation of personal exposure from outdoor sources during the measurement period' section. The question avoids copying phrases verbatim from the passage (e.g., 'infiltration efficiencies' is used in context but not as a direct quote), and the answer ('calculating the proportion of ambient levels infiltrating into the home... and equating it to measured personal exposure when outdoors') is unambiguous and explicitly stated. This aligns with the topic of 'Measurement & bias handling' by focusing on exposure assessment methodology and error sources, which are central to valid epidemiological measurement."
+    },
+    "24": {
+        "Question": "Which statistical method was used to assess the magnitude of association between genetically predicted anthropometric traits and CRC-specific mortality in the main analysis?",
+        "Evidence": [
+            "We conducted a two-sample MR for CRC overall, by anatomical site and CRC stage using the random-effects inverse variance weighted (IVW) method.",
+            "All associations were reported using hazard ratios (HRs) for CRC-specific mortality per standard deviation (SD) increment in the genetically predicted anthropometric traits"
+        ],
+        "Rationale": "This is a strong retrieval-based question because it targets a specific methodological detail\u2014namely, the primary statistical method (IVW) used in the study\u2019s main analysis\u2014directly stated in the passage. The question avoids copying exact phrases from the text (e.g., not asking 'What method was used?' verbatim), and instead focuses on a precise component of the study design. The answer is explicitly and unambiguously located in the passage, requiring the reader to identify the method used for the main analysis. It aligns with the topic of 'Study design & causal effects' by focusing on the causal inference strategy (MR with IVW) and the effect measure (hazard ratios). The question cannot be answered from general knowledge alone, as the specific use of the random-effects IVW method in this study is unique to the passage."
+    },
+    "25": {
+        "Question": "What method was used to assess alcohol intake in the Melbourne Collaborative Cohort Study, and how were intake levels categorized for each 10-year age period?",
+        "Evidence": [
+            "Participants were asked at baseline if they had ever drunk at least 12 alcoholic drinks in a year. Those who answered yes (\u2018non-lifetime abstainers\u2019) were then asked about their usual frequency of consumption and usual quantity consumed per drinking occasion for beer, wine, and spirits separately during 10-year age periods commencing at age 20\u2009years, up to the decade of their age at baseline attendance.",
+            "We calculated the usual intake within each age period in grams per day for each beverage type by multiplying intake frequency by quantity and standard amount of alcohol per container using data from Australian food composition tables [ 19 ]. The alcohol intake for each age period in grams per day was calculated as the sum of intake from the three beverage types."
+        ],
+        "Rationale": "This is a strong retrieval-based question because it targets specific methodological details about data collection and categorization of alcohol intake, which are central to the topic of measurement and bias handling. The question requires locating two distinct pieces of information from the passage: the method of assessment (retrospective self-report across 10-year age periods) and the calculation process (frequency \u00d7 quantity \u00d7 standard alcohol content). The answer is explicitly stated in the text and cannot be inferred from general knowledge. The phrasing avoids direct copying of key phrases from the passage, ensuring the reader must engage with the content to retrieve the correct information. The evidence is verbatim and directly supports the answer."
+    },
+    "26": {
+        "Question": "What statistical method was used to estimate the associations between genetically predicted lower levels of Lp(a) and cardiovascular outcomes in the study?",
+        "Evidence": [
+            "Cox proportional hazards regression analysis was conducted to estimate the multivariable-adjusted hazard ratio (HR) for CVD and mortality outcomes.",
+            "In factorial MR analysis, the population was naturally randomly allocated into four subgroups based on the median values of genetic scores. We then estimated the change of blood lipids and the risk of CVD and mortality between the groups and the reference group using the multivariable linear and Cox proportional hazard regression, respectively, with adjustment for age, sex, assessment center, and the first 10 PCs."
+        ],
+        "Rationale": "This is a strong retrieval-based question because it targets a specific methodological detail\u2014Cox proportional hazards regression\u2014that is explicitly stated in the passage and directly relevant to the topic of study design and causal effects. The question focuses on a clearly defined analytical technique used in the study, which is not inferable from general knowledge. The answer is unambiguously supported by two verbatim sentences in the passage, both of which describe the use of Cox proportional hazards regression for estimating hazard ratios in the context of genetically predicted outcomes. The question avoids copying exact phrases from the passage, is grammatically complete, and requires direct location of information within the text."
+    },
+    "27": {
+        "Question": "What was the primary exposure variable used to assess the association with subsequent COPD development in the CHERRY study?",
+        "Evidence": [
+            "The exposure of interest was tuberculosis, from the health insurance database.",
+            "We identified participants with the outcome as those diagnosed with COPD, defined by ICD-10 codes ( Supplementary Table S1 , available as Supplementary data at IJE online) during the study period (1 January 2009 to 30 September 2021)."
+        ],
+        "Rationale": "This is a strong retrieval-based question because it targets a specific, explicitly stated exposure variable\u2014tuberculosis\u2014that is central to the study's design and analysis. The question focuses on the 'what' of the exposure (tuberculosis) and how it was measured (via the health insurance database and ICD-10 codes), which aligns directly with the topic of exposure-response interpretation. The answer is unambiguously present in the passage and cannot be inferred from general knowledge. The evidence is verbatim and clearly locatable, ensuring the question meets all quality and constraint requirements for a valid retrieval-based item."
+    },
+    "28": {
+        "Question": "What was the threshold for statistical robustness in the quality assessment of the included studies based on the width of the 95% confidence interval?",
+        "Evidence": [
+            "Statistical robustness was evaluated by the width of the Clopper\u2013Pearson 95% CIs, with intervals of <40% considered robust."
+        ],
+        "Rationale": "This is a strong retrieval-based question because it targets a specific, quantifiable criterion (the <40% threshold) used in the study's quality assessment process. The answer is explicitly stated in the passage and directly tied to the topic of measurement and bias handling, particularly the evaluation of statistical robustness. The question avoids copying phrases verbatim from the passage, is grammatically complete, and requires the reader to locate a precise numerical threshold from the text. It cannot be answered using general knowledge about epidemiological study quality, making it dependent on direct retrieval from the passage."
+    },
+    "29": {
+        "Question": "What was the latest year for which official vital registration data were available for Australia and New Zealand at the time of GBD 2019 publication?",
+        "Evidence": [
+            "latest year of input data was 2016 for Australia and 2015 for New Zealand",
+            "official cause-specific mortality data were only available up to 2015 (New Zealand)/2016 (Australia) at the time of publishing"
+        ],
+        "Rationale": "This is a strong retrieval-based question because it targets a specific factual detail about data availability timelines, which is explicitly stated in the passage. The question focuses on the 'latest year' of official vital registration data used in GBD 2019, a key element in real-time debiasing and delay adjustment. The answer is directly locatable in two distinct parts of the passage, both confirming the same information: 2016 for Australia and 2015 for New Zealand. The question avoids copying exact phrases from the text, is grammatically complete, and cannot be answered using general knowledge alone\u2014readers must retrieve the specific data from the passage. This aligns with the topic of real-time debiasing by emphasizing the importance of data timeliness and the implications of using outdated or projected data."
+    },
+    "30": {
+        "Question": "What was the range of intraclass correlation coefficients (ICCs) for accelerometer-derived phenotypes of physical activity and sleep in the study?",
+        "Evidence": [
+            "The reproducibility of the examined phenotypes was moderate to good, with the ICC (95% CI) for overall activity being 0.75 (0.74\u20130.76) and the rest ranging from 0.58 (0.56\u20130.59) for sleep efficiency to 0.69 (0.68\u20130.70) for sedentary behaviour (Fig. 2 and Supplementary Table S4)."
+        ],
+        "Rationale": "This is a strong retrieval-based question because it targets a specific quantitative measure\u2014ICCs for multiple phenotypes\u2014that is explicitly stated in the passage. The question focuses on a key aspect of measurement validity and bias handling, directly aligning with the topic. The answer is unambiguous and can be located precisely in the text: the ICCs range from 0.58 (sleep efficiency) to 0.75 (overall activity). The question avoids copying phrases verbatim from the passage, is grammatically complete, and requires the reader to extract and interpret a range of values from a specific sentence, making it resistant to guessing or inference from general knowledge."
+    },
+    "31": {
+        "Question": "What was the primary outcome measure used to assess malaria diagnosis rates in the study conducted in Lambar\u00e9n\u00e9, Gabon?",
+        "Evidence": [
+            "The primary outcome is the malaria diagnosis rate from 2018 to early 2023, calculated as the monthly number of malaria diagnoses by 1000 all-cause diagnoses across all wards in both hospitals, including malaria and excluding COVID-19 diagnoses."
+        ],
+        "Rationale": "This is a strong retrieval-based question because it targets a specific, explicitly stated methodological detail\u2014the definition and calculation of the primary outcome\u2014in the passage. The answer is directly locatable in the text and requires reading the 'Outcome variables' section to identify the precise formula used. The question avoids vague or broad phrasing and does not rely on inference or external knowledge. It aligns with the topic of program performance and impact evaluation by focusing on how disease burden and diagnostic trends were quantified in a real-world setting, which is central to assessing program effectiveness."
+    },
+    "32": {
+        "Question": "What method was used to generate estimates of historic smoking data for 11,040 sociodemographic strata in Australia between 2001 and 2023?",
+        "Evidence": [
+            "We applied a simulated annealing approach [31] to estimate smoking prevalence disaggregated by year, sex, age, remoteness, SES, and Indigenous status between 2001 and 2023, using the datasets in Table 1.",
+            "A detailed description of this approach is available in the Supplementary Methods. Briefly, simulated annealing is a probabilistic algorithm used to search for an optimal solution within a parameter space, based on pre-defined target(s) [32]."
+        ],
+        "Rationale": "This is a good retrieval-based question because it targets a specific methodological detail\u2014'simulated annealing'\u2014that is explicitly stated in the passage as the technique used to generate historic smoking prevalence estimates across 11,040 strata. The question focuses on a precise component of the modeling process, requiring the reader to locate the exact method name and its application context. The answer is unambiguously present in the text and cannot be inferred from general knowledge. The question avoids copying phrases directly from the passage (e.g., it does not ask 'what approach was used?' verbatim), and it is grammatically complete and focused on a single, factual element of the model, satisfying all quality and constraint requirements."
+    },
+    "33": {
+        "Question": "What was the time period covered by the study analyzing childhood cancer incidence near nuclear installations in Great Britain?",
+        "Evidence": [
+            "the study period was 01 January 1995 to 31 December 2016 (latest available data)",
+            "During the study period (1995\u20132016), 14 791 incident cases of LNHL, 8303 cases of CNS cancer, and 27 409 cases of all solid tumours were diagnosed in children aged 0\u201314\u2009years resident in Great Britain."
+        ],
+        "Rationale": "This is a strong retrieval-based question because it targets a specific temporal fact\u2014the exact start and end dates of the study period (1995\u20132016)\u2014which is explicitly stated in the passage. The question focuses on a key component of time-place-person patterns by asking about the temporal scope of surveillance data, without using verbatim phrases from the text that would make the answer obvious. The answer is unambiguous and directly locatable in two distinct parts of the passage, ensuring reliability. It cannot be answered using general knowledge alone, requiring the reader to locate the specific time frame within the study description."
+    },
+    "34": {
+        "Question": "What was the primary reason for compiling the mortality data in mid-2023?",
+        "Evidence": [
+            "Data were compiled in mid-2023 to account for reporting delays",
+            "allow reporting authorities sufficient time to consolidate and enhance the quality of the data"
+        ],
+        "Rationale": "This is a good retrieval-based question because it targets a specific methodological detail\u2014timing of data compilation\u2014directly stated in the passage. The question focuses on the rationale behind the mid-2023 data compilation, which is explicitly linked to accounting for reporting delays and ensuring data quality. The answer is unambiguously present in the text and cannot be inferred from general knowledge. The question avoids copying phrases verbatim from the passage, is grammatically complete, and aligns with the topic of real-time debiasing and delay adjustment by focusing on data timing and quality control measures."
+    },
+    "35": {
+        "Question": "What was the birth prevalence of isolated clubfoot in the Northern Territory during the study period from 2009 to 2022?",
+        "Evidence": [
+            "During the study period, 53\u200a591 live births were recorded. For 150 clubfoot cases, the overall birth prevalence for the period was 2.80/1000 (95% CI: 2.38\u20133.27)."
+        ],
+        "Rationale": "This is a strong retrieval-based question because it targets a specific, quantifiable fact\u2014birth prevalence\u2014within the topic of time-place-person patterns, particularly focusing on spatial and demographic distribution. The question is focused on a precise numerical value (2.80/1000) that is explicitly stated in the passage and directly tied to the time period (2009\u20132022) and geographic location (Northern Territory). The answer cannot be inferred from general knowledge and requires locating the exact figure in the text. The phrasing avoids copying key phrases verbatim (e.g., not asking 'What was the overall birth prevalence?'), ensuring the reader must engage with the passage to retrieve the correct value."
+    },
+    "36": {
+        "Question": "What statistical method did the study use to examine the association between temperature exposure and preterm birth while accounting for time-varying exposures and gestational length?",
+        "Evidence": [
+            "We fitted Cox proportional-hazards models with time-dependent covariates integrated with a DLNM [ 28 , 40 ].",
+            "We used a new statistical approach, we observed no major difference in associations, consistently with an American time-series study that examined the issue [ 6 ].",
+            "We applied a new approach to demonstrate the predictions of the model for realistic cumulative exposure trajectories."
+        ],
+        "Rationale": "This is a good retrieval-based question because it targets a specific methodological choice (Cox models with time-dependent covariates integrated with a DLNM) that is explicitly stated in the passage and directly relevant to the topic of study design and causal effects. The question focuses on a key innovation in the study\u2019s approach\u2014handling time-varying exposures and gestational length\u2014without copying phrases verbatim from the text. The answer is unambiguously located in the passage and cannot be inferred from general knowledge. The evidence includes multiple supporting sentences that confirm the use of this method and its adaptation to prenatal exposure, making it a strong example of a retrieval-based question grounded in factual, locatable content."
+    },
+    "37": {
+        "Question": "What statistical method was used to assess the association between congenital anomalies and premature adult mortality in the Jerusalem Perinatal Study?",
+        "Evidence": [
+            "Hazard ratios (HRs) with 95% confidence intervals (CIs) were calculated by fitting Cox proportional hazard models.",
+            "We conducted several sensitivity analyses ... using the multiple imputations by chained equations with five imputation datasets (R package mice).",
+            "Finally, since our data on family background are limited, we performed a sibling fixed-effects analysis. This design compares the mortality of siblings with and without anomalies within the same family and thus controls for unmeasured shared factors..."
+        ],
+        "Rationale": "This is a good retrieval-based question because it targets specific methodological details from the study design section, particularly the primary statistical approach (Cox proportional hazard models) used to estimate the association between congenital anomalies and adult mortality. The answer is explicitly stated in the passage and requires locating a precise technical term. The question avoids copying phrases directly from the text (e.g., not asking 'what model was used?' verbatim), and focuses on a clearly defined methodological component. The evidence includes multiple relevant excerpts that confirm the use of Cox models, imputation, and fixed-effects analysis, all of which are part of the causal inference strategy. The question is not answerable by general knowledge alone and requires direct reference to the passage for accurate identification of the statistical method."
+    },
+    "38": {
+        "Question": "What is one environmental factor that contributes to food insecurity, as mentioned in the passage?",
+        "Evidence": [
+            "Neighborhood context (e.g. grocery infrastructure) [ 8 ]",
+            "accessibility (transportation to and availability of quality foods) [ 9 ]",
+            "the affordability of foods [ 5 ]"
+        ],
+        "Rationale": "This is a strong retrieval-based question because it targets specific, explicitly stated environmental factors that contribute to food insecurity, directly aligning with the topic of contextual determinants of exposure. The question focuses on a factual detail (a specific environmental factor) without relying on inference or general knowledge. The passage clearly lists three environmental contributors\u2014grocery infrastructure, accessibility, and affordability\u2014making the answer directly locatable. The question avoids copying phrases verbatim from the passage (e.g., it does not ask 'what is an example of neighborhood context?'), ensuring it requires reading and retrieval rather than recognition. The answer is unambiguous and can be confirmed from multiple explicit statements in the text."
+    },
+    "39": {
+        "Question": "Which statistical method was used in the study to decompose the total effect of socio-economic conditions on pain into direct and indirect components, and what advantage does it have over traditional mediation methods?",
+        "Evidence": [
+            "We used counterfactual mediation methods to examine the extent to which the association between each socio-economic indicator and pain outcomes was mediated by sleep measures that fulfilled the criteria for mediation (based on the previously mentioned three sets of analyses) ( Fig. 1 ).",
+            "Counterfactual mediation analysis enables the decomposition of the total effect of socio-economic conditions on pain into direct and indirect components, even in the presence of interactions and non-linearities, overcoming limitations of traditional approaches (e.g. difference-of-coefficients or product-of-coefficients methods) [ 40 , 41 ]."
+        ],
+        "Rationale": "This is a strong retrieval-based question because it targets specific methodological content from the passage\u2014namely, the use of counterfactual mediation analysis and its advantages over traditional methods. The answer is explicitly stated in two distinct parts: the method (counterfactual mediation methods) and its key advantage (ability to handle interactions and non-linearities, overcoming limitations of traditional approaches). The question avoids copying exact phrases from the passage, is grammatically complete, and focuses on a precise factual detail within the topic of study design and causal effects. The evidence is directly locatable in the text, and the answer cannot be derived from general knowledge without reading the passage."
+    },
+    "40": {
+        "Question": "During which months did the study observe higher trends in respiratory visits to primary healthcare centers in Central Kalimantan?",
+        "Evidence": [
+            "There were apparently higher trends of respiratory visits during July to October",
+            "major haze episodes occurred during this monsoon season (July to September in 2015 and 2019)"
+        ],
+        "Rationale": "This is a good retrieval-based question because it targets a specific temporal pattern (months with increased respiratory visits) that is explicitly stated in the passage. The question focuses on a clear time-place pattern by asking about the seasonal timing of health outcomes, which aligns with the topic of seasonality and clustering. The answer ('July to October') is directly supported by two verbatim statements in the passage, one describing the trend and another linking it to the monsoon season. The question avoids copying exact phrases from the text, is grammatically complete, and requires the reader to locate and retrieve the specific time period from the passage without relying on general knowledge."
+    },
+    "41": {
+        "Question": "What specific environmental factors were included as predictors in the hybrid Kriging land-use regression (LUR) model used to estimate daily PM 2.5, NO 2, and CO levels in Taiwan?",
+        "Evidence": [
+            "Meteorological variables, greenness, culture-specific emissions (e.g. temples, Chinese restaurants), proximity to the nearest power plant, garbage incinerators, and industrial parks were predictors for PM 2.5, NO 2, and CO [ 37\u201339 ].",
+            "Additionally, levels of co-pollutants such as SO 2 and O 3 were determined [ 37\u201339 ]."
+        ],
+        "Rationale": "This is a strong retrieval-based question because it targets specific, explicitly stated environmental predictors used in the exposure model, directly aligning with the topic of contextual determinants of exposure. The question focuses on the integration of environmental and social-structural conditions (e.g., proximity to industrial sites, cultural emissions) that shape exposure risk. The answer is unambiguously located in the passage and requires the reader to extract precise information from the 'Exposure evaluation' section. The evidence includes verbatim mentions of the predictors, ensuring the answer is directly retrievable without inference or external knowledge."
+    },
+    "42": {
+        "Question": "What criterion was used to exclude weight measurements in the phenomenological data-filtering approach, and what were the specific limits applied?",
+        "Evidence": [
+            "we excluded all weight measurements of <50 or >500 lbs",
+            "we excluded impossible biological values in the first step of data filtering with a phenomenological approach",
+            "Based on our experience in the communities, we determined that the ranges of all other outcomes were within possibility for humans. Therefore, we did not exclude values from the other outcomes as being impossible."
+        ],
+        "Rationale": "This is a strong retrieval-based question because it targets specific, explicitly stated criteria for data exclusion in a novel method described in the passage. The question focuses on the phenomenological approach to data filtering, which is central to the topic of measurement and bias handling. The answer requires locating precise numerical thresholds (<50 lbs and >500 lbs) and the underlying rationale (biological impossibility), both of which are directly stated in the text. The question avoids copying phrases verbatim from the passage, is grammatically complete, and cannot be answered using general knowledge alone\u2014readers must refer to the passage to identify the exact limits and the basis for their application."
+    },
+    "43": {
+        "Question": "Which country was excluded from the education-specific analyses due to its inability to recognize foreign educational qualifications?",
+        "Evidence": [
+            "Finland could only identify educational qualifications obtained within its own system and did not include foreign qualifications; hence, Finland was excluded from the education-specific analyses."
+        ],
+        "Rationale": "This is a strong retrieval-based question because it targets a specific methodological detail\u2014data limitation due to exclusion of foreign qualifications\u2014that is explicitly stated in the passage. The question focuses on a clear, factual constraint related to measurement validity and data comparability, which aligns with the topic of 'Measurement & bias handling'. The answer ('Finland') is directly locatable in the text and cannot be inferred from general knowledge. The question avoids copying phrases verbatim from the passage, is grammatically complete, and requires the reader to retrieve a precise piece of information from the 'Data' section."
+    },
+    "44": {
+        "Question": "In which time period was the Epicovid 2.0 survey conducted across Brazil?",
+        "Evidence": [
+            "The Epicovid 2.0 survey was carried out between March and June 2024, covering all 26 states of the country and the Federal District."
+        ],
+        "Rationale": "This is a strong retrieval-based question because it targets a specific temporal fact\u2014 the exact time period of the survey\u2014 that is explicitly stated in the passage. The question focuses on a key element of time-place-person patterns by asking about the temporal scope of a population surveillance study. The answer ('March and June 2024') is directly locatable in the text and cannot be inferred from general knowledge. The phrasing avoids copying exact phrases from the passage, ensuring the question requires reading and locating the information rather than recognizing a verbatim match. This aligns with the topic of temporal trends in public health surveillance."
+    },
+    "45": {
+        "Question": "What was the estimated life-expectancy loss for Peruvian males at the beginning of the COVID-19 pandemic?",
+        "Evidence": [
+            "For some Latin American countries, life-expectancy losses at the beginning of the pandemic ranged from 3 (Chilean females) to 10 years (Peruvian males) [ 5 , 7 , 8 ]."
+        ],
+        "Rationale": "This is a strong retrieval-based question because it targets a specific, quantifiable fact\u2014life-expectancy loss for Peruvian males\u2014directly stated in the passage. The answer (10 years) is explicitly mentioned in a clearly locatable sentence and cannot be inferred from general knowledge. The question focuses on a precise detail within the broader topic of program performance and impact evaluation, particularly in assessing disease burden and population health outcomes. It avoids copying phrases from the passage verbatim, ensuring the reader must locate the specific data point rather than recognize a familiar phrase."
+    },
+    "46": {
+        "Question": "What was the highest category of dental amalgam fillings used in the longitudinal analysis of disability progression?",
+        "Evidence": [
+            "In the longitudinal analysis of disability progression, exposure was grouped into three categories to ensure statistical power and interpretability: zero, one to five, or six or more fillings."
+        ],
+        "Rationale": "This is a good retrieval-based question because it targets a specific, explicitly stated exposure categorization from the passage. The question focuses on the highest category of amalgam fillings used in the longitudinal analysis, which is clearly defined as 'six or more fillings' in the text. The answer is directly locatable and requires reading the passage to identify the exact grouping used in the study, rather than relying on general knowledge. The question avoids copying phrases verbatim and is grammatically complete, making it suitable for a retrieval-based format. It aligns with the topic of exposure-response interpretation by focusing on how exposure was measured and categorized."
+    },
+    "47": {
+        "Question": "What is the primary method used in Mendelian randomization for causal inference, and what role do genetic variants play in this approach?",
+        "Evidence": [
+            "Mendelian randomization (MR) has become a highly used approach in epidemiological research, offering a robust method for causal inference, generally through leveraging genetic variants as instrumental variables (IVs)",
+            "The appeal of MR lies in its ability to reduce biases from confounding and reverse causation, common limitations in conventional observational studies, making it a valuable tool for strengthening causal inference"
+        ],
+        "Rationale": "This is a strong retrieval-based question because it targets specific, explicitly stated factual content about the core methodological design of Mendelian randomization. The question focuses on the primary method (causal inference via instrumental variables) and the role of genetic variants (as instrumental variables), both of which are directly and unambiguously stated in the passage. The answer cannot be derived from general knowledge alone and requires locating the specific sentence that defines MR\u2019s methodological foundation. The question avoids copying phrases verbatim from the passage, is grammatically complete, and has a single, clear answer based on the text. It aligns with the topic 'Study design & causal effects' by addressing the identification strategy (instrumental variables) and the causal estimation framework."
+    },
+    "48": {
+        "Question": "What was the hazard ratio associated with consuming four to five subtypes of plant-protein sources compared to no consumption in the study?",
+        "Evidence": [
+            "Across countries, consuming four to five subtypes of plant-protein sources was associated with a lower incidence of T2D [HR 0.78 (95% CI 0.65, 0.93)] compared with no consumption (Table 3)."
+        ],
+        "Rationale": "This is a strong retrieval-based question because it targets a specific exposure-response metric\u2014namely, the hazard ratio (HR) for a defined level of dietary diversity (four to five plant-protein subtypes) versus a reference group (no consumption). The answer is explicitly stated in the passage in a precise, quantified form (HR 0.78) and is directly tied to the exposure metric (plant-protein diversity) and its association with incident T2D. The question avoids copying phrases verbatim from the passage, focuses on a single, unambiguous fact, and requires the reader to locate the specific value within the results section. It aligns with the topic of exposure-response interpretation by asking about the magnitude and direction of the association between a specific exposure level and health outcome, as reported in the study."
+    },
+    "49": {
+        "Question": "What was the primary outcome measure for the cluster-level prevalence of common mental disorders (CMD) in the trial?",
+        "Evidence": [
+            "The cluster-level geometric mean prevalence of CMD, defined as an SSQ score of \u22658, was 19.4% when ACASI was used and 14.1% when using SAQ ( Table 2 )",
+            "The primary outcomes were the cluster-level prevalence of CMD, defined as an SSQ score of \u22658, and the cluster-level prevalence of any violence, defined as answering \u2018yes\u2019 to any item on the violence questionnaire."
+        ],
+        "Rationale": "This is a strong retrieval-based question because it targets a specific, explicitly stated definition of the primary outcome for CMD in the trial. The answer\u2014'SSQ score of \u22658'\u2014is directly and unambiguously stated in two parts of the passage: once in the methods section where the primary outcomes are defined, and again in the results section where the prevalence is reported. The question avoids copying exact phrases from the passage (e.g., it does not ask 'what was the definition of CMD in the trial?'), and instead focuses on the operational definition used in the analysis. The answer is not inferable from general knowledge and requires locating the specific definition within the passage. This aligns with the topic of 'Measurement & bias handling' by focusing on how CMD was measured and defined in the study, which is central to assessing measurement validity and potential misclassification."
+    },
+    "50": {
+        "Question": "What is the recommended method to mitigate selection bias in COVID-19 vaccine effectiveness studies when self-testing behavior varies by vaccination status?",
+        "Evidence": [
+            "This bias in COVID-19 VE can be mitigated by adjusting the logistic regression model by self-test use (yes/no), if this information is collected within the study without misclassification.",
+            "Adjusting for self-testing closes a non-causal path opened by conditioning on the descendant (GP consultation) of a collider (self-test result).",
+            "We recommend estimating VE both adjusted (as a main analysis) and unadjusted for self-testing, to understand its effects."
+        ],
+        "Rationale": "This is a strong retrieval-based question because it targets a specific, explicitly stated method for handling bias in the context of measurement and bias handling. The answer\u2014adjusting the logistic regression model for self-test use\u2014is directly stated in multiple parts of the passage and is central to the study\u2019s conclusion. The question avoids copying phrases verbatim from the passage (e.g., it does not ask 'how can bias be mitigated?' directly), and instead focuses on the recommended analytical solution. The answer is unambiguous and locatable, requiring the reader to identify the specific mitigation strategy described in the 'Mitigation of potential bias' section. This aligns with the topic of measurement and bias handling by focusing on a concrete method to address selection bias due to self-testing, a form of measurement-related confounding."
+    },
+    "51": {
+        "Question": "What was the forecast horizon used for all models in the UKHSA's respiratory disease forecasting suite during the 2023\u20134 winter season?",
+        "Evidence": [
+            "we chose a consistent 14-day horizon across all models.",
+            "This provides enough foresight to be useful, with meaningfully small uncertainty, agreed with end users of the forecasts."
+        ],
+        "Rationale": "This is a strong retrieval-based question because it targets a specific, quantifiable detail\u2014 the 14-day forecast horizon\u2014that is explicitly stated in the passage. The question focuses on a key methodological feature of near-term forecasting, aligning directly with the topic. The answer is unambiguous and can only be found by locating the relevant sentence in the text. It does not rely on inference or general knowledge, and the phrasing avoids copying exact phrases from the passage, ensuring the reader must engage with the content to retrieve the correct information."
+    },
+    "52": {
+        "Question": "In which year did the mifepristone\u2013misoprostol combination regimen for medication abortion become available on the Pharmaceutical Benefits Scheme (PBS) in Australia?",
+        "Evidence": [
+            "In 2013 once the combination regimen for early medication abortion was added to the Pharmaceutical Benefits Scheme (PBS), which is a list of medicines that are provided at a government-subsidized price [ 18 ].",
+            "Therefore, we only analysed data from 2013 onwards."
+        ],
+        "Rationale": "This is a strong retrieval-based question because it targets a specific temporal fact\u2014 the year of PBS listing for the mifepristone\u2013misoprostol regimen\u2014that is explicitly stated in the passage. The question focuses on a key event in the timeline of abortion care access in Australia, aligning with the topic of time-place-person patterns by emphasizing temporal trends in health service availability. The answer ('2013') is directly locatable in the text and cannot be inferred from general knowledge. The phrasing avoids copying exact phrases from the passage, ensuring the question requires reading and locating the specific information rather than recognizing a familiar phrase."
+    },
+    "53": {
+        "Question": "What was the primary exposure metric used in the study to assess commuting modes, and how were participants categorized into exposure groups?",
+        "Evidence": [
+            "Participants in paid employment or self-employed, except those who indicated they always work from home, were asked, \u201cWhat types of transport do you use to get to and from work?\u201d. They could select one or more of the five options: car/motor vehicle, walk, public transport, cycle, and mode other than those.",
+            "Since many participants used more than one mode and the number of participants who used an active mode (walking or cycling) alone was small, we grouped the modes into four overall categories: car/motor vehicle only, walk (walk only or combined with other modes except cycling), cycle (cycle only or combined with any other modes), and public transport (public transport only or combined with car)."
+        ],
+        "Rationale": "This is a strong retrieval-based question because it targets specific, explicitly stated information about the exposure metric (commuting mode) and the categorization method used in the study. The question focuses on how the exposure was measured (self-reported commuting mode) and how participants were grouped (into four composite categories based on predominant mode), both of which are clearly detailed in the passage. The answer is not inferable from general knowledge and requires direct reference to the 'Exposure (commuting modes)' section. The question avoids copying phrases verbatim from the passage, is grammatically complete, and has a single, unambiguous answer based on the text."
+    },
+    "54": {
+        "Question": "What was the age-standardized stroke mortality rate in Switzerland in 2017, according to the CoD database?",
+        "Evidence": [
+            "The overall age-standardized mortality rate was 33.7/100\u00a0000 (32.2/100\u00a0000 in women, 35.1/100\u00a0000 in men)."
+        ],
+        "Rationale": "This is a strong retrieval-based question because it targets a specific, numerically precise frequency measure\u2014age-standardized mortality rate\u2014that is explicitly stated in the passage. The question focuses on a key concept in epidemiology (standardization) and requires locating a clearly defined value from the text. The answer (33.7/100,000) is directly extractable from the passage without inference or external knowledge. The phrasing avoids copying exact phrases from the text (e.g., not asking 'what was the overall age-standardized mortality rate?'), making it a well-constructed retrieval question that aligns with the topic of frequency measures and standardization."
+    },
+    "55": {
+        "Question": "What was the percentage reduction in outpatient department visits for non-communicable diseases in Nepal during the COVID-19 pandemic compared to the pre-pandemic period?",
+        "Evidence": [
+            "A total of 3\u2009985\u2009500 outpatient department visits were recorded in the 20\u2009months before the COVID-19 pandemic compared with 2\u2009745\u2009395 visits during the pandemic, indicating an overall 31.1% reduction in outpatient department visits"
+        ],
+        "Rationale": "This is a strong retrieval-based question because it targets a specific, quantifiable fact\u2014overall percentage reduction in outpatient visits for NCDs\u2014directly stated in the passage. The question focuses on a key outcome measure from the study, aligning with the topic of program performance and impact evaluation by assessing real-world effectiveness of healthcare services. The answer (31.1%) is explicitly and unambiguously stated in the text, requiring the reader to locate and extract the exact figure from the data summary. It cannot be inferred from general knowledge and avoids copying phrases verbatim, satisfying all constraints for a high-quality retrieval question."
+    },
+    "56": {
+        "Question": "What proportion of co-segregating genes is accounted for by the cousin comparison design used in this study?",
+        "Evidence": [
+            "This design accounts for 12.5% of the co-segregating genes of the cousins and, in addition, for those environmental factors that are shared by the cousins [ 38 , 39 ]."
+        ],
+        "Rationale": "This is a strong retrieval-based question because it targets a specific, quantifiable methodological detail\u201412.5%\u2014that is explicitly stated in the passage. The question focuses on a key feature of the study design (cousin comparisons) without referencing the topic name directly. The answer is unambiguously locatable in the text and cannot be inferred from general knowledge. The evidence is a verbatim quote that directly answers the question, satisfying the requirement for a clear, factual, and retrievable response."
+    },
+    "57": {
+        "Question": "What method was used to construct a synthetic control for Seoul in the study evaluating the impact of the gastric cancer screening program?",
+        "Evidence": [
+            "We used the synthetic control method (SCM) [ 16 ] to construct a synthetic control for Seoul by deriving a weighted average of multiple control registries without intervention.",
+            "Therefore, we applied the flexible SCM approach developed by Bonander [ 16 ], which relaxes the requirement for control weights to sum to one while imposing a penalty on extrapolation to avoid unrealistic estimates."
+        ],
+        "Rationale": "This is a good retrieval-based question because it targets a specific methodological detail\u2014namely, the use of the synthetic control method (SCM) and its flexible variant\u2014directly stated in the passage. The question focuses on a key component of study design and causal inference, aligning with the topic of 'Study design & causal effects.' The answer is explicitly and unambiguously present in the text, requiring the reader to locate the specific sentence describing the method used. It does not rely on inference or general knowledge, and the phrasing avoids copying exact phrases from the passage, making it a strong retrieval question."
+    },
+    "58": {
+        "Question": "What method was used to account for batch effects in the epigenome-wide association study (EWAS) analyses?",
+        "Evidence": [
+            "SVA was also used to account for batch effects.",
+            "SVA was also used to account for batch effects."
+        ],
+        "Rationale": "This is a strong retrieval-based question because it targets a specific methodological detail\u2014how batch effects were addressed\u2014in the study's analytical pipeline. The answer, 'SVA' (surrogate variable analysis), is explicitly stated in the passage and directly tied to the topic of measurement and bias handling, particularly in relation to technical confounding. The question avoids copying exact phrases from the text (e.g., 'SVA was also used') and instead uses a clear, grammatically complete stem that requires locating the specific technique. The answer is unambiguous and cannot be inferred from general knowledge about statistical methods without reading the passage."
+    },
+    "59": {
+        "Question": "What proxy was used to measure neighbourhood-level socioeconomic position (SEP) in the study?",
+        "Evidence": [
+            "As a proxy for neighbourhood-level SEP, we used the proportion of the population aged \u226525\u2009years who had completed primary education or above\u2014obtained from a population census, with higher levels representing neighbourhoods with higher SEP."
+        ],
+        "Rationale": "This is a strong retrieval-based question because it targets a specific factual detail\u2014namely, the exact proxy used for neighbourhood-level SEP\u2014that is explicitly stated in the passage. The question focuses on a key methodological element within the topic of contextual determinants of exposure, which involves how environmental and social conditions are operationalized in research. The answer is unambiguously located in the 'Exposures' section of the passage and cannot be inferred from general knowledge. The phrasing of the question avoids direct copying of the passage text, ensuring it requires reading and locating the specific information rather than recognizing a familiar phrase."
+    },
+    "60": {
+        "Question": "What was the primary reason for ending the study period on 15 December 2021?",
+        "Evidence": [
+            "We end the study period on 15 December, because the Omicron wave caused a shortage of testing in some areas [23]\u2014which would have undercounted cases\u2014and further disrupted schools in January 2022."
+        ],
+        "Rationale": "This is a strong retrieval-based question because it targets a specific temporal decision point (the end date of the study) that is explicitly justified in the passage. The answer\u2014'the Omicron wave caused a shortage of testing and disrupted schools'\u2014is directly stated and requires the reader to locate and extract this factual detail. The question avoids copying phrases from the passage verbatim, focuses on a precise causal rationale tied to data quality and study validity, and cannot be answered using general knowledge. It aligns with the topic of study design by highlighting a methodological decision based on external events that threaten data integrity, which is a key aspect of causal inference in observational research."
+    },
+    "61": {
+        "Question": "What is the primary limitation of the offspring genotype-by-proxy MR approach in terms of statistical power compared to MR approaches using genotyped mother\u2013offspring pairs?",
+        "Evidence": [
+            "the proportion of variation in the offspring exposure explained by the paternal genotype reduced by a factor of 0.25 relative to that explained by the offspring\u2019s own genotype",
+            "our approach will be less powerful than those based on similar-sized samples of genotyped mother\u2013offspring pairs"
+        ],
+        "Rationale": "This is a strong retrieval-based question because it targets a specific, quantifiable limitation in statistical power that is explicitly stated in the passage. The question focuses on a key methodological trade-off in study design\u2014power\u2014within the context of causal inference using Mendelian randomization. The answer is directly supported by two verbatim statements in the passage: one quantifying the reduction in explained variance (by a factor of 0.25) and another explicitly stating lower power compared to mother\u2013offspring pair designs. The question avoids copying phrases directly from the passage, is grammatically complete, and requires the reader to locate and retrieve precise information from the text. It cannot be answered using general knowledge alone, making it a valid and focused retrieval question aligned with the topic of study design and causal effects."
+    },
+    "62": {
+        "Question": "What was the estimated proportion of WHO-defined pneumonia cases that were misclassified due to malaria infection in a setting with a 24% malaria parasitaemia prevalence?",
+        "Evidence": [
+            "In a region with a typical malaria parasitaemia prevalence of 24% [17], 47.8% of WHO pneumonia cases are malaria-slide-negative, 24.6% are coinfected, and 27.6% are misclassified (Figure 3)."
+        ],
+        "Rationale": "This is a strong retrieval-based question because it targets a specific, quantifiable fact\u2014 the proportion of misclassified pneumonia cases due to malaria\u2014within a defined epidemiological context (24% malaria parasitaemia prevalence). The answer is explicitly stated in the passage and can be located directly in the results section. The question avoids vague or broad phrasing and does not rely on inference or external knowledge. It aligns with the topic of 'Measurement & bias handling' by focusing on misclassification bias in clinical case definitions, a core issue in diagnostic validity. The evidence is verbatim and clearly identifies the 27.6% misclassification rate as the answer."
+    },
+    "63": {
+        "Question": "Which group experienced the largest life expectancy loss at age 25 between 2019 and 2020, and what was the magnitude of that loss?",
+        "Evidence": [
+            "In 2020, the largest losses were among low-education Hispanic men (\u22126.0\u2009years; from 81.0 to 75.0\u2009years) and women (\u22125.4\u2009years; from 87.9 to 82.5\u2009years)",
+            "the largest losses were among low-education Hispanic men (\u22126.0\u2009years; from 81.0 to 75.0\u2009years)"
+        ],
+        "Rationale": "This is a strong retrieval-based question because it targets a specific, quantifiable fact about temporal trends in life expectancy (LE) losses over a defined period (2019\u20132020) and a specific demographic subgroup (low-education Hispanic men). The answer\u2014'low-education Hispanic men' and a loss of \u22126.0 years\u2014is explicitly stated in the passage with precise numerical values and clear attribution. The question avoids copying phrases directly from the text (e.g., it does not ask 'what was the largest loss' verbatim), and the answer is unambiguous and locatable. It aligns with the topic by focusing on time-place-person patterns through demographic (race/ethnicity, education, sex) and temporal (2019\u20132020) dimensions, requiring direct reference to the passage for accurate retrieval."
+    },
+    "64": {
+        "Question": "What was the primary outcome measured in the study involving Black women in the United States?",
+        "Evidence": [
+            "We identified 276 MM cases over 27\u2009years of follow-up",
+            "We aimed to evaluate the possible relationship between area-level attributes and MM incidence in a large, prospective cohort of Black women.",
+            "We found that women living in areas of concentrated disadvantage were at a higher risk of MM regardless of educational attainment."
+        ],
+        "Rationale": "This is a strong retrieval-based question because it targets a specific, explicitly stated outcome\u2014incident multiple myeloma (MM)\u2014which is the central focus of the study. The question is focused on the primary endpoint without relying on vague or general terms, and the answer is directly supported by multiple verbatim statements in the passage. The question avoids copying exact phrases from the text (e.g., not asking 'What was the outcome of the study?' verbatim), and the answer is unambiguous and locatable. It aligns with the topic of 'contextual determinants of exposure' by focusing on how neighborhood-level factors relate to the incidence of a specific disease, which is a key aspect of understanding how social and environmental contexts influence health outcomes."
+    },
+    "65": {
+        "Question": "What type of study design was used in the trial to evaluate the effectiveness of text message reminders on timely birth dose vaccine administration in Viwandani, Kenya?",
+        "Evidence": [
+            "We conducted an open-label, stepped-wedge cluster-randomized pilot trial between December 2019 and April 2020 in the Viwandani urban informal settlement in Nairobi County in Kenya [ 8 ].",
+            "The trial was not registered as it was a pilot."
+        ],
+        "Rationale": "This is a strong retrieval-based question because it targets a specific, explicitly stated methodological detail\u2014the study design\u2014within the passage. The answer, 'stepped-wedge cluster-randomized pilot trial,' is directly and unambiguously stated in the text. The question avoids copying key phrases verbatim (e.g., it does not ask 'what was the study design?' with the exact wording from the passage), and it focuses on a precise factual element that is central to the topic of 'Study design & causal effects.' The answer cannot be inferred from general knowledge and requires direct reference to the passage. The evidence is located in the first sentence of the 'Study design and setting' section, making it easily retrievable."
+    },
+    "66": {
+        "Question": "What method was used to adjust for the complex survey design in the EPICOVID 2.0 study, including stratification, clustering, and within-city correlations?",
+        "Evidence": [
+            "Sampling weights were accounted for by using the \u201csvyset\u201d command, with the city as the stratification variable and the census sector as the primary sampling unit. All subsequent analyses were conducted by using the \u201csvy\u201d command in Stata, which adjusted for the complex survey design by accounting for stratification, clustering, and within-city correlations."
+        ],
+        "Rationale": "This is a strong retrieval-based question because it targets a specific methodological detail\u2014how the complex survey design was handled in the statistical analysis\u2014directly stated in the passage. The question focuses on a technical aspect of measurement and bias handling, specifically the use of survey weighting and statistical commands in Stata, which is central to the topic. The answer is explicitly provided in the text and requires the reader to locate the precise sentence describing the analytical approach. The phrasing avoids copying key terms verbatim (e.g., 'svyset' or 'svy command') in a way that would make the answer obvious, and the question is grammatically complete and unambiguous. The evidence is a verbatim quote that contains the full answer, making it ideal for retrieval."
+    },
+    "67": {
+        "Question": "What method was used to assign SARS-CoV-2 Pango lineages after 16 December 2021 to improve lineage assignment stability?",
+        "Evidence": [
+            "on 16 December 2021, we switched to the UShER method for placing new genome sequences onto a phylogeny [ 34 ]",
+            "To improve lineage assignment stability, on 16 December 2021, we switched to the UShER method for placing new genome sequences onto a phylogeny [ 34 ]"
+        ],
+        "Rationale": "This is a good retrieval-based question because it targets a specific methodological change (switching to the UShER method) that is explicitly stated in the passage and directly related to the topic of transmission modeling and inference. The question focuses on a precise factual detail\u2014what method replaced the previous one after a specific date\u2014without relying on inference or general knowledge. The answer ('UShER method') is clearly and unambiguously stated in two separate sentences, making it easily locatable. The question avoids copying exact phrases from the passage, is grammatically complete, and has a single, unambiguous answer, satisfying all quality and constraint requirements for a strong retrieval-based question."
+    },
+    "68": {
+        "Question": "What was the estimated hazard ratio for subsequent peer-reviewed publication of preprints from 2019 compared to COVID-19 preprints, according to the Cox proportional-hazards model?",
+        "Evidence": [
+            "Cox proportional-hazards models estimated (i) a 62% greater \u2018hazard\u2019 of peer-reviewed publication for preprints prior to the pandemic (during 2019) compared with COVID-19 preprints, with a hazard ratio (HR) of 1.62 (95% confidence interval (CI): 1.60, 1.65)"
+        ],
+        "Rationale": "This is a strong retrieval-based question because it targets a specific quantitative measure\u2014hazard ratio (HR)\u2014from a statistical model explicitly described in the passage. The question focuses on a precise piece of evidence (HR = 1.62) that is directly stated in the text and not inferable from general knowledge. The phrasing avoids copying exact phrases from the passage (e.g., not asking 'what was the hazard ratio?' verbatim), and the answer is unambiguous and locatable. It aligns with the topic of 'Measurement & bias handling' by addressing a key statistical estimate used to assess publication bias and time-to-event analysis, which are central to evaluating measurement validity and potential selection bias in research dissemination."
+    },
+    "69": {
+        "Question": "What was the threshold used to categorize ferritin levels as indicative of iron overload in men according to the WHO cutoffs?",
+        "Evidence": [
+            "overload (>200\u2009ng/mL in men; >150\u2009ng/mL in women) [ 32 , 33 ]"
+        ],
+        "Rationale": "This is a strong retrieval-based question because it targets a specific, explicitly stated threshold (200 ng/mL) for ferritin levels in men that defines iron overload according to WHO guidelines, as mentioned in the passage. The question focuses on a precise exposure metric (ferritin) and its clinical categorization, directly aligning with the topic of exposure-response interpretation. The answer is unambiguously located in the passage and cannot be inferred from general knowledge. The phrasing avoids copying exact phrases from the text, ensuring the reader must locate the specific value within the context of the WHO cutoffs."
+    },
+    "70": {
+        "Question": "What type of occupational activities are more likely to increase exposure to extreme temperatures among young and middle-aged Medical Aid beneficiaries in South Korea?",
+        "Evidence": [
+            "Young or middle-aged individuals are more likely to engage in occupational and outdoor activities that could increase the possibility for exposure to extreme temperatures.",
+            "In South Korea, economically disadvantaged males tend to work in relatively more intensive industries (such as construction, agriculture, and transportation) that can increase exposure to outdoor extreme temperatures, compared with females and males who are not socially marginalized."
+        ],
+        "Rationale": "This is a good retrieval-based question because it targets specific contextual determinants of exposure\u2014namely, occupational and outdoor activities\u2014explicitly mentioned in the passage as contributing factors for increased temperature exposure among a vulnerable subgroup. The question focuses on a clearly defined population (young and middle-aged MA beneficiaries) and asks for a factual detail (types of occupational activities) that is directly stated in two distinct parts of the text. The answer is not inferable from general knowledge and requires locating and retrieving specific information from the passage. The evidence is verbatim and directly supports the answer, making this a strong example of a retrieval-based question aligned with the topic of 'Contextual determinants of exposure'."
+    },
+    "71": {
+        "Question": "What was the primary exposure variable in the CARRS cohort study analyzing the relationship between menarche age and incident diabetes?",
+        "Evidence": [
+            "The exposure for this analysis was age at menarche, in years, or age at first menstrual period.",
+            "It was ascertained at baseline based on self-report queried through a questionnaire."
+        ],
+        "Rationale": "This is a strong retrieval-based question because it targets a specific, explicitly stated exposure variable (age at menarche) that is central to the study's design. The question focuses on the 'what' and 'how' of the exposure metric\u2014specifically, the definition and method of measurement\u2014without copying phrases directly from the passage. The answer is unambiguously located in the 'Exposure and outcome assessment' section, where the exposure is clearly defined as 'age at menarche, in years' and confirmed to be self-reported. The question does not rely on inference or general knowledge, and the evidence is verbatim from the passage, making it ideal for retrieval-based assessment."
+    },
+    "72": {
+        "Question": "What statistical method was used to identify susceptible windows of childhood air-pollution exposure in relation to adult bronchitic symptoms?",
+        "Evidence": [
+            "We employed data-driven distributed lag models (DLMs) to identify susceptible air-pollution-exposure windows in childhood and investigated effect modification by sex.",
+            "To explore susceptible windows, we fitted log Poisson DLMs with robust standard error estimators with a cross-basis of a log-linear exposure\u2013response association based on prior work [ 18 ] and a lag\u2013response association using a natural cubic spline smooth function."
+        ],
+        "Rationale": "This is a good retrieval-based question because it targets a specific methodological detail\u2014namely, the use of distributed lag models (DLMs)\u2014that is explicitly stated in the passage. The question focuses on a key analytical technique used in the study, which is central to the topic of transmission modeling and inference, even though the context is environmental exposure rather than infectious disease transmission. The answer is directly locatable in the text and cannot be inferred from general knowledge. The evidence appears in two distinct parts of the passage, both confirming the use of DLMs for identifying susceptible exposure windows, making the answer unambiguous and verifiable."
+    },
+    "73": {
+        "Question": "Which demographic and socioeconomic characteristics were associated with higher rates of food insecurity during the pandemic in Brazil, according to the study?",
+        "Evidence": [
+            "Food insecurity during the outbreak was reported in 47.4% (95% CI: 45.9%; 48.8%) of the families, and in 8.5% (95% CI: 7.7; 9.3), at least one adult failed to eat on one or more days due to lack of money (data not shown in Table). Food insecurity, work disruptions, and interruption of studies were more common among families earning one minimum wage or less, those led by women, and households with six or more residents.",
+            "Food insecurity was particularly frequent in low-income and female-headed families, those with six or more members and with children, and among indigenous populations.",
+            "Almost two-thirds of the low-income families reported food insecurity; the SII value of 0.42 indicates a wide prevalence gap of 42 percentage points between the poorest and wealthiest households."
+        ],
+        "Rationale": "This is a strong retrieval-based question because it targets specific, explicitly stated socioeconomic and demographic factors linked to food insecurity in the passage. The question focuses on a key outcome (food insecurity) and asks for the characteristics associated with it, which are directly listed in multiple parts of the text. The answer requires locating and synthesizing information from several evidence statements, all of which are verbatim from the passage. The question avoids copying phrases directly from the text, is grammatically complete, and cannot be answered using general knowledge alone. It aligns with the topic of 'Contextual determinants of exposure' by focusing on how structural and social conditions (income, household composition, family size, ethnicity) shape exposure to pandemic-related risk, particularly food insecurity."
+    },
+    "74": {
+        "Question": "What was the primary causal estimand defined in the study's target trial protocol?",
+        "Evidence": [
+            "The causal estimand corresponds to the intention-to-treat effect, i.e. an average treatment effect of initiation in a given period.",
+            "The \u2018as-started\u2019 effect, the target trial emulation equivalent of an \u2018intention-to-treat\u2019 effect [22]."
+        ],
+        "Rationale": "This is a strong retrieval-based question because it targets a specific, explicitly stated causal estimand from the passage\u2014'intention-to-treat effect'\u2014which is directly defined in two distinct parts of the text. The question focuses on a core element of study design and causal inference, aligning with the topic of 'Study design & causal effects'. The answer is unambiguous and can only be retrieved from the passage; it is not inferable from general knowledge. The phrasing avoids copying exact phrases from the passage verbatim, ensuring the question is not trivial. The evidence is verbatim and clearly locatable, satisfying the criteria for a high-quality retrieval question."
+    },
+    "75": {
+        "Question": "Which maternal health condition during pregnancy was associated with earlier puberty in girls by approximately 3.5 months?",
+        "Evidence": [
+            "Girls of mothers with polycystic ovarian syndrome (PCOS) experienced earlier puberty by \u223c3.5\u2009months."
+        ],
+        "Rationale": "This is a strong retrieval-based question because it targets a specific exposure-response relationship explicitly stated in the passage. The question focuses on a precise outcome (earlier puberty in girls) and a specific exposure (maternal PCOS), with a quantified effect size (\u223c3.5 months) that is directly stated. The answer is unambiguously located in the text and cannot be inferred from general knowledge. The question avoids copying phrases verbatim from the passage, remains grammatically complete, and aligns with the topic of exposure-response interpretation by requiring identification of a specific exposure metric (maternal PCOS) and its associated effect on pubertal timing."
+    },
+    "76": {
+        "Question": "What was the primary exposure metric used to assess the impact of climate-related disasters on biological aging in this study?",
+        "Evidence": [
+            "Our primary exposure was defined for each subject based on whether they had been exposed to TCs or floods.",
+            "We obtained the global TC and flood events data for between 1993 and 2009 from the International Best Track Archive for Climate Stewardship [ 32 ] and Dartmouth Flood Observatory [ 33 ], respectively, to estimate the TC and flood exposure of each individual based on their residential address. A participant was considered exposed to a flood or TC if their home was located within the affected areas."
+        ],
+        "Rationale": "This is a strong retrieval-based question because it targets a specific, explicitly stated exposure metric\u2014residential proximity to tropical cyclones (TCs) or floods\u2014defined by geographic location within affected areas. The question focuses on the method of exposure assessment (residential address in disaster-affected zones) without copying verbatim phrases from the passage, ensuring the answer must be located within the text. The evidence is directly stated in two consecutive sentences, making the answer unambiguous and retrievable. The question aligns with the topic of 'Exposure-response interpretation' by asking about the nature and measurement of the exposure, which is central to interpreting the relationship between environmental stressors and biological aging outcomes."
+    },
+    "77": {
+        "Question": "What threshold was used to classify current drinkers into categories based on daily alcohol consumption in the study?",
+        "Evidence": [
+            "Current drinkers were classified according to the alcohol amount as <12.5, 12.5\u201324.9, 25\u201349.9, and \u226550\u2009g/day.",
+            "This category was used to focus on light drinking [ 20 ]."
+        ],
+        "Rationale": "This is a good retrieval-based question because it targets a specific exposure metric (daily alcohol consumption thresholds) that is explicitly defined in the passage. The question focuses on the classification criteria used for current drinkers, which is a core component of exposure-response interpretation. The answer\u2014'<12.5, 12.5\u201324.9, 25\u201349.9, and \u226550\u2009g/day'\u2014is directly stated in the text and cannot be inferred from general knowledge. The question avoids copying exact phrases from the passage (e.g., not asking 'What were the categories of alcohol consumption?'), ensuring it requires locating specific information rather than recognizing a verbatim match. The evidence is clearly locatable and unambiguous, satisfying the criteria for a high-quality retrieval-based question."
+    },
+    "78": {
+        "Question": "What was the primary reason for using the assessment centre as a proxy in the UK Biobank study?",
+        "Evidence": [
+            "the residential locations of the subjects are not made available to the users, requiring the use of assessment centre as a proxy for geographical areas"
+        ],
+        "Rationale": "This is a good retrieval-based question because it targets a specific factual detail about study design and data limitations explicitly stated in the passage. The question focuses on the rationale behind a methodological choice (using assessment centre as a proxy) without referencing the topic name directly. The answer is unambiguously located in the passage and cannot be inferred from general knowledge. It requires the reader to identify the specific sentence explaining the data restriction that necessitated the use of assessment centre as a proxy, making it a strong example of a retrieval-based question focused on measurement and bias handling, particularly in relation to spatial misclassification and data availability constraints."
+    },
+    "79": {
+        "Question": "What was the age threshold used to define paternal snus use initiation during puberty in the study?",
+        "Evidence": [
+            "We defined \u2018paternal snus use\u2019 as never-use, in puberty (\u226415\u2009years of age), and after puberty (>15\u2009years of age)."
+        ],
+        "Rationale": "This is a strong retrieval-based question because it targets a specific, explicitly stated exposure metric (age threshold) used in the study to categorize paternal snus use. The answer\u2014'\u226415 years of age'\u2014is directly and unambiguously stated in the passage, making it locatable without inference. The question avoids copying phrases verbatim from the passage (e.g., it does not ask 'what age was used to define puberty?' but instead focuses on the threshold), and it is narrowly scoped to a single factual detail within the topic of exposure-response interpretation. The information is essential for understanding how exposure was defined and is not general knowledge, requiring the reader to consult the passage for the exact value."
+    },
+    "80": {
+        "Question": "What was the primary health outcome used in the study to assess the impact of non-optimum temperatures in Czechia?",
+        "Evidence": [
+            "We collected daily counts of all-cause, cardiovascular, and respiratory ambulance dispatches",
+            "Ambulance dispatches data can offer timely health information, serving as a crucial source of evidence on the early effects of moderate and extreme temperatures"
+        ],
+        "Rationale": "This is a good retrieval-based question because it targets a specific, explicitly stated health outcome (ambulance dispatches) that is central to the study's objectives. The question focuses on the primary outcome variable used in the analysis, which is clearly defined in the passage as 'all-cause, cardiovascular, and respiratory ambulance dispatches'. The answer is directly locatable in the text and cannot be inferred from general knowledge. The question avoids copying phrases verbatim from the passage (e.g., it does not ask 'what data were collected?'), and it is grammatically complete and focused on a single factual element, making it suitable for retrieval-based assessment. The evidence spans two key sentences that together confirm the primary outcome used in the study."
+    },
+    "81": {
+        "Question": "What biological marker measured at age 9 years was associated with increased odds of any urinary incontinence at age 14 years in the adjusted models?",
+        "Evidence": [
+            "A one-unit increase in log IL-6 was associated with an increase in the odds of any UI, daytime wetting, and nocturia in the adjusted models (Table 2).",
+            "There was weak evidence that IL-6 was associated with reduced odds of voiding postponement (OR 0.89, 95% CI 0.79\u20131.00). The 95% CIs for associations of IL-6 with the other LUTS crossed the null."
+        ],
+        "Rationale": "This is a strong retrieval-based question because it targets a specific exposure-response relationship explicitly stated in the passage: the association between a biomarker (IL-6) measured at a defined time (age 9 years) and a health outcome (any UI at age 14 years) in adjusted models. The question focuses on a precise exposure metric (log IL-6) and outcome, requiring the reader to locate the relevant data from Table 2 and the text. The answer (IL-6) is directly stated and unambiguous, and cannot be inferred without consulting the passage. The question aligns with the topic of exposure-response interpretation by focusing on how a specific exposure (inflammatory biomarker) is linked to a health outcome, including the timing and statistical adjustment context."
+    },
+    "82": {
+        "Question": "What was the odds ratio (OR) for cardia gastric cancer among obese individuals compared to those with normal weight, according to the pooled analysis in the StoP Project?",
+        "Evidence": [
+            "Obese individuals showed an increased risk of cardia GC (OR 1.57, 95%\u00a0CI 1.20\u20132.06)",
+            "Our pooled analysis of seven case\u2013control studies from the international StoP Consortium showed that obese subjects have a around 60% increased risk of cardia GC."
+        ],
+        "Rationale": "This is a strong retrieval-based question because it targets a specific quantitative result (the odds ratio for obese individuals) from a clearly defined exposure-response relationship in the passage. The question focuses on a precise metric (OR) and a specific subgroup (obese individuals with cardia GC), which is explicitly stated in the text. The answer (OR 1.57) is directly retrievable from the passage without inference or external knowledge. The question avoids copying exact phrases from the passage (e.g., not asking 'What was the OR for obese individuals?'), and the stem is grammatically complete and unambiguous. The evidence is verbatim and located in two distinct parts of the passage, both confirming the same result, which strengthens the reliability of the retrieval."
+    },
+    "83": {
+        "Question": "What was the estimated relative increase in DCIS incidence for every 5-year span of exposure to the mammography screening programme, according to the study's final model?",
+        "Evidence": [
+            "We estimated a relative increase in incidence of 8.9% (95% CI: 0.0%; 19.0%) every 5-year span of exposure to screening."
+        ],
+        "Rationale": "This is a strong retrieval-based question because it targets a specific quantitative result from the study's statistical analysis, directly tied to the topic of transmission modeling & inference through the use of a model that decomposes trends into components (screening exposure vs. residual trend). The answer\u20148.9%\u2014is explicitly stated in the passage in a precise, locatable form, and cannot be derived from general knowledge. The question avoids copying phrases from the passage verbatim, focuses on a specific numerical finding, and requires the reader to locate the exact value within the results section. The evidence is a verbatim quote from the final model's findings, making it unambiguous and directly retrievable."
+    },
+    "84": {
+        "Question": "What was the observation window used in the study to analyze multimorbidity trends in Catalonia, and why was this period selected?",
+        "Evidence": [
+            "To minimize biases that might have arisen from lack of information before 2005, a 5-year washout period (2005\u20139) was used, setting the observation window from 2010 to 2021.",
+            "Only those individuals without diagnoses during the washout were considered to have been disease-free in 2010."
+        ],
+        "Rationale": "This is a strong retrieval-based question because it targets specific temporal and methodological information explicitly stated in the passage. The question asks for the observation window (2010\u20132021) and the rationale behind its selection (to minimize bias from incomplete pre-2005 data via a 5-year washout period). The answer is directly supported by two verbatim sentences in the passage, which are clearly locatable and unambiguous. The question avoids copying exact phrases from the text, focuses on a precise factual detail within the topic of temporal trends, and cannot be answered using general knowledge alone\u2014requiring direct reference to the passage."
+    }
+}

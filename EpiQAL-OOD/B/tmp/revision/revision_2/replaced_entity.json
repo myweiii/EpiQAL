@@ -1,0 +1,350 @@
+{
+    "0": [
+        "multibacillary leprosy",
+        "leprosy"
+    ],
+    "1": [
+        "dengue",
+        "mosquito-borne flavivirus infection with four serotypes transmitted by Aedes mosquitoes"
+    ],
+    "2": [
+        "brucellosis",
+        "Brucella species"
+    ],
+    "3": [
+        "visceral leishmaniasis",
+        "visceral leishmaniasis"
+    ],
+    "4": [
+        "paediatric snakebites",
+        "envenomation events"
+    ],
+    "5": [
+        "seroprevalence study",
+        "seropositivity rates"
+    ],
+    "7": [
+        "rTsSPc vaccination",
+        "anti-rTsSPc IgG"
+    ],
+    "8": [
+        "field study",
+        "case-control study"
+    ],
+    "9": [
+        "ZIKV",
+        "Flavivirus"
+    ],
+    "10": [
+        "abattoir settings",
+        "zoonotic disease transmission"
+    ],
+    "11": [
+        "Aedes aegypti",
+        "Aedes aegypti"
+    ],
+    "12": [
+        "dengue transmission dynamics",
+        "mosquito-borne viral transmission"
+    ],
+    "13": [
+        "seroprevalence estimates",
+        "rapid diagnostic tests"
+    ],
+    "14": [
+        "pediatric meningitis",
+        "bacterial infection of the central nervous system"
+    ],
+    "15": [
+        "T. gondii",
+        "apicomplexan protozoan parasite"
+    ],
+    "16": [
+        "A. cantonensis",
+        "eosinophilic meningitis"
+    ],
+    "17": [
+        "plague",
+        "Yersinia pestis"
+    ],
+    "18": [
+        "Brucella",
+        "zoonotic bacterial genus"
+    ],
+    "19": [
+        "rickettsial pathogens",
+        "Rickettsiales"
+    ],
+    "20": [
+        "digital surveillance study",
+        "publicly available user-contributed digital data"
+    ],
+    "21": [
+        "cholera epidemics",
+        "toxigenic Vibrio cholerae O1 or O139 serogroups"
+    ],
+    "22": [
+        "snakebite management",
+        "venomous snakebites"
+    ],
+    "23": [
+        "RPA assay",
+        "isothermal DNA amplification method"
+    ],
+    "24": [
+        "host immune response",
+        "dynamic biological reaction involving timing, specificity, and immune system capacity that influences susceptibility and resistance to pathogens"
+    ],
+    "25": [
+        "chikungunya virus infection",
+        "alphavirus infection"
+    ],
+    "26": [
+        "zoonotic trypanosomatids",
+        "Trypanosoma"
+    ],
+    "27": [
+        "Trypanosoma cruzi genotypes",
+        "discrete typing units (DTUs)"
+    ],
+    "28": [
+        "tick species",
+        "hematophagous ectoparasites"
+    ],
+    "29": [
+        "acute Chagas disease",
+        "Trypanosoma cruzi"
+    ],
+    "30": [
+        "ENL classification",
+        "erythema nodosum leprosum"
+    ],
+    "31": [
+        "leprosy",
+        "Mycobacterium leprae"
+    ],
+    "32": [
+        "H. ducreyi-only infections",
+        "yaws eradication efforts"
+    ],
+    "33": [
+        "HFRS",
+        "Hantavirus"
+    ],
+    "34": [
+        "climatic data",
+        "climate-related health impacts"
+    ],
+    "35": [
+        "analytical approach",
+        "comparison groups"
+    ],
+    "36": [
+        "Japanese encephalitis virus",
+        "mosquito-borne flavivirus transmission"
+    ],
+    "37": [
+        "liver fluke",
+        "parasitic trematode"
+    ],
+    "38": [
+        "A. ceylanicum",
+        "zoonotic soil-transmitted helminth"
+    ],
+    "39": [
+        "N. kaouthia",
+        "recombinant antivenom"
+    ],
+    "40": [
+        "quilombola communities",
+        "neglected infectious diseases"
+    ],
+    "42": [
+        "Rift Valley fever",
+        "mosquito-borne viral zoonosis"
+    ],
+    "43": [
+        "arboviruses",
+        "arthropod-borne viruses"
+    ],
+    "44": [
+        "HCoV-OC43",
+        "group II human coronavirus"
+    ],
+    "46": [
+        "cystic echinococcosis",
+        "Echinococcus granulosus"
+    ],
+    "47": [
+        "placental schistosomiasis",
+        "parasite egg deposition in the placenta"
+    ],
+    "48": [
+        "chronic condition",
+        "long-lasting health condition"
+    ],
+    "49": [
+        "Fasciola hepatica",
+        "serotonin signaling"
+    ],
+    "50": [
+        "onchocerciasis",
+        "Onchocerca volvulus"
+    ],
+    "51": [
+        "Salmonella spp.",
+        "gram-negative, motile, facultatively anaerobic bacilli"
+    ],
+    "52": [
+        "vector distribution",
+        "modeling approach"
+    ],
+    "53": [
+        "dengue",
+        "flavivirus"
+    ],
+    "54": [
+        "fungal lectin",
+        "carbohydrate-binding proteins"
+    ],
+    "55": [
+        "Trypanosoma sp.",
+        "kinetoplastid protozoan parasites"
+    ],
+    "56": [
+        "giardiasis",
+        "Giardia lamblia"
+    ],
+    "57": [
+        "modeling techniques",
+        "deterministic mathematical models based on differential-difference equations"
+    ],
+    "58": [
+        "in vitro conditions",
+        "controlled glass-based system"
+    ],
+    "59": [
+        "soil-transmitted helminths",
+        "Ascaris lumbricoides"
+    ],
+    "60": [
+        "mass drug administration",
+        "systematically underreports cases"
+    ],
+    "61": [
+        "visceral leishmaniasis",
+        "Leishmania"
+    ],
+    "62": [
+        "transmission model",
+        "mechanistic mathematical representation of disease spread"
+    ],
+    "63": [
+        "CLIQ",
+        "population-based measure"
+    ],
+    "64": [
+        "T. gondii",
+        "apicomplexan protozoan parasite"
+    ],
+    "65": [
+        "Cm-p5",
+        "anti-T. cruzi activity"
+    ],
+    "66": [
+        "Brucella",
+        "zoonotic bacterial genus"
+    ],
+    "67": [
+        "school-based preventive chemotherapy program",
+        "helminth prevalence and infection intensity"
+    ],
+    "68": [
+        "MALDI-TOF MS",
+        "mass spectrometry technique that identifies microorganisms based on species-conserved protein profiles measured in intact cells or extracts"
+    ],
+    "69": [
+        "immune response",
+        "rapid, broad activation of innate immune cells that leads to localized inflammation"
+    ],
+    "70": [
+        "yaws",
+        "chronic non-venereal treponematosis caused by Treponema pallidum subspecies pertenue"
+    ],
+    "71": [
+        "zoonotic threats",
+        "spillover"
+    ],
+    "72": [
+        "Anuradhapura district",
+        "chronic kidney disease of unknown aetiology"
+    ],
+    "74": [
+        "E. multilocularis",
+        "alveolar echinococcosis"
+    ],
+    "75": [
+        "Bacillus anthracis",
+        "Bacillus cereus biovar anthracis"
+    ],
+    "76": [
+        "paracoccidioidomycosis",
+        "Paracoccidioides species"
+    ],
+    "77": [
+        "deworming program",
+        "mass preventive chemotherapy"
+    ],
+    "78": [
+        "rabies transmission dynamics",
+        "rabid animals"
+    ],
+    "79": [
+        "Plasmodium vivax",
+        "malaria"
+    ],
+    "81": [
+        "Echinococcus granulosus",
+        "cystic echinococcosis"
+    ],
+    "82": [
+        "Leptospira strains",
+        "leptospirosis"
+    ],
+    "83": [
+        "vector dispersal",
+        "yellow fever"
+    ],
+    "84": [
+        "dengue vaccine development",
+        "tetravalent, live-attenuated vaccine"
+    ],
+    "85": [
+        "Giardia",
+        "resilient cyst form"
+    ],
+    "86": [
+        "T. gondii",
+        "Toxoplasmosis"
+    ],
+    "88": [
+        "West Nile virus transmission risk",
+        "mosquito-bird transmission dynamics"
+    ],
+    "89": [
+        "bubonic plague",
+        "Yersinia pestis"
+    ],
+    "90": [
+        "hantavirus",
+        "rodent-borne virus"
+    ],
+    "91": [
+        "echinococcosis",
+        "Echinococcus"
+    ],
+    "92": [
+        "arbovirus",
+        "dengue"
+    ]
+}

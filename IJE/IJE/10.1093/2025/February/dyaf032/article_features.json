@@ -1,0 +1,60 @@
+{
+    "Title": "Applying prospective tree-temporal scan statistics to genomic surveillance data to detect emerging SARS-CoV-2 variants and salmonellosis clusters in New York City",
+    "URL": "https://academic.oup.com/ije/article/54/2/dyaf032/8110348",
+    "DOI": "10.1093/ije/dyaf032",
+    "PMID": "40209072",
+    "Published": "2025/02/16",
+    "Volume": "54",
+    "Issue": "2",
+    "Journal": "International Journal of Epidemiology",
+    "Keywords": [
+        "food-borne diseases",
+        "infectious diseases",
+        "SARS-CoV-2",
+        "Salmonella",
+        "surveillance",
+        "whole-genome sequencing"
+    ],
+    "Authors": {
+        "Greene, Sharon K": [
+            "Division of Disease Control, New York City Department of Health and Mental Hygiene, Long Island City, NY, United States"
+        ],
+        "Latash, Julia": [
+            "Division of Disease Control, New York City Department of Health and Mental Hygiene, Long Island City, NY, United States"
+        ],
+        "Peterson, Eric R": [
+            "Division of Disease Control, New York City Department of Health and Mental Hygiene, Long Island City, NY, United States"
+        ],
+        "Levin-Rector, Alison": [
+            "Division of Disease Control, New York City Department of Health and Mental Hygiene, Long Island City, NY, United States"
+        ],
+        "Luoma, Elizabeth": [
+            "Division of Disease Control, New York City Department of Health and Mental Hygiene, Long Island City, NY, United States"
+        ],
+        "Wang, Jade C": [
+            "Division of Disease Control, New York City Department of Health and Mental Hygiene, Long Island City, NY, United States"
+        ],
+        "Bernard, Kevin": [
+            "Division of Disease Control, New York City Department of Health and Mental Hygiene, Long Island City, NY, United States"
+        ],
+        "Olsen, Aaron": [
+            "Division of Disease Control, New York City Department of Health and Mental Hygiene, Long Island City, NY, United States"
+        ],
+        "Li, Lan": [
+            "Division of Disease Control, New York City Department of Health and Mental Hygiene, Long Island City, NY, United States"
+        ],
+        "Waechter, HaeNa": [
+            "Division of Disease Control, New York City Department of Health and Mental Hygiene, Long Island City, NY, United States"
+        ],
+        "Mattias, Aria": [
+            "Division of Disease Control, New York City Department of Health and Mental Hygiene, Long Island City, NY, United States"
+        ],
+        "Rohrer, Rebecca": [
+            "Division of Disease Control, New York City Department of Health and Mental Hygiene, Long Island City, NY, United States"
+        ],
+        "Kulldorff, Martin": [
+            "Independent Biostatistician, Ashford, CT, United States"
+        ]
+    },
+    "PDF_URL": "https://academic.oup.com/ije/article-pdf/54/2/dyaf032/62905612/dyaf032.pdf"
+}

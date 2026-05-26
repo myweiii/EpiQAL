@@ -1,0 +1,30 @@
+{
+    "Title": "Estimating excess mortality during the Covid-19 pandemic in Aotearoa New Zealand",
+    "URL": "https://academic.oup.com/ije/article/54/4/dyaf093/8163015",
+    "DOI": "10.1093/ije/dyaf093",
+    "PMID": "40517754",
+    "Published": "2025/06/11",
+    "Volume": "54",
+    "Issue": "4",
+    "Journal": "International Journal of Epidemiology",
+    "Keywords": [
+        "age-standardized mortality rate",
+        "excess deaths",
+        "generalized linear model",
+        "Poisson regression",
+        "SARS-CoV-2"
+    ],
+    "Authors": {
+        "Plank, Michael J": [
+            "School of Mathematics and Statistics, University of Canterbury, Christchurch, New Zealand"
+        ],
+        "Senanayake, Pubudu": [
+            "School of Mathematics and Statistics, University of Canterbury, Christchurch, New Zealand",
+            "Statistics New Zealand, Christchurch, New Zealand"
+        ],
+        "Lyon, Richard": [
+            "Mortality Working Group, Institute of Actuaries of Australia, Sydney, Australia"
+        ]
+    },
+    "PDF_URL": "https://academic.oup.com/ije/article-pdf/54/4/dyaf093/63493490/dyaf093.pdf"
+}

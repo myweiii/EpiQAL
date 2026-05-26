@@ -1,0 +1,528 @@
+{
+    "0": {
+        "The prevalence of recruitment problems in studies that had a prior feasibility or pilot study suggests that pilot studies may inadvertently increase the likelihood of encountering implementation challenges.": 9,
+        "The lack of reporting on implementation challenges in many SW-CRT studies suggests that these problems are not common in real-world settings.": 9,
+        "The two overarching themes of 'real-life pressures' and 'struggle to adhere to the protocol' indicate that trialists are more likely to deviate from the SW-CRT design when external factors are involved.": 7,
+        "The fact that several trials were preceded by studies that aimed to test the SW-CRT design but the trial then encountered problems demonstrates the challenges with this study design.": 3
+    },
+    "1": {
+        "The differential effects of lipophilic and hydrophilic statins on type 2 diabetes risk suggest that statin-induced diabetes is primarily driven by tissue-specific inhibition of HMGCR in pancreatic \u03b2-cells and adipocytes.": 9,
+        "The lack of association between genetically predicted LDL-C and T2D risk in multivariable Mendelian randomization suggests that LDL-C levels are not causally related to type 2 diabetes, regardless of the intervention used.": 9,
+        "The strong colocalization between BMI and T2D, and between LDL-C and CAD, indicates that statins exert their effects on these diseases through a single, unified biological mechanism involving cholesterol metabolism and insulin resistance.": 9,
+        "The findings from the Bayesian model selection and multivariable Mendelian randomization suggest that ubiquinone is the primary mediator of statin-induced protection against coronary artery disease.": 9
+    },
+    "2": {
+        "The decline in mesothelioma mortality in recent decades is primarily due to improved survival rates from modern treatments, which have reduced the median survival time to less than 20 months.": 9,
+        "The peak in mesothelioma mortality among individuals born 1935\u20131949 reflects the immediate health consequences of asbestos exposure during the 1955\u20131980 workforce period, despite the 1992 ban.": 8,
+        "The higher risk of pleural mesothelioma among women compared to other countries may be due to greater occupational exposure in textile industries and domestic or environmental settings in Italy.": 7,
+        "The regional variation in mesothelioma mortality in Italy is best explained by differences in the timing and scale of asbestos use in shipbuilding and cement industries, with Liguria and Friuli-Venezia Giulia showing the highest risks due to early industrial development.": 5,
+        "The peak in mesothelioma mortality among individuals born 1935-1949 reflects the immediate health consequences of asbestos exposure during the 1955-1980 workforce period, despite the 1992 ban.": 1
+    },
+    "3": {
+        "The viraemia profile reveals that men aged 25\u201334 years and women aged 20\u201339 years predominantly contribute to unsuppressed viraemia in the population, suggesting that these groups should be prioritized for targeted prevention interventions.": 7,
+        "Despite high HIV prevalence in fishing communities, the proportion of people with unsuppressed viraemia decreased significantly from 2013 to 2019, indicating that the 95\u201395\u201395 targets are sufficient to control HIV transmission in high-burden settings.": 9,
+        "The study\u2019s findings suggest that younger individuals aged 15\u201324 years are the primary drivers of HIV transmission due to their lower suppression levels and high contribution to unsuppressed viraemia.": 5,
+        "The population-level burden of unsuppressed viraemia is strongly predictive of HIV incidence, which supports the use of 95\u201395\u201395 targets as a reliable proxy for measuring progress toward HIV elimination.": 9,
+        "The study's findings suggest that younger individuals aged 15\u201324 years are the primary drivers of HIV transmission due to their lower suppression levels and high contribution to unsuppressed viraemia.": 4
+    },
+    "4": {
+        "The digital calendar improved the correlation between monthly mortality series derived from retrospective reports and those from HDSS records, indicating better temporal alignment of death data.": 9,
+        "The digital calendar may be particularly effective in improving date reporting accuracy for deaths due to accidents, as these events are more likely to be associated with known public events.": 9,
+        "The use of a physical calendar of local events reduced the proportion of deaths with missing date components without increasing interview duration, suggesting it may be a more efficient tool than standard close-ended questions.": 5,
+        "The high levels of omissions and errors in retrospective data on recent household deaths underscore the need for large investments in strengthening CRVS systems in LMICs, suggesting that calendar tools are insufficient as a standalone solution.": 6
+    },
+    "5": {
+        "The higher heat-EHA risk among individuals with frequent social contact may be due to greater exposure to outdoor heat, as socially active older adults are more likely to engage in outdoor activities during warm weather.": 9,
+        "Older adults living with others or having frequent social contact may be more vulnerable to heat due to higher levels of chronic health conditions, which were not fully captured in the study's health survey data.": 9,
+        "The observed higher heat-EHA risk among socially connected older adults may be due to reduced access to cooling resources in shared living environments, such as homes with limited air conditioning or poor ventilation.": 9,
+        "Older adults with frequent social contact may be more likely to experience heat-related illness because social interactions often occur in crowded or poorly ventilated indoor spaces, increasing heat exposure.": 9
+    },
+    "6": {
+        "The specificity of IGRA for TB infection is higher in high-incidence settings compared to low-incidence settings, suggesting that diagnostic accuracy improves with greater background infection rates.": 9,
+        "Non-inferiority trials for TB vaccines should prioritize the use of TB disease as the primary endpoint over TB infection to avoid the risk of inflated type I error due to imperfect diagnostic accuracy.": 9,
+        "Repeated IGRA testing at 6-month intervals in TB vaccine trials would reduce the risk of falsely declaring non-inferiority by decreasing the number of false-positive results.": 9,
+        "The use of a non-inferiority trial design for TB vaccine prevention of infection outcomes is acceptable as long as the sample size is sufficiently large to ensure high statistical power.": 9
+    },
+    "7": {
+        "The associations of UV load with the odds of developing PBC were stronger for summer than for winter, which could be due to the fact that summer sun exposure is more important than winter sun exposure for maintaining vitamin D stores throughout the year.": 9,
+        "The lack of a significant association between cumulative UV load from age 6 years to the age of diagnosis and PBC risk suggests that sun exposure in later life has no influence on PBC development.": 9,
+        "The study's findings suggest that vitamin D supplementation may be an effective preventive strategy for PBC, given the protective association between UV exposure and reduced PBC risk.": 9,
+        "The study found that individuals with higher melanin density had lower odds of being a case, suggesting that skin pigmentation may be a direct protective factor against PBC.": 9
+    },
+    "8": {
+        "The observed association between opioid exposure and placental abruption was strongest with early-pregnancy use, suggesting that this period may represent a critical window for placental development that is vulnerable to opioid disruption.": 7,
+        "The lack of association between opioid exposure and pre-eclampsia or fetal growth restriction suggests that opioids do not contribute to placental malperfusion, despite their ability to cross the placenta.": 9,
+        "The robustness of the findings in sensitivity analyses, including those requiring two dispensations and excluding women with pre-pregnancy opioid use, confirms that the observed associations are not due to unmeasured confounding.": 9,
+        "Given the high prevalence of opioid use in pregnancy and the consistent findings across multiple studies, analgesic opioid use should be avoided in all pregnant women to prevent adverse outcomes.": 9
+    },
+    "9": {
+        "The association between statin use and endometrial cancer risk was stronger for lipophilic statins compared to hydrophilic statins, and this difference was consistent across age and histology subgroups.": 9,
+        "The inverse association between statin use and endometrial cancer risk was more pronounced in women with higher BMI, particularly among those with BMI \u226525 kg/m\u00b2.": 7,
+        "The protective effect of statin use on endometrial cancer risk was primarily driven by long-term use, as shown by a significant trend in risk reduction with increasing cumulative DDDs.": 8,
+        "The consistency of the association between statin use and endometrial cancer risk across subgroups suggests that statins may have a direct causal effect on endometrial carcinogenesis.": 9,
+        "The inverse association between statin use and endometrial cancer risk was more pronounced in women with higher BMI, particularly among those with BMI \u226525 kg/m2.": 2
+    },
+    "10": {
+        "The FADS gene cluster variants are highly pleiotropic and do not differentiate n-3 or n-6 effects, which suggests that genetic instruments derived from this region may violate the exclusion-restriction assumption and thus cannot be used to infer causal relationships between PUFAs and inflammation.": 4,
+        "Despite the observed positive association between total n-6 PUFAs and GlycA, the lack of consistent effects on CRP and IL-6 across cohorts suggests that n-6 PUFAs do not have a meaningful role in systemic inflammation.": 9,
+        "The anti-inflammatory effects of n-3 PUFAs are likely masked by the high levels of n-6 PUFAs in the population, which competitively inhibit n-3 PUFA metabolism and thus reduce their biological activity.": 6,
+        "The lack of a significant effect of total n-3 PUFAs on inflammatory biomarkers after adjusting for n-6 PUFAs and lipids suggests that n-3 supplementation may not be effective in reducing systemic inflammation, but this conclusion is limited by the cross-sectional design of the study.": 3
+    },
+    "11": {
+        "The greater impact of IPTp-SP on C. trachomatis partially offset the overall effect of IPTp-DP on reducing preterm birth, suggesting that IPTp-SP may be more effective than IPTp-DP in preventing preterm delivery.": 9,
+        "The 35% reduction in GBS prevalence among women receiving IPTp-SP suggests that SP has broad-spectrum antibacterial activity against multiple reproductive tract pathogens, including those not tested in this study.": 9,
+        "The lack of association between IPTp-SP and BV after adjusting for swab timing suggests that SP has no meaningful impact on bacterial vaginosis, and therefore, its effects on birth outcomes are likely due to antimalarial mechanisms alone.": 9,
+        "The observed reduction in C. trachomatis prevalence with IPTp-SP is likely due to the antimalarial activity of SP, rather than its antibacterial properties, because SP is not traditionally used to treat STIs.": 9
+    },
+    "12": {
+        "The sharp drop in population growth in 2020 due to reduced international travel led to a systematic bias in the Karlinsky and Kobak baseline, resulting in an underestimation of excess mortality in New Zealand.": 8,
+        "The timing of the excess mortality in 2022\u20132023 coincided with the peak of the Covid-19 vaccine rollout, suggesting that the vaccines may have contributed to increased mortality.": 9,
+        "The positive excess mortality in 2022\u20132023 was primarily due to a decline in healthcare access and delayed treatment for non-Covid conditions, as evidenced by the timing of the mortality spike.": 9,
+        "The lack of data on causes of death other than Covid-19 limits the ability to determine whether non-Covid-19 factors contributed to excess mortality in 2022\u20132023.": 5
+    },
+    "13": {
+        "The absence of associations in OLS and non-IV forests analyses highlights the importance of methodological choice, suggesting potential negative bias due to health-related selection into retirement.": 7,
+        "Individuals who retired from physically demanding jobs showed fewer cognitive benefits, suggesting that such occupations may inherently protect against cognitive decline.": 9,
+        "The higher cognitive benefits observed in individuals from Denmark and Greece may be attributed to superior healthcare systems and earlier retirement ages in these countries.": 9,
+        "The observed improvement in word recall among retirees is primarily driven by increased physical activity and better sleep quality post-retirement, which are key mediators of cognitive function.": 8
+    },
+    "14": {
+        "The magnitude of the associations reported in the current analysis of this Mexican population is somewhat greater than reported in previous MR studies conducted in European ancestry populations, suggesting that genetic effects on BMI are stronger in admixed populations.": 8,
+        "The exclusion of individuals with diabetes in earlier observational analyses may have led to an underestimation of the true effect of BMI on mortality due to the removal of a key confounding factor.": 7,
+        "The use of a trans-ancestry BMI genetic score in the current study may have introduced bias due to differences in allele frequencies across ancestral groups, leading to an overestimation of the effect of BMI on mortality.": 9,
+        "The longer follow-up period in the current study compared to earlier analyses may have allowed for the detection of more pronounced associations between BMI and mortality.": 9
+    },
+    "15": {
+        "The interventional framework's emphasis on specifying a 'how' for interventions enhances the policy relevance of epidemiological findings by enabling predictions about real-world outcomes if the exposure contrast were applied.": 8,
+        "Studies that failed to specify a 'how' for their intervention often implicitly assumed treatment variation irrelevance, but this assumption was rarely justified in the methods or discussion sections.": 7,
+        "The lack of well-defined interventions in most studies is primarily due to the absence of detailed data on exposure mechanisms, particularly in observational studies of socio-structural factors.": 9,
+        "The majority of studies using g-methods or TMLE failed to meet the consistency assumption because they did not define their exposure in terms of a hypothetical intervention, regardless of data quality.": 9
+    },
+    "16": {
+        "The RATIONS trial demonstrated that nutritional support for household contacts of people with tuberculosis reduced the tuberculosis risk by \u223c40%, indicating that nutritional interventions are the most effective strategy for preventing tuberculosis in high-burden settings.": 9,
+        "Because the relationship between BMI and tuberculosis risk is nonlinear, the protective effect of nutritional improvement is equally strong across all BMI ranges, particularly in people with HIV and diabetes.": 9,
+        "The protective effect of higher BMI on tuberculosis risk is primarily due to reduced diabetes incidence, as higher BMI is associated with lower diabetes risk in populations with high tuberculosis burden.": 9,
+        "The lack of evidence in settings with both high tuberculosis burden and high undernutrition means that the observed dose\u2013response relationship cannot be generalized to low- and middle-income countries.": 9
+    },
+    "17": {
+        "The proportion of individuals with good knowledge about TB is positively associated with TB incidence reduction, indicating that public education campaigns are the most effective intervention for achieving national TB control goals.": 7,
+        "The lack of annual data for most independent variables made it impossible to conduct time-series analyses for each year, restricting our ability to explore year-to-year trends and understand the temporal dynamics of both TB incidence and its potential determinants.": 4,
+        "Districts with better preparedness and resources for TB service are more likely to have high TB incidence reduction, suggesting that strengthening health system infrastructure is a key driver of progress toward the End TB targets.": 7,
+        "The proportion of individuals with good knowledge about TB is positively associated with TB incidence reduction, indicating that public health education campaigns are the most effective intervention for achieving national TB control goals.": 1,
+        "The spatial clustering of low TB incidence reduction in the northern regions suggests that unmeasured barriers such as health system weaknesses or social determinants are preventing progress, even after accounting for known covariates.": 3
+    },
+    "18": {
+        "The observed effect sizes in both HRS and KLoSA for loneliness in relation to CVD are comparable with those found in prior studies, suggesting that loneliness is a consistently significant risk factor across diverse populations.": 9,
+        "The lack of significant interaction between loneliness and social isolation suggests that loneliness and social isolation operate through independent biological pathways in the development of CVD.": 9,
+        "The stronger association between loneliness and CVD in the USA compared to South Korea, observed in the unadjusted model, suggests that cultural differences in social norms may have a greater impact on cardiovascular health than behavioral risk factors.": 9,
+        "The study\u2019s findings suggest that interventions targeting loneliness should prioritize individuals with low social isolation, as they are more likely to benefit from such interventions due to stronger effect modification.": 5,
+        "The study's findings suggest that interventions targeting loneliness should prioritize individuals with low social isolation, as they are more likely to benefit from such interventions due to stronger effect modification.": 4
+    },
+    "19": {
+        "The higher prevalence of COVID-19 among wealthier and more educated individuals in Brazil is primarily due to greater exposure to the virus in urban, densely populated areas with higher population mobility.": 9,
+        "Individuals with higher socioeconomic status in Brazil were more likely to experience severe outcomes from COVID-19, including hospitalization and death, due to greater comorbidity burden and delayed care-seeking behavior.": 9,
+        "The lack of significant differences in COVID-19 prevalence across racial and ethnic groups in this study indicates that systemic health inequities do not play a major role in shaping outcomes in Brazil.": 9,
+        "The higher number of reinfections among wealthier individuals in Brazil is a direct result of reduced immunity from prior infections and increased exposure to new variants.": 9
+    },
+    "20": {
+        "The general belief that liver dysfunction due to pre-eclampsia resolves following pregnancy may be incorrect, as patients with HELLP syndrome and acute fatty liver of pregnancy often experience persistent hepatic complications for up to five years after delivery.": 9,
+        "Women with pre-eclampsia are at higher risk of developing chronic liver disease due to residual endothelial dysfunction and persistent elevation of anti-angiogenic biomarkers such as sFlt1, which may promote fibrosis and vascular injury in the liver over time.": 9,
+        "The risk of hospitalization for liver disease is highest in the first five years after pregnancy, suggesting that most women with pre-eclampsia who develop chronic liver disease do so shortly after delivery and that long-term follow-up beyond this period is unnecessary.": 9,
+        "Pre-eclampsia is associated with a higher risk of liver disease primarily due to pre-existing comorbidities such as obesity, hypertension, and diabetes, which were more common among women with pre-eclampsia in the cohort.": 9
+    },
+    "21": {
+        "The stability of apolipoprotein B and LDL cholesterol across childhood suggests that these biomarkers are not useful for early assessments of lifetime cardiometabolic risk.": 6,
+        "The earlier onset of insulin resistance in girls compared to boys may be due to differences in adiposity patterns during early puberty, which are reflected in glycerol dynamics.": 9,
+        "The peak in acetate at age 17 years may reflect a temporary increase in insulin sensitivity that precedes the onset of adult metabolic dysfunction.": 7,
+        "The lack of sex divergence in glycoprotein acetyls during puberty suggests that chronic inflammation is not influenced by hormonal changes in adolescence.": 7
+    },
+    "22": {
+        "The findings in our investigation are at odds with earlier works that described no clear associations for either sex, suggesting that previous studies may have underestimated the true risk of physical work demands due to methodological limitations.": 8,
+        "Among females, physical work demands were associated with a stronger increase in mortality risk than among males, particularly in the GAZEL and HRS cohorts.": 9,
+        "The association between physical work demands and mortality was strongest at the highest exposure level, particularly among males, due to cumulative physiological damage from prolonged heavy labor.": 9,
+        "The inconsistent associations between psychosocial work demands and mortality across cohorts suggest that self-reported measures of work stress are unreliable and should be replaced with objective job assessments in future studies.": 7
+    },
+    "23": {
+        "The low correlation between personal and surrogate exposures for NO2 observed in this study agrees with previous meta-analyses, which found a pooled correlation of 0.42 for total personal exposure and ambient levels, suggesting that the error structure is consistent across different exposure assessment methods.": 9,
+        "Since the LHEM-adjusted surrogates accounted for time\u2013activity and infiltration, they were more accurate and led to higher correlations with personal exposures, suggesting that such adjustments are sufficient to eliminate exposure measurement error in epidemiological studies.": 9,
+        "The higher variance ratios observed for gaseous pollutants indicate that their surrogate exposures are more variable and thus more reliable for long-term epidemiological analysis, despite the presence of classical error.": 9,
+        "The fact that personal exposure from outdoor sources was estimated using infiltration efficiencies and annual extrapolation suggests that the 'gold-standard' exposure is inherently unreliable, undermining the validity of the entire study's conclusions.": 9
+    },
+    "24": {
+        "The positive associations between genetically predicted anthropometric traits and CRC-specific mortality were primarily driven by reverse causation and residual confounding, which were effectively mitigated by the Mendelian randomization approach.": 9,
+        "The association between genetically predicted waist circumference and CRC-specific mortality was not robust to adjustment for collider bias, as the Slope-hunter method attenuated the effect to non-significance.": 8,
+        "The findings suggest that higher body fat percentage and birth weight are protective against CRC-specific mortality, based on the null and inverse associations observed in the study.": 9,
+        "The study's results are generalizable to non-European populations due to the large sample size and robust genetic instruments used.": 9
+    },
+    "25": {
+        "The long-term health consequences of heavy alcohol consumption during early adulthood are primarily driven by sustained heavy drinking into later life, as men who continued to drink heavily after age 40 had the highest mortality risk.": 9,
+        "The observed association between early heavy drinking and increased mortality in men is likely due to reverse causation, as individuals who developed health problems in middle age may have reduced their alcohol intake before study enrolment.": 9,
+        "Women who increased their alcohol intake with age had a higher risk of cardiovascular disease-specific mortality, consistent with the protective effect of stable moderate drinking observed in men.": 9,
+        "Heavy drinking during early adulthood for men, irrespective of intake after age 40 years, was associated with \u223c20% higher all-cause mortality and 35% higher cancer-specific mortality, while increasing alcohol intake with advancing age for women was associated with \u223c20% higher cancer-specific mortality.": 2
+    },
+    "26": {
+        "Genetically predicted lower levels of Lp(a) and LDL-C are associated with a reduced risk of all cardiovascular outcomes, including subarachnoid hemorrhage and intracerebral hemorrhage.": 9,
+        "The combination of genetically predicted Lp(a) lowering and LDL-C lowering via PCSK9 or HMGCR targets results in synergistic effects on reducing cardiovascular risk, similar to those observed in previous clinical trials.": 9,
+        "The interaction between genetically predicted Lp(a) lowering and LDL-C lowering is consistently sub-additive across all cardiovascular outcomes, indicating a uniform biological mechanism.": 9,
+        "The lack of observed interaction between Lp(a) lowering and LDL-C lowering in most outcomes suggests that the two interventions act independently on cardiovascular risk.": 6
+    },
+    "27": {
+        "The high E-values observed in the study suggest that unmeasured confounders, including smoking, could substantially alter the observed association between tuberculosis and COPD.": 9,
+        "Smoking intensity was found to be a significant effect modifier of the association between tuberculosis and COPD, particularly among individuals with low physical activity.": 9,
+        "The study's findings suggest that smoking is the primary driver of COPD in individuals with a history of tuberculosis, and that the observed association is largely attributable to smoking status.": 9,
+        "The study's sensitivity analyses suggest that smoking status may have been misclassified, leading to an underestimation of the true association between tuberculosis and COPD.": 9
+    },
+    "28": {
+        "In high-TB-burden settings, the proportion of genetically linked index\u2013HHC pairs is likely underestimated due to limited genotyping data and smaller sample sizes, which may obscure the true extent of household transmission.": 5,
+        "The 61% genetic linkage estimate in low-to-moderate TB incidence settings may be inflated due to the inclusion of co-prevalent cases, which are more likely to represent community transmission than household transmission.": 8,
+        "The use of higher-resolution genotyping methods such as whole-genome sequencing consistently yields lower matching proportions compared to lower-resolution methods like spoligotyping, which may reflect greater sensitivity to mixed infections and sputum quality.": 4,
+        "The observed genetic linkage in index\u2013HHC pairs is primarily driven by the higher exposure of female household contacts due to caregiving roles, which increases their likelihood of acquiring TB from the index patient.": 4
+    },
+    "29": {
+        "The differences in CVD mortality estimates between official national data and GBD are primarily due to variations in data collection methods and definitions of underlying cause of death.": 9,
+        "The apparent stabilization of stroke mortality in GBD estimates for Australia and New Zealand is due to the GBD's use of spatiotemporal Gaussian process regression, which smooths out short-term fluctuations in mortality data.": 9,
+        "The redistribution of ill-defined causes of death used by the GBD may have contributed to higher absolute CHD mortality rates in GBD estimates compared to official national data.": 7,
+        "The slowing in CVD mortality decline observed in official national data may be due to increasing prevalence of risk factors such as diabetes and obesity, which have lagged effects on cardiovascular outcomes.": 7
+    },
+    "30": {
+        "The reproducibility of accelerometer-derived phenotypes is comparable to that of well-established CHD risk factors such as systolic blood pressure and total cholesterol, which is 65%\u201370% within a 5-year period, suggesting that accelerometer data can replace traditional biomarkers in cardiovascular risk assessment.": 8,
+        "Because the reproducibility of accelerometer-derived phenotypes is higher in older individuals and women, large-scale studies should prioritize recruitment of these subgroups to improve data reliability.": 9,
+        "The use of wrist-worn accelerometers in large-scale studies is superior to hip-worn devices because they show higher reproducibility and better capture of movement behaviours across different populations.": 9,
+        "The correction for regression dilution bias in this study suggests that the true association between physical activity and CHD is overestimated, as the uncorrected HR was lower than the corrected one.": 9,
+        "The reproducibility of accelerometer-derived phenotypes is comparable to that of well-established CHD risk factors such as systolic blood pressure and total cholesterol, which is 65%-70% within a 5-year period, suggesting that accelerometer data can replace traditional biomarkers in cardiovascular risk assessment.": 1
+    },
+    "31": {
+        "The increase in malaria diagnosis rates after 2020 is primarily attributable to an unusually heavy rainy season in 2022, which significantly enhanced transmission conditions and overwhelmed the healthcare system.": 9,
+        "The resurgence in malaria cases is likely due to the increased use of long-lasting insecticide nets (LLINs) in the months following the pandemic, as community distribution resumed and coverage improved.": 9,
+        "The observed peaks in maternal malaria diagnoses post-pandemic are best explained by a significant decline in the rate of IPTp administration, indicating a failure in targeted prevention efforts for pregnant women.": 9,
+        "The initial drop in malaria diagnosis rates following the onset of the pandemic may have been due to increased risk-averse behaviors among patients, who avoided healthcare facilities and instead self-medicated, leading to underreporting of cases.": 5
+    },
+    "32": {
+        "The use of simulated annealing in our model allowed us to incorporate logical assumptions, such as higher smoking prevalence in remote areas, and this approach can be applied in other settings where multiple factors contribute to smoking-related inequity and where data are incomplete.": 6,
+        "The steeper decline in smoking rates from 2018\u201319 to 2022\u201323 may be due to some switching from smoking to vaping, or might be artefact of lower survey response rates since the COVID-19 pandemic.": 7,
+        "Future analyses should examine the potential impacts on smoking rates under scenarios in which e-cigarette use continues to increase versus rapidly falls away, as this uncertainty could significantly alter the projected trajectory of smoking prevalence.": 7,
+        "The national smoking prevalence is projected to reach 7.8% by 2030 under the BAU scenario, which is below the 5% endgame target, indicating that the target is achievable with minor policy adjustments.": 8
+    },
+    "33": {
+        "The excess risks of childhood LNHL observed historically near Sellafield and Dounreay are likely due to population mixing caused by in-migration of workers and their families, which may have introduced a leukaemogenic virus to the local population.": 9,
+        "The lack of observed excess cancer risk in communities near nuclear installations between 1995 and 2016 suggests that radiation discharges from these sites have been effectively reduced to negligible levels.": 9,
+        "The observed decrease in childhood cancer incidence near Sellafield and Dounreay after 1990 is likely due to improved diagnostic accuracy and reporting in later years.": 9,
+        "The absence of increased cancer risk in communities near nuclear installations between 1995 and 2016 indicates that nuclear installations pose no long-term health risk to nearby populations.": 9
+    },
+    "34": {
+        "The strong, negative, significant correlation between vaccination rates and the stringency index in 2021 (r = \u20130.6719; P < 0.0001) suggests that higher vaccination coverage led to the relaxation of control measures, potentially offsetting the benefits of vaccination in reducing excess mortality.": 7,
+        "The reversal in the association between governmental control measures and excess mortality from 2021 to 2022 may reflect the increased virulence of the Omicron variant, which reduced the effectiveness of public health interventions despite high vaccination rates.": 8,
+        "The lack of a significant mitigating effect of vaccination on excess mortality in 2021, despite high mRNA vaccine coverage, suggests that vaccination campaigns were ineffective in reducing severe outcomes during that year.": 7,
+        "The negative association between total vaccinations and excess mortality in 2022 may be due to increased reporting of non-COVID-19 deaths in countries with higher vaccination rates, rather than a true protective effect of vaccines.": 9
+    },
+    "35": {
+        "The high prevalence of clubfoot among Indigenous babies in the NT reflects a strong genetic predisposition that is more common in this population compared to non-Indigenous groups.": 6,
+        "The study's findings suggest that maternal smoking and alcohol use during pregnancy are direct causes of clubfoot in Indigenous infants.": 6,
+        "The use of telehealth for initial clubfoot assessment in remote areas has significantly reduced the need for long-distance travel to specialist centres.": 6,
+        "The study's ascertainment process was unnecessary because the NTMC and ICD-10-AM coding systems are inherently accurate and reliable for identifying clubfoot cases.": 8
+    },
+    "36": {
+        "Pregnancies starting in the autumn were exposed to the highest temperatures in Weeks 33\u201337 and had the highest estimated PTB risk, suggesting that seasonal temperature patterns directly determine preterm birth outcomes.": 8,
+        "The lack of interaction with ethnicity and SES suggests that environmental temperature has an equal impact across all socioeconomic and ethnic groups in Southern Israel.": 8,
+        "The hazard ratios reported for weekly temperature exposure in the third trimester are sufficient to conclude that heat exposure during Week 37 causes a 4% increase in preterm birth risk.": 8,
+        "The methodological innovation of using LMP month to define exposure trajectories allows for precise identification of the exact gestational week when temperature exposure is most harmful.": 9,
+        "Pregnancies starting in the autumn were exposed to the highest temperatures in Weeks 33-37 and had the highest estimated PTB risk, suggesting that seasonal temperature patterns directly determine preterm birth outcomes.": 1
+    },
+    "37": {
+        "The increased risk of premature adult mortality in individuals with congenital anomalies may be primarily due to the long-term effects of prenatal ultrasound exposure and diagnostic radiation during infancy.": 9,
+        "Individuals with congenital anomalies who survive infancy are at a significantly lower risk of chronic disease in adulthood compared to those without anomalies, due to early medical interventions.": 9,
+        "The high rate of consanguinity in the Jerusalem Perinatal Study cohort explains the majority of the observed association between congenital anomalies and premature adult mortality.": 9,
+        "The long-term survival of individuals with congenital anomalies beyond 10 years is primarily due to the widespread use of prenatal ultrasound and early surgical correction in the 1960s and 1970s.": 9
+    },
+    "38": {
+        "The higher prevalence of binge eating in Mexico compared to other countries suggests that cultural factors may play a more significant role than food insecurity in driving disordered eating behaviors.": 8,
+        "Individuals who perceive their weight as 'just about right' are less likely to engage in self-induced vomiting because they are more satisfied with their body image, regardless of food insecurity status.": 8,
+        "The dose\u2013response relationship between food insecurity and binge eating is stronger than that for self-induced vomiting, particularly among individuals who perceive themselves as obese.": 8,
+        "The findings suggest that food insecurity primarily drives binge eating rather than compensatory behaviors like self-induced vomiting, as the latter is more strongly influenced by internalized weight stigma.": 9
+    },
+    "39": {
+        "The association between low household income and pain is primarily driven by financial hardship, which directly causes poor sleep quality and increased pain severity.": 9,
+        "Sleep duration has a stronger mediating effect on pain outcomes than sleep quality, particularly for chronic pain and pain severity.": 9,
+        "The mediating role of sleep measures is most pronounced for childhood socio-economic conditions, particularly father's occupational position.": 5,
+        "The findings suggest that improving sleep quality and duration would eliminate socio-economic inequities in pain outcomes.": 9,
+        "The mediating role of sleep measures is most pronounced for childhood socio-economic conditions, particularly father\u2019s occupational position.": 4
+    },
+    "40": {
+        "Prolonged durations of haze were associated with an increased risk of respiratory visits in both subdivisions, particularly when haze was linked to fire activity.": 9,
+        "The reduced risk observed during prolonged haze in Palangka Raya City may be due to better healthcare access, including mobile clinics and oxygen houses, which could have diverted severe cases to hospitals instead of puskesmas.": 8,
+        "The null association observed in Palangka Raya City may be due to the fact that haze in this region is primarily driven by transported pollutants from upwind fire sources, rather than local fire activity.": 9,
+        "The use of different haze definitions yielded different counts of total haze days and durations, with fire-haze days being more prevalent in Pulang Pisau Regency and non-fire-haze days more common in Palangka Raya City.": 2
+    },
+    "41": {
+        "The observed associations between air pollution and NAFLD incidence are likely due to unmeasured confounding by socioeconomic status, as participants in the MJ cohort may have higher health consciousness and socioeconomic status than the general population.": 9,
+        "Exposure to high levels of CO, even at low concentrations, may be cytoprotective against NAFLD, as suggested by the observed association between CO and increased NAFLD incidence in the study.": 9,
+        "The association between PM 2.5 and NAFLD incidence is primarily driven by regional differences in PM 2.5 composition, such as copper and polycyclic aromatic hydrocarbons, which are known to induce hepatic steatosis in experimental models.": 8,
+        "The use of township-level residential data to estimate personal exposure likely introduced substantial bias, undermining the validity of the observed associations between air pollutants and NAFLD incidence.": 9,
+        "The association between PM2.5 and NAFLD incidence is primarily driven by regional differences in PM2.5 composition, such as copper and polycyclic aromatic hydrocarbons, which are known to induce hepatic steatosis in experimental models.": 1
+    },
+    "42": {
+        "Although the phenomenological data-filtering approach may require more observations than are possible for some studies, researchers can still apply the essence of the phenomenological framework in their methods by prioritizing diverse and inclusive data to better serve the priority population.": 9,
+        "The phenomenological data-filtering approach improves analytic validity by reducing the number of erroneous data points more effectively than common approaches.": 9,
+        "Common data-filtering approaches are more effective at identifying biologically implausible values because they use population-level distributions to define normal ranges.": 8,
+        "The phenomenological data-filtering approach ensures that all participants are included in analysis by using individual-level comparisons, which leads to more accurate population-level estimates.": 9
+    },
+    "43": {
+        "The foreign-born advantage in life expectancy is primarily driven by higher educational attainment among foreign-born populations in Eastern European countries, which contributes positively to their overall PLE gap.": 9,
+        "The mortality advantage among foreign-born populations in Western European countries is largely due to stronger health selection among high-education immigrants, who are more likely to be admitted under strict entry conditions.": 9,
+        "The observed life expectancy advantage among foreign-born populations is entirely attributable to data artefacts, such as incomplete deregistration of out-migrants, which leads to over-coverage in mortality records.": 8,
+        "In countries where foreign-born populations have a higher proportion of low-educated individuals, the life expectancy advantage is amplified because these individuals benefit more from health selection and cultural protections.": 9
+    },
+    "44": {
+        "The lack of regional variation in PCC prevalence across Brazil suggests that socioeconomic and healthcare access disparities do not influence the long-term outcomes of COVID-19 infection.": 9,
+        "The positive association between schooling and wealth with symptom reporting suggests that higher education and income levels are protective against the development of post-COVID-19 condition (PCC).": 9,
+        "The high prevalence of PCC among individuals who were not hospitalized indicates that mild initial infections are the most common cause of long-term symptoms.": 9
+    },
+    "45": {
+        "The changing nature of lethal violence against women in Mexico, including an increase in public killings by strangers, suggests that public health measures aimed at curbing violence must prioritize gender-specific interventions in urban areas.": 9,
+        "The continued decline in female life expectancy between 2020 and 2021, despite improvements in diabetes and causes amenable to healthcare, was primarily due to higher exposure to COVID-19 among women working in the healthcare sector.": 9,
+        "The increase in diabetes-attributable mortality between 2000 and 2018 contributed to life-expectancy stagnation in Mexico, but this trend reversed during the pandemic due to improved access to diabetes care in low-income populations.": 9,
+        "The recovery of life expectancy in northern Mexico was faster than in southern Mexico due to better healthcare infrastructure and lower poverty levels, which allowed for more effective pandemic response and earlier access to medical care.": 6
+    },
+    "46": {
+        "Individuals diagnosed with MS before age 40 years are more vulnerable to the neurodegenerative effects of amalgam exposure, as evidenced by a stronger association with disability progression compared to those diagnosed later in life.": 9,
+        "The stronger association between amalgam exposure and disability progression among current smokers supports a synergistic effect between smoking and mercury-related neurotoxicity, suggesting that smoking may exacerbate the neurodegenerative impact of amalgam in individuals with MS.": 3,
+        "The association between amalgam exposure and disability progression was weaker among individuals treated with high-efficacy therapies, suggesting that these treatments may mitigate the neurodegenerative effects of mercury exposure.": 3,
+        "The EDSS trajectories over time suggest that amalgam exposure has a linear, dose-dependent effect on disability progression, with no evidence of a threshold effect in the progression to EDSS 3 or 4.": 3
+    },
+    "47": {
+        "The framework by Markozannes et al. is designed to assess the validity of genetic instruments used in Mendelian randomization studies by evaluating their strength, relevance, and independence from confounding factors.": 9,
+        "The framework by Markozannes et al. provides a scoring system to quantify the overall methodological quality of Mendelian randomization studies, including risk of bias, reporting, and conduct.": 9,
+        "The framework by Markozannes et al. is intended to replace existing risk of bias tools by providing a more rigorous and standardized method for evaluating the validity of causal inferences in Mendelian randomization studies.": 9,
+        "The framework by Markozannes et al. evaluates the clinical implications of Mendelian randomization findings by classifying evidence into levels that reflect potential for therapeutic application.": 9
+    },
+    "48": {
+        "Greater vegetable diversity appears to lower T2D risk in males due to their higher susceptibility to oxidative stress and lower antioxidant capacity, which may be mitigated by a diet rich in antioxidant-containing vegetables.": 8,
+        "The association between plant-protein diversity and T2D risk was stronger in individuals with central obesity, as indicated by the larger hazard ratios and narrower confidence intervals in this subgroup.": 9,
+        "Consuming five major food groups and four subtypes of vegetables was associated with lower T2D incidence across all subgroups, indicating that dietary diversity has a uniform protective effect regardless of sex or obesity status.": 8,
+        "The 2019 EAT-Lancet Commission has recommended the adoption of a 'universal healthy reference diet' including greater 'diversity' of plant-based foods to improve human health and planetary sustainability, and this study provides empirical support for that recommendation.": 3
+    },
+    "49": {
+        "The observed increase in the prevalence of CMD and IPV when using ACASI could have been due to an increase in the false-positive rate rather than a decrease in the false-negative rate.": 9,
+        "The higher reporting of IPV in men using ACASI may reflect greater willingness among men to disclose abuse due to the perceived anonymity of the digital tool, which aligns with traditional masculine norms of emotional restraint.": 9,
+        "The feasibility and acceptability of ACASI in low-income settings are well established, as demonstrated by high participant engagement and low technical failure rates during the trial.": 8,
+        "The lack of difference in counselling uptake between the two arms suggests that the digital screening tool did not improve the overall effectiveness of the health service in identifying and supporting vulnerable individuals.": 8
+    },
+    "50": {
+        "The use of self-tests in the general population may reduce the overall burden on primary care systems by decreasing unnecessary GP consultations for individuals who test negative.": 8,
+        "Self-testing behavior is primarily driven by healthcare-seeking behavior, which is already controlled for in test-negative design studies, minimizing the risk of bias.": 9,
+        "The most extreme bias in vaccine effectiveness estimates occurs when vaccinated individuals are less likely to self-test and more likely to consult the GP after a negative result.": 9,
+        "The primary care test-negative design is inherently invalid in settings where self-testing is prevalent, regardless of vaccination status or consultation behavior.": 9
+    },
+    "51": {
+        "The integration of mechanistic assumptions, such as susceptible depletion, could improve predictive performance at epidemic turning points, particularly for seasonally driven diseases like influenza and RSV.": 9,
+        "The use of a 14-day forecast horizon provides sufficient foresight for stakeholders to plan long-term healthcare infrastructure investments and staffing strategies.": 9,
+        "The probabilistic trend categorization enables modelers to identify and exclude underperforming models during weekly quality checks, improving forecast reliability.": 9,
+        "The use of prediction samples allows for granular forecasts at local levels and then aggregate the sample draws to higher geographies, enabling simple reconciliation across space, time, and other quantities of interest (such as age for RSV) [ 36 ].": 3
+    },
+    "52": {
+        "The higher incidence of medication abortions in outer regional, remote, and very remote areas compared to major cities indicates that women in these regions are more likely to prefer medication abortion over surgical abortion.": 9,
+        "The increasing use of medication abortion over time reflects a growing national preference for non-surgical methods among young Australian women.": 8,
+        "The limited availability of surgical abortion in remote areas is due to higher rates of medical contraindications to medication abortion among women in those regions.": 9,
+        "The higher incidence of medication abortions in nonmetropolitan areas is primarily due to the greater availability of telehealth services for medication abortion in those regions.": 9
+    },
+    "53": {
+        "Active commuting, by increasing physical activity level, may be associated with a lower cancer risk through various mechanisms, including improvement in immune function, reduction in systemic inflammation, modulation of circulating levels of sex hormones, reduction of body weight and effects on mechanical processes such as increasing colon motility and reducing the contact time between mucosa cells and carcinogens.": 9,
+        "The association between cycling and lower risk of colon cancer was stronger in areas with residential air pollution levels higher than the WHO-recommended thresholds, suggesting that the health benefits of cycling may outweigh the risks of air pollution exposure.": 9,
+        "Walking and cycling were both associated with a lower risk of breast and prostate cancers, although the associations were not statistically significant due to the small number of cases in the cycling group.": 9,
+        "The lack of significant associations for female-specific cancers may be due to the exclusion of women who had hysterectomy or bilateral oophorectomy, which could have biased the results toward null findings.": 9
+    },
+    "54": {
+        "The increase in hospital discharge and event rates for stroke in Switzerland between 2004 and 2017 is primarily due to a rise in non-traditional cardiovascular risk factors such as sleep disorders and obesity, which have directly contributed to higher stroke incidence.": 8,
+        "The significant reduction in out-of-hospital case fatality from 11.0% in 2004 to 3.2% in 2017 indicates that most stroke patients in Switzerland are now receiving timely pre-hospital care, likely due to widespread public awareness campaigns and improved emergency response systems.": 9,
+        "The higher stroke mortality rate in women aged 85 and older compared to men is primarily due to a greater proportion of women receiving suboptimal stroke care in specialized stroke units, leading to worse outcomes.": 9,
+        "The implementation of the DRG-system in 2012 led to a significant increase in stroke incidence rates in Switzerland, indicating that the healthcare system is over-diagnosing stroke to maximize reimbursement, which undermines the validity of the observed improvements in mortality and case fatality.": 9
+    },
+    "55": {
+        "The data strongly suggest a significant impact of the lockdown on outpatient department visits for cancer and CVD, indicating that the pandemic led to a substantial and sustained reduction in access to essential healthcare services for these conditions.": 7,
+        "The lack of statistical significance in the changes for CRD, HTN, and CKD suggests that the pandemic had no meaningful impact on healthcare utilization for these conditions in Nepal.": 9,
+        "The reduction in outpatient department visits for NCDs during the pandemic was primarily due to the reallocation of healthcare resources and personnel to COVID-19 wards, as reported in other studies.": 9,
+        "The observed decline in free service utilization for CVD and CKD indicates that patients in Nepal were less likely to seek care for these conditions due to financial barriers during the pandemic.": 9
+    },
+    "56": {
+        "The associations between parental death and adverse outcomes in emerging adulthood exhibited a larger amount of unobserved familial confounding compared to other household dysfunction indicators.": 9,
+        "The associations between social assistance and adverse outcomes in emerging adulthood exhibited a larger amount of unobserved familial confounding compared to other household dysfunction indicators.": 9,
+        "The associations between parental psychiatric hospitalization and adverse outcomes in emerging adulthood exhibited a larger amount of unobserved familial confounding compared to other household dysfunction indicators.": 9,
+        "The associations between household dysfunction indicators and adverse outcomes in emerging adulthood are primarily driven by shared environmental factors rather than genetic confounding.": 8
+    },
+    "57": {
+        "The increasing participation rates in the Korean GC screening program and the shift toward more sensitive endoscopy may have led to a sustained rise in GC incidence, indicating that screening programs are likely to increase cancer burden over time.": 9,
+        "The observed increase in GC incidence after screening implementation is primarily due to overdiagnosis of non-progressive or indolent lesions, which may lead to unnecessary medical interventions and psychological harm.": 9,
+        "The long-term impact of the screening program is uncertain because the synthetic control method cannot account for unmeasured confounders such as changes in Helicobacter pylori infection rates or lifestyle factors.": 9,
+        "The decline in the relative difference in GC incidence after 2011 indicates that the screening program failed to detect early-stage cancers effectively, leading to a loss of screening benefit over time.": 9
+    },
+    "58": {
+        "The opposite direction of methylation effects at the RNF39 DMR between males and females may be due to differences in cell composition within the newborn blood samples, which were not fully accounted for by the statistical models used.": 9,
+        "The higher methylation levels observed in male extremely preterm infants at SPATA18 and IRF2 may indicate a more robust epigenetic response to early-life stressors, contributing to increased asthma risk in this group.": 9,
+        "The inconsistent methylation effects across racial groups suggest that genetic ancestry, rather than sex, is the primary driver of epigenetic differences in asthma risk among newborns.": 9,
+        "The observed methylation differences in the HLA region may reflect inherent biological differences in immune system development between male and female infants, which could predispose them to distinct asthma phenotypes.": 8
+    },
+    "59": {
+        "In Latin American cities, higher neighbourhood education is consistently associated with lower BMI across all countries and genders, mirroring patterns observed in high-income countries.": 9,
+        "Neighbourhood walkability, as measured by intersection density, is a strong predictor of lower BMI in Latin American cities, similar to findings in high-income countries.": 9,
+        "The association between neighbourhood green space and BMI is universally inverse across Latin American cities, consistent with patterns observed in high-income countries.": 9,
+        "The cross-sectional nature of the data in this study prevents any causal inference about the relationship between neighbourhood characteristics and BMI, and thus the observed associations should be interpreted with caution.": 4
+    },
+    "60": {
+        "The initial rise in recorded pediatric cases of COVID-19 following school opening was primarily driven by increased community transmission due to the return of children to school environments.": 9,
+        "School mask mandates were associated with a significant reduction in pediatric COVID-19 case rates, suggesting that masking in schools is an effective public health intervention.": 8,
+        "The correlation between school opening and increased pediatric testing rates suggests that children were more likely to be exposed to SARS-CoV-2 during the summer months than during the school year.": 7,
+        "The lack of a clear rise in pediatric hospitalizations following school reopening supports the conclusion that school openings caused a significant increase in SARS-CoV-2 transmission among children.": 9
+    },
+    "61": {
+        "The method reduces bias from horizontal pleiotropy by using genetic instruments that are unlikely to exhibit indirect genetic effects, thereby improving the validity of causal estimates.": 9,
+        "The inclusion of nulliparous spousal pairs allows for the detection of horizontal pleiotropy through the offspring genome, enabling correction of causal estimates in parous pairs.": 9,
+        "The use of paternal genotypes to proxy offspring genotype allows for the estimation of causal effects in the absence of offspring genetic data, thereby expanding the applicability of Mendelian randomization to large biobank datasets.": 5,
+        "The offspring genotype-by-proxy MR approach is robust to confounding by maternal genotype because paternal genetic variants are uncorrelated with maternal genotype in the absence of assortative mating.": 4
+    },
+    "62": {
+        "The decline in clinical pneumonia cases in Kilifi, Kenya, between 2002 and 2011 was primarily due to improved access to antibiotics and better healthcare infrastructure.": 9,
+        "The presence of crackles on chest auscultation and lower chest wall indrawing in malaria-positive children with pneumonia symptoms is sufficient to confirm radiological pneumonia and rule out misclassification.": 9,
+        "The WHO clinical pneumonia definition has high specificity in all settings, as confirmed by the 97.5% positive predictive value observed in the PERCH study.": 9,
+        "The model used in the study assumes that malaria parasitaemia prevalence and clinical pneumonia incidence are inversely related, which explains the observed decline in pneumonia cases in Kilifi.": 9
+    },
+    "63": {
+        "LE gains observed among Hispanic individuals with high and middle education in 2020 were primarily due to protective factors that mitigated the negative impacts of the syndemic on non-communicable diseases.": 9,
+        "The rise in life expectancy losses from deaths of despair in 2020 and 2021 was primarily due to increased access to mental health services among low-SES individuals during the pandemic.": 9,
+        "The socioeconomic gradient in life expectancy losses was primarily driven by disparities in access to healthcare, particularly for individuals with low education and racial and ethnic minority backgrounds.": 9,
+        "The high rate of COVID-19 mortality amongst Hispanics with low education reflects how socio-environmental factors exacerbated disease vulnerability, clustering, and interactions for specific groups.": 3
+    },
+    "64": {
+        "Residence in disadvantaged neighborhoods has been linked to lower walkability scores and reduced physical activity, which may contribute to higher rates of obesity and, in turn, increase the risk of multiple myeloma incidence among Black women.": 9,
+        "The association between neighborhood socioeconomic context and multiple myeloma incidence is primarily driven by differences in individual-level educational attainment, as the observed risk was only significant among women with less than a high school education.": 9,
+        "The increased risk of multiple myeloma among Black women living in disadvantaged neighborhoods is likely due to unmeasured genetic factors related to racial ancestry, as disparities in MM incidence are not explained by genetic ancestry.": 9,
+        "The lack of statistical significance in the nSES association (HR: 1.35, 95% CI: 0.93, 1.96, P trend: .14) suggests that neighborhood socioeconomic status has no meaningful association with multiple myeloma incidence among Black women.": 9
+    },
+    "65": {
+        "The trend toward better timeliness in birth dose vaccines during the intervention period might be explained by the low intervention intensity as only three standardized text message reminders were sent to the participants and the shorter transition time between the intervention and control periods.": 9,
+        "Text message reminders could be combined with incentives and/or approaches to increase access to vaccination services to improve the timeliness of birth dose vaccines, as suggested by a recent systematic review and meta-analysis of 88 randomized trials from 17 countries.": 9,
+        "The findings are limited to a shorter intervention period, so the long-term intervention effects remain unknown, which undermines the validity of the trial's conclusions about the effectiveness of text message reminders.": 8,
+        "The improvement in timely administration of birth dose vaccines during the intervention period was primarily due to the John-Henry effect, where participants in the control period worked harder to compensate for not receiving the intervention, thereby influencing the outcome.": 9
+    },
+    "66": {
+        "Wealth has a stronger independent association with COVID-19 vaccine coverage than education, as evidenced by the larger unadjusted gap between the top and bottom quintiles.": 9,
+        "The lack of a significant association between wealth and influenza vaccine coverage suggests that socioeconomic status does not influence vaccine uptake in Brazil.": 8,
+        "After adjusting for education and wealth, religious affiliation becomes the strongest predictor of COVID-19 vaccine coverage, particularly among evangelicals.": 8,
+        "The educational gap in COVID-19 vaccination is primarily driven by differences in wealth, as the association disappears after adjusting for socioeconomic status.": 9
+    },
+    "67": {
+        "The use of a standardized hierarchical nomenclature in genomic surveillance enables accurate and stable lineage assignments for SARS-CoV-2, which reduces the risk of delayed detection of new variants.": 9,
+        "TreeScan's ability to detect clusters at the third allele code digit allows for earlier identification of outbreaks involving genetically diverse Salmonella strains compared to traditional rule-based methods.": 6,
+        "TreeScan analyses are most effective when used in conjunction with spatiotemporal cluster detection methods, as they can identify geographically diffuse outbreaks that are missed by genomic data alone.": 8,
+        "The declining availability of WGS results after the end of the federal COVID-19 public health emergency has reduced the representativeness of genomic surveillance data, which undermines the reliability of TreeScan\u2019s cluster detection.": 1,
+        "TreeScan\u2019s ability to detect clusters at the third allele code digit allows for earlier identification of outbreaks involving genetically diverse Salmonella strains compared to traditional rule-based methods.": 3,
+        "The declining availability of WGS results after the end of the federal COVID-19 public health emergency has reduced the representativeness of genomic surveillance data, which undermines the reliability of TreeScan's cluster detection.": 3
+    },
+    "68": {
+        "The stronger correlation between citations and Altmetrics in COVID-19 research suggests that media attention directly causes higher citation rates in scientific literature.": 9,
+        "The decline in non-COVID-19 research output during the pandemic indicates that scientific institutions prioritized pandemic-related research at the expense of long-term scientific progress.": 6,
+        "The time-varying spikes in media attention for preprints were driven primarily by the publication of high-impact journal articles on the same topics.": 8,
+        "The higher Altmetrics scores for COVID-19 preprints compared to non-COVID-19 preprints indicate that preprints are more effective than peer-reviewed articles in generating public engagement during a pandemic.": 4
+    },
+    "69": {
+        "The absence of an observed association between CRP levels and CKD incidence may suggest an alternative mechanism such as inflammatory adaptation, where elevated CRP levels reflect generalized immune activation rather than pathologic inflammation in populations with prolonged exposure to infectious or environmental antigens.": 9,
+        "Ferritin levels were positively associated with CKD incidence and albuminuria, but not with decreased eGFR, suggesting that ferritin may be more closely linked to glomerular damage than tubulointerstitial injury.": 8,
+        "The lack of interaction between ferritin and demographic factors such as age, sex, education, and migration status suggests that the relationship between elevated ferritin and CKD risk is universal across subgroups in African populations.": 9,
+        "Although ferritin is a marker of both inflammation and iron storage, the observed association with CKD incidence suggests that its role in CKD development is primarily due to iron overload rather than chronic inflammation.": 9
+    },
+    "70": {
+        "The higher risk of mental disorders among MA beneficiaries may be due to increased alcohol consumption during cold temperatures as a coping mechanism for inadequate home heating, which exacerbates preexisting mental health conditions.": 9,
+        "Due to financial constraints and limited access to healthcare, MA beneficiaries are more likely to delay treatment for temperature-related illnesses, leading to more severe outcomes and longer hospital stays.": 9,
+        "The increased risk of emergency hospitalization among MA beneficiaries is primarily driven by occupational exposure to outdoor temperatures, especially among young and middle-aged males in physically demanding jobs.": 9,
+        "The study found that elderly MA beneficiaries experienced the highest excess medical costs due to extreme heat, particularly among those with cardiovascular and respiratory diseases.": 9
+    },
+    "71": {
+        "The lack of association between age at menarche and incident diabetes in this cohort may be due to the high prevalence of obesity among women, which could mask any underlying relationship.": 9,
+        "Women with earlier onset of menarche in this cohort had a higher risk of diabetes, particularly those with central obesity, suggesting that adiposity mediates the relationship.": 9,
+        "The association between age at menarche and diabetes incidence may be stronger in younger women, as suggested by the sensitivity analysis restricted to those aged 20\u201345 years.": 8,
+        "The findings suggest that early menarche is a protective factor against diabetes in Indian women, as women with menarche at \u226412 years had the lowest diabetes incidence rate.": 9
+    },
+    "72": {
+        "The observed inverse associations between O3 exposure and adult bronchitic symptoms during mid-childhood (ages 8\u201311 years) may reflect unmeasured confounding, such as outdoor activities or indoor\u2013outdoor differences in exposure, and should be interpreted with caution.": 9,
+        "The high correlation between PM10 and NO2 from age 5 years onward suggests that the observed associations with adult bronchitic symptoms may be driven primarily by NO2 rather than PM10, limiting the interpretability of PM10's role.": 8,
+        "The lack of observed sex differences in the impact of air pollution on lung development suggests that biological sex does not influence susceptibility to long-term respiratory effects from childhood air-pollution exposure.": 9,
+        "The seasonal nature of O3 exposure, particularly during summer months, may explain the increased risk of adult bronchitic symptoms at ages 12\u201315 years, suggesting that summertime pollution is a key driver of long-term respiratory harm.": 9
+    },
+    "73": {
+        "The higher prevalence of family member deaths due to COVID-19 in wealthier households may be attributed to the ineffectiveness of social policies during the crisis, which left millions at risk of hunger and extreme poverty, thereby increasing vulnerability to severe outcomes.": 9,
+        "The observed pattern of higher reported family deaths in wealthier households may reflect greater access to healthcare and more accurate reporting of deaths, leading to higher case ascertainment compared to poorer families.": 9,
+        "The higher rate of family deaths in wealthier households is likely due to the greater prevalence of non-communicable diseases among the poorest, which may have led them to attribute deaths to other pre-existing conditions rather than COVID-19.": 8,
+        "The higher reported family deaths in wealthier households may be explained by the concentration of indigenous populations in the North region, where higher mortality rates were observed during the pandemic due to pre-existing health vulnerabilities.": 9
+    },
+    "74": {
+        "The estimated magnitude is consistent with long-term effect results from reviews [18] and from the MTA trial [11\u201313], suggesting that ADHD medication initiation leads to clinically meaningful improvements in academic achievement over time.": 9,
+        "Initiating ADHD medication approximately one year after the grade five national test is associated with a substantial increase in grade eight national test scores, particularly in the reading domain.": 9,
+        "The use of negative controls and proximal causal inference in sensitivity analyses confirms that ADHD medication initiation causally improves academic performance in children diagnosed with ADHD.": 9,
+        "Children who initiate ADHD medication are more likely to have higher grade point averages and better teacher assessments of performance, which aligns with improved standardized test scores.": 9
+    },
+    "75": {
+        "The secular trend of earlier age at menarche during the last century is evident, and the primary driver of the early part of this decline has been attributed to better nutrition and living conditions.": 7,
+        "Maternal pre-pregnancy obesity was associated with earlier puberty by \u223c3\u2009months in girls and \u223c1.5\u2009months in boys, suggesting that the obesity epidemic may be a major driver of the continuing decline in age at menarche.": 4,
+        "The DNBC Puberty Cohort found that most maternal dietary factors (folate, vitamin D) in pregnancy were associated with slightly later puberty in boys, indicating that nutritional factors during pregnancy may be contributing to the secular trend of earlier puberty.": 8,
+        "Maternal pre-pregnancy obesity was associated with earlier puberty by ~3 months in girls and ~1.5 months in boys, suggesting that the obesity epidemic may be a major driver of the continuing decline in age at menarche.": 3,
+        "Maternal pre-pregnancy obesity was associated with earlier puberty by \u223c3 months in girls and \u223c1.5 months in boys, suggesting that the obesity epidemic may be a major driver of the continuing decline in age at menarche.": 2,
+        "The finding that childhood obesity is associated with later puberty in both sexes suggests that the obesity epidemic may be counteracting the secular trend toward earlier pubertal onset.": 4
+    },
+    "76": {
+        "The adverse associations between tropical cyclone or flood exposure and biological aging were primarily driven by changes in plasma blasts and CD4+ T cells, which showed the strongest mediation effects across all DNAmAgeAC metrics.": 9,
+        "The study found that the effects of tropical cyclone or flood exposure on biological aging were fully explained by genetic factors, as the twin and family design controlled for all environmental influences.": 9,
+        "The mediation analysis revealed that the impact of tropical cyclone or flood exposure on biological aging was most strongly associated with changes in the abundance of monocytes and natural killer (NK) cells, which were the most consistently altered leucocyte subtypes.": 9,
+        "The study suggests that the biological aging acceleration following extreme weather exposure is primarily due to chronic inflammation, which was directly measured through elevated levels of C-reactive protein and interleukin-6 in the blood samples.": 9
+    },
+    "77": {
+        "The higher incidence of thyroid cancer in South Korea compared to the UK may be due to genetic differences between the two populations.": 9,
+        "The lack of a significant association between alcohol consumption and thyroid cancer in the UKB cohort suggests that alcohol does not influence thyroid cancer risk in any population.": 9,
+        "The inverse relationship between alcohol consumption and thyroid cancer in South Korea may be due to a protective effect of alcohol on thyroid function.": 9,
+        "The high incidence of thyroid cancer in South Korea is primarily driven by increased alcohol consumption among younger adults.": 9
+    },
+    "78": {
+        "The inclusion of assessment centre as a stratifying variable in the model led to a reduction in statistical power due to decreased exposure variation within risk sets, highlighting a trade-off between confounding control and model precision.": 5,
+        "The lack of control for individual-level socio-economic factors led to a significant reversal in the estimated hazard ratio, similar to the effect observed when assessment centre was excluded from the model.": 9,
+        "Lifestyle characteristics act as independent predictors of mortality, and their exclusion from the model results in a loss of predictive accuracy for individual-level risk assessment.": 9,
+        "The use of a time-varying exposure model in the analysis mitigated the confounding effects of lifestyle factors, reducing the need for their inclusion in the regression model.": 9
+    },
+    "79": {
+        "The multigenerational effects of nicotine exposure in mice models suggest that paternal snus use during puberty may lead to abnormal lung function and changes in asthma phenotype markers in the offspring, supporting the biological plausibility of the observed associations in humans.": 9,
+        "The consistency of results across sensitivity analyses, including exclusion of offspring who used snus themselves, suggests that the observed associations are primarily driven by the offspring\u2019s own snus use rather than paternal exposure.": 7,
+        "The findings suggest that maternal smoking during pregnancy is a stronger predictor of offspring asthma than paternal snus use during puberty, based on the lack of effect modification observed in the analysis.": 9,
+        "The study\u2019s findings indicate that the risk of allergic asthma in offspring is not influenced by paternal snus use, as the association was only observed in the context of other confounding factors.": 7,
+        "The consistency of results across sensitivity analyses, including exclusion of offspring who used snus themselves, suggests that the observed associations are primarily driven by the offspring's own snus use rather than paternal exposure.": 2,
+        "The study's findings indicate that the risk of allergic asthma in offspring is not influenced by paternal snus use, as the association was only observed in the context of other confounding factors.": 2
+    },
+    "80": {
+        "The health risks associated with temperature extremes are primarily driven by physiological differences in thermoregulation, with older adults being the most vulnerable due to age-related decline in physiological resilience.": 9,
+        "Cold temperatures are the dominant driver of ambulance dispatches across all age groups, particularly in older adults, due to their higher susceptibility to cardiovascular and respiratory complications.": 9,
+        "The increased risk of ambulance dispatches during heatwaves is primarily due to the cumulative physiological strain on elderly individuals with pre-existing cardiovascular and respiratory conditions.": 9,
+        "Ambulance dispatches due to temperature extremes are predominantly caused by cardiovascular and respiratory emergencies, with the highest burden observed in older adults and during cold periods.": 9
+    },
+    "81": {
+        "The strong association between IL-6 and CRP suggests that CRP may be a more reliable biomarker of systemic inflammation than IL-6 in children, and thus should be prioritized in future studies of LUTS.": 9,
+        "The lack of association between CRP and LUTS suggests that inflammation is not a relevant biological mechanism in the development of lower urinary tract symptoms in adolescence.": 9,
+        "The mediating effect of IL-6 on the ACE-LUTS relationship is likely due to its role in upregulating CRP synthesis via classical signaling, which in turn contributes to lower urinary tract symptoms.": 9,
+        "The findings suggest that early-life adversity leads to LUTS primarily through psychological distress, rather than through biological mechanisms such as inflammation.": 9
+    },
+    "82": {
+        "The lack of a significant additive interaction between smoking and BMI, as well as between alcohol and BMI, suggests that these lifestyle factors may independently increase the risk of cardia gastric cancer without influencing the effect of obesity.": 9,
+        "The observed higher risk of cardia gastric cancer among overweight non-smokers and nondrinkers indicates that smoking and alcohol consumption are protective against obesity-related cancer development.": 9,
+        "The association between BMI and cardia gastric cancer is strongest in individuals who smoke and drink alcohol, as evidenced by the higher odds ratios in these subgroups.": 9,
+        "The dose\u2013response relationship between BMI and cardia gastric cancer risk is independent of smoking and alcohol consumption, as shown by consistent results across all subgroups.": 7,
+        "The dose-response relationship between BMI and cardia gastric cancer risk is independent of smoking and alcohol consumption, as shown by consistent results across all subgroups.": 2
+    },
+    "83": {
+        "The observed increase in DCIS incidence is primarily driven by the introduction of digital mammography and high-resolution ultrasound, which enhanced the sensitivity of breast imaging technologies.": 9,
+        "The increase in DCIS incidence among women in northern Italy is best explained by a cohort-specific rise in exposure to environmental risk factors, particularly those affecting younger women born after 1960.": 9,
+        "The implementation of the mammography screening programme in Romagna led to a temporary spike in DCIS incidence, after which rates stabilized, indicating that overdiagnosis has plateaued.": 9,
+        "The rise in DCIS incidence is entirely attributable to the expansion of the screening programme to include women aged 45\u201349 and 70\u201374, which increased the number of women undergoing mammography.": 8,
+        "The rise in DCIS incidence is entirely attributable to the expansion of the screening programme to include women aged 45-49 and 70-74, which increased the number of women undergoing mammography.": 1
+    },
+    "84": {
+        "The increasing prevalence of multimorbidity across all generations, particularly among younger cohorts, is primarily driven by rising rates of mental health disorders and overdiagnosis in the public healthcare system.": 9,
+        "The socioeconomic gradient in multimorbidity prevalence and incidence is narrowing over time, particularly among younger cohorts, due to improved access to preventive healthcare services.": 9,
+        "The S-shaped disease-accumulation trajectories observed in multimorbidity prevalence suggest that the rate of chronic disease onset slows down significantly after age 60, regardless of birth cohort or socioeconomic status.": 9,
+        "The decline in the median age at multimorbidity onset is primarily due to changes in diagnostic criteria and increased healthcare utilization during the COVID-19 pandemic.": 9
+    }
+}

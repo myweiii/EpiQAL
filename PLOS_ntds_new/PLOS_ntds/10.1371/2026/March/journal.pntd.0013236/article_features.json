@@ -1,0 +1,63 @@
+{
+    "Title": "Rapid identification of Biomphalaria spp. and diagnosis of Schistosoma mansoni infestation using MALDI-TOF mass spectrometry",
+    "URL": "https://doi.org/10.1371/journal.pntd.0013236",
+    "Published": "March 24, 2026",
+    "Subject_Areas": [
+        "Matrix-assisted laser desorption ionization time-of-flight mass spectrometry",
+        "Biomphalaria",
+        "Parasitic diseases",
+        "Schistosoma mansoni",
+        "Schistosomiasis",
+        "Computer software",
+        "Principal component analysis",
+        "Snails"
+    ],
+    "Authors": {
+        "Diara Sy": [
+            "RITMES, Aix Marseille University, Service de Santé des Armées, Marseille, France",
+            "EMR MINES Infectious, Neglected, and Emerging Diseases in the South, Aix-Marseille University, Research Institute for Development, Marseille, France",
+            "EMR MINES: Infectious, Neglected, and Emerging Diseases in the South, Research Institute for Development, International Campus of the Institute of Research for Development, Université Cheikh Anta Diop de Hann, Dakar, Senegal",
+            "Parasitology-Mycology, IHU Méditerranée Infection, Marseille, France"
+        ],
+        "Lionel Almeras": [
+            "RITMES, Aix Marseille University, Service de Santé des Armées, Marseille, France",
+            "EMR MINES: Infectious, Neglected, and Emerging Diseases in the South, Research Institute for Development, International Campus of the Institute of Research for Development, Université Cheikh Anta Diop de Hann, Dakar, Senegal",
+            "Parasitology and Entomology Unit, Department of Microbiology and Infectious Diseases, Armed Forces Biomedical Research Institute, Marseille, France"
+        ],
+        "Adama Zan Diarra": [
+            "EMR MINES Infectious, Neglected, and Emerging Diseases in the South, Aix-Marseille University, Research Institute for Development, Marseille, France",
+            "EMR MINES: Infectious, Neglected, and Emerging Diseases in the South, Research Institute for Development, International Campus of the Institute of Research for Development, Université Cheikh Anta Diop de Hann, Dakar, Senegal",
+            "Parasitology-Mycology, IHU Méditerranée Infection, Marseille, France"
+        ],
+        "Souleymane Doucoure": [
+            "EMR MINES: Infectious, Neglected, and Emerging Diseases in the South, Research Institute for Development, International Campus of the Institute of Research for Development, Université Cheikh Anta Diop de Hann, Dakar, Senegal"
+        ],
+        "Yacine Mbere Sarr": [
+            "EMR MINES: Infectious, Neglected, and Emerging Diseases in the South, Research Institute for Development, International Campus of the Institute of Research for Development, Université Cheikh Anta Diop de Hann, Dakar, Senegal"
+        ],
+        "Coralie L’Ollivier": [
+            "RITMES, Aix Marseille University, Service de Santé des Armées, Marseille, France",
+            "Parasitology-Mycology, IHU Méditerranée Infection, Marseille, France"
+        ],
+        "Papa Mouhamadou Gaye": [
+            "Parasitology-Mycology, IHU Méditerranée Infection, Marseille, France"
+        ],
+        "El Hadji Ibrahima Ndiaye": [
+            "Parasitology-Mycology, IHU Méditerranée Infection, Marseille, France"
+        ],
+        "Bruno Senghor": [
+            "EMR MINES: Infectious, Neglected, and Emerging Diseases in the South, Research Institute for Development, International Campus of the Institute of Research for Development, Université Cheikh Anta Diop de Hann, Dakar, Senegal"
+        ],
+        "Doudou Sow": [
+            "Department of Parasitology-Mycology, Health Sciences Training and Research Unit, Université Gaston Berger, Saint Louis, Senegal"
+        ],
+        "Cheikh Sokhna": [
+            "EMR MINES Infectious, Neglected, and Emerging Diseases in the South, Aix-Marseille University, Research Institute for Development, Marseille, France",
+            "EMR MINES: Infectious, Neglected, and Emerging Diseases in the South, Research Institute for Development, International Campus of the Institute of Research for Development, Université Cheikh Anta Diop de Hann, Dakar, Senegal"
+        ],
+        "Stephane Ranque": [
+            "RITMES, Aix Marseille University, Service de Santé des Armées, Marseille, France",
+            "Parasitology-Mycology, IHU Méditerranée Infection, Marseille, France"
+        ]
+    }
+}

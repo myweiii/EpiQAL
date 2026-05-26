@@ -1,0 +1,293 @@
+{
+    "0": {
+        "Higher initial bacterial index (aBI) was the strongest predictor of lower cure likelihood, regardless of treatment regimen": 8
+    },
+    "1": {
+        "Implement province-specific early warning systems that trigger interventions based on local climate-dengue timing and lagged exposure-response relationships": 9
+    },
+    "2": {
+        "Use a combination of GeoDetector for spatial explanatory power and Distributed Lag Nonlinear Models to identify reservoirs with high delayed transmission potential": 9
+    },
+    "3": {
+        "The presence of a clinically healthy maned wolf with low-level Leishmania infantum infection in an area with high vector density suggests a potential for local transmission despite lack of overt disease": 9
+    },
+    "4": {
+        "The confidence and competence of Public Health Midwives in delivering evidence-based first-aid measures": 9
+    },
+    "5": {
+        "The low seropositivity in blood donors suggests underestimation of population-level immunity and may mask higher risk of severe disease in specific subpopulations with greater exposure, such as males in rural areas for scrub typhus and females in urban settings for murine typhus": 8,
+        "The low seroprevalence in blood donors suggests underestimation of population-level immunity and may mask higher risk of severe disease in specific subpopulations with greater exposure, such as males in rural areas for scrub typhus and females in urban settings for murine typhus": 1
+    },
+    "6": {
+        "A projected increase in maximum temperature would reduce the risk of congenital toxoplasmosis by lowering the force of infection, thereby decreasing the number of susceptible women of childbearing age in an intermediate transmission setting": 4
+    },
+    "7": {
+        "The progressive increase in both antibody and cytokine levels after infection indicates a sustained and amplified immune response over time": 9
+    },
+    "8": {
+        "Incorporating human-in-the-loop verification of AI detections to correct for false positives and false negatives": 9
+    },
+    "9": {
+        "Bats are unlikely to serve as stable sylvatic reservoirs for ZIKV due to either cellular resistance or lack of immune tolerance in the species tested": 9
+    },
+    "10": {
+        "Environmental contamination from abattoir waste combined with vector attraction under poor management conditions": 9
+    },
+    "11": {
+        "Aedes aegypti populations in southern Brazil serve as a hidden reservoir for sustained dengue transmission, maintaining viral circulation even when human case reporting is low or absent": 9
+    },
+    "12": {
+        "A Bayesian spatiotemporal model using integrated nested Laplace approximations (INLA) with a negative binomial response, a BYM2 spatial effect, and cross-basis matrices for climatic predictors": 7
+    },
+    "13": {
+        "The observed seroprevalence likely underestimates true population immunity due to reduced sensitivity of RDTs for detecting waning IgG antibodies in past infections": 7
+    },
+    "14": {
+        "Markedly higher systemic inflammatory markers in ST meningitis, despite similar cerebrospinal fluid profiles, suggest a more intense systemic immune response in ST compared to brucellosis": 9
+    },
+    "15": {
+        "M. fortis possesses a functional complement system that is activated via the lectin pathway to directly lyse extracellular T. gondii tachyzoites, whereas KM mice lack this effective defense mechanism": 9
+    },
+    "16": {
+        "The contrasting patterns of infection prevalence and snail size between L. fulica in the Lesser Antilles and L. immaculata in French Guiana indicate that host-specific biological traits, such as calcium dependency and growth dynamics, shape infection risk": 9
+    },
+    "17": {
+        "Differences in ecological mechanisms governing host and vector responses to climate variability": 9
+    },
+    "18": {
+        "The genomic similarity between milk-derived Brucella isolates and cattle strains from the same regions, combined with the absence of vaccine strain markers, indicates ongoing circulation in livestock rather than sporadic environmental exposure": 7,
+        "The genomic similarity between milk-derived Brucella isolates and cattle strains from the same regions, combined with the absence of vaccine strain markers, indicates ongoing circulation in livestock rather than sporadic environmental contamination": 2
+    },
+    "19": {
+        "The inverse titer relationships suggest that prior exposure to one rickettsial pathogen may reduce susceptibility to another, indicating potential cross-protective immunity or competitive exclusion in host populations.": 8
+    },
+    "20": {
+        "A steady baseline of neutral reporting punctuated by short-term sentiment spikes tied to specific events such as outbreaks or vaccine announcements": 9
+    },
+    "21": {
+        "Use a structural equation model to decompose total effects into direct and indirect pathways through mediating variables": 9
+    },
+    "22": {
+        "The co-occurrence of symptom misidentification, inappropriate antivenom use, and endorsement of harmful interventions indicates a systemic failure in clinical decision-making that necessitates integrated training to improve diagnostic accuracy and treatment safety": 9
+    },
+    "23": {
+        "Using a freeze-boil lysis method to directly amplify DNA from crude fungal biomass without purification": 9
+    },
+    "24": {
+        "The persistent elevation of CCR8+ Tregs in infected mice beyond normal physiological decline indicates active immune dysregulation that exacerbates disease severity": 9
+    },
+    "25": {
+        "The absence of a correlation between CSF viral load and neurological severity, despite consistent CSF viral presence, suggests that intrathecal viral replication is not the primary driver of neurological outcomes": 8
+    },
+    "26": {
+        "The co-infection of a single host with multiple zoonotic trypanosomatid species, including one that successfully infected sand flies, suggests the potential for complex, multi-species transmission networks in the ecosystem": 8
+    },
+    "27": {
+        "Wind-enhanced flight capacity of adult triatomines in mountainous regions enables long-distance dispersal and the spread of multiple T. cruzi genotypes across fragmented landscapes": 9
+    },
+    "28": {
+        "The high prevalence of Colpodella spp. in Hy. excavatum ticks from livestock-rearing districts, combined with evidence of human and vertebrate infection and tick-mediated transmission, suggests this tick species may act as a reservoir for a zoonotic pathogen": 9
+    },
+    "29": {
+        "Autonomic nervous system dysfunction was present in the absence of clinical symptoms and structural cardiac abnormalities, indicating it occurs prior to detectable heart damage": 9
+    },
+    "30": {
+        "The timing and context of symptom recurrence relative to treatment status, because it reflects distinct immunological mechanisms and affects prognostic interpretation and treatment response assessment": 9
+    },
+    "31": {
+        "Prolonged corticosteroid use in individuals with chronic, severe erythema nodosum leprosum": 9
+    },
+    "32": {
+        "Painful, long-standing ulcers in children may be misclassified as treatment failures for yaws despite resolution of infection, leading to overestimation of eradication program challenges": 9
+    },
+    "33": {
+        "Use longitudinal sTM measurements across disease phases to identify a threshold increase that predicts transition from severe to critical illness": 9
+    },
+    "34": {
+        "Incorporating socio-economic and health variables allows the model to capture transmission dynamics driven by human infrastructure, vulnerability, and behavioral factors beyond climate alone": 9
+    },
+    "35": {
+        "By using a hierarchical Bayesian model that corrects for assay-specific sensitivity and specificity and pools information across studies to produce calibrated, uncertainty-aware prevalence estimates": 9
+    },
+    "36": {
+        "Night-time temperature": 7
+    },
+    "37": {
+        "Supplementation with sex-inducing substances (SIS) is the critical factor enabling observable sexual maturation in cultured liver fluke juveniles": 9
+    },
+    "38": {
+        "The ability to complete its lifecycle in non-human mammalian hosts while maintaining long-term infections in humans enables sustained transmission across species": 9
+    },
+    "39": {
+        "The functional performance of bispecific antibodies may be compromised by steric hindrance, leading to a disconnect between in vitro binding and in vivo protective efficacy": 9
+    },
+    "40": {
+        "Overlaying key socioenvironmental risk factors onto geographic space can reveal co-occurring vulnerabilities in specific communities, enabling precise targeting of interventions in high-risk areas like Tiningu and Arapem\u00e3": 9
+    },
+    "41": {
+        "Pre-existing neurological damage at the time of treatment completion is the primary determinant of persistent disability and poor functional recovery": 5
+    },
+    "42": {
+        "The presence of anti-RVF IgG antibodies in humans and livestock in a region with no reported human cases, combined with proximity to areas of active transmission and limited surveillance capacity, indicates potential silent circulation of the virus": 8
+    },
+    "43": {
+        "The model's prediction of virus presence is biologically plausible because the identified vectors are known to transmit other arboviruses, supporting inference of shared transmission pathways across viruses": 9
+    },
+    "44": {
+        "Genotype K gained a selective advantage through adaptive mutations in the spike protein that enhance receptor binding and immune evasion under cross-reactive host immunity": 6
+    },
+    "45": {
+        "Restricting the literature search to English-language publications": 3
+    },
+    "46": {
+        "The persistence of extensive sheep farming and the associated sheep-dog transmission cycle in southern and insular regions sustains long-term exposure, leading to higher historical infection rates reflected in current adult case distribution": 9
+    },
+    "47": {
+        "The detection of placental schistosomiasis in women without detectable urinary schistosomiasis suggests a distinct pathological process that may independently contribute to adverse birth outcomes": 7
+    },
+    "48": {
+        "The infectious nature of the disease, which necessitates strategies that address both personal symptom management and the risk of transmission to others": 9
+    },
+    "49": {
+        "The persistence of elevated serotonin levels and the resulting downstream physiological responses, such as growth promotion, which may counteract intended therapeutic effects": 9
+    },
+    "50": {
+        "Surveillance and interventions in border regions must be coordinated across large ecological zones rather than confined to administrative boundaries to account for the expanded spatial scale of transmission": 9
+    },
+    "51": {
+        "The reference standard's inability to detect non-viable bacteria introduces differential misclassification, which can lead to underestimation of the novel assay's true sensitivity": 7
+    },
+    "52": {
+        "Integrate species distribution models with SSP-based climate projections and incorporate multi-species ecological interactions and land-use change data": 9
+    },
+    "53": {
+        "Drone surveillance success depends on aligning technological deployment with community expectations of efficiency and respect, given the persistent environmental risk of dengue in dense urban areas": 9
+    },
+    "54": {
+        "The conservation of the \u03b2-galactose-binding lectin across human and bat isolates suggests it plays a fundamental role in fungal survival and transmission within diverse mammalian hosts, supporting its evolutionary importance in the zoonotic lifecycle of H. capsulatum": 9
+    },
+    "55": {
+        "The high sensitivity of the qPCR assay may lead to detection of parasite DNA from recent blood meals, potentially misclassifying non-infected flies as positive": 9
+    },
+    "56": {
+        "Only rTenascin15/30, but not rTenascin33, induced EGFR and STAT3 nuclear translocation, indicating a more severe and sustained signaling pathway in epithelial damage": 8
+    },
+    "57": {
+        "Random assignment of mice to groups combined with a pre-determined sample size based on power analysis and systematic comparison of multiple outcomes": 9
+    },
+    "58": {
+        "Failure to account for strain-specific responses and non-standardized culture conditions may confound the observed gene expression differences": 8
+    },
+    "59": {
+        "Suppression of the host Th2 immune response due to prior or concurrent microparasite infection": 9
+    },
+    "60": {
+        "Geographic bias in case reporting may lead to overestimation of mass drug administration effectiveness in well-covered areas and underestimation of risk in underserved regions": 9
+    },
+    "61": {
+        "The magnitude and persistence of IL-10 suppression and TNF-\u03b1 elevation in the host immune response": 8
+    },
+    "62": {
+        "The assumption that reporting and hospitalization rates depend on pre-exposure history is critical for accurately detecting vaccine impact in seronegative individuals, especially under DENV-3 and DENV-4 dominance": 9
+    },
+    "63": {
+        "The small sample size in the 'somewhat worse' category undermines confidence in the clinical interpretability of the responsiveness results despite statistical significance": 9
+    },
+    "64": {
+        "The functional status of the Acod1/itaconate axis in regulating neuroinflammatory responses": 9
+    },
+    "65": {
+        "The absence of activity against trypomastigotes despite measurable effects at equivalent concentrations in other life stages disrupts a uniform exposure-response interpretation": 9
+    },
+    "66": {
+        "Rearing livestock at home, because it creates a sustained, proximal human-animal-environment interface that enables continuous exposure to Brucella through direct contact with animals and contaminated environments": 9
+    },
+    "67": {
+        "The spatial representativeness of empirical data and the duration of follow-up jointly affect confidence in interpreting geographic differences in program impact": 9
+    },
+    "68": {
+        "Differences in environmental exposure between field-collected and laboratory-raised snails likely contributed to variability in MALDI-TOF MS spectral profiles": 7
+    },
+    "69": {
+        "The presence of HLA-G granular brown spots in the dermis associated with local parasite detection, independent of systemic sHLA-G levels": 9
+    },
+    "70": {
+        "The operational stability of district laboratories, including access to functioning equipment, consistent supply of reagents, and reliable data management, is essential for maintaining diagnostic accuracy in decentralized testing": 9
+    },
+    "71": {
+        "Environmental disruption leading to altered bat behavior and increased human exposure": 7
+    },
+    "72": {
+        "The convergence of monsoon-driven habitat expansion in domestic gardens, high-frequency human activities during low-visibility hours, and the presence of ambush predators like H. hypnale creates a predictable peak in snakebites from September to February": 9
+    },
+    "73": {
+        "The biphasic response in neuroblastoma cells suggests that membrane saturation limits toxin penetration, leading to rapid cell lysis at low doses and reduced detectable damage at higher doses due to cell detachment": 3
+    },
+    "74": {
+        "The detection of a high prevalence of E. multilocularis in multiple geographically dispersed coyote populations, all sharing a unique haplotype previously only documented in British Columbia, indicates a shared source and sustained transmission within the region": 9
+    },
+    "75": {
+        "The type of environmental substrate and associated transmission mechanism (soil-based vs. plant surface-mediated via flies) likely drives the differential persistence and transmission dynamics": 9
+    },
+    "76": {
+        "Exposure misclassification due to inadequate characterization of prior fungal exposure in control groups can create spurious associations between SNVs and disease susceptibility": 9
+    },
+    "77": {
+        "Reinfection is sustained by ongoing environmental exposure and individual behaviors shaped by structural vulnerabilities such as food insecurity and inadequate WASH infrastructure": 9
+    },
+    "78": {
+        "Achieving and sustaining \u226570% vaccination coverage among free-roaming dogs despite permeable boundaries and high population mobility": 9
+    },
+    "79": {
+        "Individuals with impaired primaquine activation due to CYP2D6 deficiency may experience higher early-life recurrence risk but develop stronger clinical immunity over time, leading to similar long-term infection rates compared to those with normal metabolism": 9
+    },
+    "80": {
+        "Including the top 10 principal components as covariates in the logistic regression model": 5
+    },
+    "81": {
+        "The high proportion of cases among individuals without dog ownership, combined with stray dog congregation in child-accessible areas, indicates that environmental contamination is a major transmission route": 9
+    },
+    "82": {
+        "The genetic similarity between Leptospira strains in bats and those found in humans and shrews, combined with the host-dependent transmission biology of L. borgpetersenii, suggests bats may directly contribute to human infection": 9
+    },
+    "83": {
+        "The concentration of high-fatality streets in low-lying coastal valleys, despite not being uniformly distributed around the customs port, indicates that environmental factors like wind and elevation shaped vector dispersal beyond simple proximity": 9
+    },
+    "84": {
+        "The absence of clinical disease likely reflects effective immune control of subclinical viral replication, rather than complete prevention of infection or immune-mediated pathology": 9
+    },
+    "85": {
+        "The environmental resilience of Giardia cysts combined with zoonotic reservoirs in wildlife and domestic animals enables sustained transmission across human and animal populations": 9
+    },
+    "86": {
+        "Elevated levels of the gut microbiota-derived metabolite GlcNAc are strongly associated with reduced systemic inflammation and tissue damage, likely through modulation of the host immune response and preservation of intestinal barrier integrity": 9
+    },
+    "87": {
+        "Sri Lankan bovines are the most likely reservoir host due to the genomic stability, reduced genome decay, and environmental transmission potential of the ST144 strain": 3
+    },
+    "88": {
+        "The interaction between passerine bird abundance and environmental drivers such as temperature and land use must be considered to accurately interpret transmission risk": 7
+    },
+    "89": {
+        "High measurement error in digital calliper assessments, particularly in the inguinal region where most buboes are located, introduces significant bias in tracking size changes over time": 9
+    },
+    "90": {
+        "High population densities of small mammals driven by warm, humid climates and human-modified environments increase the likelihood of hantavirus spillover in Southeast Asia": 9
+    },
+    "91": {
+        "A temporary decline in reported cases during 2020 likely reflects surveillance disruption rather than a true reduction in disease burden": 7
+    },
+    "92": {
+        "Degradation of viral RNA over time due to prolonged room-temperature storage of RDTs likely led to false-negative results in 2021 and 2022 samples": 8
+    },
+    "93": {
+        "The absence of FGS-negative images in the training and testing data prevents empirical validation of false-positive rates, limiting confidence in the model's specificity in real-world use": 5,
+        "The absence of FGS-negative images in the training and testing data prevents empirical validation of false-positive rates, limiting confidence in the model's specificity in a real-world diagnostic setting": 3
+    },
+    "94": {
+        "Antivenom should be reserved for patients with fibrinogen <70 mg/dL and concurrent thrombocytopenia to balance hemorrhage risk and treatment safety": 3
+    },
+    "95": {
+        "The presence of a novel Treponema species in human noma patients, combined with its similarity to spirochetes causing animal diseases, suggests a potential zoonotic origin from livestock in the same geographic region": 3
+    }
+}

@@ -1,0 +1,259 @@
+{
+    "0": {
+        "The timing and pattern of intervention rollout relative to external temporal trends": 9
+    },
+    "1": {
+        "Conduct multivariable Mendelian randomization adjusting for both LDL-C and BMI to test whether BMI remains associated with T2D after accounting for lipid-lowering effects": 7
+    },
+    "2": {
+        "Regional mortality patterns reflect gendered occupational roles and household exposure risks tied to local industrial histories during peak asbestos use": 9
+    },
+    "3": {
+        "The viraemia profile, which quantifies the contribution of each age- and gender-specific subgroup to the total population burden of unsuppressed HIV, is the most accurate metric for identifying high-risk populations for transmission and mortality": 9
+    },
+    "4": {
+        "The use of annual events on the calendar likely caused respondents to misanchor death dates to the wrong year, leading to systematic 12-month displacement errors that offset gains in data completeness": 9
+    },
+    "5": {
+        "Older adults with pre-existing anxiety who are admitted for genitourinary causes": 5
+    },
+    "6": {
+        "The proportion of false-positive test results relative to the true background incidence of TB infection": 9
+    },
+    "7": {
+        "The temporal ordering of exposure assessment prior to disease onset minimized recall bias and ensured both methods captured true long-term sun exposure": 7
+    },
+    "8": {
+        "Early pregnancy exposure is most relevant to placental abruption due to disruption of spiral artery remodelling, while late pregnancy exposure is more relevant to preterm birth through mechanisms such as fetal stress or inflammation": 8
+    },
+    "9": {
+        "Use a nested-case control design with stratification by time since cessation and cumulative DDDs to test for a dose-response relationship over time": 8
+    },
+    "10": {
+        "Multivariable Mendelian randomization that adjusts for both n-6 PUFA levels and key lipid traits to isolate independent causal effects": 9
+    },
+    "11": {
+        "The observed reduction in Chlamydia trachomatis prevalence may be overestimated if swabs were collected postpartum, as this timing could reflect clearance of pre-existing infections rather than prevention during pregnancy": 7
+    },
+    "12": {
+        "Including age and sex as predictors in the quasi-Poisson regression model to adjust for demographic changes": 8
+    },
+    "13": {
+        "The use of an instrument that affects retirement but not cognition directly, combined with nonparametric estimation, allows for valid causal inference in the presence of unmeasured confounding and model misspecification": 9
+    },
+    "14": {
+        "Using a one-sample Mendelian randomization approach with a trans-ancestry genetic score to estimate the total lifelong causal effect of BMI on mortality, including effects mediated through diabetes": 9
+    },
+    "15": {
+        "Whether the study provides a justification that different methods of reducing exposure would have similar effects on lung-cancer mortality": 9
+    },
+    "16": {
+        "Public health interventions targeting undernutrition should be prioritized in high-burden regions, especially among the most undernourished, but their expected impact may be reduced in populations with high HIV prevalence due to competing immune dysfunction": 9
+    },
+    "17": {
+        "Persistent transmission due to cross-border population movement combined with limited health system capacity and low BCG vaccination coverage": 9
+    },
+    "18": {
+        "The association between loneliness and CVD is likely driven by evolutionarily conserved biological mechanisms rather than cultural differences": 9
+    },
+    "19": {
+        "Differential access to testing and healthcare services likely led to higher case ascertainment among wealthier individuals, rather than higher true incidence": 9
+    },
+    "20": {
+        "Recurrent pre-eclampsia": 9
+    },
+    "21": {
+        "Using sex dimorphism as a biological proxy for puberty transition, defined via multivariate modeling, to identify metabolic shifts while reducing sensitivity to batch effects": 9
+    },
+    "22": {
+        "The use of more behaviorally specific and directly worded questions about physical exertion in HRS and GAZEL likely led to stronger and more consistent associations with mortality compared to ELSA and FLAME": 5
+    },
+    "23": {
+        "Apply regression calibration using the 'gold-standard' personal exposure from outdoor sources as a validation measure": 9
+    },
+    "24": {
+        "Applying bias-correcting methods that adjust for conditioning on CRC incidence as a collider": 9
+    },
+    "25": {
+        "It reduces misclassification of former heavy drinkers as lifelong abstainers, leading to a more accurate reference group for assessing long-term health risks": 9
+    },
+    "26": {
+        "Use of genetic variants as instrumental variables that are fixed at conception and not influenced by disease onset or confounding factors": 9
+    },
+    "27": {
+        "The concentration of high-risk individuals in subgroups with low socioeconomic status suggests that structural conditions, not just biological factors, shape the tuberculosis-COPD relationship": 9
+    },
+    "28": {
+        "The duration between index patient diagnosis and household contact diagnosis must be limited to \u22642 years to minimize misclassification of community-acquired cases as household-transmitted": 6,
+        "The duration between index patient diagnosis and household contact diagnosis must be limited to \u22652 years to minimize misclassification of community-acquired cases as household-transmitted": 1
+    },
+    "29": {
+        "The use of model-based projections for years beyond the availability of official mortality data undermines the reliability of trend interpretation in recent years": 9
+    },
+    "30": {
+        "Correct for regression dilution bias by dividing the log hazard ratio and its standard error by the intraclass correlation coefficient derived from repeat measurements": 5
+    },
+    "31": {
+        "The use of dermatoses as a placebo outcome to rule out non-specific effects of the pandemic on healthcare access and behavior": 7
+    },
+    "32": {
+        "Incorporating biologically plausible constraints and differential weighting within a simulated annealing optimization framework to stabilize estimates in data-sparse subpopulations": 9
+    },
+    "33": {
+        "The inability to reconstruct individual residential histories over time introduces non-differential misclassification of exposure, which may mask true associations between proximity and cancer risk": 9
+    },
+    "34": {
+        "The shift in association was driven by reverse causation and the emergence of a less severe variant with high population immunity, which reduced mortality independently of policy measures": 9
+    },
+    "35": {
+        "The higher prevalence among Indigenous infants is likely driven by structural and social factors, including geographic remoteness and associated maternal health behaviors such as smoking and alcohol use during pregnancy": 7
+    },
+    "36": {
+        "Using a Cox model with time-dependent covariates and a distributed lag non-linear model, while adjusting for seasonality via sine and cosine terms": 9
+    },
+    "37": {
+        "Use a sibling fixed-effects model to compare mortality between siblings with and without congenital anomalies within the same family": 6
+    },
+    "38": {
+        "Differences in cultural norms around body image and weight stigma between Western and non-Western societies": 9
+    },
+    "39": {
+        "Use counterfactual mediation analysis to estimate joint indirect effects of childhood and adult socio-economic conditions on pain outcomes through sleep pathways": 6
+    },
+    "40": {
+        "Using a non-discriminatory haze definition may mask the true risk associated with fire-related pollution, particularly in regions with prolonged fire-haze events": 9
+    },
+    "41": {
+        "Residential location in urban areas with high traffic exposure may co-occur with unhealthy lifestyle behaviors, creating a shared environmental and behavioral risk profile for NAFLD": 6
+    },
+    "42": {
+        "Apply intrapersonal 3-SD pruning and exclude only biologically impossible values to retain individual health trajectories without systemic exclusion": 9
+    },
+    "43": {
+        "The overrepresentation of low-educated immigrants in host populations increases their exposure to socioeconomic risks, counterbalancing the benefits of health selection": 9
+    },
+    "44": {
+        "The higher prevalence of PCC among Indigenous people and females, even among those with less severe acute illness, indicates that sociodemographic and biological factors independently influence long-term outcomes": 3
+    },
+    "45": {
+        "Older adults were disproportionately affected due to a higher prevalence of comorbidities like diabetes, which were more common among disadvantaged populations and exacerbated by socioeconomic inequities": 7
+    },
+    "46": {
+        "Dental amalgam exposure is shaped by historical policy changes and socioeconomic disparities in access to alternative materials, influencing both individual risk and the generalizability of findings to low-resource settings": 9
+    },
+    "47": {
+        "Comprehensive assessment of the three core instrumental variable assumptions: relevance, independence, and exclusion restriction": 8
+    },
+    "48": {
+        "Differences in dietary diversity effects may reflect structural inequities, where those with higher metabolic vulnerability\u2014such as individuals with obesity or females\u2014face barriers to accessing diverse diets despite potential greater benefit": 7
+    },
+    "49": {
+        "Improved sensitivity due to reduced social desirability bias in ACASI led to higher detection of true cases without increasing service uptake": 9
+    },
+    "50": {
+        "Adjust for self-test use in the regression model to block the non-causal path created by conditioning on a collider": 8
+    },
+    "51": {
+        "A fixed 14-day forecast horizon combined with a sample-based ensemble approach to preserve uncertainty in probabilistic outputs": 9
+    },
+    "52": {
+        "A higher ratio of medication to surgical abortions in remote areas despite similar individual preferences across regions": 9
+    },
+    "53": {
+        "The inclusion of environmental exposure data allows for the assessment of whether the protective effect of active commuting persists in high-pollution areas, supporting the conclusion that physical activity benefits may outweigh pollution risks": 8
+    },
+    "54": {
+        "Implementation of the DRG-system in 2012, combined with enhanced stroke detection through public awareness and certified stroke care infrastructure, likely drove the rise in hospital discharge rates": 9
+    },
+    "55": {
+        "Use of Fourier terms to control for seasonality in a model with a long pre-intervention period and time trend adjustment": 9
+    },
+    "56": {
+        "Using discordant cousin comparisons to account for shared genetic and environmental factors not captured by sibling designs": 9
+    },
+    "57": {
+        "The synthetic control method ensures that observed changes in incidence are attributable to the intervention by matching pre-intervention trends in a counterfactual control group": 9
+    },
+    "58": {
+        "The methylation changes occur in genes or regulatory regions with established roles in immune function, inflammation, or known asthma-related pathways": 9
+    },
+    "59": {
+        "Differences in urban development levels, safety concerns, and socioeconomic transitions across cities likely drive variation in how neighbourhood characteristics influence BMI": 9
+    },
+    "60": {
+        "Adjusting pediatric case rates for age-stratified testing rates to account for changes in testing behavior": 9
+    },
+    "61": {
+        "Offspring genotype-by-proxy Mendelian randomization using paternal genotypes": 9
+    },
+    "62": {
+        "The child is less likely to exhibit lower chest wall indrawing, crackles, or nasal flaring and more likely to have convulsions or other signs of severe malaria": 9
+    },
+    "63": {
+        "Structural inequities increasing exposure to both SARS-CoV-2 and stress-related health conditions, leading to disproportionate non-COVID-19 mortality among low-education populations": 9
+    },
+    "64": {
+        "Chronic stress and inflammation resulting from neighborhood-level environmental and social conditions": 7
+    },
+    "65": {
+        "Text message reminders effectively compensated for structural barriers related to mobility and limited access by enabling timely communication with caregivers who are frequently absent from fixed locations": 9
+    },
+    "66": {
+        "Evangelical individuals, despite varying clinical risk, show markedly lower vaccine uptake even after adjusting for socioeconomic and demographic factors, indicating that trust in health systems and messaging outweighs individual clinical risk": 9
+    },
+    "67": {
+        "Detection of statistical anomalies in case counts over time across the phylogenetic tree": 6
+    },
+    "68": {
+        "Incomplete data linkage and coverage may introduce measurement bias, leading to an inaccurate estimate of the true correlation between scientific and public attention": 9
+    },
+    "69": {
+        "Elevated ferritin levels likely reflect cumulative infection-driven inflammation rather than metabolic inflammation, explaining its stronger association with CKD incidence in this population": 9
+    },
+    "70": {
+        "Higher occupational exposure to outdoor extreme temperatures due to employment in physically intensive industries such as construction and agriculture": 9
+    },
+    "71": {
+        "Test for interaction between age at menarche and central adiposity using a Cox proportional hazards model with an interaction term, and report stratified hazard ratios": 8
+    },
+    "72": {
+        "Enables identification of specific age windows when exposure has the greatest impact on adult outcomes by modeling continuous, time-varying effects while accounting for correlated pollutants": 9
+    },
+    "73": {
+        "Wealthier households had a higher proportion of elderly members, who were at greatest risk of severe COVID-19 outcomes": 7
+    },
+    "74": {
+        "Using baseline covariates measured before time-zero for model-based adjustment to emulate randomization": 5
+    },
+    "75": {
+        "Prenatal exposure to maternal stress and father absence, which reflect broader social and economic inequities": 8
+    },
+    "76": {
+        "The significantly greater biological aging acceleration among participants in lower socioeconomic areas suggests that structural conditions, such as access to resources and environmental quality, play a key role in shaping health outcomes after disaster exposure": 9
+    },
+    "77": {
+        "The observed exposure-response relationship in the Korean biobank may reflect a steeper gradient due to higher relative risk at higher doses, while the UKB cohort's pattern suggests a more moderate association, potentially influenced by higher baseline alcohol exposure and different population-level risk factors": 9
+    },
+    "78": {
+        "Stratify by assessment centre to control for unmeasured area-level characteristics correlated with both exposure and outcome": 8
+    },
+    "79": {
+        "The absence of increased risk when paternal snus use began after puberty, despite similar exposure levels, supports a critical window of vulnerability during puberty": 8
+    },
+    "80": {
+        "The elevated heat-related ambulance dispatch risk in young people is driven by a combination of increased outdoor exposure and limited thermoregulatory capacity, which together amplify vulnerability despite lower physiological susceptibility in older adults.": 3
+    },
+    "81": {
+        "Elevated IL-6 levels at age 9 years mediate the association between early-life adversity and subsequent urinary incontinence in adolescence": 8
+    },
+    "82": {
+        "The distinct etiological pathways of cardia and non-cardia gastric cancer explain the differential association with BMI, with obesity promoting cardia cancer via GERD and Barrett\u2019s esophagus, while non-cardia cancer is driven by chronic gastritis and may be confounded by reverse causation in high-risk groups": 7,
+        "The distinct etiological pathways of cardia and non-cardia gastric cancer explain the differential association with BMI, with obesity promoting cardia cancer via GERD and Barrett's esophagus, while non-cardia cancer is driven by chronic gastritis and may be confounded by reverse causation in high-risk groups": 2
+    },
+    "83": {
+        "Using a service database that retains all notifications, including DCIS cases followed by invasive breast cancer, to prevent underestimation of DCIS incidence": 9
+    },
+    "84": {
+        "Increased mental health diagnoses driven by socioeconomic stressors and high prescription rates of sedatives post-COVID-19 likely accelerated multimorbidity accumulation in younger cohorts": 9
+    }
+}

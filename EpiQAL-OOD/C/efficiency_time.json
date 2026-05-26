@@ -1,0 +1,11 @@
+{
+    "Time": 18129.687574096024,
+    "Question Generation": 68.75211850740016,
+    "Correct Options Gen": 77.70074282586575,
+    "Distractors Gen": 169.68959154654294,
+    "Correct Options Check": 4146.245013774373,
+    "Distrators Check": 7411.042166031897,
+    "Option Selection": 0.00265383068472147,
+    "Difficulty Judging": 1737.5601864466444,
+    "Question Revision": 4458.118800928816
+}

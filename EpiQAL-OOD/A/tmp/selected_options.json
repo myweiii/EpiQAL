@@ -1,0 +1,1194 @@
+{
+    "1": [
+        {
+            "Index": 0,
+            "Option": "1 mM"
+        },
+        {
+            "Index": 1,
+            "Option": "1 \u03bcM"
+        },
+        {
+            "Index": 2,
+            "Option": "0.001% dimethyl sulfoxide (DMSO)"
+        }
+    ],
+    "2": [
+        {
+            "Index": 0,
+            "Option": "Hy. excavatum"
+        },
+        {
+            "Index": 1,
+            "Option": "Hae. punctata"
+        },
+        {
+            "Index": 2,
+            "Option": "Hy. anatolicum"
+        }
+    ],
+    "3": [
+        {
+            "Index": 0,
+            "Option": "100 fg/\u00b5L"
+        },
+        {
+            "Index": 1,
+            "Option": "10 fg/\u03bcL"
+        },
+        {
+            "Index": 2,
+            "Option": "1 pg/\u03bcL"
+        }
+    ],
+    "4": [
+        {
+            "Index": 0,
+            "Option": "June to December 2023"
+        },
+        {
+            "Index": 1,
+            "Option": "Two weeks"
+        }
+    ],
+    "7": [
+        {
+            "Index": 0,
+            "Option": "Mass spectrometry imaging"
+        },
+        {
+            "Index": 1,
+            "Option": "Quantitative real-time PCR"
+        }
+    ],
+    "8": [
+        {
+            "Index": 0,
+            "Option": "4,717 cases between 2011 and 2024"
+        },
+        {
+            "Index": 1,
+            "Option": "726 cases in 2019"
+        },
+        {
+            "Index": 2,
+            "Option": "567 cases in 2024"
+        }
+    ],
+    "9": [
+        {
+            "Index": 0,
+            "Option": "0.61"
+        },
+        {
+            "Index": 1,
+            "Option": "0.66"
+        },
+        {
+            "Index": 2,
+            "Option": "0.917"
+        }
+    ],
+    "10": [
+        {
+            "Index": 0,
+            "Option": "SEARO"
+        },
+        {
+            "Index": 1,
+            "Option": "WPRO"
+        },
+        {
+            "Index": 2,
+            "Option": "AFRO"
+        }
+    ],
+    "11": [
+        {
+            "Index": 0,
+            "Option": "Bihar and Jharkhand; 5 mentions"
+        },
+        {
+            "Index": 1,
+            "Option": "Odisha, Andhra Pradesh, Tamil Nadu, and West Bengal; 62%"
+        },
+        {
+            "Index": 2,
+            "Option": "Maharashtra, Delhi, Karnataka, and Tamil Nadu; 44%"
+        }
+    ],
+    "12": [
+        {
+            "Index": 0,
+            "Option": "16.9"
+        },
+        {
+            "Index": 1,
+            "Option": "4.9"
+        },
+        {
+            "Index": 2,
+            "Option": "124.8"
+        }
+    ],
+    "13": [
+        {
+            "Index": 0,
+            "Option": "Cx. univittatus and Cx. pipiens were selected as focal vectors for modeling Sindbis virus habitat suitability because they were the most frequently detected species in SINV presence points."
+        }
+    ],
+    "14": [
+        {
+            "Index": 0,
+            "Option": "Ultrasound"
+        },
+        {
+            "Index": 1,
+            "Option": "Butterfly iQ+ probe"
+        },
+        {
+            "Index": 2,
+            "Option": "Digital calliper"
+        }
+    ],
+    "15": [
+        {
+            "Index": 0,
+            "Option": "Comparing wild-type and CCR8 gene knockout mouse models"
+        },
+        {
+            "Index": 1,
+            "Option": "Using wild-type (WT) mice"
+        },
+        {
+            "Index": 2,
+            "Option": "Using CCR8 knockout (KO) mice"
+        },
+        {
+            "Index": 3,
+            "Option": "Measuring serum CCL1 levels in infected mice"
+        }
+    ],
+    "16": [
+        {
+            "Index": 0,
+            "Option": "5.26%"
+        },
+        {
+            "Index": 1,
+            "Option": "10.7%"
+        },
+        {
+            "Index": 2,
+            "Option": "98%"
+        }
+    ],
+    "17": [
+        {
+            "Index": 0,
+            "Option": "Maximum temperature"
+        },
+        {
+            "Index": 1,
+            "Option": "Topographic diversity"
+        },
+        {
+            "Index": 2,
+            "Option": "Wind speed"
+        }
+    ],
+    "18": [
+        {
+            "Index": 0,
+            "Option": "49.80 TU/mL"
+        },
+        {
+            "Index": 1,
+            "Option": "62.25 TU/mL"
+        }
+    ],
+    "19": [
+        {
+            "Index": 0,
+            "Option": "Huaphan"
+        },
+        {
+            "Index": 1,
+            "Option": "Oudomxay"
+        }
+    ],
+    "20": [
+        {
+            "Index": 0,
+            "Option": "ELISA-based detection of coproantigen"
+        },
+        {
+            "Index": 1,
+            "Option": "Detection using a monoclonal antibody developed and licensed only by Waterborne Inc."
+        },
+        {
+            "Index": 2,
+            "Option": "Not immediately affordable for most diagnostics labs in LMICs"
+        },
+        {
+            "Index": 3,
+            "Option": "Light-microscopy based"
+        }
+    ],
+    "22": [
+        {
+            "Index": 0,
+            "Option": "Western region"
+        },
+        {
+            "Index": 1,
+            "Option": "Southern region"
+        },
+        {
+            "Index": 2,
+            "Option": "Central Bangkok"
+        }
+    ],
+    "24": [
+        {
+            "Index": 0,
+            "Option": "To evaluate the therapeutic effect of DI on T. gondii-induced anxiety-like behavior"
+        },
+        {
+            "Index": 1,
+            "Option": "To determine the preventive effect of DI on T. gondii-induced anxiety-like behavior"
+        },
+        {
+            "Index": 2,
+            "Option": "To explore the role of Acod1/itaconate axis in the anxiety-like behavior"
+        }
+    ],
+    "25": [
+        {
+            "Index": 0,
+            "Option": "Inhalation at contaminated sites"
+        },
+        {
+            "Index": 1,
+            "Option": "Soil-based transmission"
+        },
+        {
+            "Index": 2,
+            "Option": "Necrophagous flies"
+        }
+    ],
+    "26": [
+        {
+            "Index": 0,
+            "Option": "Neurological signs consistent with suspected rabies"
+        },
+        {
+            "Index": 1,
+            "Option": "Heavy rainfall"
+        },
+        {
+            "Index": 2,
+            "Option": "Inability to safely restrain the dog"
+        }
+    ],
+    "28": [
+        {
+            "Index": 0,
+            "Option": "Clinical and biochemical features"
+        },
+        {
+            "Index": 1,
+            "Option": "Safety profile of the challenge agents"
+        },
+        {
+            "Index": 2,
+            "Option": "Viral and immune kinetics"
+        },
+        {
+            "Index": 3,
+            "Option": "Attack rate: the proportion of inoculated participants who developed viraemia"
+        }
+    ],
+    "29": [
+        {
+            "Index": 0,
+            "Option": "Central Gabon, with a reported S. haematobium prevalence of 12.6% among pregnant women in the current study"
+        },
+        {
+            "Index": 1,
+            "Option": "Ivory Coast, with a reported S. haematobium prevalence of 22.6% among pregnant women"
+        },
+        {
+            "Index": 2,
+            "Option": "Central Gabon, with a reported S. haematobium prevalence between 9% to 25% among pregnant women"
+        }
+    ],
+    "30": [
+        {
+            "Index": 0,
+            "Option": "57.9% of noma participants"
+        },
+        {
+            "Index": 1,
+            "Option": "90% of stage 2 participants with oedema"
+        },
+        {
+            "Index": 2,
+            "Option": "100% of stage 3 participants with gangrene"
+        },
+        {
+            "Index": 3,
+            "Option": "16.7% of healthy participants in Niger"
+        }
+    ],
+    "31": [
+        {
+            "Index": 0,
+            "Option": "0.6 days"
+        },
+        {
+            "Index": 1,
+            "Option": "2.0 \u00b1 1.6 days"
+        }
+    ],
+    "32": [
+        {
+            "Index": 0,
+            "Option": "R. aegyptiacus"
+        },
+        {
+            "Index": 1,
+            "Option": "Myonycteris angolensis"
+        },
+        {
+            "Index": 2,
+            "Option": "Artibeus jamaicensis"
+        }
+    ],
+    "33": [
+        {
+            "Index": 0,
+            "Option": "4.22-fold higher relative risk"
+        },
+        {
+            "Index": 1,
+            "Option": "38.0-fold higher relative risk"
+        },
+        {
+            "Index": 2,
+            "Option": "2.75-fold higher relative risk"
+        }
+    ],
+    "34": [
+        {
+            "Index": 0,
+            "Option": "Inhibition of the parasympathetic response"
+        },
+        {
+            "Index": 1,
+            "Option": "Sympathovagal imbalance"
+        }
+    ],
+    "35": [
+        {
+            "Index": 0,
+            "Option": "The study was a single-center retrospective analysis, which limits generalizability to other populations."
+        },
+        {
+            "Index": 1,
+            "Option": "The study was substantially underpowered due to a small sample size, limiting the stability and reliability of statistical estimates and increasing the risk of overfitting in ROC analysis."
+        }
+    ],
+    "36": [
+        {
+            "Index": 0,
+            "Option": "Lesion volume growth rate measured by ultrasound every 15 days"
+        },
+        {
+            "Index": 1,
+            "Option": "Survival rate of 100% in the ultrasound-guided group"
+        },
+        {
+            "Index": 2,
+            "Option": "Detectable lesion development confirmed by ultrasound and terminal necropsy"
+        },
+        {
+            "Index": 3,
+            "Option": "Complication rate of 6.7% in the ultrasound-guided group"
+        }
+    ],
+    "37": [
+        {
+            "Index": 0,
+            "Option": "3,721,891"
+        },
+        {
+            "Index": 1,
+            "Option": "1,884,837 pre-school children and 4,180,094 school age children"
+        },
+        {
+            "Index": 2,
+            "Option": "590,377 pre-school children and 1,556,647 school age children"
+        }
+    ],
+    "39": [
+        {
+            "Index": 0,
+            "Option": "Chronic ulcers, loss of digits, and disfigurement"
+        },
+        {
+            "Index": 1,
+            "Option": "Sensory loss and muscle weakness in the hands and feet"
+        },
+        {
+            "Index": 2,
+            "Option": "Hearing loss and appetite changes"
+        },
+        {
+            "Index": 3,
+            "Option": "Reduced mobility and dietary restrictions"
+        },
+        {
+            "Index": 4,
+            "Option": "Residual nerve damage and impairments impacting daily life"
+        }
+    ],
+    "40": [
+        {
+            "Index": 0,
+            "Option": "September to February"
+        },
+        {
+            "Index": 1,
+            "Option": "March to May"
+        },
+        {
+            "Index": 2,
+            "Option": "6 pm to 9 pm"
+        },
+        {
+            "Index": 3,
+            "Option": "9 am to 9 pm"
+        }
+    ],
+    "41": [
+        {
+            "Index": 0,
+            "Option": "M. fortis survived for 30 days with no detectable T. gondii tachyzoites in organs or ascitic fluid"
+        },
+        {
+            "Index": 1,
+            "Option": "KM mice died within 7 days after infection"
+        }
+    ],
+    "42": [
+        {
+            "Index": 0,
+            "Option": "Coyotes, red foxes, and gray wolves"
+        },
+        {
+            "Index": 1,
+            "Option": "Coyotes and gray wolves"
+        },
+        {
+            "Index": 2,
+            "Option": "Coyotes and red foxes"
+        }
+    ],
+    "43": [
+        {
+            "Index": 0,
+            "Option": "Infection intensity of N. americanus"
+        },
+        {
+            "Index": 1,
+            "Option": "Overall hookworm infection"
+        },
+        {
+            "Index": 2,
+            "Option": "Prevalence of A. lumbricoides and T. trichiura"
+        },
+        {
+            "Index": 3,
+            "Option": "MHI N. americanus infection"
+        }
+    ],
+    "44": [
+        {
+            "Index": 0,
+            "Option": "X10 (annual temperature variation trend)"
+        },
+        {
+            "Index": 1,
+            "Option": "X1 (annual mean precipitation)"
+        },
+        {
+            "Index": 2,
+            "Option": "X4 (annual mean low temperature)"
+        }
+    ],
+    "45": [
+        {
+            "Index": 0,
+            "Option": "Nearly all warm-blooded animals"
+        },
+        {
+            "Index": 1,
+            "Option": "Humans"
+        }
+    ],
+    "47": [
+        {
+            "Index": 0,
+            "Option": "H. speoris"
+        },
+        {
+            "Index": 1,
+            "Option": "R. rouxii"
+        },
+        {
+            "Index": 2,
+            "Option": "M. fuliginosus"
+        }
+    ],
+    "48": [
+        {
+            "Index": 0,
+            "Option": "ELISA"
+        },
+        {
+            "Index": 1,
+            "Option": "IFA"
+        },
+        {
+            "Index": 2,
+            "Option": "RT-PCR"
+        }
+    ],
+    "49": [
+        {
+            "Index": 0,
+            "Option": "HAT group and S2 subgroup"
+        },
+        {
+            "Index": 1,
+            "Option": "HAT group and SERO group"
+        },
+        {
+            "Index": 2,
+            "Option": "SERO/TL- subgroup, SERO/TL+ subgroup, S1 subgroup, and S2 subgroup"
+        },
+        {
+            "Index": 3,
+            "Option": "SERO/TL+ subgroup and S2 subgroup"
+        }
+    ],
+    "50": [
+        {
+            "Index": 0,
+            "Option": "American Robin (Turdus migratorius), House Sparrow (Passer domesticus), and Magpies (Pica pica)"
+        },
+        {
+            "Index": 1,
+            "Option": "American Robin (Turdus migratorius), House Sparrow (Passer domesticus), and House Finch (Haemorhous mexicanus)"
+        },
+        {
+            "Index": 2,
+            "Option": "Common Blackbirds (Turdus merula) and House Sparrows"
+        }
+    ],
+    "51": [
+        {
+            "Index": 0,
+            "Option": "The proportion of juveniles with testis branching was lower in the combined treatment groups compared to the SIS-only groups"
+        },
+        {
+            "Index": 1,
+            "Option": "The intestinal tract was well developed in all groups, including the combined treatment groups"
+        },
+        {
+            "Index": 2,
+            "Option": "The toxicity of red blood cells may explain the elimination of the combined effect"
+        },
+        {
+            "Index": 3,
+            "Option": "The number of RBC was reduced to 4.09 \u00d7 10\u2076/\u00b5L during storage due to hemolysis"
+        },
+        {
+            "Index": 4,
+            "Option": "The effects of sex-inducing substances might be inhibited by oxidative stress"
+        },
+        {
+            "Index": 5,
+            "Option": "Oxidative stress caused by free iron derived from heme is one of the expected toxicities of red blood cells"
+        }
+    ],
+    "52": [
+        {
+            "Index": 0,
+            "Option": "One study addressed multiple zoonotic diseases, and three studies did not specify the exact zoonotic disease investigated."
+        },
+        {
+            "Index": 1,
+            "Option": "Three studies did not specify the exact zoonotic disease investigated, and one study addressed multiple zoonotic diseases."
+        },
+        {
+            "Index": 2,
+            "Option": "Leptospirosis was studied in 1 study, zoonotic tuberculosis in 1 study, bovine tuberculosis (bTB) in 4 studies, Crimean-Congo haemorrhagic fever in 1 study, brucellosis in 4 studies, and Toxoplasma gondii infection in 1 study."
+        }
+    ],
+    "53": [
+        {
+            "Index": 0,
+            "Option": "20,148 RFU"
+        },
+        {
+            "Index": 1,
+            "Option": "10 pg per reaction"
+        },
+        {
+            "Index": 2,
+            "Option": "1 pg per reaction"
+        }
+    ],
+    "54": [
+        {
+            "Index": 0,
+            "Option": "LC-MS/MS"
+        },
+        {
+            "Index": 1,
+            "Option": "Vivaspin 2 centrifugal filters"
+        },
+        {
+            "Index": 2,
+            "Option": "Pierce BCA Protein Assay Kit"
+        }
+    ],
+    "55": [
+        {
+            "Index": 0,
+            "Option": "Complete protection after secondary infection"
+        },
+        {
+            "Index": 1,
+            "Option": "Temporary heterologous protection after primary infection"
+        }
+    ],
+    "56": [
+        {
+            "Index": 0,
+            "Option": "Structured, validated questionnaire"
+        },
+        {
+            "Index": 1,
+            "Option": "Self-reported lifetime history, in which participants reported previous diagnoses made by health professionals"
+        }
+    ],
+    "57": [
+        {
+            "Index": 0,
+            "Option": "20 \u03bcg/mL"
+        },
+        {
+            "Index": 1,
+            "Option": "10 parasites/cell"
+        },
+        {
+            "Index": 2,
+            "Option": "20 h"
+        }
+    ],
+    "58": [
+        {
+            "Index": 0,
+            "Option": "50"
+        },
+        {
+            "Index": 1,
+            "Option": "39"
+        },
+        {
+            "Index": 2,
+            "Option": "45"
+        }
+    ],
+    "59": [
+        {
+            "Index": 0,
+            "Option": "18%"
+        },
+        {
+            "Index": 1,
+            "Option": "78%"
+        },
+        {
+            "Index": 2,
+            "Option": "60%"
+        }
+    ],
+    "60": [
+        {
+            "Index": 0,
+            "Option": "August, September, and October"
+        },
+        {
+            "Index": 1,
+            "Option": "1988, 1994, and 1984"
+        },
+        {
+            "Index": 2,
+            "Option": "Summer and autumn"
+        }
+    ],
+    "61": [
+        {
+            "Index": 0,
+            "Option": "Cx. quinquefasciatus"
+        },
+        {
+            "Index": 1,
+            "Option": "Cx. tritaeniorhynchus"
+        },
+        {
+            "Index": 2,
+            "Option": "Cx. annulirostris"
+        }
+    ],
+    "62": [
+        {
+            "Index": 0,
+            "Option": "Lutzomyia longipalpis"
+        },
+        {
+            "Index": 1,
+            "Option": "Panstrongylus megistus"
+        },
+        {
+            "Index": 2,
+            "Option": "Rhodnius neglectus"
+        }
+    ],
+    "63": [
+        {
+            "Index": 0,
+            "Option": "Logistic regression models in PLINKv1.9"
+        },
+        {
+            "Index": 1,
+            "Option": "Principal Component Analysis (PCA)"
+        },
+        {
+            "Index": 2,
+            "Option": "Genome-wide association studies (GWAS)"
+        }
+    ],
+    "64": [
+        {
+            "Index": 0,
+            "Option": "Children living in rural and agricultural communities"
+        }
+    ],
+    "65": [
+        {
+            "Index": 0,
+            "Option": "To achieve synergistic clearance of L. donovani and enhance protective immune responses"
+        },
+        {
+            "Index": 1,
+            "Option": "To evaluate the cytotoxicity of PF-543 and Amphotericin B in uninfected mice"
+        },
+        {
+            "Index": 2,
+            "Option": "To investigate the anti-leishmanial efficacy and immunomodulatory impact of PF-543 in a murine model"
+        },
+        {
+            "Index": 3,
+            "Option": "To determine the IC50 values of PF-543 and Amphotericin B in promastigotes"
+        }
+    ],
+    "66": [
+        {
+            "Index": 0,
+            "Option": "Rate of BI decline and smear negativity rate"
+        },
+        {
+            "Index": 1,
+            "Option": "Leprosy reaction frequency and disability progression (DP)"
+        },
+        {
+            "Index": 2,
+            "Option": "Cure and relapse rates"
+        }
+    ],
+    "67": [
+        {
+            "Index": 0,
+            "Option": "Archachatina marginata"
+        },
+        {
+            "Index": 1,
+            "Option": "L. immaculata"
+        },
+        {
+            "Index": 2,
+            "Option": "L. fulica"
+        }
+    ],
+    "68": [
+        {
+            "Index": 0,
+            "Option": "B. abortus"
+        },
+        {
+            "Index": 1,
+            "Option": "B. melitensis"
+        },
+        {
+            "Index": 2,
+            "Option": "B. suis"
+        }
+    ],
+    "69": [
+        {
+            "Index": 0,
+            "Option": "19.79 to 37"
+        },
+        {
+            "Index": 1,
+            "Option": "54\u00d7 to 2,081\u00d7"
+        },
+        {
+            "Index": 2,
+            "Option": "1 to 12 individuals"
+        }
+    ],
+    "70": [
+        {
+            "Index": 0,
+            "Option": "2"
+        },
+        {
+            "Index": 1,
+            "Option": "35 cycles"
+        },
+        {
+            "Index": 2,
+            "Option": "100%"
+        }
+    ],
+    "71": [
+        {
+            "Index": 0,
+            "Option": "53.2%"
+        },
+        {
+            "Index": 1,
+            "Option": "95%"
+        }
+    ],
+    "72": [
+        {
+            "Index": 0,
+            "Option": "58.10%"
+        },
+        {
+            "Index": 1,
+            "Option": "61.13%"
+        },
+        {
+            "Index": 2,
+            "Option": "65.7%"
+        }
+    ],
+    "73": [
+        {
+            "Index": 0,
+            "Option": "Individuals aged 11\u201314 years"
+        },
+        {
+            "Index": 1,
+            "Option": "Children aged 0\u20138 years"
+        },
+        {
+            "Index": 2,
+            "Option": "Adolescents (aged 9\u201318 years)"
+        },
+        {
+            "Index": 3,
+            "Option": "Adults aged 30\u201339 years"
+        }
+    ],
+    "74": [
+        {
+            "Index": 0,
+            "Option": "Consumption of raw milk or under-cooked meat, direct contact with manure or abortive materials, and keeping livestock in household compounds"
+        },
+        {
+            "Index": 1,
+            "Option": "Consumption of unpasteurised dairy products, handling of infected animal tissues, or inhalation of contaminated aerosols"
+        },
+        {
+            "Index": 2,
+            "Option": "Ingestion of animal products, interaction with animal manure, and rearing livestock at home"
+        }
+    ],
+    "75": [
+        {
+            "Index": 0,
+            "Option": "6,300 km\u00b2"
+        },
+        {
+            "Index": 1,
+            "Option": "9,200 km\u00b2"
+        },
+        {
+            "Index": 2,
+            "Option": "2,490 km\u00b2"
+        },
+        {
+            "Index": 3,
+            "Option": "1,052 km\u00b2"
+        }
+    ],
+    "76": [
+        {
+            "Index": 0,
+            "Option": "2.2xLD\u2085\u2080"
+        },
+        {
+            "Index": 1,
+            "Option": "7.205 \u00b5g/mouse"
+        },
+        {
+            "Index": 2,
+            "Option": "6.55 \u00b5g/mouse"
+        }
+    ],
+    "77": [
+        {
+            "Index": 0,
+            "Option": "Two to five months"
+        },
+        {
+            "Index": 1,
+            "Option": "3 to 72 days"
+        },
+        {
+            "Index": 2,
+            "Option": "Less than six months"
+        }
+    ],
+    "78": [
+        {
+            "Index": 0,
+            "Option": "Variation in assay methods and cut-off thresholds"
+        },
+        {
+            "Index": 1,
+            "Option": "Ecological proximity to livestock"
+        },
+        {
+            "Index": 2,
+            "Option": "Methodological differences in diagnostic assays"
+        },
+        {
+            "Index": 3,
+            "Option": "Sparse sampling in under-sampled regions"
+        }
+    ],
+    "79": [
+        {
+            "Index": 0,
+            "Option": "Ingestion of contaminated food or water and skin penetration by infective larvae"
+        }
+    ],
+    "80": [
+        {
+            "Index": 0,
+            "Option": "Mid-June 2010"
+        },
+        {
+            "Index": 1,
+            "Option": "Mid-January 2006"
+        }
+    ],
+    "81": [
+        {
+            "Index": 0,
+            "Option": "October 2021 to February 2024"
+        },
+        {
+            "Index": 1,
+            "Option": "Two years"
+        }
+    ],
+    "82": [
+        {
+            "Index": 0,
+            "Option": "Leishmania infantum"
+        },
+        {
+            "Index": 1,
+            "Option": "Lu. longipalpis"
+        }
+    ],
+    "83": [
+        {
+            "Index": 0,
+            "Option": "Grocott\u2019s modification of Gomori\u2019s Methenamine Silver histochemical method"
+        },
+        {
+            "Index": 1,
+            "Option": "Hemagglutination assays using human erythrocytes"
+        },
+        {
+            "Index": 2,
+            "Option": "Nested-PCR reaction using the Hcp100 gene"
+        }
+    ],
+    "84": [
+        {
+            "Index": 0,
+            "Option": "Azithromycin at a dose of 30mg/kg under direct observation of trained community nurses"
+        },
+        {
+            "Index": 1,
+            "Option": "Azithromycin treatment with basic wound care provided"
+        },
+        {
+            "Index": 2,
+            "Option": "Single dose oral azithromycin at 30mg/kg followed by 4-week follow-up"
+        }
+    ],
+    "85": [
+        {
+            "Index": 0,
+            "Option": "Specular reflections were removed using a method adapted from Nie et al.'s work on SR removal in endoscopic images, which involved identifying and masking SRs before inpainting."
+        },
+        {
+            "Index": 1,
+            "Option": "Navier-Stokes inpainting was used to eliminate specular reflections, and this approach was chosen because of the limited available data, aiming to obtain as much information as possible."
+        }
+    ],
+    "86": [
+        {
+            "Index": 0,
+            "Option": "CD209 and CTLA4"
+        },
+        {
+            "Index": 1,
+            "Option": "IL10 and VDR"
+        },
+        {
+            "Index": 2,
+            "Option": "TNF and IL4"
+        }
+    ],
+    "87": [
+        {
+            "Index": 0,
+            "Option": "Carnivores"
+        },
+        {
+            "Index": 1,
+            "Option": "Common vampire bat (Desmodus rotundus)"
+        },
+        {
+            "Index": 2,
+            "Option": "Dog"
+        }
+    ],
+    "88": [
+        {
+            "Index": 0,
+            "Option": "14 cases per 100,000"
+        },
+        {
+            "Index": 1,
+            "Option": "20 cases per 100,000"
+        }
+    ],
+    "89": [
+        {
+            "Index": 0,
+            "Option": "Two out of three measurements per swab agreed with the panel"
+        },
+        {
+            "Index": 1,
+            "Option": "Eighty percent accuracy in the proficiency testing"
+        }
+    ],
+    "90": [
+        {
+            "Index": 0,
+            "Option": "Humans"
+        },
+        {
+            "Index": 1,
+            "Option": "Hamsters"
+        }
+    ],
+    "91": [
+        {
+            "Index": 0,
+            "Option": "Phase coherence analysis"
+        },
+        {
+            "Index": 1,
+            "Option": "Dynamic time warping (DTW) clustering"
+        },
+        {
+            "Index": 2,
+            "Option": "Distributed lag non-linear models (DLNM)"
+        }
+    ],
+    "92": [
+        {
+            "Index": 0,
+            "Option": "115 participants, based on data available at Day 90"
+        },
+        {
+            "Index": 1,
+            "Option": "250 participants, based on the number of items in the CLIQ"
+        },
+        {
+            "Index": 2,
+            "Option": "250 individuals, based on a target of 10 participants per item"
+        }
+    ],
+    "93": [
+        {
+            "Index": 0,
+            "Option": "13 to 18 years"
+        },
+        {
+            "Index": 1,
+            "Option": "15 years"
+        },
+        {
+            "Index": 2,
+            "Option": "5 years, with a range of 1\u201312 years"
+        }
+    ],
+    "94": [
+        {
+            "Index": 0,
+            "Option": "AS \u2264 0.5"
+        },
+        {
+            "Index": 1,
+            "Option": "AS \u2264 0.25"
+        },
+        {
+            "Index": 2,
+            "Option": "AS \u2264 1.0"
+        }
+    ],
+    "95": [
+        {
+            "Index": 0,
+            "Option": "Generalized linear model with a complementary log-log link"
+        }
+    ]
+}

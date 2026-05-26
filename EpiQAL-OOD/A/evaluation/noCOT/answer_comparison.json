@@ -1,0 +1,4423 @@
+{
+    "1": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-4.1-nano": [
+            "0"
+        ],
+        "gpt-4o-mini": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "zai-org/GLM-4.5-Air": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0",
+            "1"
+        ],
+        "meta-llama/Llama-3.2-3B-Instruct": [],
+        "meta-llama/Llama-3.1-8B-Instruct": [
+            "0"
+        ],
+        "meta-llama/Llama-3.3-70B-Instruct": [
+            "1"
+        ],
+        "mistralai/Mistral-7B-Instruct-v0.3": [
+            "0"
+        ],
+        "mistralai/Mistral-Large-Instruct-2411": [
+            "0"
+        ],
+        "Qwen/Qwen3-8B": [
+            "0"
+        ],
+        "Qwen/Qwen3-30B-A3B-Instruct-2507": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "2": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-4.1-nano": [
+            "0"
+        ],
+        "gpt-4o-mini": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "zai-org/GLM-4.5-Air": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0"
+        ],
+        "meta-llama/Llama-3.2-3B-Instruct": [],
+        "meta-llama/Llama-3.1-8B-Instruct": [
+            "0"
+        ],
+        "meta-llama/Llama-3.3-70B-Instruct": [
+            "0"
+        ],
+        "mistralai/Mistral-7B-Instruct-v0.3": [
+            "1"
+        ],
+        "mistralai/Mistral-Large-Instruct-2411": [
+            "0"
+        ],
+        "Qwen/Qwen3-8B": [
+            "0"
+        ],
+        "Qwen/Qwen3-30B-A3B-Instruct-2507": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "3": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-4.1-nano": [
+            "0"
+        ],
+        "gpt-4o-mini": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "zai-org/GLM-4.5-Air": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "2"
+        ],
+        "meta-llama/Llama-3.2-3B-Instruct": [],
+        "meta-llama/Llama-3.1-8B-Instruct": [
+            "0"
+        ],
+        "meta-llama/Llama-3.3-70B-Instruct": [
+            "0"
+        ],
+        "mistralai/Mistral-7B-Instruct-v0.3": [
+            "0"
+        ],
+        "mistralai/Mistral-Large-Instruct-2411": [
+            "0"
+        ],
+        "Qwen/Qwen3-8B": [
+            "0"
+        ],
+        "Qwen/Qwen3-30B-A3B-Instruct-2507": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "4": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-4.1-nano": [
+            "0"
+        ],
+        "gpt-4o-mini": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "zai-org/GLM-4.5-Air": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0"
+        ],
+        "meta-llama/Llama-3.2-3B-Instruct": [
+            "0"
+        ],
+        "meta-llama/Llama-3.1-8B-Instruct": [
+            "0"
+        ],
+        "meta-llama/Llama-3.3-70B-Instruct": [
+            "0"
+        ],
+        "mistralai/Mistral-7B-Instruct-v0.3": [
+            "0"
+        ],
+        "mistralai/Mistral-Large-Instruct-2411": [
+            "0"
+        ],
+        "Qwen/Qwen3-8B": [
+            "0"
+        ],
+        "Qwen/Qwen3-30B-A3B-Instruct-2507": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "7": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-4.1-nano": [
+            "1"
+        ],
+        "gpt-4o-mini": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ],
+        "zai-org/GLM-4.5-Air": [
+            "1"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1"
+        ],
+        "meta-llama/Llama-3.2-3B-Instruct": [
+            "1"
+        ],
+        "meta-llama/Llama-3.1-8B-Instruct": [
+            "1"
+        ],
+        "meta-llama/Llama-3.3-70B-Instruct": [
+            "0",
+            "1"
+        ],
+        "mistralai/Mistral-7B-Instruct-v0.3": [
+            "1"
+        ],
+        "mistralai/Mistral-Large-Instruct-2411": [
+            "1"
+        ],
+        "Qwen/Qwen3-8B": [
+            "1"
+        ],
+        "Qwen/Qwen3-30B-A3B-Instruct-2507": [
+            "1"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1"
+        ]
+    },
+    "8": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-4.1-nano": [
+            "1"
+        ],
+        "gpt-4o-mini": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ],
+        "zai-org/GLM-4.5-Air": [
+            "1"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1"
+        ],
+        "meta-llama/Llama-3.2-3B-Instruct": [
+            "1"
+        ],
+        "meta-llama/Llama-3.1-8B-Instruct": [
+            "1"
+        ],
+        "meta-llama/Llama-3.3-70B-Instruct": [
+            "1"
+        ],
+        "mistralai/Mistral-7B-Instruct-v0.3": [
+            "0"
+        ],
+        "mistralai/Mistral-Large-Instruct-2411": [
+            "1"
+        ],
+        "Qwen/Qwen3-8B": [
+            "0",
+            "1"
+        ],
+        "Qwen/Qwen3-30B-A3B-Instruct-2507": [
+            "1"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1"
+        ]
+    },
+    "9": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-4.1-nano": [
+            "0.61"
+        ],
+        "gpt-4o-mini": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "zai-org/GLM-4.5-Air": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0",
+            "2"
+        ],
+        "meta-llama/Llama-3.2-3B-Instruct": [],
+        "meta-llama/Llama-3.1-8B-Instruct": [
+            "0",
+            "1"
+        ],
+        "meta-llama/Llama-3.3-70B-Instruct": [
+            "0"
+        ],
+        "mistralai/Mistral-7B-Instruct-v0.3": [
+            "0"
+        ],
+        "mistralai/Mistral-Large-Instruct-2411": [
+            "0"
+        ],
+        "Qwen/Qwen3-8B": [
+            "0"
+        ],
+        "Qwen/Qwen3-30B-A3B-Instruct-2507": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "10": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-4.1-nano": [
+            "0"
+        ],
+        "gpt-4o-mini": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "zai-org/GLM-4.5-Air": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0",
+            "1"
+        ],
+        "meta-llama/Llama-3.2-3B-Instruct": [
+            "2"
+        ],
+        "meta-llama/Llama-3.1-8B-Instruct": [
+            "0"
+        ],
+        "meta-llama/Llama-3.3-70B-Instruct": [
+            "0",
+            "1",
+            "2"
+        ],
+        "mistralai/Mistral-7B-Instruct-v0.3": [
+            "0"
+        ],
+        "mistralai/Mistral-Large-Instruct-2411": [
+            "0"
+        ],
+        "Qwen/Qwen3-8B": [
+            "0"
+        ],
+        "Qwen/Qwen3-30B-A3B-Instruct-2507": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0",
+            "1"
+        ]
+    },
+    "11": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-4.1-nano": [
+            "1"
+        ],
+        "gpt-4o-mini": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ],
+        "zai-org/GLM-4.5-Air": [
+            "1"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1"
+        ],
+        "meta-llama/Llama-3.2-3B-Instruct": [
+            "1"
+        ],
+        "meta-llama/Llama-3.1-8B-Instruct": [
+            "1"
+        ],
+        "meta-llama/Llama-3.3-70B-Instruct": [
+            "1"
+        ],
+        "mistralai/Mistral-7B-Instruct-v0.3": [
+            "1"
+        ],
+        "mistralai/Mistral-Large-Instruct-2411": [
+            "1"
+        ],
+        "Qwen/Qwen3-8B": [
+            "1"
+        ],
+        "Qwen/Qwen3-30B-A3B-Instruct-2507": [
+            "1"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1"
+        ]
+    },
+    "12": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-4.1-nano": [
+            "1"
+        ],
+        "gpt-4o-mini": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ],
+        "zai-org/GLM-4.5-Air": [
+            "1"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1"
+        ],
+        "meta-llama/Llama-3.2-3B-Instruct": [],
+        "meta-llama/Llama-3.1-8B-Instruct": [
+            "1"
+        ],
+        "meta-llama/Llama-3.3-70B-Instruct": [
+            "1"
+        ],
+        "mistralai/Mistral-7B-Instruct-v0.3": [
+            "1"
+        ],
+        "mistralai/Mistral-Large-Instruct-2411": [
+            "1"
+        ],
+        "Qwen/Qwen3-8B": [
+            "1"
+        ],
+        "Qwen/Qwen3-30B-A3B-Instruct-2507": [
+            "1"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1"
+        ]
+    },
+    "13": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-4.1-nano": [],
+        "gpt-4o-mini": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "zai-org/GLM-4.5-Air": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0"
+        ],
+        "meta-llama/Llama-3.2-3B-Instruct": [
+            "0"
+        ],
+        "meta-llama/Llama-3.1-8B-Instruct": [
+            "0"
+        ],
+        "meta-llama/Llama-3.3-70B-Instruct": [
+            "0"
+        ],
+        "mistralai/Mistral-7B-Instruct-v0.3": [
+            "0"
+        ],
+        "mistralai/Mistral-Large-Instruct-2411": [
+            "0"
+        ],
+        "Qwen/Qwen3-8B": [
+            "0"
+        ],
+        "Qwen/Qwen3-30B-A3B-Instruct-2507": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "14": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-4.1-nano": [
+            "0"
+        ],
+        "gpt-4o-mini": [
+            "0",
+            "1"
+        ],
+        "gpt-5-mini": [
+            "0",
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "zai-org/GLM-4.5-Air": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "2"
+        ],
+        "meta-llama/Llama-3.2-3B-Instruct": [
+            "1",
+            "2"
+        ],
+        "meta-llama/Llama-3.1-8B-Instruct": [
+            "0"
+        ],
+        "meta-llama/Llama-3.3-70B-Instruct": [
+            "0"
+        ],
+        "mistralai/Mistral-7B-Instruct-v0.3": [
+            "0"
+        ],
+        "mistralai/Mistral-Large-Instruct-2411": [
+            "0"
+        ],
+        "Qwen/Qwen3-8B": [
+            "0"
+        ],
+        "Qwen/Qwen3-30B-A3B-Instruct-2507": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "15": {
+        "ref_ans": [
+            "0",
+            "2"
+        ],
+        "gpt-4.1-nano": [
+            "0",
+            "2"
+        ],
+        "gpt-4o-mini": [
+            "0",
+            "2"
+        ],
+        "gpt-5-mini": [
+            "0",
+            "1",
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "zai-org/GLM-4.5-Air": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0",
+            "2"
+        ],
+        "meta-llama/Llama-3.2-3B-Instruct": [
+            "0",
+            "2"
+        ],
+        "meta-llama/Llama-3.1-8B-Instruct": [
+            "0",
+            "1",
+            "2"
+        ],
+        "meta-llama/Llama-3.3-70B-Instruct": [
+            "0",
+            "2"
+        ],
+        "mistralai/Mistral-7B-Instruct-v0.3": [
+            "0"
+        ],
+        "mistralai/Mistral-Large-Instruct-2411": [
+            "0"
+        ],
+        "Qwen/Qwen3-8B": [
+            "0",
+            "2"
+        ],
+        "Qwen/Qwen3-30B-A3B-Instruct-2507": [
+            "0",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "16": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-4.1-nano": [
+            "0"
+        ],
+        "gpt-4o-mini": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "zai-org/GLM-4.5-Air": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0"
+        ],
+        "meta-llama/Llama-3.2-3B-Instruct": [
+            "0"
+        ],
+        "meta-llama/Llama-3.1-8B-Instruct": [
+            "0"
+        ],
+        "meta-llama/Llama-3.3-70B-Instruct": [
+            "0"
+        ],
+        "mistralai/Mistral-7B-Instruct-v0.3": [
+            "0"
+        ],
+        "mistralai/Mistral-Large-Instruct-2411": [
+            "0"
+        ],
+        "Qwen/Qwen3-8B": [
+            "0"
+        ],
+        "Qwen/Qwen3-30B-A3B-Instruct-2507": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "17": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-4.1-nano": [
+            "2"
+        ],
+        "gpt-4o-mini": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ],
+        "zai-org/GLM-4.5-Air": [
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "2"
+        ],
+        "meta-llama/Llama-3.2-3B-Instruct": [
+            "2"
+        ],
+        "meta-llama/Llama-3.1-8B-Instruct": [
+            "2"
+        ],
+        "meta-llama/Llama-3.3-70B-Instruct": [
+            "2"
+        ],
+        "mistralai/Mistral-7B-Instruct-v0.3": [
+            "2"
+        ],
+        "mistralai/Mistral-Large-Instruct-2411": [
+            "2"
+        ],
+        "Qwen/Qwen3-8B": [
+            "2"
+        ],
+        "Qwen/Qwen3-30B-A3B-Instruct-2507": [
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "2"
+        ]
+    },
+    "18": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-4.1-nano": [
+            "0"
+        ],
+        "gpt-4o-mini": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "zai-org/GLM-4.5-Air": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0"
+        ],
+        "meta-llama/Llama-3.2-3B-Instruct": [
+            "0"
+        ],
+        "meta-llama/Llama-3.1-8B-Instruct": [
+            "0"
+        ],
+        "meta-llama/Llama-3.3-70B-Instruct": [
+            "0"
+        ],
+        "mistralai/Mistral-7B-Instruct-v0.3": [
+            "0"
+        ],
+        "mistralai/Mistral-Large-Instruct-2411": [
+            "0"
+        ],
+        "Qwen/Qwen3-8B": [
+            "0"
+        ],
+        "Qwen/Qwen3-30B-A3B-Instruct-2507": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "19": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-4.1-nano": [
+            "0"
+        ],
+        "gpt-4o-mini": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "zai-org/GLM-4.5-Air": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0",
+            "1"
+        ],
+        "meta-llama/Llama-3.2-3B-Instruct": [
+            "0",
+            "1"
+        ],
+        "meta-llama/Llama-3.1-8B-Instruct": [
+            "0"
+        ],
+        "meta-llama/Llama-3.3-70B-Instruct": [
+            "0",
+            "1"
+        ],
+        "mistralai/Mistral-7B-Instruct-v0.3": [
+            "0"
+        ],
+        "mistralai/Mistral-Large-Instruct-2411": [
+            "0"
+        ],
+        "Qwen/Qwen3-8B": [
+            "0"
+        ],
+        "Qwen/Qwen3-30B-A3B-Instruct-2507": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "20": {
+        "ref_ans": [
+            "3",
+            "2"
+        ],
+        "gpt-4.1-nano": [
+            "3"
+        ],
+        "gpt-4o-mini": [
+            "0",
+            "3",
+            "1",
+            "2"
+        ],
+        "gpt-5-mini": [
+            "3",
+            "1",
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "3",
+            "2"
+        ],
+        "zai-org/GLM-4.5-Air": [
+            "3",
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "2"
+        ],
+        "meta-llama/Llama-3.2-3B-Instruct": [
+            "0",
+            "3",
+            "1"
+        ],
+        "meta-llama/Llama-3.1-8B-Instruct": [
+            "0",
+            "3",
+            "2"
+        ],
+        "meta-llama/Llama-3.3-70B-Instruct": [
+            "3",
+            "1",
+            "2"
+        ],
+        "mistralai/Mistral-7B-Instruct-v0.3": [
+            "3",
+            "1",
+            "2"
+        ],
+        "mistralai/Mistral-Large-Instruct-2411": [
+            "3",
+            "1",
+            "2"
+        ],
+        "Qwen/Qwen3-8B": [
+            "0",
+            "1",
+            "2"
+        ],
+        "Qwen/Qwen3-30B-A3B-Instruct-2507": [
+            "3",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3",
+            "2"
+        ]
+    },
+    "22": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-4.1-nano": [
+            "1"
+        ],
+        "gpt-4o-mini": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "zai-org/GLM-4.5-Air": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0",
+            "1"
+        ],
+        "meta-llama/Llama-3.2-3B-Instruct": [
+            "2"
+        ],
+        "meta-llama/Llama-3.1-8B-Instruct": [
+            "0"
+        ],
+        "meta-llama/Llama-3.3-70B-Instruct": [
+            "0"
+        ],
+        "mistralai/Mistral-7B-Instruct-v0.3": [
+            "0"
+        ],
+        "mistralai/Mistral-Large-Instruct-2411": [
+            "0"
+        ],
+        "Qwen/Qwen3-8B": [
+            "0"
+        ],
+        "Qwen/Qwen3-30B-A3B-Instruct-2507": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "24": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-4.1-nano": [
+            "1"
+        ],
+        "gpt-4o-mini": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ],
+        "zai-org/GLM-4.5-Air": [
+            "1"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "2"
+        ],
+        "meta-llama/Llama-3.2-3B-Instruct": [
+            "1"
+        ],
+        "meta-llama/Llama-3.1-8B-Instruct": [
+            "1"
+        ],
+        "meta-llama/Llama-3.3-70B-Instruct": [
+            "1"
+        ],
+        "mistralai/Mistral-7B-Instruct-v0.3": [
+            "0"
+        ],
+        "mistralai/Mistral-Large-Instruct-2411": [
+            "1"
+        ],
+        "Qwen/Qwen3-8B": [
+            "1"
+        ],
+        "Qwen/Qwen3-30B-A3B-Instruct-2507": [
+            "1"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1"
+        ]
+    },
+    "25": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-4.1-nano": [
+            "2"
+        ],
+        "gpt-4o-mini": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ],
+        "zai-org/GLM-4.5-Air": [
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "2"
+        ],
+        "meta-llama/Llama-3.2-3B-Instruct": [
+            "2"
+        ],
+        "meta-llama/Llama-3.1-8B-Instruct": [
+            "2"
+        ],
+        "meta-llama/Llama-3.3-70B-Instruct": [
+            "2"
+        ],
+        "mistralai/Mistral-7B-Instruct-v0.3": [
+            "2"
+        ],
+        "mistralai/Mistral-Large-Instruct-2411": [
+            "2"
+        ],
+        "Qwen/Qwen3-8B": [
+            "2"
+        ],
+        "Qwen/Qwen3-30B-A3B-Instruct-2507": [
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "2"
+        ]
+    },
+    "26": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-4.1-nano": [
+            "2"
+        ],
+        "gpt-4o-mini": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ],
+        "zai-org/GLM-4.5-Air": [
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "2"
+        ],
+        "meta-llama/Llama-3.2-3B-Instruct": [],
+        "meta-llama/Llama-3.1-8B-Instruct": [
+            "2"
+        ],
+        "meta-llama/Llama-3.3-70B-Instruct": [
+            "2"
+        ],
+        "mistralai/Mistral-7B-Instruct-v0.3": [
+            "2"
+        ],
+        "mistralai/Mistral-Large-Instruct-2411": [
+            "2"
+        ],
+        "Qwen/Qwen3-8B": [
+            "2"
+        ],
+        "Qwen/Qwen3-30B-A3B-Instruct-2507": [
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "2"
+        ]
+    },
+    "28": {
+        "ref_ans": [
+            "3"
+        ],
+        "gpt-4.1-nano": [
+            "3"
+        ],
+        "gpt-4o-mini": [
+            "3"
+        ],
+        "gpt-5-mini": [
+            "3"
+        ],
+        "deepseek-reasoner": [
+            "3"
+        ],
+        "zai-org/GLM-4.5-Air": [
+            "3"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "3"
+        ],
+        "meta-llama/Llama-3.2-3B-Instruct": [],
+        "meta-llama/Llama-3.1-8B-Instruct": [
+            "3"
+        ],
+        "meta-llama/Llama-3.3-70B-Instruct": [
+            "3"
+        ],
+        "mistralai/Mistral-7B-Instruct-v0.3": [
+            "3"
+        ],
+        "mistralai/Mistral-Large-Instruct-2411": [
+            "3"
+        ],
+        "Qwen/Qwen3-8B": [
+            "3"
+        ],
+        "Qwen/Qwen3-30B-A3B-Instruct-2507": [
+            "3"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3"
+        ]
+    },
+    "29": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-4.1-nano": [
+            "2"
+        ],
+        "gpt-4o-mini": [
+            "0",
+            "2"
+        ],
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ],
+        "zai-org/GLM-4.5-Air": [
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "2"
+        ],
+        "meta-llama/Llama-3.2-3B-Instruct": [
+            "0",
+            "2"
+        ],
+        "meta-llama/Llama-3.1-8B-Instruct": [
+            "0",
+            "2"
+        ],
+        "meta-llama/Llama-3.3-70B-Instruct": [
+            "2"
+        ],
+        "mistralai/Mistral-7B-Instruct-v0.3": [
+            "2"
+        ],
+        "mistralai/Mistral-Large-Instruct-2411": [
+            "2"
+        ],
+        "Qwen/Qwen3-8B": [
+            "2"
+        ],
+        "Qwen/Qwen3-30B-A3B-Instruct-2507": [
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "2"
+        ]
+    },
+    "30": {
+        "ref_ans": [
+            "1",
+            "2"
+        ],
+        "gpt-4.1-nano": [
+            "1",
+            "2"
+        ],
+        "gpt-4o-mini": [
+            "1",
+            "2"
+        ],
+        "gpt-5-mini": [
+            "1",
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "1",
+            "2"
+        ],
+        "zai-org/GLM-4.5-Air": [
+            "1",
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "2"
+        ],
+        "meta-llama/Llama-3.2-3B-Instruct": [
+            "1",
+            "2"
+        ],
+        "meta-llama/Llama-3.1-8B-Instruct": [
+            "1",
+            "2"
+        ],
+        "meta-llama/Llama-3.3-70B-Instruct": [
+            "1",
+            "2"
+        ],
+        "mistralai/Mistral-7B-Instruct-v0.3": [
+            "2"
+        ],
+        "mistralai/Mistral-Large-Instruct-2411": [
+            "1",
+            "2"
+        ],
+        "Qwen/Qwen3-8B": [
+            "1",
+            "2"
+        ],
+        "Qwen/Qwen3-30B-A3B-Instruct-2507": [
+            "1",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1",
+            "2"
+        ]
+    },
+    "31": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-4.1-nano": [
+            "0"
+        ],
+        "gpt-4o-mini": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "zai-org/GLM-4.5-Air": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0",
+            "1"
+        ],
+        "meta-llama/Llama-3.2-3B-Instruct": [
+            "0",
+            "1"
+        ],
+        "meta-llama/Llama-3.1-8B-Instruct": [
+            "0"
+        ],
+        "meta-llama/Llama-3.3-70B-Instruct": [
+            "1"
+        ],
+        "mistralai/Mistral-7B-Instruct-v0.3": [
+            "0"
+        ],
+        "mistralai/Mistral-Large-Instruct-2411": [
+            "0"
+        ],
+        "Qwen/Qwen3-8B": [
+            "0"
+        ],
+        "Qwen/Qwen3-30B-A3B-Instruct-2507": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "32": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-4.1-nano": [
+            "0"
+        ],
+        "gpt-4o-mini": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "zai-org/GLM-4.5-Air": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0"
+        ],
+        "meta-llama/Llama-3.2-3B-Instruct": [],
+        "meta-llama/Llama-3.1-8B-Instruct": [
+            "0"
+        ],
+        "meta-llama/Llama-3.3-70B-Instruct": [
+            "0"
+        ],
+        "mistralai/Mistral-7B-Instruct-v0.3": [
+            "0"
+        ],
+        "mistralai/Mistral-Large-Instruct-2411": [
+            "0"
+        ],
+        "Qwen/Qwen3-8B": [
+            "0"
+        ],
+        "Qwen/Qwen3-30B-A3B-Instruct-2507": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "33": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-4.1-nano": [
+            "0"
+        ],
+        "gpt-4o-mini": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "zai-org/GLM-4.5-Air": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0",
+            "1"
+        ],
+        "meta-llama/Llama-3.2-3B-Instruct": [
+            "2"
+        ],
+        "meta-llama/Llama-3.1-8B-Instruct": [
+            "0"
+        ],
+        "meta-llama/Llama-3.3-70B-Instruct": [
+            "0"
+        ],
+        "mistralai/Mistral-7B-Instruct-v0.3": [
+            "0"
+        ],
+        "mistralai/Mistral-Large-Instruct-2411": [
+            "0"
+        ],
+        "Qwen/Qwen3-8B": [
+            "0"
+        ],
+        "Qwen/Qwen3-30B-A3B-Instruct-2507": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "34": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-4.1-nano": [
+            "0"
+        ],
+        "gpt-4o-mini": [
+            "0",
+            "1"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "zai-org/GLM-4.5-Air": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0",
+            "1"
+        ],
+        "meta-llama/Llama-3.2-3B-Instruct": [
+            "1"
+        ],
+        "meta-llama/Llama-3.1-8B-Instruct": [
+            "0"
+        ],
+        "meta-llama/Llama-3.3-70B-Instruct": [
+            "0"
+        ],
+        "mistralai/Mistral-7B-Instruct-v0.3": [
+            "0"
+        ],
+        "mistralai/Mistral-Large-Instruct-2411": [
+            "0"
+        ],
+        "Qwen/Qwen3-8B": [
+            "0"
+        ],
+        "Qwen/Qwen3-30B-A3B-Instruct-2507": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0",
+            "1"
+        ]
+    },
+    "35": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-4.1-nano": [
+            "1"
+        ],
+        "gpt-4o-mini": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ],
+        "zai-org/GLM-4.5-Air": [
+            "1"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1"
+        ],
+        "meta-llama/Llama-3.2-3B-Instruct": [
+            "1"
+        ],
+        "meta-llama/Llama-3.1-8B-Instruct": [
+            "1"
+        ],
+        "meta-llama/Llama-3.3-70B-Instruct": [
+            "1"
+        ],
+        "mistralai/Mistral-7B-Instruct-v0.3": [
+            "1"
+        ],
+        "mistralai/Mistral-Large-Instruct-2411": [
+            "1"
+        ],
+        "Qwen/Qwen3-8B": [
+            "1"
+        ],
+        "Qwen/Qwen3-30B-A3B-Instruct-2507": [
+            "1"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1"
+        ]
+    },
+    "36": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-4.1-nano": [
+            "2"
+        ],
+        "gpt-4o-mini": [
+            "0",
+            "2"
+        ],
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ],
+        "zai-org/GLM-4.5-Air": [
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "3",
+            "1",
+            "2"
+        ],
+        "meta-llama/Llama-3.2-3B-Instruct": [],
+        "meta-llama/Llama-3.1-8B-Instruct": [
+            "0",
+            "2"
+        ],
+        "meta-llama/Llama-3.3-70B-Instruct": [
+            "2"
+        ],
+        "mistralai/Mistral-7B-Instruct-v0.3": [
+            "2"
+        ],
+        "mistralai/Mistral-Large-Instruct-2411": [
+            "2"
+        ],
+        "Qwen/Qwen3-8B": [
+            "2"
+        ],
+        "Qwen/Qwen3-30B-A3B-Instruct-2507": [
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "2"
+        ]
+    },
+    "37": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-4.1-nano": [
+            "0",
+            "2"
+        ],
+        "gpt-4o-mini": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ],
+        "zai-org/GLM-4.5-Air": [
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0",
+            "2"
+        ],
+        "meta-llama/Llama-3.2-3B-Instruct": [
+            "1"
+        ],
+        "meta-llama/Llama-3.1-8B-Instruct": [
+            "1"
+        ],
+        "meta-llama/Llama-3.3-70B-Instruct": [
+            "1"
+        ],
+        "mistralai/Mistral-7B-Instruct-v0.3": [
+            "0"
+        ],
+        "mistralai/Mistral-Large-Instruct-2411": [
+            "1",
+            "2"
+        ],
+        "Qwen/Qwen3-8B": [
+            "0"
+        ],
+        "Qwen/Qwen3-30B-A3B-Instruct-2507": [
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "2"
+        ]
+    },
+    "39": {
+        "ref_ans": [
+            "0",
+            "1",
+            "4"
+        ],
+        "gpt-4.1-nano": [
+            "0",
+            "4"
+        ],
+        "gpt-4o-mini": [
+            "0",
+            "1",
+            "4"
+        ],
+        "gpt-5-mini": [
+            "0",
+            "1",
+            "4"
+        ],
+        "deepseek-reasoner": [
+            "0",
+            "1",
+            "4"
+        ],
+        "zai-org/GLM-4.5-Air": [
+            "0",
+            "1",
+            "4"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0",
+            "1",
+            "4"
+        ],
+        "meta-llama/Llama-3.2-3B-Instruct": [
+            "4"
+        ],
+        "meta-llama/Llama-3.1-8B-Instruct": [
+            "1",
+            "4"
+        ],
+        "meta-llama/Llama-3.3-70B-Instruct": [
+            "0",
+            "1",
+            "4"
+        ],
+        "mistralai/Mistral-7B-Instruct-v0.3": [
+            "4"
+        ],
+        "mistralai/Mistral-Large-Instruct-2411": [
+            "0",
+            "1",
+            "4"
+        ],
+        "Qwen/Qwen3-8B": [
+            "0",
+            "1",
+            "4"
+        ],
+        "Qwen/Qwen3-30B-A3B-Instruct-2507": [
+            "0",
+            "1",
+            "4"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0",
+            "1",
+            "4"
+        ]
+    },
+    "40": {
+        "ref_ans": [
+            "0",
+            "2"
+        ],
+        "gpt-4.1-nano": [
+            "2"
+        ],
+        "gpt-4o-mini": [
+            "0",
+            "2"
+        ],
+        "gpt-5-mini": [
+            "0",
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "0",
+            "2"
+        ],
+        "zai-org/GLM-4.5-Air": [
+            "0",
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0",
+            "1",
+            "2"
+        ],
+        "meta-llama/Llama-3.2-3B-Instruct": [
+            "0",
+            "3",
+            "1",
+            "2"
+        ],
+        "meta-llama/Llama-3.1-8B-Instruct": [
+            "0"
+        ],
+        "meta-llama/Llama-3.3-70B-Instruct": [
+            "0"
+        ],
+        "mistralai/Mistral-7B-Instruct-v0.3": [
+            "0"
+        ],
+        "mistralai/Mistral-Large-Instruct-2411": [
+            "0",
+            "2"
+        ],
+        "Qwen/Qwen3-8B": [
+            "0",
+            "2"
+        ],
+        "Qwen/Qwen3-30B-A3B-Instruct-2507": [
+            "0",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0",
+            "2"
+        ]
+    },
+    "41": {
+        "ref_ans": [
+            "0",
+            "1"
+        ],
+        "gpt-4.1-nano": [
+            "0",
+            "1"
+        ],
+        "gpt-4o-mini": [
+            "0",
+            "1"
+        ],
+        "gpt-5-mini": [
+            "0",
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "0",
+            "1"
+        ],
+        "zai-org/GLM-4.5-Air": [
+            "0",
+            "1"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0",
+            "1"
+        ],
+        "meta-llama/Llama-3.2-3B-Instruct": [
+            "0",
+            "1"
+        ],
+        "meta-llama/Llama-3.1-8B-Instruct": [
+            "0",
+            "1"
+        ],
+        "meta-llama/Llama-3.3-70B-Instruct": [
+            "0",
+            "1"
+        ],
+        "mistralai/Mistral-7B-Instruct-v0.3": [
+            "0"
+        ],
+        "mistralai/Mistral-Large-Instruct-2411": [
+            "0",
+            "1"
+        ],
+        "Qwen/Qwen3-8B": [
+            "0",
+            "1"
+        ],
+        "Qwen/Qwen3-30B-A3B-Instruct-2507": [
+            "0",
+            "1"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0",
+            "1"
+        ]
+    },
+    "42": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-4.1-nano": [
+            "0"
+        ],
+        "gpt-4o-mini": [
+            "0",
+            "1",
+            "2"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "zai-org/GLM-4.5-Air": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0"
+        ],
+        "meta-llama/Llama-3.2-3B-Instruct": [
+            "0"
+        ],
+        "meta-llama/Llama-3.1-8B-Instruct": [
+            "0"
+        ],
+        "meta-llama/Llama-3.3-70B-Instruct": [
+            "0",
+            "1",
+            "2"
+        ],
+        "mistralai/Mistral-7B-Instruct-v0.3": [
+            "0"
+        ],
+        "mistralai/Mistral-Large-Instruct-2411": [
+            "0"
+        ],
+        "Qwen/Qwen3-8B": [
+            "0"
+        ],
+        "Qwen/Qwen3-30B-A3B-Instruct-2507": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "43": {
+        "ref_ans": [
+            "3",
+            "1"
+        ],
+        "gpt-4.1-nano": [
+            "3",
+            "1"
+        ],
+        "gpt-4o-mini": [
+            "3",
+            "1"
+        ],
+        "gpt-5-mini": [
+            "3",
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "3",
+            "1"
+        ],
+        "zai-org/GLM-4.5-Air": [
+            "3",
+            "1"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "2"
+        ],
+        "meta-llama/Llama-3.2-3B-Instruct": [
+            "3",
+            "1"
+        ],
+        "meta-llama/Llama-3.1-8B-Instruct": [
+            "3",
+            "1"
+        ],
+        "meta-llama/Llama-3.3-70B-Instruct": [
+            "3",
+            "1"
+        ],
+        "mistralai/Mistral-7B-Instruct-v0.3": [
+            "1"
+        ],
+        "mistralai/Mistral-Large-Instruct-2411": [
+            "0",
+            "1"
+        ],
+        "Qwen/Qwen3-8B": [
+            "3",
+            "1"
+        ],
+        "Qwen/Qwen3-30B-A3B-Instruct-2507": [
+            "0",
+            "3"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3",
+            "1"
+        ]
+    },
+    "44": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-4.1-nano": [
+            "0"
+        ],
+        "gpt-4o-mini": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "zai-org/GLM-4.5-Air": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1"
+        ],
+        "meta-llama/Llama-3.2-3B-Instruct": [
+            "1"
+        ],
+        "meta-llama/Llama-3.1-8B-Instruct": [
+            "0"
+        ],
+        "meta-llama/Llama-3.3-70B-Instruct": [
+            "0"
+        ],
+        "mistralai/Mistral-7B-Instruct-v0.3": [
+            "0"
+        ],
+        "mistralai/Mistral-Large-Instruct-2411": [
+            "0"
+        ],
+        "Qwen/Qwen3-8B": [
+            "0"
+        ],
+        "Qwen/Qwen3-30B-A3B-Instruct-2507": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "45": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-4.1-nano": [],
+        "gpt-4o-mini": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "zai-org/GLM-4.5-Air": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0",
+            "1"
+        ],
+        "meta-llama/Llama-3.2-3B-Instruct": [
+            "0"
+        ],
+        "meta-llama/Llama-3.1-8B-Instruct": [
+            "0"
+        ],
+        "meta-llama/Llama-3.3-70B-Instruct": [
+            "0"
+        ],
+        "mistralai/Mistral-7B-Instruct-v0.3": [
+            "0"
+        ],
+        "mistralai/Mistral-Large-Instruct-2411": [
+            "0"
+        ],
+        "Qwen/Qwen3-8B": [
+            "0"
+        ],
+        "Qwen/Qwen3-30B-A3B-Instruct-2507": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "47": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-4.1-nano": [
+            "2"
+        ],
+        "gpt-4o-mini": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ],
+        "zai-org/GLM-4.5-Air": [
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "2"
+        ],
+        "meta-llama/Llama-3.2-3B-Instruct": [
+            "0",
+            "2"
+        ],
+        "meta-llama/Llama-3.1-8B-Instruct": [
+            "2"
+        ],
+        "meta-llama/Llama-3.3-70B-Instruct": [
+            "2"
+        ],
+        "mistralai/Mistral-7B-Instruct-v0.3": [
+            "2"
+        ],
+        "mistralai/Mistral-Large-Instruct-2411": [
+            "2"
+        ],
+        "Qwen/Qwen3-8B": [
+            "2"
+        ],
+        "Qwen/Qwen3-30B-A3B-Instruct-2507": [
+            "1"
+        ],
+        "Qwen/Qwen3-32B": [
+            "2"
+        ]
+    },
+    "48": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-4.1-nano": [
+            "0"
+        ],
+        "gpt-4o-mini": [
+            "0",
+            "1"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "zai-org/GLM-4.5-Air": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1"
+        ],
+        "meta-llama/Llama-3.2-3B-Instruct": [],
+        "meta-llama/Llama-3.1-8B-Instruct": [
+            "0"
+        ],
+        "meta-llama/Llama-3.3-70B-Instruct": [
+            "0",
+            "1"
+        ],
+        "mistralai/Mistral-7B-Instruct-v0.3": [
+            "1"
+        ],
+        "mistralai/Mistral-Large-Instruct-2411": [
+            "0"
+        ],
+        "Qwen/Qwen3-8B": [
+            "0"
+        ],
+        "Qwen/Qwen3-30B-A3B-Instruct-2507": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "49": {
+        "ref_ans": [
+            "1",
+            "2"
+        ],
+        "gpt-4.1-nano": [
+            "1",
+            "2"
+        ],
+        "gpt-4o-mini": [
+            "1",
+            "2"
+        ],
+        "gpt-5-mini": [
+            "0",
+            "3",
+            "1",
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "1",
+            "2"
+        ],
+        "zai-org/GLM-4.5-Air": [
+            "1",
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "3",
+            "2"
+        ],
+        "meta-llama/Llama-3.2-3B-Instruct": [
+            "2"
+        ],
+        "meta-llama/Llama-3.1-8B-Instruct": [
+            "2"
+        ],
+        "meta-llama/Llama-3.3-70B-Instruct": [
+            "1"
+        ],
+        "mistralai/Mistral-7B-Instruct-v0.3": [
+            "3"
+        ],
+        "mistralai/Mistral-Large-Instruct-2411": [
+            "1",
+            "2"
+        ],
+        "Qwen/Qwen3-8B": [
+            "0",
+            "3",
+            "1",
+            "2"
+        ],
+        "Qwen/Qwen3-30B-A3B-Instruct-2507": [
+            "3",
+            "1",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "3",
+            "1",
+            "2"
+        ]
+    },
+    "50": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-4.1-nano": [
+            "1"
+        ],
+        "gpt-4o-mini": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ],
+        "zai-org/GLM-4.5-Air": [
+            "1"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "2"
+        ],
+        "meta-llama/Llama-3.2-3B-Instruct": [
+            "1"
+        ],
+        "meta-llama/Llama-3.1-8B-Instruct": [
+            "1"
+        ],
+        "meta-llama/Llama-3.3-70B-Instruct": [
+            "1"
+        ],
+        "mistralai/Mistral-7B-Instruct-v0.3": [
+            "0"
+        ],
+        "mistralai/Mistral-Large-Instruct-2411": [
+            "1"
+        ],
+        "Qwen/Qwen3-8B": [
+            "1"
+        ],
+        "Qwen/Qwen3-30B-A3B-Instruct-2507": [
+            "1"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1"
+        ]
+    },
+    "51": {
+        "ref_ans": [
+            "5",
+            "4",
+            "2"
+        ],
+        "gpt-4.1-nano": [
+            "5",
+            "4",
+            "2"
+        ],
+        "gpt-4o-mini": [
+            "5",
+            "2"
+        ],
+        "gpt-5-mini": [
+            "5",
+            "4",
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "5",
+            "4",
+            "2"
+        ],
+        "zai-org/GLM-4.5-Air": [
+            "5",
+            "4",
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "5",
+            "2"
+        ],
+        "meta-llama/Llama-3.2-3B-Instruct": [],
+        "meta-llama/Llama-3.1-8B-Instruct": [
+            "5",
+            "4",
+            "2"
+        ],
+        "meta-llama/Llama-3.3-70B-Instruct": [
+            "2"
+        ],
+        "mistralai/Mistral-7B-Instruct-v0.3": [
+            "2"
+        ],
+        "mistralai/Mistral-Large-Instruct-2411": [
+            "5",
+            "4",
+            "2"
+        ],
+        "Qwen/Qwen3-8B": [
+            "5",
+            "4",
+            "2"
+        ],
+        "Qwen/Qwen3-30B-A3B-Instruct-2507": [
+            "5",
+            "4",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "5",
+            "4",
+            "2"
+        ]
+    },
+    "52": {
+        "ref_ans": [
+            "0",
+            "2"
+        ],
+        "gpt-4.1-nano": [
+            "2"
+        ],
+        "gpt-4o-mini": [
+            "0",
+            "1",
+            "2"
+        ],
+        "gpt-5-mini": [
+            "0",
+            "1",
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "0",
+            "1",
+            "2"
+        ],
+        "zai-org/GLM-4.5-Air": [
+            "0",
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "2"
+        ],
+        "meta-llama/Llama-3.2-3B-Instruct": [
+            "2"
+        ],
+        "meta-llama/Llama-3.1-8B-Instruct": [
+            "2"
+        ],
+        "meta-llama/Llama-3.3-70B-Instruct": [
+            "2"
+        ],
+        "mistralai/Mistral-7B-Instruct-v0.3": [
+            "0"
+        ],
+        "mistralai/Mistral-Large-Instruct-2411": [
+            "0",
+            "2"
+        ],
+        "Qwen/Qwen3-8B": [
+            "2"
+        ],
+        "Qwen/Qwen3-30B-A3B-Instruct-2507": [
+            "0",
+            "1",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "2"
+        ]
+    },
+    "53": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-4.1-nano": [
+            "2"
+        ],
+        "gpt-4o-mini": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ],
+        "zai-org/GLM-4.5-Air": [
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "2"
+        ],
+        "meta-llama/Llama-3.2-3B-Instruct": [],
+        "meta-llama/Llama-3.1-8B-Instruct": [
+            "2"
+        ],
+        "meta-llama/Llama-3.3-70B-Instruct": [
+            "2"
+        ],
+        "mistralai/Mistral-7B-Instruct-v0.3": [
+            "2"
+        ],
+        "mistralai/Mistral-Large-Instruct-2411": [
+            "2"
+        ],
+        "Qwen/Qwen3-8B": [
+            "2"
+        ],
+        "Qwen/Qwen3-30B-A3B-Instruct-2507": [
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "2"
+        ]
+    },
+    "54": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-4.1-nano": [
+            "2"
+        ],
+        "gpt-4o-mini": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ],
+        "zai-org/GLM-4.5-Air": [
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "2"
+        ],
+        "meta-llama/Llama-3.2-3B-Instruct": [
+            "2"
+        ],
+        "meta-llama/Llama-3.1-8B-Instruct": [
+            "3",
+            "2"
+        ],
+        "meta-llama/Llama-3.3-70B-Instruct": [
+            "2"
+        ],
+        "mistralai/Mistral-7B-Instruct-v0.3": [
+            "2"
+        ],
+        "mistralai/Mistral-Large-Instruct-2411": [
+            "2"
+        ],
+        "Qwen/Qwen3-8B": [
+            "2"
+        ],
+        "Qwen/Qwen3-30B-A3B-Instruct-2507": [
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "2"
+        ]
+    },
+    "55": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-4.1-nano": [],
+        "gpt-4o-mini": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "zai-org/GLM-4.5-Air": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0"
+        ],
+        "meta-llama/Llama-3.2-3B-Instruct": [],
+        "meta-llama/Llama-3.1-8B-Instruct": [
+            "0"
+        ],
+        "meta-llama/Llama-3.3-70B-Instruct": [
+            "0"
+        ],
+        "mistralai/Mistral-7B-Instruct-v0.3": [
+            "1"
+        ],
+        "mistralai/Mistral-Large-Instruct-2411": [
+            "0"
+        ],
+        "Qwen/Qwen3-8B": [
+            "0"
+        ],
+        "Qwen/Qwen3-30B-A3B-Instruct-2507": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "56": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-4.1-nano": [
+            "1"
+        ],
+        "gpt-4o-mini": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "0",
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ],
+        "zai-org/GLM-4.5-Air": [
+            "1"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1"
+        ],
+        "meta-llama/Llama-3.2-3B-Instruct": [
+            "1"
+        ],
+        "meta-llama/Llama-3.1-8B-Instruct": [
+            "1"
+        ],
+        "meta-llama/Llama-3.3-70B-Instruct": [
+            "1"
+        ],
+        "mistralai/Mistral-7B-Instruct-v0.3": [
+            "1"
+        ],
+        "mistralai/Mistral-Large-Instruct-2411": [
+            "1"
+        ],
+        "Qwen/Qwen3-8B": [
+            "1"
+        ],
+        "Qwen/Qwen3-30B-A3B-Instruct-2507": [
+            "1"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1"
+        ]
+    },
+    "57": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-4.1-nano": [
+            "0"
+        ],
+        "gpt-4o-mini": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "zai-org/GLM-4.5-Air": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0"
+        ],
+        "meta-llama/Llama-3.2-3B-Instruct": [
+            "0",
+            "1"
+        ],
+        "meta-llama/Llama-3.1-8B-Instruct": [
+            "0"
+        ],
+        "meta-llama/Llama-3.3-70B-Instruct": [
+            "0"
+        ],
+        "mistralai/Mistral-7B-Instruct-v0.3": [
+            "0"
+        ],
+        "mistralai/Mistral-Large-Instruct-2411": [
+            "0"
+        ],
+        "Qwen/Qwen3-8B": [
+            "0"
+        ],
+        "Qwen/Qwen3-30B-A3B-Instruct-2507": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "58": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-4.1-nano": [
+            "2"
+        ],
+        "gpt-4o-mini": [
+            "0",
+            "2"
+        ],
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ],
+        "zai-org/GLM-4.5-Air": [
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "2"
+        ],
+        "meta-llama/Llama-3.2-3B-Instruct": [
+            "2"
+        ],
+        "meta-llama/Llama-3.1-8B-Instruct": [
+            "2"
+        ],
+        "meta-llama/Llama-3.3-70B-Instruct": [
+            "2"
+        ],
+        "mistralai/Mistral-7B-Instruct-v0.3": [
+            "0"
+        ],
+        "mistralai/Mistral-Large-Instruct-2411": [
+            "2"
+        ],
+        "Qwen/Qwen3-8B": [
+            "2"
+        ],
+        "Qwen/Qwen3-30B-A3B-Instruct-2507": [
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "2"
+        ]
+    },
+    "59": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-4.1-nano": [],
+        "gpt-4o-mini": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ],
+        "zai-org/GLM-4.5-Air": [
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "2"
+        ],
+        "meta-llama/Llama-3.2-3B-Instruct": [
+            "0"
+        ],
+        "meta-llama/Llama-3.1-8B-Instruct": [
+            "1"
+        ],
+        "meta-llama/Llama-3.3-70B-Instruct": [
+            "1"
+        ],
+        "mistralai/Mistral-7B-Instruct-v0.3": [
+            "0"
+        ],
+        "mistralai/Mistral-Large-Instruct-2411": [
+            "2"
+        ],
+        "Qwen/Qwen3-8B": [
+            "2"
+        ],
+        "Qwen/Qwen3-30B-A3B-Instruct-2507": [
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "2"
+        ]
+    },
+    "60": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-4.1-nano": [
+            "0"
+        ],
+        "gpt-4o-mini": [
+            "0",
+            "2"
+        ],
+        "gpt-5-mini": [
+            "0",
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "zai-org/GLM-4.5-Air": [
+            "0",
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0",
+            "2"
+        ],
+        "meta-llama/Llama-3.2-3B-Instruct": [
+            "0"
+        ],
+        "meta-llama/Llama-3.1-8B-Instruct": [
+            "0"
+        ],
+        "meta-llama/Llama-3.3-70B-Instruct": [
+            "0",
+            "1",
+            "2"
+        ],
+        "mistralai/Mistral-7B-Instruct-v0.3": [
+            "0"
+        ],
+        "mistralai/Mistral-Large-Instruct-2411": [
+            "0"
+        ],
+        "Qwen/Qwen3-8B": [
+            "0"
+        ],
+        "Qwen/Qwen3-30B-A3B-Instruct-2507": [
+            "0",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0",
+            "2"
+        ]
+    },
+    "61": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-4.1-nano": [
+            "2"
+        ],
+        "gpt-4o-mini": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ],
+        "zai-org/GLM-4.5-Air": [
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "2"
+        ],
+        "meta-llama/Llama-3.2-3B-Instruct": [],
+        "meta-llama/Llama-3.1-8B-Instruct": [
+            "2"
+        ],
+        "meta-llama/Llama-3.3-70B-Instruct": [
+            "2"
+        ],
+        "mistralai/Mistral-7B-Instruct-v0.3": [
+            "2"
+        ],
+        "mistralai/Mistral-Large-Instruct-2411": [
+            "2"
+        ],
+        "Qwen/Qwen3-8B": [
+            "2"
+        ],
+        "Qwen/Qwen3-30B-A3B-Instruct-2507": [
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "2"
+        ]
+    },
+    "62": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-4.1-nano": [
+            "1"
+        ],
+        "gpt-4o-mini": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ],
+        "zai-org/GLM-4.5-Air": [
+            "1"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1"
+        ],
+        "meta-llama/Llama-3.2-3B-Instruct": [
+            "1"
+        ],
+        "meta-llama/Llama-3.1-8B-Instruct": [
+            "1"
+        ],
+        "meta-llama/Llama-3.3-70B-Instruct": [
+            "1"
+        ],
+        "mistralai/Mistral-7B-Instruct-v0.3": [
+            "1"
+        ],
+        "mistralai/Mistral-Large-Instruct-2411": [
+            "1"
+        ],
+        "Qwen/Qwen3-8B": [
+            "1"
+        ],
+        "Qwen/Qwen3-30B-A3B-Instruct-2507": [
+            "1"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1"
+        ]
+    },
+    "63": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-4.1-nano": [
+            "0",
+            "2"
+        ],
+        "gpt-4o-mini": [
+            "0",
+            "2"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "zai-org/GLM-4.5-Air": [
+            "0",
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0"
+        ],
+        "meta-llama/Llama-3.2-3B-Instruct": [
+            "0"
+        ],
+        "meta-llama/Llama-3.1-8B-Instruct": [
+            "0",
+            "2"
+        ],
+        "meta-llama/Llama-3.3-70B-Instruct": [
+            "2"
+        ],
+        "mistralai/Mistral-7B-Instruct-v0.3": [
+            "0"
+        ],
+        "mistralai/Mistral-Large-Instruct-2411": [
+            "0",
+            "2"
+        ],
+        "Qwen/Qwen3-8B": [
+            "0",
+            "2"
+        ],
+        "Qwen/Qwen3-30B-A3B-Instruct-2507": [
+            "0",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0",
+            "2"
+        ]
+    },
+    "64": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-4.1-nano": [
+            "0"
+        ],
+        "gpt-4o-mini": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "zai-org/GLM-4.5-Air": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0"
+        ],
+        "meta-llama/Llama-3.2-3B-Instruct": [
+            "0"
+        ],
+        "meta-llama/Llama-3.1-8B-Instruct": [
+            "0"
+        ],
+        "meta-llama/Llama-3.3-70B-Instruct": [
+            "0"
+        ],
+        "mistralai/Mistral-7B-Instruct-v0.3": [
+            "0"
+        ],
+        "mistralai/Mistral-Large-Instruct-2411": [
+            "0"
+        ],
+        "Qwen/Qwen3-8B": [
+            "0"
+        ],
+        "Qwen/Qwen3-30B-A3B-Instruct-2507": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "65": {
+        "ref_ans": [
+            "0",
+            "2"
+        ],
+        "gpt-4.1-nano": [
+            "0",
+            "2"
+        ],
+        "gpt-4o-mini": [
+            "0",
+            "2"
+        ],
+        "gpt-5-mini": [
+            "0",
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "zai-org/GLM-4.5-Air": [
+            "0",
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0",
+            "2"
+        ],
+        "meta-llama/Llama-3.2-3B-Instruct": [
+            "0",
+            "1",
+            "2"
+        ],
+        "meta-llama/Llama-3.1-8B-Instruct": [
+            "0",
+            "2"
+        ],
+        "meta-llama/Llama-3.3-70B-Instruct": [
+            "0",
+            "1"
+        ],
+        "mistralai/Mistral-7B-Instruct-v0.3": [
+            "0"
+        ],
+        "mistralai/Mistral-Large-Instruct-2411": [
+            "0"
+        ],
+        "Qwen/Qwen3-8B": [
+            "0"
+        ],
+        "Qwen/Qwen3-30B-A3B-Instruct-2507": [
+            "0",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0",
+            "2"
+        ]
+    },
+    "66": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-4.1-nano": [
+            "0"
+        ],
+        "gpt-4o-mini": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "zai-org/GLM-4.5-Air": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0"
+        ],
+        "meta-llama/Llama-3.2-3B-Instruct": [],
+        "meta-llama/Llama-3.1-8B-Instruct": [
+            "0"
+        ],
+        "meta-llama/Llama-3.3-70B-Instruct": [
+            "0",
+            "2"
+        ],
+        "mistralai/Mistral-7B-Instruct-v0.3": [
+            "0"
+        ],
+        "mistralai/Mistral-Large-Instruct-2411": [
+            "0"
+        ],
+        "Qwen/Qwen3-8B": [
+            "0"
+        ],
+        "Qwen/Qwen3-30B-A3B-Instruct-2507": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "67": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-4.1-nano": [
+            "2"
+        ],
+        "gpt-4o-mini": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ],
+        "zai-org/GLM-4.5-Air": [
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "2"
+        ],
+        "meta-llama/Llama-3.2-3B-Instruct": [
+            "1"
+        ],
+        "meta-llama/Llama-3.1-8B-Instruct": [
+            "2"
+        ],
+        "meta-llama/Llama-3.3-70B-Instruct": [
+            "2"
+        ],
+        "mistralai/Mistral-7B-Instruct-v0.3": [
+            "2"
+        ],
+        "mistralai/Mistral-Large-Instruct-2411": [
+            "2"
+        ],
+        "Qwen/Qwen3-8B": [
+            "2"
+        ],
+        "Qwen/Qwen3-30B-A3B-Instruct-2507": [
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "2"
+        ]
+    },
+    "68": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-4.1-nano": [
+            "0"
+        ],
+        "gpt-4o-mini": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "zai-org/GLM-4.5-Air": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0"
+        ],
+        "meta-llama/Llama-3.2-3B-Instruct": [
+            "0"
+        ],
+        "meta-llama/Llama-3.1-8B-Instruct": [
+            "0"
+        ],
+        "meta-llama/Llama-3.3-70B-Instruct": [
+            "0"
+        ],
+        "mistralai/Mistral-7B-Instruct-v0.3": [
+            "0"
+        ],
+        "mistralai/Mistral-Large-Instruct-2411": [
+            "0"
+        ],
+        "Qwen/Qwen3-8B": [
+            "0"
+        ],
+        "Qwen/Qwen3-30B-A3B-Instruct-2507": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "69": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-4.1-nano": [
+            "0"
+        ],
+        "gpt-4o-mini": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "zai-org/GLM-4.5-Air": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0"
+        ],
+        "meta-llama/Llama-3.2-3B-Instruct": [
+            "0"
+        ],
+        "meta-llama/Llama-3.1-8B-Instruct": [
+            "0"
+        ],
+        "meta-llama/Llama-3.3-70B-Instruct": [
+            "0"
+        ],
+        "mistralai/Mistral-7B-Instruct-v0.3": [
+            "0"
+        ],
+        "mistralai/Mistral-Large-Instruct-2411": [
+            "0"
+        ],
+        "Qwen/Qwen3-8B": [
+            "0"
+        ],
+        "Qwen/Qwen3-30B-A3B-Instruct-2507": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "70": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-4.1-nano": [],
+        "gpt-4o-mini": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "zai-org/GLM-4.5-Air": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "3",
+            "2"
+        ],
+        "meta-llama/Llama-3.2-3B-Instruct": [],
+        "meta-llama/Llama-3.1-8B-Instruct": [
+            "0"
+        ],
+        "meta-llama/Llama-3.3-70B-Instruct": [
+            "0"
+        ],
+        "mistralai/Mistral-7B-Instruct-v0.3": [
+            "1"
+        ],
+        "mistralai/Mistral-Large-Instruct-2411": [
+            "0"
+        ],
+        "Qwen/Qwen3-8B": [
+            "0"
+        ],
+        "Qwen/Qwen3-30B-A3B-Instruct-2507": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "71": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-4.1-nano": [
+            "1"
+        ],
+        "gpt-4o-mini": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ],
+        "zai-org/GLM-4.5-Air": [
+            "1"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1"
+        ],
+        "meta-llama/Llama-3.2-3B-Instruct": [
+            "1"
+        ],
+        "meta-llama/Llama-3.1-8B-Instruct": [
+            "1"
+        ],
+        "meta-llama/Llama-3.3-70B-Instruct": [
+            "1"
+        ],
+        "mistralai/Mistral-7B-Instruct-v0.3": [
+            "1"
+        ],
+        "mistralai/Mistral-Large-Instruct-2411": [
+            "1"
+        ],
+        "Qwen/Qwen3-8B": [
+            "1"
+        ],
+        "Qwen/Qwen3-30B-A3B-Instruct-2507": [
+            "1"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1"
+        ]
+    },
+    "72": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-4.1-nano": [
+            "2"
+        ],
+        "gpt-4o-mini": [
+            "0",
+            "2"
+        ],
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ],
+        "zai-org/GLM-4.5-Air": [
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "2"
+        ],
+        "meta-llama/Llama-3.2-3B-Instruct": [
+            "2"
+        ],
+        "meta-llama/Llama-3.1-8B-Instruct": [
+            "2"
+        ],
+        "meta-llama/Llama-3.3-70B-Instruct": [
+            "1"
+        ],
+        "mistralai/Mistral-7B-Instruct-v0.3": [
+            "0"
+        ],
+        "mistralai/Mistral-Large-Instruct-2411": [
+            "2"
+        ],
+        "Qwen/Qwen3-8B": [
+            "2"
+        ],
+        "Qwen/Qwen3-30B-A3B-Instruct-2507": [
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "2"
+        ]
+    },
+    "73": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-4.1-nano": [
+            "2"
+        ],
+        "gpt-4o-mini": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ],
+        "zai-org/GLM-4.5-Air": [
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "3",
+            "2"
+        ],
+        "meta-llama/Llama-3.2-3B-Instruct": [
+            "0",
+            "1",
+            "2"
+        ],
+        "meta-llama/Llama-3.1-8B-Instruct": [
+            "2"
+        ],
+        "meta-llama/Llama-3.3-70B-Instruct": [
+            "2"
+        ],
+        "mistralai/Mistral-7B-Instruct-v0.3": [
+            "0"
+        ],
+        "mistralai/Mistral-Large-Instruct-2411": [
+            "2"
+        ],
+        "Qwen/Qwen3-8B": [
+            "2"
+        ],
+        "Qwen/Qwen3-30B-A3B-Instruct-2507": [
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "2"
+        ]
+    },
+    "74": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-4.1-nano": [
+            "1"
+        ],
+        "gpt-4o-mini": [
+            "1",
+            "2"
+        ],
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ],
+        "zai-org/GLM-4.5-Air": [
+            "1"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "2"
+        ],
+        "meta-llama/Llama-3.2-3B-Instruct": [
+            "1",
+            "2"
+        ],
+        "meta-llama/Llama-3.1-8B-Instruct": [
+            "1"
+        ],
+        "meta-llama/Llama-3.3-70B-Instruct": [
+            "1"
+        ],
+        "mistralai/Mistral-7B-Instruct-v0.3": [
+            "0"
+        ],
+        "mistralai/Mistral-Large-Instruct-2411": [
+            "0",
+            "1",
+            "2"
+        ],
+        "Qwen/Qwen3-8B": [
+            "1"
+        ],
+        "Qwen/Qwen3-30B-A3B-Instruct-2507": [
+            "1"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1"
+        ]
+    },
+    "75": {
+        "ref_ans": [
+            "3",
+            "2"
+        ],
+        "gpt-4.1-nano": [
+            "2"
+        ],
+        "gpt-4o-mini": [
+            "3",
+            "2"
+        ],
+        "gpt-5-mini": [
+            "3",
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ],
+        "zai-org/GLM-4.5-Air": [
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "2"
+        ],
+        "meta-llama/Llama-3.2-3B-Instruct": [
+            "3",
+            "2"
+        ],
+        "meta-llama/Llama-3.1-8B-Instruct": [
+            "2"
+        ],
+        "meta-llama/Llama-3.3-70B-Instruct": [
+            "2"
+        ],
+        "mistralai/Mistral-7B-Instruct-v0.3": [
+            "3"
+        ],
+        "mistralai/Mistral-Large-Instruct-2411": [
+            "2"
+        ],
+        "Qwen/Qwen3-8B": [
+            "3",
+            "2"
+        ],
+        "Qwen/Qwen3-30B-A3B-Instruct-2507": [
+            "3"
+        ],
+        "Qwen/Qwen3-32B": [
+            "2"
+        ]
+    },
+    "76": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-4.1-nano": [
+            "2"
+        ],
+        "gpt-4o-mini": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ],
+        "zai-org/GLM-4.5-Air": [
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "2"
+        ],
+        "meta-llama/Llama-3.2-3B-Instruct": [
+            "1"
+        ],
+        "meta-llama/Llama-3.1-8B-Instruct": [
+            "2"
+        ],
+        "meta-llama/Llama-3.3-70B-Instruct": [
+            "1"
+        ],
+        "mistralai/Mistral-7B-Instruct-v0.3": [
+            "1"
+        ],
+        "mistralai/Mistral-Large-Instruct-2411": [
+            "2"
+        ],
+        "Qwen/Qwen3-8B": [
+            "1",
+            "2"
+        ],
+        "Qwen/Qwen3-30B-A3B-Instruct-2507": [
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "2"
+        ]
+    },
+    "77": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-4.1-nano": [
+            "1"
+        ],
+        "gpt-4o-mini": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ],
+        "zai-org/GLM-4.5-Air": [
+            "1"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "2"
+        ],
+        "meta-llama/Llama-3.2-3B-Instruct": [
+            "1",
+            "2"
+        ],
+        "meta-llama/Llama-3.1-8B-Instruct": [
+            "1"
+        ],
+        "meta-llama/Llama-3.3-70B-Instruct": [
+            "1"
+        ],
+        "mistralai/Mistral-7B-Instruct-v0.3": [
+            "1"
+        ],
+        "mistralai/Mistral-Large-Instruct-2411": [
+            "1"
+        ],
+        "Qwen/Qwen3-8B": [
+            "1"
+        ],
+        "Qwen/Qwen3-30B-A3B-Instruct-2507": [
+            "1"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1"
+        ]
+    },
+    "78": {
+        "ref_ans": [
+            "0",
+            "2"
+        ],
+        "gpt-4.1-nano": [
+            "0",
+            "2"
+        ],
+        "gpt-4o-mini": [
+            "0",
+            "3",
+            "2"
+        ],
+        "gpt-5-mini": [
+            "0",
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "0",
+            "2"
+        ],
+        "zai-org/GLM-4.5-Air": [
+            "0",
+            "3",
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0",
+            "1",
+            "2"
+        ],
+        "meta-llama/Llama-3.2-3B-Instruct": [
+            "0",
+            "1",
+            "2"
+        ],
+        "meta-llama/Llama-3.1-8B-Instruct": [
+            "0",
+            "3",
+            "2"
+        ],
+        "meta-llama/Llama-3.3-70B-Instruct": [
+            "0",
+            "1",
+            "2"
+        ],
+        "mistralai/Mistral-7B-Instruct-v0.3": [
+            "0"
+        ],
+        "mistralai/Mistral-Large-Instruct-2411": [
+            "0",
+            "2"
+        ],
+        "Qwen/Qwen3-8B": [
+            "0",
+            "3",
+            "2"
+        ],
+        "Qwen/Qwen3-30B-A3B-Instruct-2507": [
+            "0",
+            "3",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0",
+            "3",
+            "2"
+        ]
+    },
+    "79": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-4.1-nano": [
+            "0"
+        ],
+        "gpt-4o-mini": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "zai-org/GLM-4.5-Air": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0"
+        ],
+        "meta-llama/Llama-3.2-3B-Instruct": [
+            "0",
+            "1"
+        ],
+        "meta-llama/Llama-3.1-8B-Instruct": [
+            "0"
+        ],
+        "meta-llama/Llama-3.3-70B-Instruct": [
+            "0"
+        ],
+        "mistralai/Mistral-7B-Instruct-v0.3": [
+            "0"
+        ],
+        "mistralai/Mistral-Large-Instruct-2411": [
+            "0"
+        ],
+        "Qwen/Qwen3-8B": [
+            "0"
+        ],
+        "Qwen/Qwen3-30B-A3B-Instruct-2507": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "80": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-4.1-nano": [
+            "1"
+        ],
+        "gpt-4o-mini": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "zai-org/GLM-4.5-Air": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0"
+        ],
+        "meta-llama/Llama-3.2-3B-Instruct": [
+            "0"
+        ],
+        "meta-llama/Llama-3.1-8B-Instruct": [
+            "0"
+        ],
+        "meta-llama/Llama-3.3-70B-Instruct": [
+            "0"
+        ],
+        "mistralai/Mistral-7B-Instruct-v0.3": [
+            "0"
+        ],
+        "mistralai/Mistral-Large-Instruct-2411": [
+            "0"
+        ],
+        "Qwen/Qwen3-8B": [
+            "0"
+        ],
+        "Qwen/Qwen3-30B-A3B-Instruct-2507": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "81": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-4.1-nano": [
+            "0",
+            "1"
+        ],
+        "gpt-4o-mini": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0",
+            "1"
+        ],
+        "zai-org/GLM-4.5-Air": [
+            "0",
+            "1"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0",
+            "1"
+        ],
+        "meta-llama/Llama-3.2-3B-Instruct": [
+            "0"
+        ],
+        "meta-llama/Llama-3.1-8B-Instruct": [
+            "0"
+        ],
+        "meta-llama/Llama-3.3-70B-Instruct": [
+            "0",
+            "1"
+        ],
+        "mistralai/Mistral-7B-Instruct-v0.3": [
+            "0"
+        ],
+        "mistralai/Mistral-Large-Instruct-2411": [
+            "0"
+        ],
+        "Qwen/Qwen3-8B": [
+            "0",
+            "1"
+        ],
+        "Qwen/Qwen3-30B-A3B-Instruct-2507": [
+            "0",
+            "1"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0",
+            "1"
+        ]
+    },
+    "82": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-4.1-nano": [
+            "1"
+        ],
+        "gpt-4o-mini": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ],
+        "zai-org/GLM-4.5-Air": [
+            "1"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1"
+        ],
+        "meta-llama/Llama-3.2-3B-Instruct": [
+            "1"
+        ],
+        "meta-llama/Llama-3.1-8B-Instruct": [
+            "1"
+        ],
+        "meta-llama/Llama-3.3-70B-Instruct": [
+            "1"
+        ],
+        "mistralai/Mistral-7B-Instruct-v0.3": [
+            "1"
+        ],
+        "mistralai/Mistral-Large-Instruct-2411": [
+            "1"
+        ],
+        "Qwen/Qwen3-8B": [
+            "1"
+        ],
+        "Qwen/Qwen3-30B-A3B-Instruct-2507": [
+            "1"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1"
+        ]
+    },
+    "83": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-4.1-nano": [
+            "1"
+        ],
+        "gpt-4o-mini": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ],
+        "zai-org/GLM-4.5-Air": [
+            "1"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1"
+        ],
+        "meta-llama/Llama-3.2-3B-Instruct": [
+            "1",
+            "2"
+        ],
+        "meta-llama/Llama-3.1-8B-Instruct": [
+            "1"
+        ],
+        "meta-llama/Llama-3.3-70B-Instruct": [
+            "1"
+        ],
+        "mistralai/Mistral-7B-Instruct-v0.3": [
+            "1"
+        ],
+        "mistralai/Mistral-Large-Instruct-2411": [
+            "1"
+        ],
+        "Qwen/Qwen3-8B": [
+            "1"
+        ],
+        "Qwen/Qwen3-30B-A3B-Instruct-2507": [
+            "1"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1"
+        ]
+    },
+    "84": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-4.1-nano": [
+            "0",
+            "2"
+        ],
+        "gpt-4o-mini": [
+            "0",
+            "1",
+            "2"
+        ],
+        "gpt-5-mini": [
+            "0",
+            "1",
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "0",
+            "1",
+            "2"
+        ],
+        "zai-org/GLM-4.5-Air": [
+            "0",
+            "1",
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0",
+            "1",
+            "2"
+        ],
+        "meta-llama/Llama-3.2-3B-Instruct": [
+            "1"
+        ],
+        "meta-llama/Llama-3.1-8B-Instruct": [
+            "0",
+            "1",
+            "2"
+        ],
+        "meta-llama/Llama-3.3-70B-Instruct": [
+            "0",
+            "1",
+            "2"
+        ],
+        "mistralai/Mistral-7B-Instruct-v0.3": [
+            "0"
+        ],
+        "mistralai/Mistral-Large-Instruct-2411": [
+            "0",
+            "1",
+            "2"
+        ],
+        "Qwen/Qwen3-8B": [
+            "0",
+            "1",
+            "2"
+        ],
+        "Qwen/Qwen3-30B-A3B-Instruct-2507": [
+            "0",
+            "1",
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0",
+            "1",
+            "2"
+        ]
+    },
+    "85": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-4.1-nano": [
+            "1"
+        ],
+        "gpt-4o-mini": [
+            "0",
+            "1"
+        ],
+        "gpt-5-mini": [
+            "0",
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "0",
+            "1"
+        ],
+        "zai-org/GLM-4.5-Air": [
+            "0",
+            "1"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1"
+        ],
+        "meta-llama/Llama-3.2-3B-Instruct": [
+            "0",
+            "1"
+        ],
+        "meta-llama/Llama-3.1-8B-Instruct": [
+            "0",
+            "1"
+        ],
+        "meta-llama/Llama-3.3-70B-Instruct": [
+            "0",
+            "1"
+        ],
+        "mistralai/Mistral-7B-Instruct-v0.3": [
+            "0"
+        ],
+        "mistralai/Mistral-Large-Instruct-2411": [
+            "0",
+            "1"
+        ],
+        "Qwen/Qwen3-8B": [
+            "0",
+            "1"
+        ],
+        "Qwen/Qwen3-30B-A3B-Instruct-2507": [
+            "0",
+            "1"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0",
+            "1"
+        ]
+    },
+    "86": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-4.1-nano": [
+            "1"
+        ],
+        "gpt-4o-mini": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ],
+        "zai-org/GLM-4.5-Air": [
+            "1"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1"
+        ],
+        "meta-llama/Llama-3.2-3B-Instruct": [
+            "1",
+            "2"
+        ],
+        "meta-llama/Llama-3.1-8B-Instruct": [
+            "1"
+        ],
+        "meta-llama/Llama-3.3-70B-Instruct": [
+            "1"
+        ],
+        "mistralai/Mistral-7B-Instruct-v0.3": [
+            "1"
+        ],
+        "mistralai/Mistral-Large-Instruct-2411": [
+            "1"
+        ],
+        "Qwen/Qwen3-8B": [
+            "1"
+        ],
+        "Qwen/Qwen3-30B-A3B-Instruct-2507": [
+            "1"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1"
+        ]
+    },
+    "87": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-4.1-nano": [
+            "1"
+        ],
+        "gpt-4o-mini": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ],
+        "zai-org/GLM-4.5-Air": [
+            "1"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1"
+        ],
+        "meta-llama/Llama-3.2-3B-Instruct": [
+            "1"
+        ],
+        "meta-llama/Llama-3.1-8B-Instruct": [
+            "1"
+        ],
+        "meta-llama/Llama-3.3-70B-Instruct": [
+            "1"
+        ],
+        "mistralai/Mistral-7B-Instruct-v0.3": [
+            "1"
+        ],
+        "mistralai/Mistral-Large-Instruct-2411": [
+            "1"
+        ],
+        "Qwen/Qwen3-8B": [
+            "1"
+        ],
+        "Qwen/Qwen3-30B-A3B-Instruct-2507": [
+            "1"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1"
+        ]
+    },
+    "88": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-4.1-nano": [
+            "1"
+        ],
+        "gpt-4o-mini": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ],
+        "zai-org/GLM-4.5-Air": [
+            "1"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1"
+        ],
+        "meta-llama/Llama-3.2-3B-Instruct": [],
+        "meta-llama/Llama-3.1-8B-Instruct": [
+            "1"
+        ],
+        "meta-llama/Llama-3.3-70B-Instruct": [
+            "1"
+        ],
+        "mistralai/Mistral-7B-Instruct-v0.3": [
+            "0"
+        ],
+        "mistralai/Mistral-Large-Instruct-2411": [
+            "1"
+        ],
+        "Qwen/Qwen3-8B": [
+            "1"
+        ],
+        "Qwen/Qwen3-30B-A3B-Instruct-2507": [
+            "1"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1"
+        ]
+    },
+    "89": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-4.1-nano": [
+            "0"
+        ],
+        "gpt-4o-mini": [
+            "0",
+            "1"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "zai-org/GLM-4.5-Air": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1"
+        ],
+        "meta-llama/Llama-3.2-3B-Instruct": [
+            "0"
+        ],
+        "meta-llama/Llama-3.1-8B-Instruct": [
+            "0"
+        ],
+        "meta-llama/Llama-3.3-70B-Instruct": [
+            "0"
+        ],
+        "mistralai/Mistral-7B-Instruct-v0.3": [
+            "0"
+        ],
+        "mistralai/Mistral-Large-Instruct-2411": [
+            "0",
+            "1"
+        ],
+        "Qwen/Qwen3-8B": [
+            "0"
+        ],
+        "Qwen/Qwen3-30B-A3B-Instruct-2507": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0",
+            "1"
+        ]
+    },
+    "90": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-4.1-nano": [
+            "1"
+        ],
+        "gpt-4o-mini": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ],
+        "zai-org/GLM-4.5-Air": [
+            "1"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1"
+        ],
+        "meta-llama/Llama-3.2-3B-Instruct": [
+            "1"
+        ],
+        "meta-llama/Llama-3.1-8B-Instruct": [
+            "1"
+        ],
+        "meta-llama/Llama-3.3-70B-Instruct": [
+            "1"
+        ],
+        "mistralai/Mistral-7B-Instruct-v0.3": [
+            "1"
+        ],
+        "mistralai/Mistral-Large-Instruct-2411": [
+            "1"
+        ],
+        "Qwen/Qwen3-8B": [
+            "1"
+        ],
+        "Qwen/Qwen3-30B-A3B-Instruct-2507": [
+            "1"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1"
+        ]
+    },
+    "91": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-4.1-nano": [
+            "0"
+        ],
+        "gpt-4o-mini": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "zai-org/GLM-4.5-Air": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0",
+            "1"
+        ],
+        "meta-llama/Llama-3.2-3B-Instruct": [
+            "0"
+        ],
+        "meta-llama/Llama-3.1-8B-Instruct": [
+            "0"
+        ],
+        "meta-llama/Llama-3.3-70B-Instruct": [
+            "0"
+        ],
+        "mistralai/Mistral-7B-Instruct-v0.3": [
+            "0"
+        ],
+        "mistralai/Mistral-Large-Instruct-2411": [
+            "0"
+        ],
+        "Qwen/Qwen3-8B": [
+            "0"
+        ],
+        "Qwen/Qwen3-30B-A3B-Instruct-2507": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    },
+    "92": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-4.1-nano": [
+            "2"
+        ],
+        "gpt-4o-mini": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ],
+        "zai-org/GLM-4.5-Air": [
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "2"
+        ],
+        "meta-llama/Llama-3.2-3B-Instruct": [
+            "2"
+        ],
+        "meta-llama/Llama-3.1-8B-Instruct": [
+            "2"
+        ],
+        "meta-llama/Llama-3.3-70B-Instruct": [
+            "2"
+        ],
+        "mistralai/Mistral-7B-Instruct-v0.3": [
+            "2"
+        ],
+        "mistralai/Mistral-Large-Instruct-2411": [
+            "2"
+        ],
+        "Qwen/Qwen3-8B": [
+            "2"
+        ],
+        "Qwen/Qwen3-30B-A3B-Instruct-2507": [
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "2"
+        ]
+    },
+    "93": {
+        "ref_ans": [
+            "2"
+        ],
+        "gpt-4.1-nano": [],
+        "gpt-4o-mini": [
+            "2"
+        ],
+        "gpt-5-mini": [
+            "2"
+        ],
+        "deepseek-reasoner": [
+            "2"
+        ],
+        "zai-org/GLM-4.5-Air": [
+            "2"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "2"
+        ],
+        "meta-llama/Llama-3.2-3B-Instruct": [
+            "2"
+        ],
+        "meta-llama/Llama-3.1-8B-Instruct": [
+            "2"
+        ],
+        "meta-llama/Llama-3.3-70B-Instruct": [
+            "1"
+        ],
+        "mistralai/Mistral-7B-Instruct-v0.3": [
+            "2"
+        ],
+        "mistralai/Mistral-Large-Instruct-2411": [
+            "2"
+        ],
+        "Qwen/Qwen3-8B": [
+            "2"
+        ],
+        "Qwen/Qwen3-30B-A3B-Instruct-2507": [
+            "2"
+        ],
+        "Qwen/Qwen3-32B": [
+            "2"
+        ]
+    },
+    "94": {
+        "ref_ans": [
+            "1"
+        ],
+        "gpt-4.1-nano": [
+            "1"
+        ],
+        "gpt-4o-mini": [
+            "1"
+        ],
+        "gpt-5-mini": [
+            "1"
+        ],
+        "deepseek-reasoner": [
+            "1"
+        ],
+        "zai-org/GLM-4.5-Air": [
+            "1"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "1",
+            "2"
+        ],
+        "meta-llama/Llama-3.2-3B-Instruct": [
+            "1"
+        ],
+        "meta-llama/Llama-3.1-8B-Instruct": [
+            "1"
+        ],
+        "meta-llama/Llama-3.3-70B-Instruct": [
+            "1"
+        ],
+        "mistralai/Mistral-7B-Instruct-v0.3": [
+            "1"
+        ],
+        "mistralai/Mistral-Large-Instruct-2411": [
+            "1"
+        ],
+        "Qwen/Qwen3-8B": [
+            "1"
+        ],
+        "Qwen/Qwen3-30B-A3B-Instruct-2507": [
+            "1"
+        ],
+        "Qwen/Qwen3-32B": [
+            "1"
+        ]
+    },
+    "95": {
+        "ref_ans": [
+            "0"
+        ],
+        "gpt-4.1-nano": [
+            "0"
+        ],
+        "gpt-4o-mini": [
+            "0"
+        ],
+        "gpt-5-mini": [
+            "0"
+        ],
+        "deepseek-reasoner": [
+            "0"
+        ],
+        "zai-org/GLM-4.5-Air": [
+            "0"
+        ],
+        "microsoft/Phi-4-mini-instruct": [
+            "0"
+        ],
+        "meta-llama/Llama-3.2-3B-Instruct": [],
+        "meta-llama/Llama-3.1-8B-Instruct": [
+            "0"
+        ],
+        "meta-llama/Llama-3.3-70B-Instruct": [
+            "0"
+        ],
+        "mistralai/Mistral-7B-Instruct-v0.3": [
+            "0"
+        ],
+        "mistralai/Mistral-Large-Instruct-2411": [
+            "0"
+        ],
+        "Qwen/Qwen3-8B": [
+            "0"
+        ],
+        "Qwen/Qwen3-30B-A3B-Instruct-2507": [
+            "0"
+        ],
+        "Qwen/Qwen3-32B": [
+            "0"
+        ]
+    }
+}

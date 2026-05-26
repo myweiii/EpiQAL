@@ -1,0 +1,31 @@
+{
+    "Title": "Heterogeneity in the association between retirement and cognitive function: a machine learning analysis across 19 countries",
+    "URL": "https://academic.oup.com/ije/article/54/6/dyaf201/8341155",
+    "DOI": "10.1093/ije/dyaf201",
+    "PMID": "41283783",
+    "Published": "2025/10/14",
+    "Volume": "54",
+    "Issue": "6",
+    "Journal": "International Journal of Epidemiology",
+    "Keywords": [
+        "retirement",
+        "state pension age",
+        "episodic memory",
+        "causal forests",
+        "instrumental variable"
+    ],
+    "Authors": {
+        "Sato, Koryu": [
+            "Faculty of Policy Management, Keio University, Kanagawa, Japan",
+            "Graduate School of Economics, Waseda University, Tokyo, Japan",
+            "Department of Social Epidemiology, Graduate School of Medicine and School of Public Health, Kyoto University, Kyoto, Japan"
+        ],
+        "Noguchi, Haruko": [
+            "Graduate School of Economics, Waseda University, Tokyo, Japan"
+        ],
+        "Inoue, Kosuke": [
+            "Department of Health Promotion and Behavioral Sciences, Graduate School of Medicine and School of Public Health, Kyoto University, Kyoto, Japan"
+        ]
+    },
+    "PDF_URL": "https://academic.oup.com/ije/article-pdf/54/6/dyaf201/65490334/dyaf201.pdf"
+}

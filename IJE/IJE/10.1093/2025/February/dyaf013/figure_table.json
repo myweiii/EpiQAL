@@ -1,0 +1,22 @@
+{
+    "Table 1.": [
+        "Summaries of population-level cardiovascular risk factors from the YKHC community-based research and NHANES III.",
+        ""
+    ],
+    "Table 2.": [
+        "Steps to clean EHRs or other large, longitudinal biomedical datasets by using a phenomenological approach.",
+        ""
+    ],
+    "Table 3.": [
+        "Comparison of mean, SD, range, and number of observations for HDL-C, height, and weight when using different data-filtering approaches.",
+        ""
+    ],
+    "Figure 1.": [
+        "Simulation results to determine how many observations are necessary among each participant to accurately detect an outlier using a Z-score of 3 as a cut-off point. From a normal distribution, we selected a random number of points, starting with 2 points, through 20 points along that distribution. Then, for standard deviations (SDs) of 3–7, we modelled an outlier that was far outside of the SD of the normally distributed observations. We then calculated the Z-score of that outlier with respect to it and its companion normally distributed observations. We performed each simulation 100 times based on a random selection of the normally distributed observations. This figure shows the Z-score for an outlier at the following SD from the others: 3, 4, 5, 6, and 7 to show where the Z-score crosses the threshold of 3, where we would detect it. For an observation at exactly 3 SD from the others, 20 observations are needed. However, for an observation that is 5 SD from the others, only 12 are needed. This figure is a conservative presentation based on values selected from a normal distribution; in reality, most of the values in the EHR are more tightly clustered and thus fewer observations would be needed to detect an outlier. For example, in our study, the average Z-score of the observations excluded was 3.60 above the mean and –3.48 below the mean. The average number of observations for an individual with excluded observations was 214.85 (range: 19–1488).",
+        "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/ije/54/2/10.1093_ije_dyaf013/3/m_dyaf013f1.jpeg?Expires=1779317998&Signature=Nlf7mtaOdznBEk~-~4O0Pm~9bQxSaWSSYMrNZH-MGE0lCWWMRBj4Z4hva-oqUSMICsc9jgeSlsShDmt1KQq-dbmVT1hge6~jFM0gFwbtlW2vavijsJS50Jc-5b8a51J48vafacnh7DofbAVmPviACLPX7I1jg4RNNQbxb4~7~Zz3qLV6BgDQExMUbqkc-kYw84UVpspsXLsb5OkFbIQ8-deq8mYjUbyzVJU2U8t8HhzwXsy1fDXeo7Ltba4I5ki51H89q6c60iEbKDNQa9qnTIhhPXuxVd3MKrOgbmbBq88OFUK630SlWgTKCWnh8IS8TVBL6tTEKMsGLRJGUHraeQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ],
+    "Table 4.": [
+        "Results from linear mixed models evaluating the difference in the rate of change in BMI, HDL-C, SBP, and DBP between men and women, adjusting for age at visit, tobacco use, and community of residence",
+        ""
+    ]
+}

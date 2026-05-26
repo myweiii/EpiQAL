@@ -1,0 +1,22 @@
+{
+    "Table 1.": [
+        "Nuclear installations in Great Britain included in this study, grouped with reference to COMARE reports [ 18 , 26 ]",
+        ""
+    ],
+    "Figure 1.": [
+        "Map of nuclear installations regulated by Office for Nuclear Regulation (Group I in yellow; Group II in orange; Group III in purple, and Group IV in blue, see Table 1 ). The 25-km buffer around an installation’s geometric centroid is shown with the solid line, and MSOAs/IZs with a population-weighted centroid within at least one of these buffer zones are shaded.",
+        "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/ije/54/4/10.1093_ije_dyaf107/1/m_dyaf107f1.jpeg?Expires=1779281653&Signature=hev-biUd1O9BSvbQSu410wBOHqwtB437yfuN1rI2l4GKarrjPblm3UuVKF~3XB90y11oh1knJLlKiFolj~hCs8DdnM6e3rTQ3J5ReET8TYjR03RmMLsMWX1~DYDzll1VnrfybxS6xJ5a5DJnM9RNC9VTaaymN3CJC-jInxGM3JgSzF7jpVIMv7uShtT-xFIthRkVO0lzLJQKYndakK5b4C3WV-Vz3fdDNxJlSTyj1x7HM3UMRCou-F-xbQqvl8cIJkEWR1EsFuuC8CEDKfeNu8QBbpBim0VV66QvpftzBTnmtjg0HuiqUiC3zB3rR3WaZ51eQB0wnCIuKlkK4x0~CA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ],
+    "Table 2.": [
+        "Comparison of the demographic and socio-economic characteristics of total annual populations (i.e. person-years at risk allowing for births, migration, and deaths) at ages 0–14 years across the study period (1995–2016), for those living within the study area (within 25 km of a nuclear installation) and in Great Britain",
+        ""
+    ],
+    "Table 3.": [
+        "Observed (Obs.) and expected (Exp.) cases and standardized incidence ratio (SIR) with 95% CI for LNHL, CNS tumours, and all solid tumours for nuclear power plants (Group I), other nuclear installations (Group II), the subset of six major installations in Group II (Group II major), Dounreay (Group III), Sellafield (Group IV), 1995–2016",
+        ""
+    ],
+    "Figure 2.": [
+        "aIRR with 95% confidence intervals by categorical distance between the community population-weighted centroid and the geometric centroid of the nearest nuclear installation by cancer type for Group I and Group II in Great Britain (1995–2016). Data for Groups III and IV are not presented. The model was adjusted for age, sex, rural/urban classification, population density, deprivation (Carstairs), and region. The distance categories are as follows: (i) top panels: distance bands (5-, 10-, and 15-km cut-offs); (ii) bottom panels: 25% of communities (11.5-, 16.7-, and 20.6-km cut-offs).",
+        "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/ije/54/4/10.1093_ije_dyaf107/1/m_dyaf107f2.jpeg?Expires=1779281653&Signature=qIi2n5BTmDhb59mPop~rXrlFz4wOIPCPkeBh-zlWz-lgeudxkPbudnVW5Pvou6uCg3qFrTSBlJPMZjiWhCr1Gx-GSDyT~Km16m3RrBUs0Ifm1SikcFWxjI~mUJjlcO5tfTdFmNrlk5YRUwhO46YfpPhXNoJ6xk2mwABKH5KE8irdoR0OT6JGv6FYp6DD0RGpnO8AgNr6mfituChC-64G9SLDvwai6BF4VrJA5sSc1EzDdFDQXtNc7YxJMdMG-XEoxW1j1sMBSW46mN7R5L1IL~ZFtWK7r6BfYIfj4h4xS4vYcViR~VIqsfzdFy90wzgJ8Kwa4gF8wBTanhAacJEbTA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+}
